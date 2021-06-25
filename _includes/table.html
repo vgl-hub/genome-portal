@@ -83,6 +83,7 @@
                 {% assign yellow = yellow | times:100 | divided_by: length %}
                 <div class="progress-bar bg-success {{ style }}" role="progressbar" style="width: {{ green }}%" aria-valuenow="{{ green }}" aria-valuemin="0" aria-valuemax="100">{{ tag1 }}</div>
                 <div class="progress-bar bg-warning {{ style }}" role="progressbar" style="width: {{ yellow }}%" aria-valuenow="{{ yellow }}" aria-valuemin="0" aria-valuemax="100">{{ tag2 }}</div>
+               <span class="sr-only">{% green | plus: yellow %}</span>
                </div>
           </td>
           <td>{{ green | plus:yellow }}%</td>
@@ -110,7 +111,11 @@
 $(document).ready(function() {
     $('#example2').DataTable({
                              "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
-                             "pageLength": 50
+                             "pageLength": 50,
+                                         "columnDefs": [{
+        "targets": [6],
+        "type": "num-html"
+    }]
                              });
 } );
 </script>
