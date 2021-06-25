@@ -34,8 +34,8 @@
           <td><i>{{ entry.scientific }}</i></td>
           <td>{{ entry.common }}</td>
           <td style="width: 33%;">
-                <div class="progress" style="margin-bottom:0px;" title="10% Complete" data-placement="top" data-toggle="popover" data-trigger="hover" data-html="true" data-content="Some data here...">
-                {% assign length = entry.total | size | times: 2 %}
+                <div class="progress">
+                 {% assign length = entry.total | size | times: 2 %}
                 {% assign total = 0 %}
                 {% assign green = 0 %}
                 {% assign yellow = 0 %}
@@ -110,10 +110,7 @@
 $(document).ready(function() {
     $('#example2').DataTable({
                              "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
-                             "pageLength": 50,
-                                         "columnDefs": [{
-        "targets": [5],
-        "type": "num-html"
+                             "pageLength": 50
     }]
                              });
 } );
