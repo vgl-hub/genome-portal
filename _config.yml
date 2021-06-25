@@ -1,5 +1,6 @@
 
-theme: jekyll-theme-slate
+theme:
+  jekyll-theme-slate
 
 sass:
   sass_dir: assets/css
@@ -17,6 +18,3 @@ author: name
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 google_analytics: UA-111111111-1
-twitter:
-  username: 
-  card: summary #keep this to generate a twitter share card
