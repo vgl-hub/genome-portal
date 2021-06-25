@@ -1,0 +1,1379 @@
+toc:
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: mKogBre1
+  classes: mammals,Mammalia
+  common: pygmy sperm whale
+  data: ''
+  draft: none
+  final: none
+  scientific: Kogia breviceps
+  url: s3://genomeark/species/Trogon_surrucura/bTroSur1/assembly_curated/bTroSur1.pri.cur.20210525.fasta.gz
+- 10X: none
+  BN: done
+  HiC: done2
+  Ill: none
+  PB: pending
+  VGPId: mMesDen1
+  classes: mammals,Mammalia
+  common: Blainville's beaked whale
+  data: ''
+  draft: none
+  final: none
+  scientific: Mesoplodon densirostris
+  url: s3://genomeark/species/Trogon_surrucura/bTroSur1/assembly_curated/bTroSur1.pri.cur.20210525.fasta.gz
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: mPseCra1
+  classes: mammals,Mammalia
+  common: false killer whale
+  data: ''
+  draft: none
+  final: none
+  scientific: Pseudorca crassidens
+  url: s3://genomeark/species/Trogon_surrucura/bTroSur1/assembly_curated/bTroSur1.pri.cur.20210525.fasta.gz
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: rEulEur1
+  classes: reptiles,Reptilia
+  common: tarantolino
+  data: ''
+  draft: none
+  final: none
+  scientific: Euleptes europaea
+  url: s3://genomeark/species/Trogon_surrucura/bTroSur1/assembly_curated/bTroSur1.pri.cur.20210525.fasta.gz
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: fFunDia1
+  classes: Bony fishes,Osteichthyes
+  common: banded killifish
+  data: ''
+  draft: none
+  final: none
+  scientific: Fundulus diaphanus
+  url: s3://genomeark/species/Trogon_surrucura/bTroSur1/assembly_curated/bTroSur1.pri.cur.20210525.fasta.gz
+- 10X: none
+  BN: failed
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: fCypLut1
+  classes: Bony fishes,Osteichthyes
+  common: red shiner
+  data: ''
+  draft: none
+  final: none
+  scientific: Cyprinella lutrensis
+  url: s3://genomeark/species/Trogon_surrucura/bTroSur1/assembly_curated/bTroSur1.pri.cur.20210525.fasta.gz
+- 10X: none
+  BN: failed
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: mEreDor1
+  classes: mammals,Mammalia
+  common: North American porcupine
+  data: pending
+  draft: none
+  final: none
+  scientific: Erethizon dorsatum
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: mOchPri1
+  classes: mammals,Mammalia
+  common: southern American pika
+  data: ''
+  draft: none
+  final: none
+  scientific: Ochotona princeps
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: rEryReg1
+  classes: reptiles,Reptilia
+  common: royal ground snake
+  data: ''
+  draft: none
+  final: none
+  scientific: Erythrolamprus reginae
+  url: NA
+- 10X: none
+  BN: none
+  HiC: none
+  Ill: none
+  PB: none
+  VGPId: sHypSab1
+  classes: cartilaginous fishes,Chondrichthyes
+  common: Atlantic stingray
+  data: ''
+  draft: none
+  final: none
+  scientific: Hypanus sabinus
+  url: NA
+- 10X: none
+  BN: none
+  HiC: none
+  Ill: none
+  PB: none
+  VGPId: bChaScl1
+  classes: birds,aves
+  common: Kaua'i 'elepaio
+  data: ''
+  draft: none
+  final: none
+  scientific: Chasiempis sclateri
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: bPodTaw1
+  classes: birds,aves
+  common: tawny frogmouth
+  data: ''
+  draft: none
+  final: none
+  scientific: Podargus strigoides
+  url: NA
+- 10X: none
+  BN: none
+  HiC: none
+  Ill: none
+  PB: none
+  VGPId: sNarBan1
+  classes: cartilaginous fishes,Chondrichthyes
+  common: Brazilian electric ray
+  data: ''
+  draft: none
+  final: none
+  scientific: Narcine bancroftii
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: none
+  Ill: none
+  PB: none
+  VGPId: sHepPer1
+  classes: cartilaginous fishes,Chondrichthyes
+  common: Sharpnose sevengill shark
+  data: ''
+  draft: none
+  final: none
+  scientific: Heptranchias perlo
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: mManPen7
+  classes: mammals,Mammalia
+  common: Chinese pangolin
+  data: pending
+  draft: none
+  final: none
+  scientific: Manis pentadactyla
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: mUroPar1
+  classes: mammals,Mammalia
+  common: Arctic ground squirrel
+  data: ''
+  draft: none
+  final: none
+  scientific: Urocitellus parryii
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: iSacKow2
+  classes: invertebrates
+  common: Acorn worm
+  data: ''
+  draft: none
+  final: none
+  scientific: Saccoglossus kowalevskii
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: sEchBru1
+  classes: cartilaginous fishes,Chondrichthyes
+  common: Bramble shark
+  data: ''
+  draft: none
+  final: none
+  scientific: Echinorhinus brucus
+  url: NA
+- 10X: none
+  BN: none
+  HiC: none
+  Ill: none
+  PB: none
+  VGPId: bAraAra1
+  classes: birds,aves
+  common: Blue and Gold Macaw
+  data: ''
+  draft: none
+  final: none
+  scientific: Ara ararauna
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: mSaiSci1
+  classes: mammals,Mammalia
+  common: common squirrel monkey
+  data: ''
+  draft: none
+  final: none
+  scientific: Saimiri sciureus
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: fAciNac1
+  classes: Bony fishes,Osteichthyes
+  common: Riggenbach's reed frog
+  data: ''
+  draft: none
+  final: none
+  scientific: Acipenser naccarii
+  url: NA
+- 10X: none
+  BN: none
+  HiC: none
+  Ill: none
+  PB: pending
+  VGPId: bTodCin1
+  classes: birds,aves
+  common: Common tody flycatcher
+  data: ''
+  draft: none
+  final: none
+  scientific: Todirostrum cinereum
+  url: NA
+- 10X: none
+  BN: none
+  HiC: none
+  Ill: none
+  PB: none
+  VGPId: fHopMal1
+  classes: Bony fishes,Osteichthyes
+  common: Trahira
+  data: ''
+  draft: none
+  final: none
+  scientific: Hoplias malabaricus
+  url: NA
+- 10X: none
+  BN: none
+  HiC: none
+  Ill: none
+  PB: none
+  VGPId: mMonMon1
+  classes: mammals,Mammalia
+  common: Narwhal
+  data: ''
+  draft: none
+  final: none
+  scientific: Monodon monoceros
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: none
+  Ill: none
+  PB: none
+  VGPId: sSteTig1
+  classes: cartilaginous fishes,Chondrichthyes
+  common: Zebra shark
+  data: ''
+  draft: none
+  final: none
+  scientific: Stegostoma tigrinum
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: aPseCor3
+  classes: amphibians,Amphibia
+  common: Corroboree Frog
+  data: ''
+  draft: none
+  final: none
+  scientific: Pseudophryne corroboree
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: rRhiFlo1
+  classes: reptiles,Reptilia
+  common: Florida Worm Lizard
+  data: ''
+  draft: none
+  final: none
+  scientific: Rhineura floridiana
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: sHetFra1
+  classes: cartilaginous fishes,Chondrichthyes
+  common: horn shark
+  data: ''
+  draft: none
+  final: none
+  scientific: Heterodontus francisci
+  url: NA
+- 10X: none
+  BN: none
+  HiC: none
+  Ill: none
+  PB: none
+  VGPId: rTomSch1
+  classes: reptiles,Reptilia
+  common: False gharial
+  data: ''
+  draft: none
+  final: none
+  scientific: Tomistoma schlegelii
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: aHypRig1
+  classes: amphibians,Amphibia
+  common: Riggenbach's reed frog
+  data: ''
+  draft: none
+  final: none
+  scientific: Hyperolius riggenbachi
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: rMalTer1
+  classes: reptiles,Reptilia
+  common: Mississippi Diamond-backed Terrapin
+  data: ''
+  draft: none
+  final: none
+  scientific: Malaclemys terrapin pileata
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: aLepFus1
+  classes: amphibians,Amphibia
+  common: Rufous frog
+  data: ''
+  draft: none
+  final: none
+  scientific: Leptodactylus fuscus
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: aEleCoq1
+  classes: amphibians,Amphibia
+  common: Coqui
+  data: ''
+  draft: none
+  final: none
+  scientific: Eleutherodactylus coqui
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: aSpeBom1
+  classes: amphibians,Amphibia
+  common: plains spadefoot toad
+  data: ''
+  draft: none
+  final: none
+  scientific: Spea bombifrons
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: bPtePen1
+  classes: birds,aves
+  common: "Southern Darwin\u2019s Lesser Rhea"
+  data: ''
+  draft: none
+  final: none
+  scientific: Pterocnemia pennata pennata
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: aAnoBae1
+  classes: amphibians,Amphibia
+  common: "Edward\u2019s Rocket Frog"
+  data: ''
+  draft: none
+  final: none
+  scientific: Anomaloglossus baeobatrachus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: bHaeMex1
+  classes: birds,aves
+  common: house finch
+  data: ''
+  draft: none
+  final: none
+  scientific: Haemorhous mexicanus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: mSorAra1
+  classes: mammals,Mammalia
+  common: European shrew
+  data: ''
+  draft: none
+  final: none
+  scientific: Sorex araneus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: rPodRaf1
+  classes: reptiles,Reptilia
+  common: Aeolian wall lizard
+  data: ''
+  draft: none
+  final: none
+  scientific: Podarcis raffonei
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: aHylSar1
+  classes: amphibians,Amphibia
+  common: Sardinian treefrog
+  data: ''
+  draft: none
+  final: none
+  scientific: Hyla sarda
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: rEmyOrb1
+  classes: reptiles,Reptilia
+  common: European pond turtle
+  data: ''
+  draft: none
+  final: none
+  scientific: Emys orbicularis
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: pending
+  VGPId: bTaeGut2
+  classes: birds,aves
+  common: zebra finch
+  data: complete
+  draft: complete
+  final: complete
+  scientific: Taeniopygia guttata
+  url: s3://genomeark/species/Taeniopygia_guttata/bTaeGut2/assembly_curated/bTaeGut2.pat.W.cur.20200124.fasta.gz
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: pending
+  VGPId: mMacEug1
+  classes: mammals,Mammalia
+  common: tammar wallaby
+  data: pending
+  draft: none
+  final: none
+  scientific: Macropus eugenii
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done2
+  Ill: none
+  PB: pending
+  VGPId: mEscRob1
+  classes: mammals,Mammalia
+  common: grey whale
+  data: pending
+  draft: none
+  final: none
+  scientific: Eschrichtius robustus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done2
+  Ill: none
+  PB: pending
+  VGPId: mEubGla1
+  classes: mammals,Mammalia
+  common: northern right whale
+  data: ''
+  draft: none
+  final: none
+  scientific: Eubalaena glacialis
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: mEleMax1
+  classes: mammals,Mammalia
+  common: Indian elephant
+  data: ''
+  draft: none
+  final: none
+  scientific: Elephas maximus
+  url: NA
+- 10X: none
+  BN: failed
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: fMelPam1
+  classes: Bony fishes,Osteichthyes
+  common: midwater eelpout
+  data: ''
+  draft: none
+  final: none
+  scientific: Melanostigma pammelas
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: mMonDom1
+  classes: mammals,Mammalia
+  common: gray short-tailed opossum
+  data: ''
+  draft: none
+  final: none
+  scientific: Monodelphis domestica
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: bGypBar2
+  classes: birds,aves
+  common: bearded vulture
+  data: ''
+  draft: none
+  final: none
+  scientific: Gypaetus barbatus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: mNycCou1
+  classes: mammals,Mammalia
+  common: slow loris
+  data: ''
+  draft: none
+  final: none
+  scientific: Nycticebus coucang
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: mNeoNeb1
+  classes: mammals,Mammalia
+  common: Clouded leopard
+  data: ''
+  draft: none
+  final: none
+  scientific: Neofelis nebulosa
+  url: NA
+- 10X: none
+  BN: failed
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: aAscTru4
+  classes: amphibians,Amphibia
+  common: tailed frog
+  data: ''
+  draft: none
+  final: none
+  scientific: Ascaphus truei
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: mCynVol1
+  classes: mammals,Mammalia
+  common: Philippine flying lemur
+  data: ''
+  draft: none
+  final: none
+  scientific: Cynocephalus volans
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: sManGio1
+  classes: cartilaginous fishes,Chondrichthyes
+  common: Atlantic manta ray
+  data: ''
+  draft: none
+  final: none
+  scientific: Manta giorna
+  url: NA
+- 10X: none
+  BN: none
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: iWyeSmi1
+  classes: invertebrates
+  common: pitcher plant mosquito
+  data: ''
+  draft: none
+  final: none
+  scientific: Wyeomyia smithii
+  url: NA
+- 10X: none
+  BN: none
+  HiC: none
+  Ill: none
+  PB: pending
+  VGPId: iUraLow1
+  classes: invertebrates
+  common: pale-footed Uranotaenia
+  data: ''
+  draft: none
+  final: none
+  scientific: Uranotaenia lowii
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: fSpiTha1
+  classes: Bony fishes,Osteichthyes
+  common: longfin smelt
+  data: ''
+  draft: none
+  final: none
+  scientific: Spirinchus thaleichthys
+  url: NA
+- 10X: none
+  BN: failed
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: mThoBot1
+  classes: mammals,Mammalia
+  common: Botta's pocket gopher
+  data: ''
+  draft: none
+  final: none
+  scientific: Thomomys bottae
+  url: NA
+- 10X: none
+  BN: none
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: iAneStu1
+  classes: invertebrates
+  common: social spider
+  data: ''
+  draft: none
+  final: none
+  scientific: Anelosimus studiosus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: fOsmMor3
+  classes: Bony fishes,Osteichthyes
+  common: rainbow smelt
+  data: ''
+  draft: none
+  final: none
+  scientific: Osmerus mordax
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: bMelMel1
+  classes: birds,aves
+  common: ''
+  data: ''
+  draft: none
+  final: none
+  scientific: Melanodera melanodera
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: fNeoGra1
+  classes: Bony fishes,Osteichthyes
+  common: blue salmon catfish
+  data: ''
+  draft: none
+  final: none
+  scientific: Neoarius graeffei
+  url: NA
+- 10X: none
+  BN: failed
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: iOctChi1
+  classes: invertebrates
+  common: lesser Pacific striped octopus
+  data: ''
+  draft: none
+  final: none
+  scientific: Octopus chierchiae
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: mDasNov1
+  classes: mammals,Mammalia
+  common: nine-banded armadillo
+  data: ''
+  draft: none
+  final: none
+  scientific: Dasypus novemcinctus
+  url: NA
+- 10X: none
+  BN: failed
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: aGasCar1
+  classes: amphibians,Amphibia
+  common: eastern narrow-mouthed toad
+  data: ''
+  draft: none
+  final: none
+  scientific: Gastrophryne carolinensis
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: bPasSan1
+  classes: birds,aves
+  common: Savannah sparrow
+  data: ''
+  draft: none
+  final: none
+  scientific: Passerculus sandwichensis
+  url: NA
+- 10X: none
+  BN: failed
+  HiC: done
+  Ill: none
+  PB: pending
+  VGPId: iChiOpi2
+  classes: invertebrates
+  common: Snow crab
+  data: ''
+  draft: none
+  final: none
+  scientific: Chionoecetes opilio
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: done
+  Ill: none
+  PB: pending
+  VGPId: fScoJap1
+  classes: Bony fishes,Osteichthyes
+  common: chub mackerel
+  data: pending
+  draft: none
+  final: none
+  scientific: Scomber japonicus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: bMelGeo1
+  classes: birds,aves
+  common: ''
+  data: ''
+  draft: none
+  final: none
+  scientific: Melospiza georgiana
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: bAmmMar1
+  classes: birds,aves
+  common: ''
+  data: ''
+  draft: none
+  final: none
+  scientific: Ammodramus maritimus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: bAmmCau1
+  classes: birds,aves
+  common: ''
+  data: ''
+  draft: none
+  final: none
+  scientific: Ammodramus caudacutus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: pending
+  VGPId: bAmmNel1
+  classes: birds,aves
+  common: ''
+  data: ''
+  draft: none
+  final: none
+  scientific: Ammodramus nelsoni
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: done2
+  VGPId: fHypTra1
+  classes: Bony fishes,Osteichthyes
+  common: delta smelt
+  data: ''
+  draft: none
+  final: none
+  scientific: Hypomesus transpacificus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: done
+  VGPId: bAcrTri1
+  classes: birds,aves
+  common: common myna
+  data: pending
+  draft: none
+  final: none
+  scientific: Acridotheres tristis
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: done2
+  VGPId: aRanSyl1
+  classes: amphibians,Amphibia
+  common: wood frog
+  data: ''
+  draft: none
+  final: none
+  scientific: Rana sylvatica
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: done
+  VGPId: fCycLum2
+  classes: Bony fishes,Osteichthyes
+  common: lumpsucker
+  data: ''
+  draft: none
+  final: none
+  scientific: Cyclopterus lumpus
+  url: NA
+- 10X: none
+  BN: pending
+  HiC: none
+  Ill: none
+  PB: none
+  VGPId: bPhaCar1
+  classes: birds,aves
+  common: Great cormorant
+  data: ''
+  draft: none
+  final: none
+  scientific: Phalacrocorax carbo
+  url: NA
+- 10X: none
+  BN: none
+  HiC: none
+  Ill: none
+  PB: none
+  VGPId: bPodCri1
+  classes: birds,aves
+  common: great Crested Grebe
+  data: ''
+  draft: none
+  final: none
+  scientific: Podiceps cristatus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: none
+  Ill: none
+  PB: none
+  VGPId: aSalSal1
+  classes: amphibians,Amphibia
+  common: European Fire Salamander
+  data: ''
+  draft: none
+  final: none
+  scientific: Salamandra salamandra
+  url: NA
+- 10X: none
+  BN: done
+  HiC: none
+  Ill: none
+  PB: none
+  VGPId: rAllMis1
+  classes: reptiles,Reptilia
+  common: American alligator
+  data: ''
+  draft: none
+  final: none
+  scientific: Alligator mississippiensis
+  url: NA
+- 10X: none
+  BN: done
+  HiC: none
+  Ill: none
+  PB: none
+  VGPId: rSteOdo1
+  classes: reptiles,Reptilia
+  common: Eastern Musk Turtle
+  data: ''
+  draft: none
+  final: none
+  scientific: Sternotherus odoratus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: sPotMar1
+  classes: cartilaginous fishes,Chondrichthyes
+  common: gold dust stingray
+  data: pending
+  draft: none
+  final: none
+  scientific: Potamotrygon marinae
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: rVipLat1
+  classes: reptiles,Reptilia
+  common: snub-nosed viper
+  data: pending
+  draft: none
+  final: none
+  scientific: Vipera latastei
+  url: NA
+- 10X: none
+  BN: done
+  HiC: pending
+  Ill: none
+  PB: done
+  VGPId: bHarHar1
+  classes: birds,aves
+  common: Harpy eagle
+  data: pending
+  draft: none
+  final: none
+  scientific: Harpia harpyja
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: bCorHaw1
+  classes: birds,aves
+  common: hawaiian crow
+  data: pending
+  draft: none
+  final: none
+  scientific: Corvus hawaiiensis
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: bFalChe1
+  classes: birds,aves
+  common: Saker falcon
+  data: pending
+  draft: none
+  final: none
+  scientific: Falco cherrug
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: bGruAme1
+  classes: birds,aves
+  common: Whooping crane
+  data: pending
+  draft: none
+  final: none
+  scientific: Grus americana
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: bGalGal4
+  classes: birds,aves
+  common: chicken (ross breed)
+  data: pending
+  draft: none
+  final: none
+  scientific: Gallus gallus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: bGalGal5
+  classes: birds,aves
+  common: chicken (cobb breed)
+  data: pending
+  draft: none
+  final: none
+  scientific: Gallus gallus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: bFalBia1
+  classes: birds,aves
+  common: lanner falcon
+  data: pending
+  draft: none
+  final: none
+  scientific: Falco biarmicus
+  url: NA
+- 10X: none
+  BN: none
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: bVidCha1
+  classes: birds,aves
+  common: village indigobird
+  data: pending
+  draft: none
+  final: none
+  scientific: Vidua chalybeata
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: rGopFla1
+  classes: reptiles,Reptilia
+  common: Mexican gopher tortoise
+  data: pending
+  draft: none
+  final: none
+  scientific: Gopherus flavomarginatus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: bNomDom1
+  classes: birds,aves
+  common: Masked duck
+  data: ''
+  draft: none
+  final: none
+  scientific: Nomonyx dominica
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: bDenVid1
+  classes: birds,aves
+  common: white-faced whistling-duck
+  data: complete
+  draft: pending
+  final: pending
+  scientific: Dendrocygna viduata
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: mSunEtr1
+  classes: mammals,Mammalia
+  common: white-toothed pygmy shrew
+  data: pending
+  draft: none
+  final: none
+  scientific: Suncus etruscus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: bHemCom1
+  classes: birds,aves
+  common: ''
+  data: pending
+  draft: none
+  final: none
+  scientific: Hemiprocne comata
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: bFalPer1
+  classes: birds,aves
+  common: peregrine falcon
+  data: pending
+  draft: none
+  final: none
+  scientific: Falco peregrinus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: aDenEbr1
+  classes: amphibians,Amphibia
+  common: hourglass treefrog
+  data: pending
+  draft: none
+  final: none
+  scientific: Dendropsophus ebraccatus
+  url: NA
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: fTauAds1
+  classes: Bony fishes,Osteichthyes
+  common: cunner
+  data: complete
+  draft: complete
+  final: pending
+  scientific: Tautogolabrus adspersus
+  url: s3://genomeark/species/Tautogolabrus_adspersus/fTauAds1/assembly_vgp_standard_1.7/fTauAds1_pri.asm.20210618.fasta.gz
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: bPorHoc1
+  classes: birds,aves
+  common: takahe
+  data: complete
+  draft: complete
+  final: pending
+  scientific: Porphyrio hochstetteri
+  url: s3://genomeark/species/Porphyrio_hochstetteri/bPorHoc1/assembly_vgp_standard_2.0/bPorHoc1.pat.asm.20210604.fasta.gz
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: mDicBic1
+  classes: mammals,Mammalia
+  common: black rhinoceros
+  data: complete
+  draft: complete
+  final: pending
+  scientific: Diceros bicornis
+  url: s3://genomeark/species/Diceros_bicornis/mDicBic1/assembly_vgp_hifi/mDicBic1.pat.asm.20210507.fasta.gz
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: mLemCat1
+  classes: mammals,Mammalia
+  common: Ring-tailed lemur
+  data: complete
+  draft: complete
+  final: pending
+  scientific: Lemur catta
+  url: s3://genomeark/species/Lemur_catta/mLemCat1/assembly_vgp_standard_2.0/mLemCat1.pri.asm.20210602.fasta.gz
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: fAloSap1
+  classes: Bony fishes,Osteichthyes
+  common: American shad
+  data: complete
+  draft: complete
+  final: complete
+  scientific: Alosa sapidissima
+  url: s3://genomeark/species/Alosa_sapidissima/fAloSap1/assembly_curated/fAloSap1.pri.cur.20210421.fasta.gz
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: sHemOce1
+  classes: cartilaginous fishes,Chondrichthyes
+  common: epaulette shark
+  data: complete
+  draft: complete
+  final: complete
+  scientific: Hemiscyllium ocellatum
+  url: s3://genomeark/species/Hemiscyllium_ocellatum/sHemOce1/assembly_curated/sHemOce1.pat.X.cur.20210528.fasta.gz
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: bTheCae1
+  classes: birds,aves
+  common: plumbeous ibis
+  data: complete
+  draft: complete
+  final: complete
+  scientific: Theristicus caerulescens
+  url: s3://genomeark/species/Theristicus_caerulescens/bTheCae1/assembly_curated/bTheCae1.pri.cur.20210525.fasta.gz
+- 10X: none
+  BN: done
+  HiC: done
+  Ill: none
+  PB: done
+  VGPId: bTroSur1
+  classes: birds,aves
+  common: Suruca trogon
+  data: complete
+  draft: complete
+  final: complete
+  scientific: Trogon surrucura
+  url: s3://genomeark/species/Trogon_surrucura/bTroSur1/assembly_curated/bTroSur1.pri.cur.20210525.fasta.gz
