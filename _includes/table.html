@@ -34,7 +34,7 @@
           <td><i>{{ entry.scientific }}</i></td>
           <td>{{ entry.common }}</td>
           <td style="width: 33%;">
-                <div class="progress">
+                <div class="progress" style="margin-bottom:0px;" title="10% Complete" data-placement="top" data-toggle="popover" data-trigger="hover" data-html="true" data-content="Some data here...">
                 {% assign length = entry.total | size | times: 2 %}
                 {% assign total = 0 %}
                 {% assign green = 0 %}
@@ -82,8 +82,7 @@
                 {% assign green = green | times:100 | divided_by: length %}
                 {% assign yellow = yellow | times:100 | divided_by: length %}
                 <div class="progress-bar bg-success {{ style }}" role="progressbar" style="width: {{ green }}%" aria-valuenow="{{ green }}" aria-valuemin="0" aria-valuemax="100">{{ tag1 }}</div>
-                <div class="progress-bar bg-warning {{ style }}" role="progressbar" style="width: {{ yellow }}%" aria-valuenow="{{ yellow }}" aria-valuemin="0" aria-valuemax="100">{{ tag2 }}</div>
-               <span class="sr-only">{{ total }}</span>
+                <div class="progress-bar bg-warning {{ style }}" role="progressbar" style="width: {{ yellow }}%" aria-valuenow="{{ yellow }}" aria-valuemin="0" aria-valuemax="100">{{ tag2 }}<span class="sr-only">{{ total }}</span></div>
                </div>
           </td>
           <td>{{ green | plus:yellow }}%</td>
