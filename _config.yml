@@ -1,6 +1,5 @@
 
-theme:
-  jekyll-theme-slate
+theme: jekyll-theme-slate
 
 sass:
   sass_dir: assets/css
