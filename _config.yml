@@ -1,6 +1,10 @@
 
 theme: jekyll-theme-slate
 
+scope:
+  path: assets/img
+  values:
+      image: true
 sass:
   sass_dir: assets/css
 
