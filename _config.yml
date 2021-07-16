@@ -2,11 +2,11 @@
 theme: jekyll-theme-slate
 
 scope:
-  path: assets/img
+  path: genome-portal/assets/img
   values:
       image: true
 sass:
-  sass_dir: assets/css
+  sass_dir: genome-portal/assets/css
 
 plugins:
   - jekyll-autoprefixer
