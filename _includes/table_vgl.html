@@ -32,9 +32,9 @@
           <td>{{ entry.VGPId }}</td/>
           <td><i>{{ entry.scientific }}</i></td>
           <td>{{ entry.common }}</td/>
-          <td align="center"><img src="img/{{ entry.PB }}.png" width="15" height="15"/></td>
-          <td align="center"><img src="images/{{ entry.BN }}.png" width="15" height="15"/></td>
-          <td align="center"><img src=".{{ entry.HiC }}.png" width="15" height="15"/></td>
+          <td align="center"><img src="{{ site.url }}/assets/img/{{ entry.PB }}.png" width="15" height="15"/></td>
+          <td align="center"><img src="{ site.url }}/img/{{ entry.BN }}.png" width="15" height="15"/></td>
+          <td align="center"><img src="{{ entry.HiC }}.png" width="15" height="15"/></td>
           <td align="center"><img src="../assets/img/{{ entry.draft }}.png" width="15" height="15"/></td>
           <td align="center"><img src="../assets/img/{{ entry.final }}.png" width="15" height="15"/></td>
           <td><a href="{{ entry.url }}">link</a></td>
