@@ -26,9 +26,9 @@
       </tr>
     </thead>
     <tbody>
-      <tr v-for="cell in cells">
-        <td>test</td>
-        <td>{{ cell.fields.vglid }}</td>
+      <tr v-for="(cell, index) of cells" :key=cells.id>
+        <td>{{index}}</td>
+        <td>{{ cell.fvglid }}</td>
         <td>{{ cell.scientific }}</td>
         <td>{{ cell.common }}</td>
         <td>{{ cell.pb }}</td>
