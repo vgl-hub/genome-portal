@@ -17,7 +17,7 @@
 
               <div id="app">
   <ul>
-    <li v-for='index in cells'>{{ index }}</li>
+    <li v-for='(item, index) in cells'>{{ item.vglid }}</li>
          
   </ul>
 </div>
@@ -105,15 +105,10 @@ const app = new Vue({
   },
   methods: {
     fetchProjects() {
-      const _this = this;
       Papa.parse(mySpreadsheet, {
         download: true,
         header: true,
-        complete: function(results) { 
-            _this.cells = results.data; 
-            console.log("TEST!");
-            console.log(_this.cells);
-            }
+        complete: (results) => this.cells = results.data
       });
     }   
   }
