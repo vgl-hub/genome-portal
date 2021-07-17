@@ -109,12 +109,12 @@ const showsUrl =
 const app = new Vue({
   el: "#app",
   data: function () {
-             console.log(_this.shows);
+             console.log(shows);
     return {
       movies: [],
       shows: []
     };
-            console.log(_this.shows);
+            console.log(shows);
   },
   created: function () {
     this.fetchMovies();
