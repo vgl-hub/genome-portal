@@ -94,7 +94,8 @@ const app = new Vue({
     };
   },
   created: function () {
-    const movies=this.fetchMovies();
+    let this.movies=this.fetchMovies();
+    console.log(this.movies);
   },
   methods: {
     fetchMovies() {
@@ -107,6 +108,7 @@ const app = new Vue({
       });
      console.log("A");
      console.log(_this.movies);
+     console.log(this.movies);
     }
 
   }
