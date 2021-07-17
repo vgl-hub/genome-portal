@@ -116,7 +116,7 @@ const app = new Vue({
   },
   created: function () {
     this.fetchMovies();
-    this.fetchShows();
+    this.shows=this.fetchShows();
   },
   methods: {
     fetchMovies() {
@@ -134,12 +134,6 @@ const app = new Vue({
         header: true,
         complete: function(results) { console.log("A");console.log(results); _this.shows = results.data;console.log("B");console.log(_this.shows); return _this.shows; }
       });
-            console.log("1");
-            console.log(_this.shows);
-                           console.log("2");
-            console.log(this.shows);
-                                          console.log("3");
-            console.log(shows);
     }
   }
 });
