@@ -102,9 +102,9 @@ const app = new Vue({
       this.movies=Papa.parse(moviesUrl, {
         download: true,
         header: true,
-        complete: function(results){ _this.movies = results.data; console.log(_this.movies);};
-      console.log(this.movies);
+        complete: function(results){ _this.movies = results.data; console.log(_this.movies);}
       });
+     console.log(this.movies);
     }
 
   }
