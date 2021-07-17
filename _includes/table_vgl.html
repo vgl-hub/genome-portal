@@ -108,6 +108,7 @@ const app = new Vue({
         header: true,
         complete: function(results) { 
             _this.cells = results.data; 
+            console.log("TEST!");
             console.log(results);
             }
       });
