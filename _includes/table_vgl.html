@@ -90,7 +90,7 @@ const app = new Vue({
   el: "#app",
   data: function () {
     return {
-      movies: []
+      movies: [],
     };
   },
   created: function () {
@@ -98,16 +98,15 @@ const app = new Vue({
   },
   methods: {
     fetchMovies() {
-      var movies=[];
+      let self  = this;
       Papa.parse(moviesUrl, {
         download: true,
         header: true,
         dynamicTyping: true,
-        complete: function(results){movies = results.data;console.log(movies);}
+        complete: function(results){self.movies = results.data;console.log("inside");console.log(self.movies);}
       });
      console.log("A");
-     console.log(movies);
-     this.movies=movies;
+     console.log(this.movies);
     }
 
   }
