@@ -114,37 +114,8 @@ const app = new Vue({
 </div>
 
 <script>
- var mySpreadsheet = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQdrM_kIud7m2HGKrz8qwzy6DQuQIvKb_GOjCjUia-h7oPaY6ivkSjjnUOFQAggBsQ_tasVPrHzESrO/pub?gid=0&single=true&output=csv';
- 
  $(document).ready(function() {
     $('#example').DataTable();
 } );
-     
-const app = new Vue({
-  el: "#app",
-  data: function () {
-    return {
-      cells: []
-    };
-  },
-  created: function () {
-    this.fetchProjects();
-  },
-  methods: {
-    fetchProjects() {
-      const _this = this;
-      Papa.parse(mySpreadsheet, {
-        download: true,
-        header: true,
-        complete: function(results) { 
-            _this.cells = results.data; 
-            console.log("TEST!");
-            console.log(results);
-            }
-      });
-    }   
-  }
-});
-
      
 </script>
