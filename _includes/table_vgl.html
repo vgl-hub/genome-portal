@@ -96,7 +96,7 @@ const app = new Vue({
   created: function () {
     this.fetchMovies();
     console.log("TEST");
-    console.log(movies);
+    console.log(this.movies);
   },
   methods: {
     fetchMovies() {
