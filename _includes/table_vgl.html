@@ -95,7 +95,7 @@ const app = new Vue({
   el: "#app",
   data: function () {
     return {
-      cells: [],
+      cells: []
     };
   },
   created: function () {
@@ -103,14 +103,12 @@ const app = new Vue({
   },
   methods: {
     fetchProjects() {
-      
       Papa.parse(mySpreadsheet, {
         download: true,
         header: true,
         complete: (results) => this.cells = results.data
       });
-    },
-    
+    }   
   }
 });
 
