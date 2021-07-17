@@ -13,21 +13,29 @@
                                                                           <div class="container">
                                                                       
 <font size="2" >
-<table id="switch-hitters" class="table table-striped table-sm table-resonsive" style="width:100%">
-                                                                                                  <tbody>
-    <script id="all-template" type="text/x-handlebars-template">
-                                                                        <tr>
-          <td>{{ cells.VGPId }}</td/>
-          <td><i>{{ cells.scientific }}</i></td>
-          <td>{{ cells.common }}</td/>
-          <td align="center"><img src="assets\img\{{ cells.PB }}.png" width="15" height="15"/></td>
-          <td align="center"><img src="assets\img\{{ cells.BN }}.png" width="15" height="15"/></td>
-          <td align="center"><img src="assets\img\{{ cells.HiC }}.png" width="15" height="15"/></td>
-        </tr>
-       </script> 
-     </tbody>
-</table>
 
+<div id="app">
+  <table v-if="cells.length">
+    <thead>
+      <tr>
+        <th>Id</th>
+        <th>Scientific name</th>
+        <th>Common name</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr v-for="cell in cells">
+        <td>{{cell.vglId}}</td>
+        <td>{{cell.scientific}}</td>
+        <td>{{cell.common}}</td>
+      </tr>
+    </tbody>
+  </table>
+
+  
+</div>              
+              
+              
 <table id="example" class="table table-striped table-sm table-resonsive" style="width:100%">
   <thead>
            <tr>
@@ -79,7 +87,7 @@
  var mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1fhI4F7BBIDC4OIB4bEUy7AQnF3vh0dALenONXDHgPMc/edit#gid=0';
  
  $(document).ready(function() {
-    $('#switch-hitters').DataTable();
+    $('#example').DataTable();
 } );
      
 const app = new Vue({
