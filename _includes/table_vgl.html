@@ -134,7 +134,7 @@ const app = new Vue({
       Papa.parse(showsUrl, {
         download: true,
         header: true,
-        complete: function(results) { _this.shows = results.data; console.log(_this.shows);}
+        complete: function(results) { _this.shows = results.data;}
       });
     }
   }
