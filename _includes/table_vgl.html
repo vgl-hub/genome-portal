@@ -101,6 +101,7 @@ const app = new Vue({
   },
   created: function () {
     this.fetchProjects();
+    console.log(this.cells)
   },
   methods: {
     fetchProjects() {
@@ -109,7 +110,6 @@ const app = new Vue({
         header: true,
         complete: (results) => this.cells = results.data
       });
-      console.log(this.cells)
     }   
   }
 });
