@@ -117,6 +117,7 @@ const app = new Vue({
   created: function () {
     this.fetchMovies();
     this.shows=this.fetchShows();
+    console.log(this.shows);
   },
   methods: {
     fetchMovies() {
