@@ -103,10 +103,11 @@ const app = new Vue({
   },
   methods: {
     fetchProjects() {
+      const _this = this;
       Papa.parse(mySpreadsheet, {
         download: true,
         header: true,
-        complete: (results) => this.cells = results.data
+        complete: function(results) { _this.cells = results.data; }
       });
     }   
   }
