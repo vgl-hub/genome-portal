@@ -100,7 +100,7 @@ const app = new Vue({
   },
   methods: {
     fetchMovies() {
-    Papa.parse(moviesUrl, {
+    var movies=Papa.parse(moviesUrl, {
         download: true,
         header: true,
         dynamicTyping: true,
