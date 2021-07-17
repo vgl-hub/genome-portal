@@ -11,7 +11,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js"></script>
 
                                
-                                                                          <div class="container">
+ <div class="container">
                                                                       
 <font size="2" >
 
@@ -98,7 +98,7 @@ const app = new Vue({
   },
   methods: {
     fetchMovies() {
-            let _this=this;
+      const _this=this;
       Papa.parse(moviesUrl, {
         download: true,
         header: true,
