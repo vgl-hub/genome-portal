@@ -17,7 +17,7 @@
 
               <div id="app">
   <ul>
-    <li v-for="cell,index in cells" :key='cell.vglid'>{{ index }} {{ cell.common }}</li>
+    <li v-for="(cell,index) in cells" :key='cell.vglid'>{{ index }} {{ cell.common }}</li>
          
   </ul>
 </div>
