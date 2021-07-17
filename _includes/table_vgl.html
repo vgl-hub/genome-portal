@@ -94,7 +94,7 @@ const app = new Vue({
        download:true,
        header:true,
         complete:res => {
-              this.movies = res.data;
+              this.movies = res.data;console.log(this.movies);
                  }
 })
      }
