@@ -9,36 +9,7 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.11/vue.min.js"></script>
-<script>
- var mySpreadsheet = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQdrM_kIud7m2HGKrz8qwzy6DQuQIvKb_GOjCjUia-h7oPaY6ivkSjjnUOFQAggBsQ_tasVPrHzESrO/pub?gid=0&single=true&output=csv';
-const app = new Vue({
-  el: "#app",
-  data: function () {
-    return {
-      cells: []
-    };
-  },
-  created: function () {
-    this.fetchProjects();
-  },
-  methods: {
-    fetchProjects() {
-      const _this = this;
-      Papa.parse(mySpreadsheet, {
-        download: true,
-        header: true,
-        complete: function(results) { 
-            _this.cells = results.data; 
-            console.log("TEST!");
-            console.log(results);
-            }
-      });
-    }   
-  }
-});
 
-     
-</script>
                                
                                                                           <div class="container">
                                                                       
@@ -56,6 +27,7 @@ const app = new Vue({
     </thead>
     <tbody>
       <tr v-for="cell in cells">
+          <td>{{ cell }}</td>
         <td>{{ cell.vglid }}</td>
         <td>{{ cell.scientific }}</td>
         <td>{{ cell.common }}</td>
@@ -114,6 +86,34 @@ const app = new Vue({
 </div>
 
 <script>
+var mySpreadsheet = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQdrM_kIud7m2HGKrz8qwzy6DQuQIvKb_GOjCjUia-h7oPaY6ivkSjjnUOFQAggBsQ_tasVPrHzESrO/pub?gid=0&single=true&output=csv';
+const app = new Vue({
+  el: "#app",
+  data: function () {
+    return {
+      cells: []
+    };
+  },
+  created: function () {
+    this.fetchProjects();
+  },
+  methods: {
+    fetchProjects() {
+      const _this = this;
+      Papa.parse(mySpreadsheet, {
+        download: true,
+        header: true,
+        complete: function(results) { 
+            _this.cells = results.data; 
+            console.log("TEST!");
+            console.log(results);
+            }
+      });
+    }   
+  }
+});
+
+                               
  $(document).ready(function() {
     $('#example').DataTable();
 } );
