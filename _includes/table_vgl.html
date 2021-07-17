@@ -83,7 +83,6 @@
 </div>
 
 <script>
- let movies = [];
 const moviesUrl =
   "https://docs.google.com/spreadsheets/d/e/2PACX-1vTtKbv_S8Fdo3HLhm64Tc94WZ6FuqtzqePIjuejNFJxKkUvAE8JF8V2KgKoz1n5jQUDfL8A3F-QoDWk/pub?gid=0&single=true&output=csv";
 
@@ -91,7 +90,7 @@ const app = new Vue({
   el: "#app",
   data: function () {
     return {
-      movies: []
+      this.movies: []
     };
   },
   created: function () {
