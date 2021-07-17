@@ -16,7 +16,7 @@
 <font size="2" >
 
 <div id="app">
-  <table id="example" class="table table-striped table-sm table-resonsive" style="width:100%" v-if="movies.length">
+  <table v-if="movies.length">
     <thead>
       <tr>
         <th>Title</th>
@@ -105,6 +105,8 @@ const app = new Vue({
         header: true,
         complete:(results) => this.movies=results.data
       });
+         console.log("TEST2");
+    console.log(this.movies);                 
     }
 
   }
