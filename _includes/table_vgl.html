@@ -83,6 +83,7 @@
 </div>
 
 <script>
+ let movies = [];
 const moviesUrl =
   "https://docs.google.com/spreadsheets/d/e/2PACX-1vTtKbv_S8Fdo3HLhm64Tc94WZ6FuqtzqePIjuejNFJxKkUvAE8JF8V2KgKoz1n5jQUDfL8A3F-QoDWk/pub?gid=0&single=true&output=csv";
 
@@ -102,7 +103,7 @@ const app = new Vue({
       Papa.parse(moviesUrl, {
         download: true,
         header: true,
-        complete: function(results){ this.movies = results.data; console.log(this.movies); console.log(movies);}
+        complete: function(results){ movies = results.data; console.log(movies);}
       });
     }
 
