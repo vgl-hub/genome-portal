@@ -128,11 +128,15 @@ const app = new Vue({
       });
     },
     fetchShows() {
+       const _this = this;
       Papa.parse(showsUrl, {
         download: true,
         header: true,
-        complete: function(results) { console.log(results); this.shows = results.data;console.log(this.shows); }
+        complete: function(results) { console.log(results); _this.shows = results.data;console.log(_this.shows); }
       });
+            console.log(_this.shows);
+            console.log(this.shows);
+            console.log(shows);
     }
   }
 });
