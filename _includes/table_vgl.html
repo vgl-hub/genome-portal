@@ -88,7 +88,7 @@ const moviesUrl =
 const app = new Vue({
   el: "#app",
   data: {
-            movies=[]
+            movies:[]
            },
   created(){Papa.parse(moviesUrl, {
        download:true,
