@@ -63,14 +63,14 @@
 
 <script>
  var mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1fhI4F7BBIDC4OIB4bEUy7AQnF3vh0dALenONXDHgPMc/edit#gid=0';
-
+$(document).ready(function() {
+    $('#switch-hitters').DataTable();
+} );
+     
 $('#switch-hitters').sheetrock({
   url: mySpreadsheet,
   query: "select A,B,C,F,G,H",
   fetchSize: 10
 });
      
-$(document).ready(function() {
-    $('#switch-hitters').DataTable();
-} );
 </script>
