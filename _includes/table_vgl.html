@@ -98,10 +98,11 @@ const app = new Vue({
   },
   methods: {
     fetchMovies() {
+            let _this=this;
       Papa.parse(moviesUrl, {
         download: true,
         header: true,
-        complete: function(results){ this.movies = results.data; console.log(this.movies);}
+        complete: function(results){ _this.movies = results.data; console.log(_this.movies);}
       });
     }
 
