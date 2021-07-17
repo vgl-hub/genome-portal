@@ -15,10 +15,9 @@
                                                                       
 <font size="2" >
 
-              <div id="app">
+ <div id="app">
   <ul>
-    <li v-for='item in cells.data'>{{ item.vglid }}</li>
-         
+    <li v-for='cell in cells' :key="cell.vglid"> {{ item.vglid }} </li>    
   </ul>
 </div>
                                     
