@@ -16,7 +16,7 @@
 <font size="2" >
 
 <div id="app">
-  <table id="example" v-if="cells.length" class="table table-striped table-sm table-resonsive" style="width:100%">
+  <table id="example" class="table table-striped table-sm table-resonsive" style="width:100%">
     <thead>
       <tr>
         <th>Id</th>
@@ -26,9 +26,8 @@
       </tr>
     </thead>
     <tbody>
-      <tr v-for="(cell, index) of cells" :key=cells.id>
-        <td>{{index}}</td>
-        <td>{{ cell.fvglid }}</td>
+      <tr v-for="cell in cells">
+        <td>{{ cell.vglid }}</td>
         <td>{{ cell.scientific }}</td>
         <td>{{ cell.common }}</td>
         <td>{{ cell.pb }}</td>
