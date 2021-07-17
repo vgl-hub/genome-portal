@@ -70,7 +70,8 @@ $(document).ready(function() {
 $('#switch-hitters').sheetrock({
   url: mySpreadsheet,
   query: "select A,B,C,F,G,H",
-  fetchSize: 5
+  fetchSize: 5,
+  labels: "Id,Scientific name,Common name,PB,BN,HiC"
 });
      
 </script>
