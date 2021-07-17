@@ -15,7 +15,6 @@
 <font size="2" >
 
 <div id="app">
-   {{cells}}
   <table id="example" v-if="cells.length" class="table table-striped table-sm table-resonsive" style="width:100%">
     <thead>
       <tr>
@@ -26,14 +25,12 @@
     </thead>
     <tbody>
       <tr v-for="cell in cells">
-        <td>{{cell.vglId}}</td>
-        <td>{{cell.scientific}}</td>
-        <td>{{cell.common}}</td>
+        <td>{{ cell.vglid }}</td>
+        <td>{{ cell.scientific }}</td>
+        <td>{{ cell.common }}</td>
       </tr>
     </tbody>
   </table>
-
-  
 </div>              
               
               
