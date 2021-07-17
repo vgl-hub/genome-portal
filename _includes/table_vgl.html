@@ -116,7 +116,8 @@ const app = new Vue({
   },
   created: function () {
     this.fetchMovies();
-    shows=this.fetchShows();
+    this.fetchShows();
+    console.log(this.shows);
     console.log(shows);
   },
   methods: {
@@ -133,7 +134,7 @@ const app = new Vue({
       Papa.parse(showsUrl, {
         download: true,
         header: true,
-        complete: function(results) { console.log("A");console.log(results); _this.shows = results.data;console.log("B");console.log(_this.shows); return _this.shows; }
+        complete: function(results) {  _this.shows = results.data; return results.data; }
       });
     }
   }
