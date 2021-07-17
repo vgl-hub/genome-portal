@@ -14,7 +14,9 @@
                                                                       
 <font size="2" >
 
-<div id="app" v-cloak>
+<div id="app">
+  {{movies}}
+  {{movies.length}}
   <table v-if="movies.length">
     <thead>
       <tr>
@@ -82,8 +84,7 @@
 </div>
 
 <script>
-const moviesUrl =
-  "https://docs.google.com/spreadsheets/d/e/2PACX-1vTtKbv_S8Fdo3HLhm64Tc94WZ6FuqtzqePIjuejNFJxKkUvAE8JF8V2KgKoz1n5jQUDfL8A3F-QoDWk/pub?gid=0&single=true&output=csv";
+const moviesUrl = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTtKbv_S8Fdo3HLhm64Tc94WZ6FuqtzqePIjuejNFJxKkUvAE8JF8V2KgKoz1n5jQUDfL8A3F-QoDWk/pub?gid=0&single=true&output=csv";
 
 const app = new Vue({
   el: "#app",
