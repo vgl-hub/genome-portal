@@ -5,1881 +5,1881 @@ toc:
   Ill: 4
   PB: 2
   VGPId: mEleMax1
-  classes: mammals,Mammalia
-  common: Asiatic_elephant
+  classes: Mammalia,Proboscidea,Elephantidae,mammals
+  common: Asiatic elephant
   data: 0
   draft: 0
   final: 0
-  scientific: Elephas_maximus
+  scientific: Elephas maximus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: mArvNil1
-  classes: mammals,Mammalia
-  common: African_grass_rat
+  classes: Mammalia,Rodentia,Muridae,mammals
+  common: African grass rat
   data: 0
   draft: 0
   final: 0
-  scientific: Arvicanthis_niloticus
+  scientific: Arvicanthis niloticus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bHarHar1
-  classes: birds,aves
-  common: Harpy_eagle
+  classes: Aves,Falconiformes,Accipitridae,birds
+  common: Harpy eagle
   data: 0
   draft: 0
   final: 0
-  scientific: Harpia_harpyja
+  scientific: Harpia harpyja
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: sAmbRad1
-  classes: cartilaginous fishes,Chondrichthyes
-  common: thorny_skate
+  classes: Chondrichthyes,Rajiformes,Rajidae,cartilaginous fishes
+  common: thorny skate
   data: 0
   draft: 0
   final: 0
-  scientific: Amblyraja_radiata
+  scientific: Amblyraja radiata
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: rDerCor1
-  classes: reptiles,Reptilia
-  common: leatherback_sea_turtle
+  classes: Reptilia,Testudines,Dermochelyidae,reptiles
+  common: leatherback sea turtle
   data: 0
   draft: 0
   final: 0
-  scientific: Dermochelys_coriacea
+  scientific: Dermochelys coriacea
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 5
   VGPId: fHypTra1
-  classes: Bony fishes,Osteichthyes
-  common: delta_smelt
+  classes: Actinopterygii,Osmeriformes,Osmeridae,Bony fishes
+  common: delta smelt
   data: 0
   draft: 0
   final: 0
-  scientific: Hypomesus_transpacificus
+  scientific: Hypomesus transpacificus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 2
   VGPId: rEmyOrb1
-  classes: reptiles,Reptilia
-  common: European_pond_turtle
+  classes: Reptilia,Testudines,Emydidae,reptiles
+  common: European pond turtle
   data: 0
   draft: 0
   final: 0
-  scientific: Emys_orbicularis
+  scientific: Emys orbicularis
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 5
   VGPId: fAnaTes1
-  classes: Bony fishes,Osteichthyes
-  common: climbing_perch
+  classes: Actinopterygii,Anabantiformes,Anabantidae,Bony fishes
+  common: climbing perch
   data: 0
   draft: 0
   final: 0
-  scientific: Anabas_testudineus
+  scientific: Anabas testudineus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: rPodRaf1
-  classes: reptiles,Reptilia
-  common: Aeolian_wall_lizard
+  classes: Reptilia,Squamata,Lacertidae,reptiles
+  common: Aeolian wall lizard
   data: 0
   draft: 0
   final: 0
-  scientific: Podarcis_raffonei
+  scientific: Podarcis raffonei
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: mSciVul1
-  classes: mammals,Mammalia
-  common: Eurasian_red_squirrel
+  classes: Mammalia,Rodentia,Sciuridae,mammals
+  common: Eurasian red squirrel
   data: 0
   draft: 0
   final: 0
-  scientific: Sciurus_vulgaris
+  scientific: Sciurus vulgaris
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bDenVid1
-  classes: birds,aves
-  common: white-faced_whistling-duck
+  classes: Aves,Anseriformes,Anatidae,birds
+  common: white-faced whistling-duck
   data: 0
   draft: 0
   final: 0
-  scientific: Dendrocygna_viduata
+  scientific: Dendrocygna viduata
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 1
   VGPId: bAcrTri1
-  classes: birds,aves
-  common: common_myna
+  classes: Aves,Passeriformes,Sturnidae,birds
+  common: common myna
   data: 0
   draft: 0
   final: 0
-  scientific: Acridotheres_tristis
+  scientific: Acridotheres tristis
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: mPhyDis1
-  classes: mammals,Mammalia
-  common: pale_spear-nosed_bat
+  classes: Mammalia,Chiroptera,Phyllostomidae,mammals
+  common: pale spear-nosed bat
   data: 0
   draft: 0
   final: 0
-  scientific: Phyllostomus_discolor
+  scientific: Phyllostomus discolor
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bCarCri1
-  classes: birds,aves
-  common: Red-legged_seriema
+  classes: Aves,Cariamiformes,Cariamidae,birds
+  common: Red-legged seriema
   data: 0
   draft: 0
   final: 0
-  scientific: Cariama_cristata
+  scientific: Cariama cristata
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: mLynCan4
-  classes: mammals,Mammalia
-  common: Canada_lynx
+  classes: Mammalia,Carnivora,Felidae,mammals
+  common: Canada lynx
   data: 0
   draft: 0
   final: 0
-  scientific: Lynx_canadensis
+  scientific: Lynx canadensis
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bBucAby1
-  classes: birds,aves
-  common: Abyssinian_ground-hornbill
+  classes: Aves,Bucerotiformes,Bucorvidae,birds
+  common: Abyssinian ground-hornbill
   data: 0
   draft: 0
   final: 0
-  scientific: Bucorvus_abyssinicus
+  scientific: Bucorvus abyssinicus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bNomDom1
-  classes: birds,aves
-  common: Masked_duck
+  classes: Aves,Anseriformes,Anatidae,birds
+  common: Masked duck
   data: 0
   draft: 0
   final: 0
-  scientific: Nomonyx_dominicus
+  scientific: Nomonyx dominicus
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: fDenClu1
-  classes: Bony fishes,Osteichthyes
-  common: denticle_herring
+  classes: Actinopterygii,Clupeiformes,Denticipitidae,Bony fishes
+  common: denticle herring
   data: 0
   draft: 0
   final: 0
-  scientific: Denticeps_clupeoides
+  scientific: Denticeps clupeoides
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: mRhiFer1
-  classes: mammals,Mammalia
-  common: greater_horseshoe_bat
+  classes: Mammalia,Chiroptera,Rhinolophidae,mammals
+  common: greater horseshoe bat
   data: 0
   draft: 0
   final: 0
-  scientific: Rhinolophus_ferrumequinum
+  scientific: Rhinolophus ferrumequinum
 - 10X: 0
   BN: 1
   HiC: 4
   Ill: 4
   PB: 1
   VGPId: bSpaCya1
-  classes: birds,aves
-  common: cinnamon_teal
+  classes: Aves,Anseriformes,Anatidae,birds
+  common: cinnamon teal
   data: 0
   draft: 0
   final: 0
-  scientific: Spatula_cyanoptera
+  scientific: Spatula cyanoptera
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: fErpCal1
-  classes: Bony fishes,Osteichthyes
+  classes: Actinopterygii,Polypteriformes,Polypteridae,Bony fishes
   common: reedfish
   data: 0
   draft: 0
   final: 0
-  scientific: Erpetoichthys_calabaricus
+  scientific: Erpetoichthys calabaricus
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: mOrnAna1
-  classes: mammals,Mammalia
+  classes: Mammalia,Monotremata,Ornithorhynchidae,mammals
   common: platypus
   data: 0
   draft: 0
   final: 0
-  scientific: Ornithorhynchus_anatinus
+  scientific: Ornithorhynchus anatinus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bGeoTri1
-  classes: birds,aves
-  common: common_yellowthroat
+  classes: Aves,Passeriformes,Parulidae,birds
+  common: common yellowthroat
   data: 0
   draft: 0
   final: 0
-  scientific: Geothlypis_trichas
+  scientific: Geothlypis trichas
 - 10X: 0
   BN: 1
   HiC: 4
   Ill: 4
   PB: 1
   VGPId: bBraLeu1
-  classes: birds,aves
-  common: barnacle_goose
+  classes: Aves,Anseriformes,Anatidae,birds
+  common: barnacle goose
   data: 0
   draft: 0
   final: 0
-  scientific: Branta_leucopsis
+  scientific: Branta leucopsis
 - 10X: 0
   BN: 5
   HiC: 4
   Ill: 4
   PB: 5
   VGPId: bTurMer1
-  classes: birds,aves
+  classes: Aves,Passeriformes,Turdidae,birds
   common: blackbird
   data: 0
   draft: 0
   final: 0
-  scientific: Turdus_merula
+  scientific: Turdus merula
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: fParRan2
-  classes: Bony fishes,Osteichthyes
-  common: Indian_glassy_fish
+  classes: Actinopterygii,Ovalentaria,Ambassidae,Bony fishes
+  common: Indian glassy fish
   data: 0
   draft: 0
   final: 0
-  scientific: Parambassis_ranga
+  scientific: Parambassis ranga
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: sScyCan1
-  classes: cartilaginous fishes,Chondrichthyes
-  common: smaller_spotted_catshark
+  classes: Chondrichthyes,Carcharhiniformes,Scyliorhinidae,cartilaginous fishes
+  common: smaller spotted catshark
   data: 0
   draft: 0
   final: 0
-  scientific: Scyliorhinus_canicula
+  scientific: Scyliorhinus canicula
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: fSalTru1
-  classes: Bony fishes,Osteichthyes
-  common: river_trout
+  classes: Actinopterygii,Salmoniformes,Salmonidae,Bony fishes
+  common: river trout
   data: 0
   draft: 0
   final: 0
-  scientific: Salmo_trutta
+  scientific: Salmo trutta
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: fArcCen1
-  classes: Bony fishes,Osteichthyes
-  common: flier_cichlid
+  classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
+  common: flier cichlid
   data: 0
   draft: 0
   final: 0
-  scientific: Archocentrus_centrarchus
+  scientific: Archocentrus centrarchus
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: fTakRub1
-  classes: Bony fishes,Osteichthyes
+  classes: Actinopterygii,Tetraodontiformes,Tetraodontidae,Bony fishes
   common: torafugu
   data: 0
   draft: 0
   final: 0
-  scientific: Takifugu_rubripes
+  scientific: Takifugu rubripes
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 5
   VGPId: mChoDid1
-  classes: mammals,Mammalia
-  common: southern_two-toed_sloth
+  classes: Mammalia,Folivora,Megalonychidae,mammals
+  common: southern two-toed sloth
   data: 0
   draft: 0
   final: 0
-  scientific: Choloepus_didactylus
+  scientific: Choloepus didactylus
 - 10X: 0
   BN: 0
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: fAstCal1
-  classes: Bony fishes,Osteichthyes
-  common: eastern_happy
+  classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
+  common: eastern happy
   data: 0
   draft: 0
   final: 0
-  scientific: Astatotilapia_calliptera
+  scientific: Astatotilapia calliptera
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 5
   VGPId: fMasArm1
-  classes: Bony fishes,Osteichthyes
-  common: zig-zag_eel
+  classes: Actinopterygii,Synbranchiformes,Mastacembelidae,Bony fishes
+  common: zig-zag eel
   data: 0
   draft: 0
   final: 0
-  scientific: Mastacembelus_armatus
+  scientific: Mastacembelus armatus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: mCalJac1
-  classes: mammals,Mammalia
-  common: white-tufted-ear_marmoset
+  classes: Mammalia,Primates,Cebidae,mammals
+  common: white-tufted-ear marmoset
   data: 0
   draft: 0
   final: 0
-  scientific: Callithrix_jacchus
+  scientific: Callithrix jacchus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: fNotCel1
-  classes: Bony fishes,Osteichthyes
-  common: New_Zealand_spotty
+  classes: Actinopterygii,Perciformes,Labridae,Bony fishes
+  common: New Zealand spotty
   data: 0
   draft: 0
   final: 0
-  scientific: Notolabrus_celidotus
+  scientific: Notolabrus celidotus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bTauEry1
-  classes: birds,aves
-  common: red-crested_turaco
+  classes: Aves,Musophagiformes,Musophagidae,birds
+  common: red-crested turaco
   data: 0
   draft: 0
   final: 0
-  scientific: Tauraco_erythrolophus
+  scientific: Tauraco erythrolophus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: mTacAcu1
-  classes: mammals,Mammalia
-  common: Australian_echidna
+  classes: Mammalia,Monotremata,Tachyglossidae,mammals
+  common: Australian echidna
   data: 0
   draft: 0
   final: 0
-  scientific: Tachyglossus_aculeatus
+  scientific: Tachyglossus aculeatus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bChiLan1
-  classes: birds,aves
-  common: lance-tailed_manakin
+  classes: Aves,Passeriformes,Pipridae,birds
+  common: lance-tailed manakin
   data: 0
   draft: 0
   final: 0
-  scientific: Chiroxiphia_lanceolata
+  scientific: Chiroxiphia lanceolata
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bPhoRub1
-  classes: birds,aves
-  common: American_flamingo
+  classes: Aves,Phoenicopteriformes,Phoenicopteridae,birds
+  common: American flamingo
   data: 0
   draft: 0
   final: 0
-  scientific: Phoenicopterus_ruber
+  scientific: Phoenicopterus ruber
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bAlcTor1
-  classes: birds,aves
+  classes: Aves,Charadriiformes,Alcidae,birds
   common: razorbill
   data: 0
   draft: 0
   final: 0
-  scientific: Alca_torda
+  scientific: Alca torda
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: mTriVul1
-  classes: mammals,Mammalia
-  common: common_brushtail
+  classes: Mammalia,Diprotodontia,Phalangeridae,mammals
+  common: common brushtail
   data: 0
   draft: 0
   final: 0
-  scientific: Trichosurus_vulpecula
+  scientific: Trichosurus vulpecula
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bSylAtr1
-  classes: birds,aves
+  classes: Aves,Passeriformes,Sylviidae,birds
   common: blackcap
   data: 0
   draft: 0
   final: 0
-  scientific: Sylvia_atricapilla
+  scientific: Sylvia atricapilla
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: fAmpCit1
-  classes: Bony fishes,Osteichthyes
-  common: Midas_cichlid
+  classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
+  common: Midas cichlid
   data: 0
   draft: 0
   final: 0
-  scientific: Amphilophus_citrinellus
+  scientific: Amphilophus citrinellus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: fHipHip1
-  classes: Bony fishes,Osteichthyes
-  common: Atlantic_halibut
+  classes: Actinopterygii,Pleuronectiformes,Pleuronectidae,Bony fishes
+  common: Atlantic halibut
   data: 0
   draft: 0
   final: 0
-  scientific: Hippoglossus_hippoglossus
+  scientific: Hippoglossus hippoglossus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: rThaEle1
-  classes: reptiles,Reptilia
-  common: Western_terrestrial_garter_snake
+  classes: Reptilia,Squamata,Colubridae,reptiles
+  common: Western terrestrial garter snake
   data: 0
   draft: 0
   final: 0
-  scientific: Thamnophis_elegans
+  scientific: Thamnophis elegans
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: mPhoSin1
-  classes: mammals,Mammalia
+  classes: Mammalia,Artiodactyla,Phocoenidae,mammals
   common: vaquita
   data: 0
   draft: 0
   final: 0
-  scientific: Phocoena_sinus
+  scientific: Phocoena sinus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bCygOlo1
-  classes: birds,aves
-  common: mute_swan
+  classes: Aves,Anseriformes,Anatidae,birds
+  common: mute swan
   data: 0
   draft: 0
   final: 0
-  scientific: Cygnus_olor
+  scientific: Cygnus olor
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: mZalCal1
-  classes: mammals,Mammalia
-  common: California_sea_lion
+  classes: Mammalia,Carnivora,Otariidae,mammals
+  common: California sea lion
   data: 0
   draft: 0
   final: 0
-  scientific: Zalophus_californianus
+  scientific: Zalophus californianus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bAytFul2
-  classes: birds,aves
-  common: tufted_duck
+  classes: Aves,Anseriformes,Anatidae,birds
+  common: tufted duck
   data: 0
   draft: 0
   final: 0
-  scientific: Aythya_fuligula
+  scientific: Aythya fuligula
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bMerNub1
-  classes: birds,aves
-  common: carmine_bee-eater
+  classes: Aves,Coraciiformes,Meropidae,birds
+  common: carmine bee-eater
   data: 0
   draft: 0
   final: 0
-  scientific: Merops_nubicus
+  scientific: Merops nubicus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bPteGut1
-  classes: birds,aves
-  common: yellow-throated_sandgrouse
+  classes: Aves,Pterocliformes,Pteroclidae,birds
+  common: yellow-throated sandgrouse
   data: 0
   draft: 0
   final: 0
-  scientific: Pterocles_gutturalis
+  scientific: Pterocles gutturalis
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bSylBor1
-  classes: birds,aves
-  common: garden_warbler
+  classes: Aves,Passeriformes,Sylviidae,birds
+  common: garden warbler
   data: 0
   draft: 0
   final: 0
-  scientific: Sylvia_borin
+  scientific: Sylvia borin
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: fAmpLab1
-  classes: Bony fishes,Osteichthyes
-  common: red_devil
+  classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
+  common: red devil
   data: 0
   draft: 0
   final: 0
-  scientific: Amphilophus_labiatus
+  scientific: Amphilophus labiatus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: sPriPec2
-  classes: cartilaginous fishes,Chondrichthyes
-  common: smalltooth_sawfish
+  classes: Chondrichthyes,Rhinopristiformes,Pristidae,cartilaginous fishes
+  common: smalltooth sawfish
   data: 0
   draft: 0
   final: 0
-  scientific: Pristis_pectinata
+  scientific: Pristis pectinata
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bCatUst1
-  classes: birds,aves
-  common: Swainson's_thrush
+  classes: Aves,Passeriformes,Turdidae,birds
+  common: Swainson's thrush
   data: 0
   draft: 0
   final: 0
-  scientific: Catharus_ustulatus
+  scientific: Catharus ustulatus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bSteHir1
-  classes: birds,aves
-  common: Common_tern
+  classes: Aves,Charadriiformes,Laridae,birds
+  common: Common tern
   data: 0
   draft: 0
   final: 0
-  scientific: Sterna_hirundo
+  scientific: Sterna hirundo
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 5
   VGPId: bHirRus1
-  classes: birds,aves
-  common: Barn_swallow
+  classes: Aves,Passeriformes,Hirundinidae,birds
+  common: Barn swallow
   data: 0
   draft: 0
   final: 0
-  scientific: Hirundo_rustica
+  scientific: Hirundo rustica
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bCorMon1
-  classes: birds,aves
-  common: New_Caledonian_crow
+  classes: Aves,Passeriformes,Corvidae,birds
+  common: New Caledonian crow
   data: 0
   draft: 0
   final: 0
-  scientific: Corvus_moneduloides
+  scientific: Corvus moneduloides
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bCucCan1
-  classes: birds,aves
-  common: common_cuckoo
+  classes: Aves,Cuculiformes,Cuculidae,birds
+  common: common cuckoo
   data: 0
   draft: 0
   final: 0
-  scientific: Cuculus_canorus
+  scientific: Cuculus canorus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: sCarCar2
-  classes: cartilaginous fishes,Chondrichthyes
-  common: great_white_shark
+  classes: Chondrichthyes,Lamniformes,Alopiidae,cartilaginous fishes
+  common: great white shark
   data: 0
   draft: 0
   final: 0
-  scientific: Carcharodon_carcharias
+  scientific: Carcharodon carcharias
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: mLemCat1
-  classes: mammals,Mammalia
-  common: Ring-tailed_lemur
+  classes: Mammalia,Lemuriformes,Lemuridae,mammals
+  common: Ring-tailed lemur
   data: 0
   draft: 0
   final: 0
-  scientific: Lemur_catta
+  scientific: Lemur catta
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: rGopFla2
-  classes: reptiles,Reptilia
-  common: Mexican_gopher_tortoise
+  classes: Reptilia,Testudines,Testudinidae,reptiles
+  common: Mexican gopher tortoise
   data: 0
   draft: 0
   final: 0
-  scientific: Gopherus_flavomarginatus
+  scientific: Gopherus flavomarginatus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: fCycLum1
-  classes: Bony fishes,Osteichthyes
+  classes: Actinopterygii,Scorpaeniformes,Cyclopteridae,Bony fishes
   common: lumpfish
   data: 0
   draft: 0
   final: 0
-  scientific: Cyclopterus_lumpus
+  scientific: Cyclopterus lumpus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: mTurTru1
-  classes: mammals,Mammalia
-  common: common_bottlenose_dolphin
+  classes: Mammalia,Artiodactyla,Delphinidae,mammals
+  common: common bottlenose dolphin
   data: 0
   draft: 0
   final: 0
-  scientific: Tursiops_truncatus
+  scientific: Tursiops truncatus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: mMusErm1
-  classes: mammals,Mammalia
+  classes: Mammalia,Carnivora,Mustelidae,mammals
   common: ermine
   data: 0
   draft: 0
   final: 0
-  scientific: Mustela_erminea
+  scientific: Mustela erminea
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: mHomSap3
-  classes: mammals,Mammalia
+  classes: Mammalia,Primates,Hominidae,mammals
   common: human
   data: 0
   draft: 0
   final: 0
-  scientific: Homo_sapiens
+  scientific: Homo sapiens
 - 10X: 0
   BN: 5
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: mBalMus1
-  classes: mammals,Mammalia
-  common: Blue_whale
+  classes: Mammalia,Artiodactyla,Balaenopteridae,mammals
+  common: Blue whale
   data: 0
   draft: 0
   final: 0
-  scientific: Balaenoptera_musculus
+  scientific: Balaenoptera musculus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bBalReg1
-  classes: birds,aves
-  common: grey_crowned-crane
+  classes: Aves,Gruiformes,Gruidae,birds
+  common: grey crowned-crane
   data: 0
   draft: 0
   final: 0
-  scientific: Balearica_regulorum
+  scientific: Balearica regulorum
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bGalGal1
-  classes: birds,aves
+  classes: Aves,Galliformes,Phasianidae,birds
   common: chicken
   data: 0
   draft: 0
   final: 0
-  scientific: Gallus_gallus
+  scientific: Gallus gallus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 5
   VGPId: bFalRus1
-  classes: birds,aves
+  classes: Aves,Falconiformes,Falconidae,birds
   common: gyrfalcon
   data: 0
   draft: 0
   final: 0
-  scientific: Falco_rusticolus
+  scientific: Falco rusticolus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 5
   VGPId: fSebUmb1
-  classes: Bony fishes,Osteichthyes
-  common: honeycomb_rockfish
+  classes: Actinopterygii,Perciformes,Sebastidae,Bony fishes
+  common: honeycomb rockfish
   data: 0
   draft: 0
   final: 0
-  scientific: Sebastes_umbrosus
+  scientific: Sebastes umbrosus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: sHemOce1
-  classes: cartilaginous fishes,Chondrichthyes
+  classes: Chondrichthyes,Orectolobiformes,Hemiscylliidae,cartilaginous fishes
   common: epaulette shark
   data: 0
   draft: 0
   final: 0
-  scientific: Hemiscyllium_ocellatum
+  scientific: Hemiscyllium ocellatum
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bFalNau1
-  classes: birds,aves
+  classes: Aves,Falconiformes,Falconidae,birds
   common: lesser kestrel
   data: 0
   draft: 0
   final: 0
-  scientific: Falco_naumanni
+  scientific: Falco naumanni
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bPogPus1
-  classes: birds,aves
+  classes: Aves,Piciformes,Lybiidae,birds
   common: Red-fronted tinkerbird
   data: 0
   draft: 0
   final: 0
-  scientific: Pogoniulus_pusillus
+  scientific: Pogoniulus pusillus
 - 10X: 0
   BN: 0
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: mEreDor1
-  classes: mammals,Mammalia
-  common: North_American_porcupine
+  classes: Mammalia,Rodentia,Erethizontidae,mammals
+  common: North American porcupine
   data: 0
   draft: 0
   final: 0
-  scientific: Erethizon_dorsatum
+  scientific: Erethizon dorsatum
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: fTauAds1
-  classes: Bony fishes,Osteichthyes
+  classes: Actinopterygii,Perciformes,Labridae,Bony fishes
   common: cunner
   data: 0
   draft: 0
   final: 0
-  scientific: Tautogolabrus_adspersus
+  scientific: Tautogolabrus adspersus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bTheCae1
-  classes: birds,aves
+  classes: Aves,Pelecaniformes,Threskiornithidae,birds
   common: plumbeous ibis
   data: 0
   draft: 0
   final: 0
-  scientific: Theristicus_caerulescens
+  scientific: Theristicus caerulescens
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bTroSur1
-  classes: birds,aves
+  classes: Aves,Trogoniformes,Trogonidae,birds
   common: Suruca trogon
   data: 0
   draft: 0
   final: 0
-  scientific: Trogon_surrucura
+  scientific: Trogon surrucura
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bGruAme1
-  classes: birds,aves
-  common: Whooping_crane
+  classes: Aves,Gruiformes,Gruidae,birds
+  common: Whooping crane
   data: 0
   draft: 0
   final: 0
-  scientific: Grus_americana
+  scientific: Grus americana
 - 10X: 0
   BN: 0
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: sPotMar1
-  classes: cartilaginous fishes,Chondrichthyes
-  common: gold_dust_stingray
+  classes: Chondrichthyes,Myliobatiformes,Potamotrygonidae,cartilaginous fishes
+  common: gold dust stingray
   data: 0
   draft: 0
   final: 0
-  scientific: Potamotrygon_marinae
+  scientific: Potamotrygon marinae
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: mSunEtr1
-  classes: mammals,Mammalia
-  common: white-toothed_pygmy_shrew
+  classes: Mammalia,Eulipotyphla,Soricidae,mammals
+  common: white-toothed pygmy shrew
   data: 0
   draft: 0
   final: 0
-  scientific: Suncus_etruscus
+  scientific: Suncus etruscus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bFalPer1
-  classes: birds,aves
-  common: peregrine_falcon
+  classes: Aves,Falconiformes,Falconidae,birds
+  common: peregrine falcon
   data: 0
   draft: 0
   final: 0
-  scientific: Falco_peregrinus
+  scientific: Falco peregrinus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bFalChe1
-  classes: birds,aves
-  common: Saker_falcon
+  classes: Aves,Falconiformes,Falconidae,birds
+  common: Saker falcon
   data: 0
   draft: 0
   final: 0
-  scientific: Falco_cherrug
+  scientific: Falco cherrug
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bFalBia1
-  classes: birds,aves
-  common: lanner_falcon
+  classes: Aves,Falconiformes,Falconidae,birds
+  common: lanner falcon
   data: 0
   draft: 0
   final: 0
-  scientific: Falco_biarmicus
+  scientific: Falco biarmicus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: mDicBic1
-  classes: mammals,Mammalia
-  common: black_rhinoceros
+  classes: Mammalia,Perissodactyla,Rhinocerotidae,mammals
+  common: black rhinoceros
   data: 0
   draft: 0
   final: 0
-  scientific: Diceros_bicornis
+  scientific: Diceros bicornis
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 2
   VGPId: mMacEug1
-  classes: mammals,Mammalia
-  common: tammar_wallaby
+  classes: Mammalia,Diprotodontia,Macropodidae,mammals
+  common: tammar wallaby
   data: 0
   draft: 0
   final: 0
-  scientific: Macropus_eugenii
+  scientific: Macropus eugenii
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: fAloSap1
-  classes: Bony fishes,Osteichthyes
-  common: American_shad
+  classes: Actinopterygii,Clupeiformes,Clupeidae,Bony fishes
+  common: American shad
   data: 0
   draft: 0
   final: 0
-  scientific: Alosa_sapidissima
+  scientific: Alosa sapidissima
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bPorHoc1
-  classes: birds,aves
-  common: South_Island_takahe
+  classes: Aves,Gruiformes,Rallidae,birds
+  common: South Island takahe
   data: 0
   draft: 0
   final: 0
-  scientific: Porphyrio_hochstetteri
+  scientific: Porphyrio hochstetteri
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bCorHaw1
-  classes: birds,aves
-  common: hawaiian_crow
+  classes: Aves,Passeriformes,Corvidae,birds
+  common: hawaiian crow
   data: 0
   draft: 0
   final: 0
-  scientific: Corvus_hawaiiensis
+  scientific: Corvus hawaiiensis
 - 10X: 0
   BN: 0
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: fScoJap1
-  classes: Bony fishes,Osteichthyes
-  common: chub_mackerel
+  classes: Actinopterygii,Scombriformes,Scombridae,Bony fishes
+  common: chub mackerel
   data: 0
   draft: 0
   final: 0
-  scientific: Scomber_japonicus
+  scientific: Scomber japonicus
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: mManPen7
-  classes: mammals,Mammalia
-  common: Chinese_pangolin
+  classes: Mammalia,Pholidota,Manidae,mammals
+  common: Chinese pangolin
   data: 0
   draft: 0
   final: 0
-  scientific: Manis_pentadactyla
+  scientific: Manis pentadactyla
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 2
   VGPId: mEscRob1
-  classes: mammals,Mammalia
-  common: grey_whale
+  classes: Mammalia,Artiodactyla,Eschrichtiidae,mammals
+  common: grey whale
   data: 0
   draft: 0
   final: 0
-  scientific: Eschrichtius_robustus
+  scientific: Eschrichtius robustus
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: mThoBot1
-  classes: mammals,Mammalia
-  common: Botta's_pocket_gopher
+  classes: Mammalia,Rodentia,Geomyidae,mammals
+  common: Botta's pocket gopher
   data: 0
   draft: 0
   final: 0
-  scientific: Thomomys_bottae
+  scientific: Thomomys bottae
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 5
   VGPId: aRanSyl1
-  classes: amphibians,Amphibia
-  common: wood_frog
+  classes: Amphibia,Anura,Ranidae,amphibians
+  common: wood frog
   data: 0
   draft: 0
   final: 0
-  scientific: Rana_sylvatica
+  scientific: Rana sylvatica
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: aGasCar1
-  classes: amphibians,Amphibia
-  common: eastern_narrow-mouthed_toad
+  classes: Amphibia,Anura,Microhylidae,amphibians
+  common: eastern narrow-mouthed toad
   data: 0
   draft: 0
   final: 0
-  scientific: Gastrophryne_carolinensis
+  scientific: Gastrophryne carolinensis
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 2
   VGPId: fMelPam1
-  classes: Bony fishes,Osteichthyes
-  common: midwater_eelpout
+  classes: Actinopterygii,Perciformes,Zoarcidae,Bony fishes
+  common: midwater eelpout
   data: 0
   draft: 0
   final: 0
-  scientific: Melanostigma_pammelas
+  scientific: Melanostigma pammelas
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 2
   VGPId: rEryReg1
-  classes: reptiles,Reptilia
-  common: royal_ground_snake
+  classes: Reptilia,Squamata,Dipsadidae,reptiles
+  common: royal ground snake
   data: 0
   draft: 0
   final: 0
-  scientific: Erythrolamprus_reginae
+  scientific: Erythrolamprus reginae
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bHaeMex1
-  classes: birds,aves
-  common: house_finch
+  classes: Aves,Passeriformes,Fringillidae,birds
+  common: house finch
   data: 0
   draft: 0
   final: 0
-  scientific: Haemorhous_mexicanus
+  scientific: Haemorhous mexicanus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 2
   VGPId: mSorAra1
-  classes: mammals,Mammalia
-  common: European_shrew
+  classes: Mammalia,Eulipotyphla,Soricidae,mammals
+  common: European shrew
   data: 0
   draft: 0
   final: 0
-  scientific: Sorex_araneus
+  scientific: Sorex araneus
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 2
   VGPId: mOchPri1
-  classes: mammals,Mammalia
+  classes: Mammalia,Lagomorpha,Ochotonidae,mammals
   common: American pika
   data: 0
   draft: 0
   final: 0
-  scientific: Ochotona_princeps
+  scientific: Ochotona princeps
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 1
   VGPId: bGypBar2
-  classes: birds,aves
+  classes: Aves,Falconiformes,Accipitridae,birds
   common: lammergeier
   data: 0
   draft: 0
   final: 0
-  scientific: Gypaetus_barbatus
+  scientific: Gypaetus barbatus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 0
   VGPId: fFunDia1
-  classes: Bony fishes,Osteichthyes
-  common: banded_killifish
+  classes: Actinopteri,Cyprinodontiformes,Fundulidae,Bony fishes
+  common: banded killifish
   data: 0
   draft: 0
   final: 0
-  scientific: Fundulus_diaphanus
+  scientific: Fundulus diaphanus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 0
   VGPId: mNeoNeb1
-  classes: mammals,Mammalia
-  common: Clouded_leopard
+  classes: Mammalia,Carnivora,Felidae,mammals
+  common: Clouded leopard
   data: 0
   draft: 0
   final: 0
-  scientific: Neofelis_nebulosa
+  scientific: Neofelis nebulosa
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 0
   VGPId: mDasNov1
-  classes: mammals,Mammalia
-  common: nine-banded_armadillo
+  classes: Mammalia,Cingulata,Dasypodidae,mammals
+  common: nine-banded armadillo
   data: 0
   draft: 0
   final: 0
-  scientific: Dasypus_novemcinctus
+  scientific: Dasypus novemcinctus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 2
   VGPId: fNeoGra1
-  classes: Bony fishes,Osteichthyes
-  common: lesser_salmon_catfish
+  classes: Actinopterygii,Siluriformes,Ariidae,Bony fishes
+  common: lesser salmon catfish
   data: 0
   draft: 0
   final: 0
-  scientific: Neoarius_graeffei
+  scientific: Neoarius graeffei
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: rAllMis1
-  classes: reptiles,Reptilia
-  common: American_alligator
+  classes: Reptilia,Crocodylia,Alligatoridae,reptiles
+  common: American alligator
   data: 0
   draft: 0
   final: 0
-  scientific: Alligator_mississippiensis
+  scientific: Alligator mississippiensis
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: rRhiFlo1
-  classes: reptiles,Reptilia
-  common: Florida_worm_lizard
+  classes: Reptilia,Squamata,Rhineuridae,reptiles
+  common: Florida worm lizard
   data: 0
   draft: 0
   final: 0
-  scientific: Rhineura_floridana
+  scientific: Rhineura floridana
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: sHetFra1
-  classes: cartilaginous fishes,Chondrichthyes
-  common: horn_shark
+  classes: Chondrichthyes,Heterodontiformes,Heterodontidae,cartilaginous fishes
+  common: horn shark
   data: 0
   draft: 0
   final: 0
-  scientific: Heterodontus_francisci
+  scientific: Heterodontus francisci
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: rMalTer1
-  classes: reptiles,Reptilia
-  common: diamondback_terrapin
+  classes: Reptilia,Testudines,Emydidae,reptiles
+  common: diamondback terrapin
   data: 0
   draft: 0
   final: 0
-  scientific: Malaclemys_terrapin
+  scientific: Malaclemys terrapin
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 2
   VGPId: mEubGla1
-  classes: mammals,Mammalia
-  common: North_Atlantic_right_whale
+  classes: Mammalia,Artiodactyla,Balaenidae,mammals
+  common: North Atlantic right whale
   data: 0
   draft: 0
   final: 0
-  scientific: Eubalaena_glacialis
+  scientific: Eubalaena glacialis
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: rEulEur1
-  classes: reptiles,Reptilia
+  classes: Reptilia,Squamata,Sphaerodactylidae,reptiles
   common: tarantolino
   data: 0
   draft: 0
   final: 0
-  scientific: Euleptes_europaea
+  scientific: Euleptes europaea
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: aHylSar1
-  classes: amphibians,Amphibia
-  common: Sardinian_tree_frog
+  classes: Amphibia,Anura,Hylidae,amphibians
+  common: Sardinian tree frog
   data: 0
   draft: 0
   final: 0
-  scientific: Hyla_sarda
+  scientific: Hyla sarda
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: aLepFus1
-  classes: amphibians,Amphibia
-  common: rufous_frog
+  classes: Amphibia,Anura,Leptodactylidae,amphibians
+  common: rufous frog
   data: 0
   draft: 0
   final: 0
-  scientific: Leptodactylus_fuscus
+  scientific: Leptodactylus fuscus
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: aAnoBae1
-  classes: amphibians,Amphibia
-  common: rocket_frog
+  classes: Amphibia,Anura,Dendrobatidae,amphibians
+  common: rocket frog
   data: 0
   draft: 0
   final: 0
-  scientific: Anomaloglossus_baeobatrachus
+  scientific: Anomaloglossus baeobatrachus
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: aSpeBom1
-  classes: amphibians,Amphibia
-  common: plains_spadefoot_toad
+  classes: Amphibia,Anura,Pelobatidae,amphibians
+  common: plains spadefoot toad
   data: 0
   draft: 0
   final: 0
-  scientific: Spea_bombifrons
+  scientific: Spea bombifrons
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: mNycCou1
-  classes: mammals,Mammalia
-  common: slow_loris
+  classes: Mammalia,Primates,Lorisidae,mammals
+  common: slow loris
   data: 0
   draft: 0
   final: 0
-  scientific: Nycticebus_coucang
+  scientific: Nycticebus coucang
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: bMelMel1
-  classes: birds,aves
-  common: song_sparrow
+  classes: Aves,Passeriformes,Passerellidae,birds
+  common: song sparrow
   data: 0
   draft: 0
   final: 0
-  scientific: Melospiza_melodia
+  scientific: Melospiza melodia
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: bPasSan1
-  classes: birds,aves
-  common: Savannah_sparrow
+  classes: Aves,Passeriformes,Passerellidae,birds
+  common: Savannah sparrow
   data: 0
   draft: 0
   final: 0
-  scientific: Passerculus_sandwichensis
+  scientific: Passerculus sandwichensis
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: bAmmCau1
-  classes: birds,aves
-  common: saltmarsh_sparrow
+  classes: Aves,Passeriformes,Passerellidae,birds
+  common: saltmarsh sparrow
   data: 0
   draft: 0
   final: 0
-  scientific: Ammodramus_caudacutus
+  scientific: Ammodramus caudacutus
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: aHypRig1
-  classes: amphibians,Amphibia
-  common: Riggenbach's_reed_frog
+  classes: Amphibia,Anura,Hyperoliidae,amphibians
+  common: Riggenbach's reed frog
   data: 0
   draft: 0
   final: 0
-  scientific: Hyperolius_riggenbachi
+  scientific: Hyperolius riggenbachi
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: bAraAra1
-  classes: birds,aves
-  common: blue-and-yellow_macaw
+  classes: Aves,Psittaciformes,Psittacidae,birds
+  common: blue-and-yellow macaw
   data: 0
   draft: 0
   final: 0
-  scientific: Ara_ararauna
+  scientific: Ara ararauna
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: aPseCor1
-  classes: amphibians,Amphibia
-  common: corroboree_frog
+  classes: Amphibia,Anura,Myobatrachidae,amphibians
+  common: corroboree frog
   data: 0
   draft: 0
   final: 0
-  scientific: Pseudophryne_corroboree
+  scientific: Pseudophryne corroboree
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bMelUnd1
-  classes: birds,aves
+  classes: Aves,Psittaciformes,Psittaculidae,birds
   common: budgerigar
   data: 0
   draft: 0
   final: 0
-  scientific: Melopsittacus_undulatus
+  scientific: Melopsittacus undulatus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: rLacAgi1
-  classes: reptiles,Reptilia
-  common: sand_lizard
+  classes: Reptilia,Squamata,Lacertidae,reptiles
+  common: sand lizard
   data: 0
   draft: 0
   final: 0
-  scientific: Lacerta_agilis
+  scientific: Lacerta agilis
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bAcaChl1
-  classes: birds,aves
+  classes: Aves,Passeriformes,Acanthisittidae,birds
   common: rifleman
   data: 0
   draft: 0
   final: 0
-  scientific: Acanthisitta_chloris
+  scientific: Acanthisitta chloris
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: mMonDom1
-  classes: mammals,Mammalia
-  common: gray_short-tailed_opossum
+  classes: Mammalia,Didelphimorphia,Didelphidae,mammals
+  common: gray short-tailed opossum
   data: 0
   draft: 0
   final: 0
-  scientific: Monodelphis_domestica
+  scientific: Monodelphis domestica
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: aDenEbr1
-  classes: amphibians,Amphibia
-  common: hourglass_treefrog
+  classes: Amphibia,Anura,Hylidae,amphibians
+  common: hourglass treefrog
   data: 0
   draft: 0
   final: 0
-  scientific: Dendropsophus_ebraccatus
+  scientific: Dendropsophus ebraccatus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bGalGal4
-  classes: birds,aves
+  classes: Aves,Galliformes,Phasianidae,birds
   common: chicken
   data: 0
   draft: 0
   final: 0
-  scientific: Gallus_gallus
+  scientific: Gallus gallus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bGalGal5
-  classes: birds,aves
+  classes: Aves,Galliformes,Phasianidae,birds
   common: chicken
   data: 0
   draft: 0
   final: 0
-  scientific: Gallus_gallus
+  scientific: Gallus gallus
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: bAmmNel1
-  classes: birds,aves
-  common: Nelson's_sparrow
+  classes: Aves,Passeriformes,Passerellidae,birds
+  common: Nelson's sparrow
   data: 0
   draft: 0
   final: 0
-  scientific: Ammospiza_nelsoni
+  scientific: Ammospiza nelsoni
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: fCypLut1
-  classes: Bony fishes,Osteichthyes
-  common: red_shiner
+  classes: Actinopterygii,Cypriniformes,Leuciscidae,Bony fishes
+  common: red shiner
   data: 0
   draft: 0
   final: 0
-  scientific: Cyprinella_lutrensis
+  scientific: Cyprinella lutrensis
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: mRhiSin1
-  classes: mammals,Mammalia
-  common: Chinese_rufous_horseshoe_bat
+  classes: Mammalia,Chiroptera,Rhinolophidae,mammals
+  common: Chinese rufous horseshoe bat
   data: 0
   draft: 0
   final: 0
-  scientific: Rhinolophus_sinicus
+  scientific: Rhinolophus sinicus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: rGopEvg1
-  classes: reptiles,Reptilia
-  common: Goodes_thornscrub_tortoise
+  classes: Reptilia,Testudines,Testudinidae,reptiles
+  common: Goodes thornscrub tortoise
   data: 0
   draft: 0
   final: 0
-  scientific: Gopherus_evgoodei
+  scientific: Gopherus evgoodei
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: bPodStr1
-  classes: birds,aves
-  common: tawny_frogmouth
+  classes: Aves,Caprimulgiformes,Podargidae,birds
+  common: tawny frogmouth
   data: 0
   draft: 0
   final: 0
-  scientific: Podargus_strigoides
+  scientific: Podargus strigoides
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: fCycLum2
-  classes: Bony fishes,Osteichthyes
+  classes: Actinopterygii,Scorpaeniformes,Cyclopteridae,Bony fishes
   common: lumpfish
   data: 0
   draft: 0
   final: 0
-  scientific: Cyclopterus_lumpus
+  scientific: Cyclopterus lumpus
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 2
   VGPId: mMesDen1
-  classes: mammals,Mammalia
-  common: Blainville's_beaked_whale
+  classes: Mammalia,Artiodactyla,Ziphiidae,mammals
+  common: Blainville's beaked whale
   data: 0
   draft: 0
   final: 0
-  scientific: Mesoplodon_densirostris
+  scientific: Mesoplodon densirostris
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: aSalSal1
-  classes: amphibians,Amphibia
-  common: fire_salamander
+  classes: Amphibia,Caudata,Salamandridae,amphibians
+  common: fire salamander
   data: 0
   draft: 0
   final: 0
-  scientific: Salamandra_salamandra
+  scientific: Salamandra salamandra
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bTaeGut2
-  classes: birds,aves
-  common: zebra_finch
+  classes: Aves,Passeriformes,Estrildidae,birds
+  common: zebra finch
   data: 0
   draft: 0
   final: 0
-  scientific: Taeniopygia_guttata
+  scientific: Taeniopygia guttata
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 0
   VGPId: fOsmMor3
-  classes: Bony fishes,Osteichthyes
-  common: rainbow_smelt
+  classes: Actinopterygii,Osmeriformes,Osmeridae,Bony fishes
+  common: rainbow smelt
   data: 0
   draft: 0
   final: 0
-  scientific: Osmerus_mordax
+  scientific: Osmerus mordax
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 1
   VGPId: mKogBre1
-  classes: mammals,Mammalia
-  common: pygmy_sperm_whale
+  classes: Mammalia,Artiodactyla,Physeteridae,mammals
+  common: pygmy sperm whale
   data: 0
   draft: 0
   final: 0
-  scientific: Kogia_breviceps
+  scientific: Kogia breviceps
 - 10X: 0
   BN: 1
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: mRouAeg1
-  classes: mammals,Mammalia
-  common: Egyptian_rousette
+  classes: Mammalia,Chiroptera,Pteropodidae,mammals
+  common: Egyptian rousette
   data: 0
   draft: 0
   final: 0
-  scientific: Rousettus_aegyptiacus
+  scientific: Rousettus aegyptiacus
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: bPtePen1
-  classes: birds,aves
-  common: lesser_rhea
+  classes: Aves,Rheiformes,Rheidae,birds
+  common: lesser rhea
   data: 0
   draft: 0
   final: 0
-  scientific: Rhea_pennata
+  scientific: Rhea pennata
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bHemCom1
-  classes: birds,aves
-  common: whiskered_treeswift
+  classes: Aves,Apodiformes,Apodidae,birds
+  common: whiskered treeswift
   data: 0
   draft: 0
   final: 0
-  scientific: Hemiprocne_comata
+  scientific: Hemiprocne comata
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bNycGra1
-  classes: birds,aves
-  common: great_potoo
+  classes: Aves,Caprimulgiformes,Nyctibiidae,birds
+  common: great potoo
   data: 0
   draft: 0
   final: 0
-  scientific: Nyctibius_grandis
+  scientific: Nyctibius grandis
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: rSteOdo1
-  classes: reptiles,Reptilia
-  common: eastern_musk_turtle
+  classes: Reptilia,Testudines,Kinosternidae,reptiles
+  common: eastern musk turtle
   data: 0
   draft: 0
   final: 0
-  scientific: Sternotherus_odoratus
+  scientific: Sternotherus odoratus
 - 10X: 0
   BN: 0
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bVidCha1
-  classes: birds,aves
-  common: village_indigobird
+  classes: Aves,Passeriformes,Estrildidae,birds
+  common: village indigobird
   data: 0
   draft: 0
   final: 0
-  scientific: Vidua_chalybeata
+  scientific: Vidua chalybeata
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bCicMag1
-  classes: birds,aves
-  common: maguari_stork
+  classes: Aves,Ciconiiformes,Ciconiidae,birds
+  common: maguari stork
   data: 0
   draft: 0
   final: 0
-  scientific: Ciconia_maguari
+  scientific: Ciconia maguari
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: fPerMag1
-  classes: Bony fishes,Osteichthyes
-  common: Korean_giant-fin_mudskipper
+  classes: Actinopterygii,Gobiiformes,Gobiidae,Bony fishes
+  common: Korean giant-fin mudskipper
   data: 0
   draft: 0
   final: 0
-  scientific: Periophthalmus_magnuspinnatus
+  scientific: Periophthalmus magnuspinnatus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: rVipLat1
-  classes: reptiles,Reptilia
-  common: snub-nosed_viper
+  classes: Reptilia,Squamata,Viperidae,reptiles
+  common: snub-nosed viper
   data: 0
   draft: 0
   final: 0
-  scientific: Vipera_latastei
+  scientific: Vipera latastei
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: bAmmMai1
-  classes: birds,aves
-  common: seaside_sparrow
+  classes: Aves,Passeriformes,Passerellidae,birds
+  common: seaside sparrow
   data: 0
   draft: 0
   final: 0
-  scientific: Ammodramus_maritimus
+  scientific: Ammodramus maritimus
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: bPluApr1
-  classes: birds,aves
-  common: European_golden_plover
+  classes: Aves,Charadriiformes,Charadriidae,birds
+  common: European golden plover
   data: 0
   draft: 0
   final: 0
-  scientific: Pluvialis_apricaria
+  scientific: Pluvialis apricaria
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: sNarBan1
-  classes: cartilaginous fishes,Chondrichthyes
-  common: Caribbean_electric_ray
+  classes: Chondrichthyes,Torpediniformes,Narcinidae,cartilaginous fishes
+  common: Caribbean electric ray
   data: 0
   draft: 0
   final: 0
-  scientific: Narcine_bancroftii
+  scientific: Narcine bancroftii
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 0
   VGPId: xcOctChie1
-  classes: invertebrates
-  common: lesser_Pacific_striped_octopus
+  classes: Cephalopoda,Octopoda,Octopodidae,invertebrates
+  common: lesser Pacific striped octopus
   data: 0
   draft: 0
   final: 0
-  scientific: Octopus_chierchiae
+  scientific: Octopus chierchiae
 - 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
   PB: 1
   VGPId: fCycLum2
-  classes: Bony fishes,Osteichthyes
+  classes: Actinopterygii,Scorpaeniformes,Cyclopteridae,Bony fishes
   common: lumpfish
   data: 0
   draft: 0
   final: 0
-  scientific: Cyclopterus_lumpus
+  scientific: Cyclopterus lumpus
 - 10X: 0
   BN: 5
   HiC: 5
   Ill: 4
   PB: 5
   VGPId: bTaeGut1
-  classes: birds,aves
-  common: zebra_finch
+  classes: Aves,Passeriformes,Estrildidae,birds
+  common: zebra finch
   data: 0
   draft: 0
   final: 0
-  scientific: Taeniopygia_guttata
+  scientific: Taeniopygia guttata
 - 10X: 0
   BN: 0
   HiC: 0
   Ill: 4
   PB: 1
   VGPId: kcPetMari1
-  classes: jawless,Agnatha
-  common: sea_lamprey
+  classes: Hyperoartia,Petromyzontiformes,Petromyzontidae,jawless,Agnatha
+  common: sea lamprey
   data: 0
   draft: 0
   final: 0
-  scientific: Petromyzon_marinus
+  scientific: Petromyzon marinus
 - 10X: 0
   BN: 1
   HiC: 0
   Ill: 4
   PB: 2
   VGPId: mPseCra1
-  classes: mammals,Mammalia
-  common: false_killer_whale
+  classes: Mammalia,Artiodactyla,Delphinidae,mammals
+  common: false killer whale
   data: 0
   draft: 0
   final: 0
-  scientific: Pseudorca_crassidens
+  scientific: Pseudorca crassidens
