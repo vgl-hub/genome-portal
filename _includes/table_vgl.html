@@ -66,6 +66,10 @@ $(document).ready(function() {
     $('#example').DataTable({
                              "lengthMenu": [[15, 25, 50, -1], [15, 25, 50, "All"]],
                              "pageLength": 15
+                                         columnDefs: [{
+  orderable: false,
+  targets: 3
+  }]
                              });
 });
 
