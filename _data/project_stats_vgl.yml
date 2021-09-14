@@ -372,18 +372,6 @@ toc:
   final: 0
   scientific: Choloepus didactylus
 - 10X: 0
-  BN: 0
-  HiC: 5
-  Ill: 4
-  PB: 5
-  VGPId: fAstCal1
-  classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
-  common: eastern happy
-  data: 0
-  draft: 0
-  final: 0
-  scientific: Astatotilapia calliptera
-- 10X: 0
   BN: 1
   HiC: 1
   Ill: 4
@@ -1835,18 +1823,6 @@ toc:
   draft: 0
   final: 0
   scientific: Octopus chierchiae
-- 10X: 0
-  BN: 1
-  HiC: 1
-  Ill: 4
-  PB: 1
-  VGPId: fCycLum2
-  classes: Actinopterygii,Scorpaeniformes,Cyclopteridae,Bony fishes
-  common: lumpfish
-  data: 0
-  draft: 0
-  final: 0
-  scientific: Cyclopterus lumpus
 - 10X: 0
   BN: 5
   HiC: 5
