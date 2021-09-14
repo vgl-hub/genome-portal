@@ -11,7 +11,7 @@ toc:
   draft: 0
   final: 0
   scientific: Elephas maximus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -35,7 +35,7 @@ toc:
   draft: 0
   final: 0
   scientific: Harpia harpyja
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -47,7 +47,7 @@ toc:
   draft: 0
   final: 0
   scientific: Amblyraja radiata
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -143,7 +143,7 @@ toc:
   draft: 0
   final: 0
   scientific: Acridotheres tristis
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -155,7 +155,7 @@ toc:
   draft: 0
   final: 0
   scientific: Phyllostomus discolor
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -167,7 +167,7 @@ toc:
   draft: 0
   final: 0
   scientific: Cariama cristata
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -179,7 +179,7 @@ toc:
   draft: 0
   final: 0
   scientific: Lynx canadensis
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -251,7 +251,7 @@ toc:
   draft: 0
   final: 0
   scientific: Erpetoichthys calabaricus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 5
   Ill: 4
@@ -263,7 +263,7 @@ toc:
   draft: 0
   final: 0
   scientific: Ornithorhynchus anatinus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -359,7 +359,7 @@ toc:
   draft: 0
   final: 0
   scientific: Takifugu rubripes
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -383,7 +383,7 @@ toc:
   draft: 0
   final: 0
   scientific: Mastacembelus armatus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -395,7 +395,7 @@ toc:
   draft: 0
   final: 0
   scientific: Callithrix jacchus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -407,7 +407,7 @@ toc:
   draft: 0
   final: 0
   scientific: Notolabrus celidotus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -419,7 +419,7 @@ toc:
   draft: 0
   final: 0
   scientific: Tauraco erythrolophus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -431,7 +431,7 @@ toc:
   draft: 0
   final: 0
   scientific: Tachyglossus aculeatus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -443,7 +443,7 @@ toc:
   draft: 0
   final: 0
   scientific: Chiroxiphia lanceolata
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -455,7 +455,7 @@ toc:
   draft: 0
   final: 0
   scientific: Phoenicopterus ruber
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -467,7 +467,7 @@ toc:
   draft: 0
   final: 0
   scientific: Alca torda
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -479,7 +479,7 @@ toc:
   draft: 0
   final: 0
   scientific: Trichosurus vulpecula
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -503,7 +503,7 @@ toc:
   draft: 0
   final: 0
   scientific: Amphilophus citrinellus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -515,7 +515,7 @@ toc:
   draft: 0
   final: 0
   scientific: Hippoglossus hippoglossus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -527,7 +527,7 @@ toc:
   draft: 0
   final: 0
   scientific: Thamnophis elegans
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -539,7 +539,7 @@ toc:
   draft: 0
   final: 0
   scientific: Phocoena sinus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -551,7 +551,7 @@ toc:
   draft: 0
   final: 0
   scientific: Cygnus olor
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -563,7 +563,7 @@ toc:
   draft: 0
   final: 0
   scientific: Zalophus californianus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -575,7 +575,7 @@ toc:
   draft: 0
   final: 0
   scientific: Aythya fuligula
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -587,7 +587,7 @@ toc:
   draft: 0
   final: 0
   scientific: Merops nubicus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -599,7 +599,7 @@ toc:
   draft: 0
   final: 0
   scientific: Pterocles gutturalis
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -623,7 +623,7 @@ toc:
   draft: 0
   final: 0
   scientific: Amphilophus labiatus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -635,7 +635,7 @@ toc:
   draft: 0
   final: 0
   scientific: Pristis pectinata
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -647,7 +647,7 @@ toc:
   draft: 0
   final: 0
   scientific: Catharus ustulatus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -659,7 +659,7 @@ toc:
   draft: 0
   final: 0
   scientific: Sterna hirundo
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -671,7 +671,7 @@ toc:
   draft: 0
   final: 0
   scientific: Hirundo rustica
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -683,7 +683,7 @@ toc:
   draft: 0
   final: 0
   scientific: Corvus moneduloides
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -695,7 +695,7 @@ toc:
   draft: 0
   final: 0
   scientific: Cuculus canorus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -707,7 +707,7 @@ toc:
   draft: 0
   final: 0
   scientific: Carcharodon carcharias
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -719,7 +719,7 @@ toc:
   draft: 0
   final: 0
   scientific: Lemur catta
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -731,7 +731,7 @@ toc:
   draft: 0
   final: 0
   scientific: Gopherus flavomarginatus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -743,7 +743,7 @@ toc:
   draft: 0
   final: 0
   scientific: Cyclopterus lumpus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -755,7 +755,7 @@ toc:
   draft: 0
   final: 0
   scientific: Tursiops truncatus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -767,7 +767,7 @@ toc:
   draft: 0
   final: 0
   scientific: Mustela erminea
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -791,7 +791,7 @@ toc:
   draft: 0
   final: 0
   scientific: Balaenoptera musculus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -803,7 +803,7 @@ toc:
   draft: 0
   final: 0
   scientific: Balearica regulorum
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -815,7 +815,7 @@ toc:
   draft: 0
   final: 0
   scientific: Gallus gallus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -827,7 +827,7 @@ toc:
   draft: 0
   final: 0
   scientific: Falco rusticolus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -839,7 +839,7 @@ toc:
   draft: 0
   final: 0
   scientific: Sebastes umbrosus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -851,7 +851,7 @@ toc:
   draft: 0
   final: 0
   scientific: Hemiscyllium ocellatum
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -863,7 +863,7 @@ toc:
   draft: 0
   final: 0
   scientific: Falco naumanni
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -875,7 +875,7 @@ toc:
   draft: 0
   final: 0
   scientific: Pogoniulus pusillus
-- 10X: 0
+- 10X: 1
   BN: 0
   HiC: 1
   Ill: 4
@@ -887,7 +887,7 @@ toc:
   draft: 0
   final: 0
   scientific: Erethizon dorsatum
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -899,7 +899,7 @@ toc:
   draft: 0
   final: 0
   scientific: Tautogolabrus adspersus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -911,7 +911,7 @@ toc:
   draft: 0
   final: 0
   scientific: Theristicus caerulescens
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -923,7 +923,7 @@ toc:
   draft: 0
   final: 0
   scientific: Trogon surrucura
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -947,7 +947,7 @@ toc:
   draft: 0
   final: 0
   scientific: Potamotrygon marinae
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -1007,7 +1007,7 @@ toc:
   draft: 0
   final: 0
   scientific: Diceros bicornis
-- 10X: 0
+- 10X: 4
   BN: 1
   HiC: 1
   Ill: 4
@@ -1187,7 +1187,7 @@ toc:
   draft: 0
   final: 0
   scientific: Ochotona princeps
-- 10X: 0
+- 10X: 4
   BN: 1
   HiC: 0
   Ill: 4
@@ -1199,7 +1199,7 @@ toc:
   draft: 0
   final: 0
   scientific: Gypaetus barbatus
-- 10X: 0
+- 10X: 4
   BN: 1
   HiC: 1
   Ill: 4
@@ -1451,7 +1451,7 @@ toc:
   draft: 0
   final: 0
   scientific: Pseudophryne corroboree
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -1463,7 +1463,7 @@ toc:
   draft: 0
   final: 0
   scientific: Melopsittacus undulatus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -1475,7 +1475,7 @@ toc:
   draft: 0
   final: 0
   scientific: Lacerta agilis
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -1499,7 +1499,7 @@ toc:
   draft: 0
   final: 0
   scientific: Monodelphis domestica
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -1511,7 +1511,7 @@ toc:
   draft: 0
   final: 0
   scientific: Dendropsophus ebraccatus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -1523,7 +1523,7 @@ toc:
   draft: 0
   final: 0
   scientific: Gallus gallus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -1547,7 +1547,7 @@ toc:
   draft: 0
   final: 0
   scientific: Ammospiza nelsoni
-- 10X: 0
+- 10X: 4
   BN: 0
   HiC: 0
   Ill: 4
@@ -1571,7 +1571,7 @@ toc:
   draft: 0
   final: 0
   scientific: Rhinolophus sinicus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -1631,7 +1631,7 @@ toc:
   draft: 0
   final: 0
   scientific: Salamandra salamandra
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -1643,7 +1643,7 @@ toc:
   draft: 0
   final: 0
   scientific: Taeniopygia guttata
-- 10X: 0
+- 10X: 4
   BN: 1
   HiC: 1
   Ill: 4
@@ -1691,7 +1691,7 @@ toc:
   draft: 0
   final: 0
   scientific: Rhea pennata
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -1703,7 +1703,7 @@ toc:
   draft: 0
   final: 0
   scientific: Hemiprocne comata
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -1739,7 +1739,7 @@ toc:
   draft: 0
   final: 0
   scientific: Vidua chalybeata
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -1751,7 +1751,7 @@ toc:
   draft: 0
   final: 0
   scientific: Ciconia maguari
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -1787,7 +1787,7 @@ toc:
   draft: 0
   final: 0
   scientific: Ammodramus maritimus
-- 10X: 0
+- 10X: 1
   BN: 1
   HiC: 1
   Ill: 4
@@ -1823,7 +1823,7 @@ toc:
   draft: 0
   final: 0
   scientific: Octopus chierchiae
-- 10X: 0
+- 10X: 1
   BN: 5
   HiC: 5
   Ill: 4
@@ -1835,7 +1835,7 @@ toc:
   draft: 0
   final: 0
   scientific: Taeniopygia guttata
-- 10X: 0
+- 10X: 1
   BN: 0
   HiC: 0
   Ill: 4
