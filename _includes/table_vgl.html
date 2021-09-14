@@ -53,6 +53,7 @@
      <tbody>
     {% for entry in site.data.project_stats_vgl.toc %}
         <tr>
+          <td style="display: none">{{ entry.classes }}</td/>
           <td>{{ entry.VGPId }}</td/>
           <td><i>{{ entry.scientific }}</i></td>
           <td>{{ entry.common }}</td/>
@@ -65,6 +66,7 @@
     </tbody>
   <tfoot>
     <tr>
+            <th style="display: none">Class</th>                                                                         
             <th>Id</th>
             <th>Scientific Name</th>
             <th>Common Name</th>
