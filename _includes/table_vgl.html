@@ -14,26 +14,6 @@
                                                                       
 <font size="2" >
 
-<div id="app">
-  {{movies}}
-  {{movies.length}}
-  <table v-if="movies.length">
-    <thead>
-      <tr>
-        <th>Title</th>
-        <th>Year</th>
-        <th>URL</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr v-for="movie in movies">
-        <td>{{movie.Title}}</td>
-        <td>{{movie.Year}}</td>
-        <td><a :href="movie.Url" target="_blank">{{movie.Url}}</a></td>
-      </tr>
-    </tbody>
-  </table>
-</div>             
               
               
 <table id="example" class="table table-striped table-sm table-responsive" style="width:100%">
@@ -81,23 +61,6 @@
 </div>
 
 <script>
-const moviesUrl = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTtKbv_S8Fdo3HLhm64Tc94WZ6FuqtzqePIjuejNFJxKkUvAE8JF8V2KgKoz1n5jQUDfL8A3F-QoDWk/pub?gid=0&single=true&output=csv";
-
-const app = new Vue({
-  el: "#app",
-  data: {
-            movies:[]
-           },
-  created(){Papa.parse(moviesUrl, {
-       download:true,
-       header:true,
-        complete:res => {
-              this.movies = res.data;console.log(this.movies);
-                 }
-})
-     }
-           })
-
 $(document).ready(function() {
     $('#example').DataTable({
                              "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],
