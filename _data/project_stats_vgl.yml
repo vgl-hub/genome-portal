@@ -5,11 +5,9 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mEleMax1
+  asm: running
   classes: Mammalia,Proboscidea,Elephantidae,mammals
   common: Asiatic elephant
-  data: 0
-  draft: 0
-  final: 0
   scientific: Elephas maximus
 - 10X: 1
   BN: 1
@@ -17,11 +15,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mArvNil1
+  asm: running
   classes: Mammalia,Rodentia,Muridae,mammals
   common: African grass rat
-  data: 0
-  draft: 0
-  final: 0
   scientific: Arvicanthis niloticus
 - 10X: 4
   BN: 1
@@ -29,11 +25,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bHarHar1
+  asm: running
   classes: Aves,Falconiformes,Accipitridae,birds
   common: Harpy eagle
-  data: 0
-  draft: 0
-  final: 0
   scientific: Harpia harpyja
 - 10X: 1
   BN: 1
@@ -41,11 +35,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: sAmbRad1
+  asm: running
   classes: Chondrichthyes,Rajiformes,Rajidae,cartilaginous fishes
   common: thorny skate
-  data: 0
-  draft: 0
-  final: 0
   scientific: Amblyraja radiata
 - 10X: 1
   BN: 1
@@ -53,11 +45,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: rDerCor1
+  asm: running
   classes: Reptilia,Testudines,Dermochelyidae,reptiles
   common: leatherback sea turtle
-  data: 0
-  draft: 0
-  final: 0
   scientific: Dermochelys coriacea
 - 10X: 4
   BN: 1
@@ -65,11 +55,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fHypTra1
+  asm: running
   classes: Actinopterygii,Osmeriformes,Osmeridae,Bony fishes
   common: delta smelt
-  data: 0
-  draft: 0
-  final: 0
   scientific: Hypomesus transpacificus
 - 10X: 4
   BN: 1
@@ -77,11 +65,9 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: rEmyOrb1
+  asm: running
   classes: Reptilia,Testudines,Emydidae,reptiles
   common: European pond turtle
-  data: 0
-  draft: 0
-  final: 0
   scientific: Emys orbicularis
 - 10X: 0
   BN: 1
@@ -89,11 +75,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fAnaTes1
+  asm: running
   classes: Actinopterygii,Anabantiformes,Anabantidae,Bony fishes
   common: climbing perch
-  data: 0
-  draft: 0
-  final: 0
   scientific: Anabas testudineus
 - 10X: 4
   BN: 1
@@ -101,11 +85,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: rPodRaf1
+  asm: running
   classes: Reptilia,Squamata,Lacertidae,reptiles
   common: Aeolian wall lizard
-  data: 0
-  draft: 0
-  final: 0
   scientific: Podarcis raffonei
 - 10X: 0
   BN: 1
@@ -113,11 +95,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: mSciVul1
+  asm: running
   classes: Mammalia,Rodentia,Sciuridae,mammals
   common: Eurasian red squirrel
-  data: 0
-  draft: 0
-  final: 0
   scientific: Sciurus vulgaris
 - 10X: 4
   BN: 1
@@ -125,11 +105,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bDenVid1
+  asm: running
   classes: Aves,Anseriformes,Anatidae,birds
   common: white-faced whistling-duck
-  data: 0
-  draft: 0
-  final: 0
   scientific: Dendrocygna viduata
 - 10X: 4
   BN: 1
@@ -137,11 +115,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bAcrTri1
+  asm: running
   classes: Aves,Passeriformes,Sturnidae,birds
   common: common myna
-  data: 0
-  draft: 0
-  final: 0
   scientific: Acridotheres tristis
 - 10X: 1
   BN: 1
@@ -149,11 +125,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mPhyDis1
+  asm: running
   classes: Mammalia,Chiroptera,Phyllostomidae,mammals
   common: pale spear-nosed bat
-  data: 0
-  draft: 0
-  final: 0
   scientific: Phyllostomus discolor
 - 10X: 1
   BN: 1
@@ -161,11 +135,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bCarCri1
+  asm: running
   classes: Aves,Cariamiformes,Cariamidae,birds
   common: Red-legged seriema
-  data: 0
-  draft: 0
-  final: 0
   scientific: Cariama cristata
 - 10X: 1
   BN: 1
@@ -173,11 +145,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mLynCan4
+  asm: running
   classes: Mammalia,Carnivora,Felidae,mammals
   common: Canada lynx
-  data: 0
-  draft: 0
-  final: 0
   scientific: Lynx canadensis
 - 10X: 1
   BN: 1
@@ -185,11 +155,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bBucAby1
+  asm: running
   classes: Aves,Bucerotiformes,Bucorvidae,birds
   common: Abyssinian ground-hornbill
-  data: 0
-  draft: 0
-  final: 0
   scientific: Bucorvus abyssinicus
 - 10X: 4
   BN: 1
@@ -197,11 +165,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bNomDom1
+  asm: running
   classes: Aves,Anseriformes,Anatidae,birds
   common: Masked duck
-  data: 0
-  draft: 0
-  final: 0
   scientific: Nomonyx dominicus
 - 10X: 0
   BN: 1
@@ -209,11 +175,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fDenClu1
+  asm: running
   classes: Actinopterygii,Clupeiformes,Denticipitidae,Bony fishes
   common: denticle herring
-  data: 0
-  draft: 0
-  final: 0
   scientific: Denticeps clupeoides
 - 10X: 0
   BN: 1
@@ -221,11 +185,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: mRhiFer1
+  asm: running
   classes: Mammalia,Chiroptera,Rhinolophidae,mammals
   common: greater horseshoe bat
-  data: 0
-  draft: 0
-  final: 0
   scientific: Rhinolophus ferrumequinum
 - 10X: 4
   BN: 1
@@ -233,11 +195,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bSpaCya1
+  asm: running
   classes: Aves,Anseriformes,Anatidae,birds
   common: cinnamon teal
-  data: 0
-  draft: 0
-  final: 0
   scientific: Spatula cyanoptera
 - 10X: 0
   BN: 1
@@ -245,11 +205,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fErpCal1
+  asm: running
   classes: Actinopterygii,Polypteriformes,Polypteridae,Bony fishes
   common: reedfish
-  data: 0
-  draft: 0
-  final: 0
   scientific: Erpetoichthys calabaricus
 - 10X: 1
   BN: 1
@@ -257,11 +215,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: mOrnAna1
+  asm: running
   classes: Mammalia,Monotremata,Ornithorhynchidae,mammals
   common: platypus
-  data: 0
-  draft: 0
-  final: 0
   scientific: Ornithorhynchus anatinus
 - 10X: 1
   BN: 1
@@ -269,11 +225,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bGeoTri1
+  asm: running
   classes: Aves,Passeriformes,Parulidae,birds
   common: common yellowthroat
-  data: 0
-  draft: 0
-  final: 0
   scientific: Geothlypis trichas
 - 10X: 4
   BN: 1
@@ -281,11 +235,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bBraLeu1
+  asm: running
   classes: Aves,Anseriformes,Anatidae,birds
   common: barnacle goose
-  data: 0
-  draft: 0
-  final: 0
   scientific: Branta leucopsis
 - 10X: 4
   BN: 5
@@ -293,11 +245,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: bTurMer1
+  asm: running
   classes: Aves,Passeriformes,Turdidae,birds
   common: blackbird
-  data: 0
-  draft: 0
-  final: 0
   scientific: Turdus merula
 - 10X: 0
   BN: 1
@@ -305,11 +255,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fParRan2
+  asm: running
   classes: Actinopterygii,Ovalentaria,Ambassidae,Bony fishes
   common: Indian glassy fish
-  data: 0
-  draft: 0
-  final: 0
   scientific: Parambassis ranga
 - 10X: 0
   BN: 1
@@ -317,11 +265,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: sScyCan1
+  asm: running
   classes: Chondrichthyes,Carcharhiniformes,Scyliorhinidae,cartilaginous fishes
   common: smaller spotted catshark
-  data: 0
-  draft: 0
-  final: 0
   scientific: Scyliorhinus canicula
 - 10X: 0
   BN: 1
@@ -329,11 +275,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fSalTru1
+  asm: running
   classes: Actinopterygii,Salmoniformes,Salmonidae,Bony fishes
   common: river trout
-  data: 0
-  draft: 0
-  final: 0
   scientific: Salmo trutta
 - 10X: 0
   BN: 1
@@ -341,11 +285,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fArcCen1
+  asm: running
   classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
   common: flier cichlid
-  data: 0
-  draft: 0
-  final: 0
   scientific: Archocentrus centrarchus
 - 10X: 0
   BN: 1
@@ -353,11 +295,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fTakRub1
+  asm: running
   classes: Actinopterygii,Tetraodontiformes,Tetraodontidae,Bony fishes
   common: torafugu
-  data: 0
-  draft: 0
-  final: 0
   scientific: Takifugu rubripes
 - 10X: 1
   BN: 1
@@ -365,11 +305,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: mChoDid1
+  asm: running
   classes: Mammalia,Folivora,Megalonychidae,mammals
   common: southern two-toed sloth
-  data: 0
-  draft: 0
-  final: 0
   scientific: Choloepus didactylus
 - 10X: 0
   BN: 1
@@ -377,11 +315,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fMasArm1
+  asm: running
   classes: Actinopterygii,Synbranchiformes,Mastacembelidae,Bony fishes
   common: zig-zag eel
-  data: 0
-  draft: 0
-  final: 0
   scientific: Mastacembelus armatus
 - 10X: 1
   BN: 1
@@ -389,11 +325,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mCalJac1
+  asm: running
   classes: Mammalia,Primates,Cebidae,mammals
   common: white-tufted-ear marmoset
-  data: 0
-  draft: 0
-  final: 0
   scientific: Callithrix jacchus
 - 10X: 1
   BN: 1
@@ -401,11 +335,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fNotCel1
+  asm: running
   classes: Actinopterygii,Perciformes,Labridae,Bony fishes
   common: New Zealand spotty
-  data: 0
-  draft: 0
-  final: 0
   scientific: Notolabrus celidotus
 - 10X: 1
   BN: 1
@@ -413,11 +345,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bTauEry1
+  asm: running
   classes: Aves,Musophagiformes,Musophagidae,birds
   common: red-crested turaco
-  data: 0
-  draft: 0
-  final: 0
   scientific: Tauraco erythrolophus
 - 10X: 1
   BN: 1
@@ -425,11 +355,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mTacAcu1
+  asm: running
   classes: Mammalia,Monotremata,Tachyglossidae,mammals
   common: Australian echidna
-  data: 0
-  draft: 0
-  final: 0
   scientific: Tachyglossus aculeatus
 - 10X: 1
   BN: 1
@@ -437,11 +365,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bChiLan1
+  asm: running
   classes: Aves,Passeriformes,Pipridae,birds
   common: lance-tailed manakin
-  data: 0
-  draft: 0
-  final: 0
   scientific: Chiroxiphia lanceolata
 - 10X: 1
   BN: 1
@@ -449,11 +375,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bPhoRub1
+  asm: running
   classes: Aves,Phoenicopteriformes,Phoenicopteridae,birds
   common: American flamingo
-  data: 0
-  draft: 0
-  final: 0
   scientific: Phoenicopterus ruber
 - 10X: 1
   BN: 1
@@ -461,11 +385,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bAlcTor1
+  asm: running
   classes: Aves,Charadriiformes,Alcidae,birds
   common: razorbill
-  data: 0
-  draft: 0
-  final: 0
   scientific: Alca torda
 - 10X: 1
   BN: 1
@@ -473,11 +395,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mTriVul1
+  asm: running
   classes: Mammalia,Diprotodontia,Phalangeridae,mammals
   common: common brushtail
-  data: 0
-  draft: 0
-  final: 0
   scientific: Trichosurus vulpecula
 - 10X: 1
   BN: 1
@@ -485,11 +405,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bSylAtr1
+  asm: running
   classes: Aves,Passeriformes,Sylviidae,birds
   common: blackcap
-  data: 0
-  draft: 0
-  final: 0
   scientific: Sylvia atricapilla
 - 10X: 0
   BN: 1
@@ -497,11 +415,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fAmpCit1
+  asm: running
   classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
   common: Midas cichlid
-  data: 0
-  draft: 0
-  final: 0
   scientific: Amphilophus citrinellus
 - 10X: 1
   BN: 1
@@ -509,11 +425,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fHipHip1
+  asm: running
   classes: Actinopterygii,Pleuronectiformes,Pleuronectidae,Bony fishes
   common: Atlantic halibut
-  data: 0
-  draft: 0
-  final: 0
   scientific: Hippoglossus hippoglossus
 - 10X: 1
   BN: 1
@@ -521,11 +435,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: rThaEle1
+  asm: running
   classes: Reptilia,Squamata,Colubridae,reptiles
   common: Western terrestrial garter snake
-  data: 0
-  draft: 0
-  final: 0
   scientific: Thamnophis elegans
 - 10X: 1
   BN: 1
@@ -533,11 +445,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mPhoSin1
+  asm: running
   classes: Mammalia,Artiodactyla,Phocoenidae,mammals
   common: vaquita
-  data: 0
-  draft: 0
-  final: 0
   scientific: Phocoena sinus
 - 10X: 1
   BN: 1
@@ -545,11 +455,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bCygOlo1
+  asm: running
   classes: Aves,Anseriformes,Anatidae,birds
   common: mute swan
-  data: 0
-  draft: 0
-  final: 0
   scientific: Cygnus olor
 - 10X: 1
   BN: 1
@@ -557,11 +465,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mZalCal1
+  asm: running
   classes: Mammalia,Carnivora,Otariidae,mammals
   common: California sea lion
-  data: 0
-  draft: 0
-  final: 0
   scientific: Zalophus californianus
 - 10X: 1
   BN: 1
@@ -569,11 +475,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bAytFul2
+  asm: running
   classes: Aves,Anseriformes,Anatidae,birds
   common: tufted duck
-  data: 0
-  draft: 0
-  final: 0
   scientific: Aythya fuligula
 - 10X: 1
   BN: 1
@@ -581,11 +485,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bMerNub1
+  asm: running
   classes: Aves,Coraciiformes,Meropidae,birds
   common: carmine bee-eater
-  data: 0
-  draft: 0
-  final: 0
   scientific: Merops nubicus
 - 10X: 1
   BN: 1
@@ -593,11 +495,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bPteGut1
+  asm: running
   classes: Aves,Pterocliformes,Pteroclidae,birds
   common: yellow-throated sandgrouse
-  data: 0
-  draft: 0
-  final: 0
   scientific: Pterocles gutturalis
 - 10X: 1
   BN: 1
@@ -605,11 +505,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bSylBor1
+  asm: running
   classes: Aves,Passeriformes,Sylviidae,birds
   common: garden warbler
-  data: 0
-  draft: 0
-  final: 0
   scientific: Sylvia borin
 - 10X: 0
   BN: 1
@@ -617,11 +515,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fAmpLab1
+  asm: running
   classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
   common: red devil
-  data: 0
-  draft: 0
-  final: 0
   scientific: Amphilophus labiatus
 - 10X: 1
   BN: 1
@@ -629,11 +525,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: sPriPec2
+  asm: running
   classes: Chondrichthyes,Rhinopristiformes,Pristidae,cartilaginous fishes
   common: smalltooth sawfish
-  data: 0
-  draft: 0
-  final: 0
   scientific: Pristis pectinata
 - 10X: 1
   BN: 1
@@ -641,11 +535,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bCatUst1
+  asm: running
   classes: Aves,Passeriformes,Turdidae,birds
   common: Swainson's thrush
-  data: 0
-  draft: 0
-  final: 0
   scientific: Catharus ustulatus
 - 10X: 1
   BN: 1
@@ -653,11 +545,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bSteHir1
+  asm: running
   classes: Aves,Charadriiformes,Laridae,birds
   common: Common tern
-  data: 0
-  draft: 0
-  final: 0
   scientific: Sterna hirundo
 - 10X: 1
   BN: 1
@@ -665,11 +555,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: bHirRus1
+  asm: running
   classes: Aves,Passeriformes,Hirundinidae,birds
   common: Barn swallow
-  data: 0
-  draft: 0
-  final: 0
   scientific: Hirundo rustica
 - 10X: 1
   BN: 1
@@ -677,11 +565,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bCorMon1
+  asm: running
   classes: Aves,Passeriformes,Corvidae,birds
   common: New Caledonian crow
-  data: 0
-  draft: 0
-  final: 0
   scientific: Corvus moneduloides
 - 10X: 1
   BN: 1
@@ -689,11 +575,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bCucCan1
+  asm: running
   classes: Aves,Cuculiformes,Cuculidae,birds
   common: common cuckoo
-  data: 0
-  draft: 0
-  final: 0
   scientific: Cuculus canorus
 - 10X: 1
   BN: 1
@@ -701,11 +585,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: sCarCar2
+  asm: running
   classes: Chondrichthyes,Lamniformes,Alopiidae,cartilaginous fishes
   common: great white shark
-  data: 0
-  draft: 0
-  final: 0
   scientific: Carcharodon carcharias
 - 10X: 1
   BN: 1
@@ -713,11 +595,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mLemCat1
+  asm: running
   classes: Mammalia,Lemuriformes,Lemuridae,mammals
   common: Ring-tailed lemur
-  data: 0
-  draft: 0
-  final: 0
   scientific: Lemur catta
 - 10X: 1
   BN: 1
@@ -725,11 +605,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: rGopFla2
+  asm: running
   classes: Reptilia,Testudines,Testudinidae,reptiles
   common: Mexican gopher tortoise
-  data: 0
-  draft: 0
-  final: 0
   scientific: Gopherus flavomarginatus
 - 10X: 1
   BN: 1
@@ -737,11 +615,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fCycLum1
+  asm: running
   classes: Actinopterygii,Scorpaeniformes,Cyclopteridae,Bony fishes
   common: lumpfish
-  data: 0
-  draft: 0
-  final: 0
   scientific: Cyclopterus lumpus
 - 10X: 1
   BN: 1
@@ -749,11 +625,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mTurTru1
+  asm: running
   classes: Mammalia,Artiodactyla,Delphinidae,mammals
   common: common bottlenose dolphin
-  data: 0
-  draft: 0
-  final: 0
   scientific: Tursiops truncatus
 - 10X: 1
   BN: 1
@@ -761,11 +635,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mMusErm1
+  asm: running
   classes: Mammalia,Carnivora,Mustelidae,mammals
   common: ermine
-  data: 0
-  draft: 0
-  final: 0
   scientific: Mustela erminea
 - 10X: 1
   BN: 1
@@ -773,11 +645,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mHomSap3
+  asm: running
   classes: Mammalia,Primates,Hominidae,mammals
   common: human
-  data: 0
-  draft: 0
-  final: 0
   scientific: Homo sapiens
 - 10X: 0
   BN: 5
@@ -785,11 +655,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: mBalMus1
+  asm: running
   classes: Mammalia,Artiodactyla,Balaenopteridae,mammals
   common: Blue whale
-  data: 0
-  draft: 0
-  final: 0
   scientific: Balaenoptera musculus
 - 10X: 1
   BN: 1
@@ -797,11 +665,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bBalReg1
+  asm: running
   classes: Aves,Gruiformes,Gruidae,birds
   common: grey crowned-crane
-  data: 0
-  draft: 0
-  final: 0
   scientific: Balearica regulorum
 - 10X: 1
   BN: 1
@@ -809,11 +675,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bGalGal1
+  asm: running
   classes: Aves,Galliformes,Phasianidae,birds
   common: chicken
-  data: 0
-  draft: 0
-  final: 0
   scientific: Gallus gallus
 - 10X: 1
   BN: 1
@@ -821,11 +685,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: bFalRus1
+  asm: running
   classes: Aves,Falconiformes,Falconidae,birds
   common: gyrfalcon
-  data: 0
-  draft: 0
-  final: 0
   scientific: Falco rusticolus
 - 10X: 1
   BN: 1
@@ -833,11 +695,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fSebUmb1
+  asm: running
   classes: Actinopterygii,Perciformes,Sebastidae,Bony fishes
   common: honeycomb rockfish
-  data: 0
-  draft: 0
-  final: 0
   scientific: Sebastes umbrosus
 - 10X: 1
   BN: 1
@@ -845,11 +705,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: sHemOce1
+  asm: running
   classes: Chondrichthyes,Orectolobiformes,Hemiscylliidae,cartilaginous fishes
   common: epaulette shark
-  data: 0
-  draft: 0
-  final: 0
   scientific: Hemiscyllium ocellatum
 - 10X: 1
   BN: 1
@@ -857,11 +715,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bFalNau1
+  asm: running
   classes: Aves,Falconiformes,Falconidae,birds
   common: lesser kestrel
-  data: 0
-  draft: 0
-  final: 0
   scientific: Falco naumanni
 - 10X: 1
   BN: 1
@@ -869,11 +725,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bPogPus1
+  asm: running
   classes: Aves,Piciformes,Lybiidae,birds
   common: Red-fronted tinkerbird
-  data: 0
-  draft: 0
-  final: 0
   scientific: Pogoniulus pusillus
 - 10X: 1
   BN: 1
@@ -881,11 +735,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mEreDor1
+  asm: running
   classes: Mammalia,Rodentia,Erethizontidae,mammals
   common: North American porcupine
-  data: 0
-  draft: 0
-  final: 0
   scientific: Erethizon dorsatum
 - 10X: 1
   BN: 1
@@ -893,11 +745,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fTauAds1
+  asm: running
   classes: Actinopterygii,Perciformes,Labridae,Bony fishes
   common: cunner
-  data: 0
-  draft: 0
-  final: 0
   scientific: Tautogolabrus adspersus
 - 10X: 1
   BN: 1
@@ -905,11 +755,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bTheCae1
+  asm: running
   classes: Aves,Pelecaniformes,Threskiornithidae,birds
   common: plumbeous ibis
-  data: 0
-  draft: 0
-  final: 0
   scientific: Theristicus caerulescens
 - 10X: 1
   BN: 1
@@ -917,11 +765,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bTroSur1
+  asm: running
   classes: Aves,Trogoniformes,Trogonidae,birds
   common: Suruca trogon
-  data: 0
-  draft: 0
-  final: 0
   scientific: Trogon surrucura
 - 10X: 1
   BN: 1
@@ -929,11 +775,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bGruAme1
+  asm: running
   classes: Aves,Gruiformes,Gruidae,birds
   common: Whooping crane
-  data: 0
-  draft: 0
-  final: 0
   scientific: Grus americana
 - 10X: 4
   BN: 1
@@ -941,11 +785,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: sPotMar1
+  asm: running
   classes: Chondrichthyes,Myliobatiformes,Potamotrygonidae,cartilaginous fishes
   common: gold dust stingray
-  data: 0
-  draft: 0
-  final: 0
   scientific: Potamotrygon marinae
 - 10X: 1
   BN: 1
@@ -953,11 +795,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mSunEtr1
+  asm: running
   classes: Mammalia,Eulipotyphla,Soricidae,mammals
   common: white-toothed pygmy shrew
-  data: 0
-  draft: 0
-  final: 0
   scientific: Suncus etruscus
 - 10X: 4
   BN: 1
@@ -965,11 +805,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bFalPer1
+  asm: running
   classes: Aves,Falconiformes,Falconidae,birds
   common: peregrine falcon
-  data: 0
-  draft: 0
-  final: 0
   scientific: Falco peregrinus
 - 10X: 4
   BN: 1
@@ -977,11 +815,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bFalChe1
+  asm: running
   classes: Aves,Falconiformes,Falconidae,birds
   common: Saker falcon
-  data: 0
-  draft: 0
-  final: 0
   scientific: Falco cherrug
 - 10X: 4
   BN: 1
@@ -989,11 +825,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bFalBia1
+  asm: running
   classes: Aves,Falconiformes,Falconidae,birds
   common: lanner falcon
-  data: 0
-  draft: 0
-  final: 0
   scientific: Falco biarmicus
 - 10X: 4
   BN: 1
@@ -1001,11 +835,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mDicBic1
+  asm: running
   classes: Mammalia,Perissodactyla,Rhinocerotidae,mammals
   common: black rhinoceros
-  data: 0
-  draft: 0
-  final: 0
   scientific: Diceros bicornis
 - 10X: 4
   BN: 1
@@ -1013,11 +845,9 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mMacEug1
+  asm: running
   classes: Mammalia,Diprotodontia,Macropodidae,mammals
   common: tammar wallaby
-  data: 0
-  draft: 0
-  final: 0
   scientific: Macropus eugenii
 - 10X: 4
   BN: 1
@@ -1025,11 +855,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fAloSap1
+  asm: running
   classes: Actinopterygii,Clupeiformes,Clupeidae,Bony fishes
   common: American shad
-  data: 0
-  draft: 0
-  final: 0
   scientific: Alosa sapidissima
 - 10X: 4
   BN: 1
@@ -1037,11 +865,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bPorHoc1
+  asm: running
   classes: Aves,Gruiformes,Rallidae,birds
   common: South Island takahe
-  data: 0
-  draft: 0
-  final: 0
   scientific: Porphyrio hochstetteri
 - 10X: 4
   BN: 1
@@ -1049,11 +875,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bCorHaw1
+  asm: running
   classes: Aves,Passeriformes,Corvidae,birds
   common: hawaiian crow
-  data: 0
-  draft: 0
-  final: 0
   scientific: Corvus hawaiiensis
 - 10X: 4
   BN: 0
@@ -1061,11 +885,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fScoJap1
+  asm: running
   classes: Actinopterygii,Scombriformes,Scombridae,Bony fishes
   common: chub mackerel
-  data: 0
-  draft: 0
-  final: 0
   scientific: Scomber japonicus
 - 10X: 4
   BN: 1
@@ -1073,11 +895,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: mManPen7
+  asm: running
   classes: Mammalia,Pholidota,Manidae,mammals
   common: Chinese pangolin
-  data: 0
-  draft: 0
-  final: 0
   scientific: Manis pentadactyla
 - 10X: 4
   BN: 1
@@ -1085,11 +905,9 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mEscRob1
+  asm: running
   classes: Mammalia,Artiodactyla,Eschrichtiidae,mammals
   common: grey whale
-  data: 0
-  draft: 0
-  final: 0
   scientific: Eschrichtius robustus
 - 10X: 4
   BN: 3
@@ -1097,11 +915,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: mThoBot1
+  asm: running
   classes: Mammalia,Rodentia,Geomyidae,mammals
   common: Botta's pocket gopher
-  data: 0
-  draft: 0
-  final: 0
   scientific: Thomomys bottae
 - 10X: 4
   BN: 1
@@ -1109,11 +925,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: aRanSyl1
+  asm: running
   classes: Amphibia,Anura,Ranidae,amphibians
   common: wood frog
-  data: 0
-  draft: 0
-  final: 0
   scientific: Rana sylvatica
 - 10X: 4
   BN: 3
@@ -1121,11 +935,9 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: aGasCar1
+  asm: running
   classes: Amphibia,Anura,Microhylidae,amphibians
   common: eastern narrow-mouthed toad
-  data: 0
-  draft: 0
-  final: 0
   scientific: Gastrophryne carolinensis
 - 10X: 4
   BN: 3
@@ -1133,11 +945,9 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: fMelPam1
+  asm: running
   classes: Actinopterygii,Perciformes,Zoarcidae,Bony fishes
   common: midwater eelpout
-  data: 0
-  draft: 0
-  final: 0
   scientific: Melanostigma pammelas
 - 10X: 4
   BN: 1
@@ -1145,11 +955,9 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: rEryReg1
+  asm: running
   classes: Reptilia,Squamata,Dipsadidae,reptiles
   common: royal ground snake
-  data: 0
-  draft: 0
-  final: 0
   scientific: Erythrolamprus reginae
 - 10X: 0
   BN: 1
@@ -1157,11 +965,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bHaeMex1
+  asm: running
   classes: Aves,Passeriformes,Fringillidae,birds
   common: house finch
-  data: 0
-  draft: 0
-  final: 0
   scientific: Haemorhous mexicanus
 - 10X: 4
   BN: 1
@@ -1169,11 +975,9 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mSorAra1
+  asm: running
   classes: Mammalia,Eulipotyphla,Soricidae,mammals
   common: European shrew
-  data: 0
-  draft: 0
-  final: 0
   scientific: Sorex araneus
 - 10X: 4
   BN: 0
@@ -1181,11 +985,9 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mOchPri1
+  asm: running
   classes: Mammalia,Lagomorpha,Ochotonidae,mammals
   common: American pika
-  data: 0
-  draft: 0
-  final: 0
   scientific: Ochotona princeps
 - 10X: 4
   BN: 1
@@ -1193,11 +995,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bGypBar2
+  asm: running
   classes: Aves,Falconiformes,Accipitridae,birds
   common: lammergeier
-  data: 0
-  draft: 0
-  final: 0
   scientific: Gypaetus barbatus
 - 10X: 4
   BN: 1
@@ -1205,11 +1005,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: fFunDia1
+  asm: running
   classes: Actinopteri,Cyprinodontiformes,Fundulidae,Bony fishes
   common: banded killifish
-  data: 0
-  draft: 0
-  final: 0
   scientific: Fundulus diaphanus
 - 10X: 4
   BN: 1
@@ -1217,11 +1015,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: mNeoNeb1
+  asm: running
   classes: Mammalia,Carnivora,Felidae,mammals
   common: Clouded leopard
-  data: 0
-  draft: 0
-  final: 0
   scientific: Neofelis nebulosa
 - 10X: 4
   BN: 1
@@ -1229,11 +1025,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: mDasNov1
+  asm: running
   classes: Mammalia,Cingulata,Dasypodidae,mammals
   common: nine-banded armadillo
-  data: 0
-  draft: 0
-  final: 0
   scientific: Dasypus novemcinctus
 - 10X: 4
   BN: 1
@@ -1241,11 +1035,9 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: fNeoGra1
+  asm: running
   classes: Actinopterygii,Siluriformes,Ariidae,Bony fishes
   common: lesser salmon catfish
-  data: 0
-  draft: 0
-  final: 0
   scientific: Neoarius graeffei
 - 10X: 4
   BN: 1
@@ -1253,11 +1045,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: rAllMis1
+  asm: running
   classes: Reptilia,Crocodylia,Alligatoridae,reptiles
   common: American alligator
-  data: 0
-  draft: 0
-  final: 0
   scientific: Alligator mississippiensis
 - 10X: 4
   BN: 1
@@ -1265,11 +1055,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: rRhiFlo1
+  asm: running
   classes: Reptilia,Squamata,Rhineuridae,reptiles
   common: Florida worm lizard
-  data: 0
-  draft: 0
-  final: 0
   scientific: Rhineura floridana
 - 10X: 4
   BN: 1
@@ -1277,11 +1065,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: sHetFra1
+  asm: running
   classes: Chondrichthyes,Heterodontiformes,Heterodontidae,cartilaginous fishes
   common: horn shark
-  data: 0
-  draft: 0
-  final: 0
   scientific: Heterodontus francisci
 - 10X: 4
   BN: 1
@@ -1289,11 +1075,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: rMalTer1
+  asm: running
   classes: Reptilia,Testudines,Emydidae,reptiles
   common: diamondback terrapin
-  data: 0
-  draft: 0
-  final: 0
   scientific: Malaclemys terrapin
 - 10X: 4
   BN: 1
@@ -1301,11 +1085,9 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mEubGla1
+  asm: running
   classes: Mammalia,Artiodactyla,Balaenidae,mammals
   common: North Atlantic right whale
-  data: 0
-  draft: 0
-  final: 0
   scientific: Eubalaena glacialis
 - 10X: 4
   BN: 1
@@ -1313,11 +1095,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: rEulEur1
+  asm: running
   classes: Reptilia,Squamata,Sphaerodactylidae,reptiles
   common: tarantolino
-  data: 0
-  draft: 0
-  final: 0
   scientific: Euleptes europaea
 - 10X: 4
   BN: 1
@@ -1325,11 +1105,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: aHylSar1
+  asm: running
   classes: Amphibia,Anura,Hylidae,amphibians
   common: Sardinian tree frog
-  data: 0
-  draft: 0
-  final: 0
   scientific: Hyla sarda
 - 10X: 4
   BN: 1
@@ -1337,11 +1115,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: aLepFus1
+  asm: running
   classes: Amphibia,Anura,Leptodactylidae,amphibians
   common: rufous frog
-  data: 0
-  draft: 0
-  final: 0
   scientific: Leptodactylus fuscus
 - 10X: 4
   BN: 1
@@ -1349,11 +1125,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: aAnoBae1
+  asm: running
   classes: Amphibia,Anura,Dendrobatidae,amphibians
   common: rocket frog
-  data: 0
-  draft: 0
-  final: 0
   scientific: Anomaloglossus baeobatrachus
 - 10X: 4
   BN: 1
@@ -1361,11 +1135,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: aSpeBom1
+  asm: running
   classes: Amphibia,Anura,Pelobatidae,amphibians
   common: plains spadefoot toad
-  data: 0
-  draft: 0
-  final: 0
   scientific: Spea bombifrons
 - 10X: 4
   BN: 1
@@ -1373,11 +1145,9 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mNycCou1
+  asm: running
   classes: Mammalia,Primates,Lorisidae,mammals
   common: slow loris
-  data: 0
-  draft: 0
-  final: 0
   scientific: Nycticebus coucang
 - 10X: 4
   BN: 1
@@ -1385,11 +1155,9 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: bMelMel1
+  asm: running
   classes: Aves,Passeriformes,Passerellidae,birds
   common: song sparrow
-  data: 0
-  draft: 0
-  final: 0
   scientific: Melospiza melodia
 - 10X: 4
   BN: 1
@@ -1397,11 +1165,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: bPasSan1
+  asm: running
   classes: Aves,Passeriformes,Passerellidae,birds
   common: Savannah sparrow
-  data: 0
-  draft: 0
-  final: 0
   scientific: Passerculus sandwichensis
 - 10X: 4
   BN: 1
@@ -1409,11 +1175,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: bAmmCau1
+  asm: running
   classes: Aves,Passeriformes,Passerellidae,birds
   common: saltmarsh sparrow
-  data: 0
-  draft: 0
-  final: 0
   scientific: Ammodramus caudacutus
 - 10X: 4
   BN: 1
@@ -1421,11 +1185,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: aHypRig1
+  asm: running
   classes: Amphibia,Anura,Hyperoliidae,amphibians
   common: Riggenbach's reed frog
-  data: 0
-  draft: 0
-  final: 0
   scientific: Hyperolius riggenbachi
 - 10X: 4
   BN: 1
@@ -1433,11 +1195,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: bAraAra1
+  asm: running
   classes: Aves,Psittaciformes,Psittacidae,birds
   common: blue-and-yellow macaw
-  data: 0
-  draft: 0
-  final: 0
   scientific: Ara ararauna
 - 10X: 4
   BN: 0
@@ -1445,11 +1205,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: aPseCor1
+  asm: running
   classes: Amphibia,Anura,Myobatrachidae,amphibians
   common: corroboree frog
-  data: 0
-  draft: 0
-  final: 0
   scientific: Pseudophryne corroboree
 - 10X: 1
   BN: 1
@@ -1457,11 +1215,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bMelUnd1
+  asm: running
   classes: Aves,Psittaciformes,Psittaculidae,birds
   common: budgerigar
-  data: 0
-  draft: 0
-  final: 0
   scientific: Melopsittacus undulatus
 - 10X: 1
   BN: 1
@@ -1469,11 +1225,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: rLacAgi1
+  asm: running
   classes: Reptilia,Squamata,Lacertidae,reptiles
   common: sand lizard
-  data: 0
-  draft: 0
-  final: 0
   scientific: Lacerta agilis
 - 10X: 1
   BN: 1
@@ -1481,11 +1235,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bAcaChl1
+  asm: running
   classes: Aves,Passeriformes,Acanthisittidae,birds
   common: rifleman
-  data: 0
-  draft: 0
-  final: 0
   scientific: Acanthisitta chloris
 - 10X: 4
   BN: 1
@@ -1493,11 +1245,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: mMonDom1
+  asm: running
   classes: Mammalia,Didelphimorphia,Didelphidae,mammals
   common: gray short-tailed opossum
-  data: 0
-  draft: 0
-  final: 0
   scientific: Monodelphis domestica
 - 10X: 1
   BN: 1
@@ -1505,11 +1255,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: aDenEbr1
+  asm: running
   classes: Amphibia,Anura,Hylidae,amphibians
   common: hourglass treefrog
-  data: 0
-  draft: 0
-  final: 0
   scientific: Dendropsophus ebraccatus
 - 10X: 1
   BN: 1
@@ -1517,11 +1265,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bGalGal4
+  asm: running
   classes: Aves,Galliformes,Phasianidae,birds
   common: chicken
-  data: 0
-  draft: 0
-  final: 0
   scientific: Gallus gallus
 - 10X: 1
   BN: 1
@@ -1529,11 +1275,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bGalGal5
+  asm: running
   classes: Aves,Galliformes,Phasianidae,birds
   common: chicken
-  data: 0
-  draft: 0
-  final: 0
   scientific: Gallus gallus
 - 10X: 4
   BN: 1
@@ -1541,11 +1285,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: bAmmNel1
+  asm: running
   classes: Aves,Passeriformes,Passerellidae,birds
   common: Nelson's sparrow
-  data: 0
-  draft: 0
-  final: 0
   scientific: Ammospiza nelsoni
 - 10X: 4
   BN: 0
@@ -1553,11 +1295,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: fCypLut1
+  asm: running
   classes: Actinopterygii,Cypriniformes,Leuciscidae,Bony fishes
   common: red shiner
-  data: 0
-  draft: 0
-  final: 0
   scientific: Cyprinella lutrensis
 - 10X: 0
   BN: 1
@@ -1565,11 +1305,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: mRhiSin1
+  asm: running
   classes: Mammalia,Chiroptera,Rhinolophidae,mammals
   common: Chinese rufous horseshoe bat
-  data: 0
-  draft: 0
-  final: 0
   scientific: Rhinolophus sinicus
 - 10X: 1
   BN: 1
@@ -1577,11 +1315,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: rGopEvg1
+  asm: running
   classes: Reptilia,Testudines,Testudinidae,reptiles
   common: Goodes thornscrub tortoise
-  data: 0
-  draft: 0
-  final: 0
   scientific: Gopherus evgoodei
 - 10X: 4
   BN: 1
@@ -1589,11 +1325,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: bPodStr1
+  asm: running
   classes: Aves,Caprimulgiformes,Podargidae,birds
   common: tawny frogmouth
-  data: 0
-  draft: 0
-  final: 0
   scientific: Podargus strigoides
 - 10X: 4
   BN: 1
@@ -1601,11 +1335,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fCycLum2
+  asm: running
   classes: Actinopterygii,Scorpaeniformes,Cyclopteridae,Bony fishes
   common: lumpfish
-  data: 0
-  draft: 0
-  final: 0
   scientific: Cyclopterus lumpus
 - 10X: 4
   BN: 1
@@ -1613,11 +1345,9 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mMesDen1
+  asm: running
   classes: Mammalia,Artiodactyla,Ziphiidae,mammals
   common: Blainville's beaked whale
-  data: 0
-  draft: 0
-  final: 0
   scientific: Mesoplodon densirostris
 - 10X: 4
   BN: 1
@@ -1625,11 +1355,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: aSalSal1
+  asm: running
   classes: Amphibia,Caudata,Salamandridae,amphibians
   common: fire salamander
-  data: 0
-  draft: 0
-  final: 0
   scientific: Salamandra salamandra
 - 10X: 1
   BN: 1
@@ -1637,11 +1365,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bTaeGut2
+  asm: running
   classes: Aves,Passeriformes,Estrildidae,birds
   common: zebra finch
-  data: 0
-  draft: 0
-  final: 0
   scientific: Taeniopygia guttata
 - 10X: 4
   BN: 1
@@ -1649,11 +1375,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: fOsmMor3
+  asm: running
   classes: Actinopterygii,Osmeriformes,Osmeridae,Bony fishes
   common: rainbow smelt
-  data: 0
-  draft: 0
-  final: 0
   scientific: Osmerus mordax
 - 10X: 4
   BN: 1
@@ -1661,11 +1385,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mKogBre1
+  asm: running
   classes: Mammalia,Artiodactyla,Physeteridae,mammals
   common: pygmy sperm whale
-  data: 0
-  draft: 0
-  final: 0
   scientific: Kogia breviceps
 - 10X: 0
   BN: 1
@@ -1673,11 +1395,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: mRouAeg1
+  asm: running
   classes: Mammalia,Chiroptera,Pteropodidae,mammals
   common: Egyptian rousette
-  data: 0
-  draft: 0
-  final: 0
   scientific: Rousettus aegyptiacus
 - 10X: 4
   BN: 1
@@ -1685,11 +1405,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: bPtePen1
+  asm: running
   classes: Aves,Rheiformes,Rheidae,birds
   common: lesser rhea
-  data: 0
-  draft: 0
-  final: 0
   scientific: Rhea pennata
 - 10X: 1
   BN: 1
@@ -1697,11 +1415,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bHemCom1
+  asm: running
   classes: Aves,Apodiformes,Apodidae,birds
   common: whiskered treeswift
-  data: 0
-  draft: 0
-  final: 0
   scientific: Hemiprocne comata
 - 10X: 1
   BN: 1
@@ -1709,11 +1425,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bNycGra1
+  asm: running
   classes: Aves,Caprimulgiformes,Nyctibiidae,birds
   common: great potoo
-  data: 0
-  draft: 0
-  final: 0
   scientific: Nyctibius grandis
 - 10X: 4
   BN: 1
@@ -1721,11 +1435,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: rSteOdo1
+  asm: running
   classes: Reptilia,Testudines,Kinosternidae,reptiles
   common: eastern musk turtle
-  data: 0
-  draft: 0
-  final: 0
   scientific: Sternotherus odoratus
 - 10X: 0
   BN: 0
@@ -1733,11 +1445,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bVidCha1
+  asm: running
   classes: Aves,Passeriformes,Estrildidae,birds
   common: village indigobird
-  data: 0
-  draft: 0
-  final: 0
   scientific: Vidua chalybeata
 - 10X: 1
   BN: 1
@@ -1745,11 +1455,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bCicMag1
+  asm: running
   classes: Aves,Ciconiiformes,Ciconiidae,birds
   common: maguari stork
-  data: 0
-  draft: 0
-  final: 0
   scientific: Ciconia maguari
 - 10X: 1
   BN: 1
@@ -1757,11 +1465,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fPerMag1
+  asm: running
   classes: Actinopterygii,Gobiiformes,Gobiidae,Bony fishes
   common: Korean giant-fin mudskipper
-  data: 0
-  draft: 0
-  final: 0
   scientific: Periophthalmus magnuspinnatus
 - 10X: 4
   BN: 1
@@ -1769,11 +1475,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: rVipLat1
+  asm: running
   classes: Reptilia,Squamata,Viperidae,reptiles
   common: snub-nosed viper
-  data: 0
-  draft: 0
-  final: 0
   scientific: Vipera latastei
 - 10X: 4
   BN: 1
@@ -1781,11 +1485,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: bAmmMai1
+  asm: running
   classes: Aves,Passeriformes,Passerellidae,birds
   common: seaside sparrow
-  data: 0
-  draft: 0
-  final: 0
   scientific: Ammodramus maritimus
 - 10X: 1
   BN: 1
@@ -1793,11 +1495,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bPluApr1
+  asm: running
   classes: Aves,Charadriiformes,Charadriidae,birds
   common: European golden plover
-  data: 0
-  draft: 0
-  final: 0
   scientific: Pluvialis apricaria
 - 10X: 4
   BN: 2
@@ -1805,11 +1505,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: sNarBan1
+  asm: running
   classes: Chondrichthyes,Torpediniformes,Narcinidae,cartilaginous fishes
   common: Caribbean electric ray
-  data: 0
-  draft: 0
-  final: 0
   scientific: Narcine bancroftii
 - 10X: 4
   BN: 0
@@ -1817,11 +1515,9 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: xcOctChie1
+  asm: running
   classes: Cephalopoda,Octopoda,Octopodidae,invertebrates
   common: lesser Pacific striped octopus
-  data: 0
-  draft: 0
-  final: 0
   scientific: Octopus chierchiae
 - 10X: 1
   BN: 5
@@ -1829,11 +1525,9 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: bTaeGut1
+  asm: running
   classes: Aves,Passeriformes,Estrildidae,birds
   common: zebra finch
-  data: 0
-  draft: 0
-  final: 0
   scientific: Taeniopygia guttata
 - 10X: 1
   BN: 0
@@ -1841,11 +1535,9 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: kcPetMari1
+  asm: running
   classes: Hyperoartia,Petromyzontiformes,Petromyzontidae,jawless,Agnatha
   common: sea lamprey
-  data: 0
-  draft: 0
-  final: 0
   scientific: Petromyzon marinus
 - 10X: 4
   BN: 1
@@ -1853,9 +1545,7 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mPseCra1
+  asm: running
   classes: Mammalia,Artiodactyla,Delphinidae,mammals
   common: false killer whale
-  data: 0
-  draft: 0
-  final: 0
   scientific: Pseudorca crassidens
