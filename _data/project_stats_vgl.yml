@@ -2,7 +2,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 2
   VGPId: mEleMax1
   classes: Mammalia,Proboscidea,Elephantidae,mammals
@@ -14,7 +14,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: mArvNil1
   classes: Mammalia,Rodentia,Muridae,mammals
@@ -26,7 +26,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bHarHar1
   classes: Aves,Falconiformes,Accipitridae,birds
@@ -38,7 +38,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: sAmbRad1
   classes: Chondrichthyes,Rajiformes,Rajidae,cartilaginous fishes
@@ -50,7 +50,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: rDerCor1
   classes: Reptilia,Testudines,Dermochelyidae,reptiles
@@ -61,8 +61,8 @@ toc:
   scientific: Dermochelys coriacea
 - 10X: 4
   BN: 1
-  HiC: 0
-  Ill: 4
+  HiC: 2
+  Ilm: 4
   PB: 5
   VGPId: fHypTra1
   classes: Actinopterygii,Osmeriformes,Osmeridae,Bony fishes
@@ -74,7 +74,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 2
   VGPId: rEmyOrb1
   classes: Reptilia,Testudines,Emydidae,reptiles
@@ -86,7 +86,7 @@ toc:
 - 10X: 0
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: fAnaTes1
   classes: Actinopterygii,Anabantiformes,Anabantidae,Bony fishes
@@ -98,7 +98,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: rPodRaf1
   classes: Reptilia,Squamata,Lacertidae,reptiles
@@ -110,7 +110,7 @@ toc:
 - 10X: 0
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: mSciVul1
   classes: Mammalia,Rodentia,Sciuridae,mammals
@@ -122,7 +122,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bDenVid1
   classes: Aves,Anseriformes,Anatidae,birds
@@ -133,8 +133,8 @@ toc:
   scientific: Dendrocygna viduata
 - 10X: 4
   BN: 1
-  HiC: 0
-  Ill: 4
+  HiC: 2
+  Ilm: 4
   PB: 1
   VGPId: bAcrTri1
   classes: Aves,Passeriformes,Sturnidae,birds
@@ -146,7 +146,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: mPhyDis1
   classes: Mammalia,Chiroptera,Phyllostomidae,mammals
@@ -158,7 +158,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bCarCri1
   classes: Aves,Cariamiformes,Cariamidae,birds
@@ -170,7 +170,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: mLynCan4
   classes: Mammalia,Carnivora,Felidae,mammals
@@ -182,7 +182,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bBucAby1
   classes: Aves,Bucerotiformes,Bucorvidae,birds
@@ -194,7 +194,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bNomDom1
   classes: Aves,Anseriformes,Anatidae,birds
@@ -206,7 +206,7 @@ toc:
 - 10X: 0
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: fDenClu1
   classes: Actinopterygii,Clupeiformes,Denticipitidae,Bony fishes
@@ -218,7 +218,7 @@ toc:
 - 10X: 0
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: mRhiFer1
   classes: Mammalia,Chiroptera,Rhinolophidae,mammals
@@ -230,7 +230,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 4
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bSpaCya1
   classes: Aves,Anseriformes,Anatidae,birds
@@ -242,7 +242,7 @@ toc:
 - 10X: 0
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: fErpCal1
   classes: Actinopterygii,Polypteriformes,Polypteridae,Bony fishes
@@ -254,7 +254,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: mOrnAna1
   classes: Mammalia,Monotremata,Ornithorhynchidae,mammals
@@ -266,7 +266,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bGeoTri1
   classes: Aves,Passeriformes,Parulidae,birds
@@ -278,7 +278,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 4
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bBraLeu1
   classes: Aves,Anseriformes,Anatidae,birds
@@ -290,7 +290,7 @@ toc:
 - 10X: 4
   BN: 5
   HiC: 4
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: bTurMer1
   classes: Aves,Passeriformes,Turdidae,birds
@@ -302,7 +302,7 @@ toc:
 - 10X: 0
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: fParRan2
   classes: Actinopterygii,Ovalentaria,Ambassidae,Bony fishes
@@ -314,7 +314,7 @@ toc:
 - 10X: 0
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: sScyCan1
   classes: Chondrichthyes,Carcharhiniformes,Scyliorhinidae,cartilaginous fishes
@@ -326,7 +326,7 @@ toc:
 - 10X: 0
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: fSalTru1
   classes: Actinopterygii,Salmoniformes,Salmonidae,Bony fishes
@@ -338,7 +338,7 @@ toc:
 - 10X: 0
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: fArcCen1
   classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
@@ -350,7 +350,7 @@ toc:
 - 10X: 0
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: fTakRub1
   classes: Actinopterygii,Tetraodontiformes,Tetraodontidae,Bony fishes
@@ -362,7 +362,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: mChoDid1
   classes: Mammalia,Folivora,Megalonychidae,mammals
@@ -374,7 +374,7 @@ toc:
 - 10X: 0
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: fMasArm1
   classes: Actinopterygii,Synbranchiformes,Mastacembelidae,Bony fishes
@@ -386,7 +386,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: mCalJac1
   classes: Mammalia,Primates,Cebidae,mammals
@@ -398,7 +398,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: fNotCel1
   classes: Actinopterygii,Perciformes,Labridae,Bony fishes
@@ -410,7 +410,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bTauEry1
   classes: Aves,Musophagiformes,Musophagidae,birds
@@ -422,7 +422,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: mTacAcu1
   classes: Mammalia,Monotremata,Tachyglossidae,mammals
@@ -434,7 +434,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bChiLan1
   classes: Aves,Passeriformes,Pipridae,birds
@@ -446,7 +446,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bPhoRub1
   classes: Aves,Phoenicopteriformes,Phoenicopteridae,birds
@@ -458,7 +458,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bAlcTor1
   classes: Aves,Charadriiformes,Alcidae,birds
@@ -470,7 +470,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: mTriVul1
   classes: Mammalia,Diprotodontia,Phalangeridae,mammals
@@ -482,7 +482,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bSylAtr1
   classes: Aves,Passeriformes,Sylviidae,birds
@@ -494,7 +494,7 @@ toc:
 - 10X: 0
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: fAmpCit1
   classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
@@ -506,7 +506,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: fHipHip1
   classes: Actinopterygii,Pleuronectiformes,Pleuronectidae,Bony fishes
@@ -518,7 +518,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: rThaEle1
   classes: Reptilia,Squamata,Colubridae,reptiles
@@ -530,7 +530,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: mPhoSin1
   classes: Mammalia,Artiodactyla,Phocoenidae,mammals
@@ -542,7 +542,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bCygOlo1
   classes: Aves,Anseriformes,Anatidae,birds
@@ -554,7 +554,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: mZalCal1
   classes: Mammalia,Carnivora,Otariidae,mammals
@@ -566,7 +566,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bAytFul2
   classes: Aves,Anseriformes,Anatidae,birds
@@ -578,7 +578,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bMerNub1
   classes: Aves,Coraciiformes,Meropidae,birds
@@ -590,7 +590,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bPteGut1
   classes: Aves,Pterocliformes,Pteroclidae,birds
@@ -602,7 +602,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bSylBor1
   classes: Aves,Passeriformes,Sylviidae,birds
@@ -614,7 +614,7 @@ toc:
 - 10X: 0
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: fAmpLab1
   classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
@@ -626,7 +626,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: sPriPec2
   classes: Chondrichthyes,Rhinopristiformes,Pristidae,cartilaginous fishes
@@ -638,7 +638,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bCatUst1
   classes: Aves,Passeriformes,Turdidae,birds
@@ -650,7 +650,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bSteHir1
   classes: Aves,Charadriiformes,Laridae,birds
@@ -662,7 +662,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: bHirRus1
   classes: Aves,Passeriformes,Hirundinidae,birds
@@ -674,7 +674,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bCorMon1
   classes: Aves,Passeriformes,Corvidae,birds
@@ -686,7 +686,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bCucCan1
   classes: Aves,Cuculiformes,Cuculidae,birds
@@ -698,7 +698,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: sCarCar2
   classes: Chondrichthyes,Lamniformes,Alopiidae,cartilaginous fishes
@@ -710,7 +710,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: mLemCat1
   classes: Mammalia,Lemuriformes,Lemuridae,mammals
@@ -722,7 +722,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: rGopFla2
   classes: Reptilia,Testudines,Testudinidae,reptiles
@@ -734,7 +734,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: fCycLum1
   classes: Actinopterygii,Scorpaeniformes,Cyclopteridae,Bony fishes
@@ -746,7 +746,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: mTurTru1
   classes: Mammalia,Artiodactyla,Delphinidae,mammals
@@ -758,7 +758,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: mMusErm1
   classes: Mammalia,Carnivora,Mustelidae,mammals
@@ -770,7 +770,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: mHomSap3
   classes: Mammalia,Primates,Hominidae,mammals
@@ -782,7 +782,7 @@ toc:
 - 10X: 0
   BN: 5
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: mBalMus1
   classes: Mammalia,Artiodactyla,Balaenopteridae,mammals
@@ -794,7 +794,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bBalReg1
   classes: Aves,Gruiformes,Gruidae,birds
@@ -806,7 +806,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bGalGal1
   classes: Aves,Galliformes,Phasianidae,birds
@@ -818,7 +818,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: bFalRus1
   classes: Aves,Falconiformes,Falconidae,birds
@@ -830,7 +830,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: fSebUmb1
   classes: Actinopterygii,Perciformes,Sebastidae,Bony fishes
@@ -842,7 +842,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: sHemOce1
   classes: Chondrichthyes,Orectolobiformes,Hemiscylliidae,cartilaginous fishes
@@ -854,7 +854,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bFalNau1
   classes: Aves,Falconiformes,Falconidae,birds
@@ -866,7 +866,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bPogPus1
   classes: Aves,Piciformes,Lybiidae,birds
@@ -876,9 +876,9 @@ toc:
   final: 0
   scientific: Pogoniulus pusillus
 - 10X: 1
-  BN: 0
+  BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: mEreDor1
   classes: Mammalia,Rodentia,Erethizontidae,mammals
@@ -890,7 +890,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: fTauAds1
   classes: Actinopterygii,Perciformes,Labridae,Bony fishes
@@ -902,7 +902,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bTheCae1
   classes: Aves,Pelecaniformes,Threskiornithidae,birds
@@ -914,7 +914,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bTroSur1
   classes: Aves,Trogoniformes,Trogonidae,birds
@@ -926,7 +926,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bGruAme1
   classes: Aves,Gruiformes,Gruidae,birds
@@ -936,9 +936,9 @@ toc:
   final: 0
   scientific: Grus americana
 - 10X: 4
-  BN: 0
+  BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: sPotMar1
   classes: Chondrichthyes,Myliobatiformes,Potamotrygonidae,cartilaginous fishes
@@ -950,7 +950,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: mSunEtr1
   classes: Mammalia,Eulipotyphla,Soricidae,mammals
@@ -962,7 +962,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bFalPer1
   classes: Aves,Falconiformes,Falconidae,birds
@@ -974,7 +974,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bFalChe1
   classes: Aves,Falconiformes,Falconidae,birds
@@ -986,7 +986,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bFalBia1
   classes: Aves,Falconiformes,Falconidae,birds
@@ -998,7 +998,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: mDicBic1
   classes: Mammalia,Perissodactyla,Rhinocerotidae,mammals
@@ -1010,7 +1010,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 2
   VGPId: mMacEug1
   classes: Mammalia,Diprotodontia,Macropodidae,mammals
@@ -1022,7 +1022,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: fAloSap1
   classes: Actinopterygii,Clupeiformes,Clupeidae,Bony fishes
@@ -1034,7 +1034,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bPorHoc1
   classes: Aves,Gruiformes,Rallidae,birds
@@ -1046,7 +1046,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bCorHaw1
   classes: Aves,Passeriformes,Corvidae,birds
@@ -1058,7 +1058,7 @@ toc:
 - 10X: 4
   BN: 0
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: fScoJap1
   classes: Actinopterygii,Scombriformes,Scombridae,Bony fishes
@@ -1070,7 +1070,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: mManPen7
   classes: Mammalia,Pholidota,Manidae,mammals
@@ -1082,7 +1082,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 2
   VGPId: mEscRob1
   classes: Mammalia,Artiodactyla,Eschrichtiidae,mammals
@@ -1092,9 +1092,9 @@ toc:
   final: 0
   scientific: Eschrichtius robustus
 - 10X: 4
-  BN: 0
+  BN: 3
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: mThoBot1
   classes: Mammalia,Rodentia,Geomyidae,mammals
@@ -1104,9 +1104,9 @@ toc:
   final: 0
   scientific: Thomomys bottae
 - 10X: 4
-  BN: 0
-  HiC: 0
-  Ill: 4
+  BN: 1
+  HiC: 2
+  Ilm: 4
   PB: 5
   VGPId: aRanSyl1
   classes: Amphibia,Anura,Ranidae,amphibians
@@ -1116,10 +1116,10 @@ toc:
   final: 0
   scientific: Rana sylvatica
 - 10X: 4
-  BN: 0
+  BN: 3
   HiC: 0
-  Ill: 4
-  PB: 0
+  Ilm: 4
+  PB: 2
   VGPId: aGasCar1
   classes: Amphibia,Anura,Microhylidae,amphibians
   common: eastern narrow-mouthed toad
@@ -1128,9 +1128,9 @@ toc:
   final: 0
   scientific: Gastrophryne carolinensis
 - 10X: 4
-  BN: 0
+  BN: 3
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 2
   VGPId: fMelPam1
   classes: Actinopterygii,Perciformes,Zoarcidae,Bony fishes
@@ -1140,9 +1140,9 @@ toc:
   final: 0
   scientific: Melanostigma pammelas
 - 10X: 4
-  BN: 0
-  HiC: 0
-  Ill: 4
+  BN: 1
+  HiC: 2
+  Ilm: 4
   PB: 2
   VGPId: rEryReg1
   classes: Reptilia,Squamata,Dipsadidae,reptiles
@@ -1154,7 +1154,7 @@ toc:
 - 10X: 0
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bHaeMex1
   classes: Aves,Passeriformes,Fringillidae,birds
@@ -1166,7 +1166,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 2
   VGPId: mSorAra1
   classes: Mammalia,Eulipotyphla,Soricidae,mammals
@@ -1178,7 +1178,7 @@ toc:
 - 10X: 4
   BN: 0
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 2
   VGPId: mOchPri1
   classes: Mammalia,Lagomorpha,Ochotonidae,mammals
@@ -1189,8 +1189,8 @@ toc:
   scientific: Ochotona princeps
 - 10X: 4
   BN: 1
-  HiC: 0
-  Ill: 4
+  HiC: 2
+  Ilm: 4
   PB: 1
   VGPId: bGypBar2
   classes: Aves,Falconiformes,Accipitridae,birds
@@ -1202,7 +1202,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: fFunDia1
   classes: Actinopteri,Cyprinodontiformes,Fundulidae,Bony fishes
@@ -1214,7 +1214,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: mNeoNeb1
   classes: Mammalia,Carnivora,Felidae,mammals
@@ -1226,7 +1226,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: mDasNov1
   classes: Mammalia,Cingulata,Dasypodidae,mammals
@@ -1238,7 +1238,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 2
   VGPId: fNeoGra1
   classes: Actinopterygii,Siluriformes,Ariidae,Bony fishes
@@ -1250,7 +1250,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: rAllMis1
   classes: Reptilia,Crocodylia,Alligatoridae,reptiles
@@ -1262,7 +1262,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: rRhiFlo1
   classes: Reptilia,Squamata,Rhineuridae,reptiles
@@ -1272,9 +1272,9 @@ toc:
   final: 0
   scientific: Rhineura floridana
 - 10X: 4
-  BN: 0
+  BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: sHetFra1
   classes: Chondrichthyes,Heterodontiformes,Heterodontidae,cartilaginous fishes
@@ -1284,9 +1284,9 @@ toc:
   final: 0
   scientific: Heterodontus francisci
 - 10X: 4
-  BN: 0
+  BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: rMalTer1
   classes: Reptilia,Testudines,Emydidae,reptiles
@@ -1298,7 +1298,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 2
   VGPId: mEubGla1
   classes: Mammalia,Artiodactyla,Balaenidae,mammals
@@ -1310,7 +1310,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: rEulEur1
   classes: Reptilia,Squamata,Sphaerodactylidae,reptiles
@@ -1320,9 +1320,9 @@ toc:
   final: 0
   scientific: Euleptes europaea
 - 10X: 4
-  BN: 0
+  BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: aHylSar1
   classes: Amphibia,Anura,Hylidae,amphibians
@@ -1332,9 +1332,9 @@ toc:
   final: 0
   scientific: Hyla sarda
 - 10X: 4
-  BN: 0
+  BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: aLepFus1
   classes: Amphibia,Anura,Leptodactylidae,amphibians
@@ -1344,9 +1344,9 @@ toc:
   final: 0
   scientific: Leptodactylus fuscus
 - 10X: 4
-  BN: 0
+  BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: aAnoBae1
   classes: Amphibia,Anura,Dendrobatidae,amphibians
@@ -1358,7 +1358,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: aSpeBom1
   classes: Amphibia,Anura,Pelobatidae,amphibians
@@ -1370,8 +1370,8 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 0
-  Ill: 4
-  PB: 0
+  Ilm: 4
+  PB: 2
   VGPId: mNycCou1
   classes: Mammalia,Primates,Lorisidae,mammals
   common: slow loris
@@ -1380,10 +1380,10 @@ toc:
   final: 0
   scientific: Nycticebus coucang
 - 10X: 4
-  BN: 0
-  HiC: 0
-  Ill: 4
-  PB: 0
+  BN: 1
+  HiC: 2
+  Ilm: 4
+  PB: 2
   VGPId: bMelMel1
   classes: Aves,Passeriformes,Passerellidae,birds
   common: song sparrow
@@ -1393,8 +1393,8 @@ toc:
   scientific: Melospiza melodia
 - 10X: 4
   BN: 1
-  HiC: 0
-  Ill: 4
+  HiC: 2
+  Ilm: 4
   PB: 0
   VGPId: bPasSan1
   classes: Aves,Passeriformes,Passerellidae,birds
@@ -1405,8 +1405,8 @@ toc:
   scientific: Passerculus sandwichensis
 - 10X: 4
   BN: 1
-  HiC: 0
-  Ill: 4
+  HiC: 2
+  Ilm: 4
   PB: 0
   VGPId: bAmmCau1
   classes: Aves,Passeriformes,Passerellidae,birds
@@ -1416,9 +1416,9 @@ toc:
   final: 0
   scientific: Ammodramus caudacutus
 - 10X: 4
-  BN: 0
+  BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: aHypRig1
   classes: Amphibia,Anura,Hyperoliidae,amphibians
@@ -1430,7 +1430,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: bAraAra1
   classes: Aves,Psittaciformes,Psittacidae,birds
@@ -1442,7 +1442,7 @@ toc:
 - 10X: 4
   BN: 0
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: aPseCor1
   classes: Amphibia,Anura,Myobatrachidae,amphibians
@@ -1454,7 +1454,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bMelUnd1
   classes: Aves,Psittaciformes,Psittaculidae,birds
@@ -1466,7 +1466,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: rLacAgi1
   classes: Reptilia,Squamata,Lacertidae,reptiles
@@ -1478,7 +1478,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bAcaChl1
   classes: Aves,Passeriformes,Acanthisittidae,birds
@@ -1489,8 +1489,8 @@ toc:
   scientific: Acanthisitta chloris
 - 10X: 4
   BN: 1
-  HiC: 0
-  Ill: 4
+  HiC: 2
+  Ilm: 4
   PB: 0
   VGPId: mMonDom1
   classes: Mammalia,Didelphimorphia,Didelphidae,mammals
@@ -1502,7 +1502,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: aDenEbr1
   classes: Amphibia,Anura,Hylidae,amphibians
@@ -1514,7 +1514,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bGalGal4
   classes: Aves,Galliformes,Phasianidae,birds
@@ -1526,7 +1526,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bGalGal5
   classes: Aves,Galliformes,Phasianidae,birds
@@ -1537,8 +1537,8 @@ toc:
   scientific: Gallus gallus
 - 10X: 4
   BN: 1
-  HiC: 0
-  Ill: 4
+  HiC: 2
+  Ilm: 4
   PB: 0
   VGPId: bAmmNel1
   classes: Aves,Passeriformes,Passerellidae,birds
@@ -1550,7 +1550,7 @@ toc:
 - 10X: 4
   BN: 0
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: fCypLut1
   classes: Actinopterygii,Cypriniformes,Leuciscidae,Bony fishes
@@ -1562,7 +1562,7 @@ toc:
 - 10X: 0
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: mRhiSin1
   classes: Mammalia,Chiroptera,Rhinolophidae,mammals
@@ -1574,7 +1574,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: rGopEvg1
   classes: Reptilia,Testudines,Testudinidae,reptiles
@@ -1586,7 +1586,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: bPodStr1
   classes: Aves,Caprimulgiformes,Podargidae,birds
@@ -1598,7 +1598,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: fCycLum2
   classes: Actinopterygii,Scorpaeniformes,Cyclopteridae,Bony fishes
@@ -1610,7 +1610,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 2
   VGPId: mMesDen1
   classes: Mammalia,Artiodactyla,Ziphiidae,mammals
@@ -1620,9 +1620,9 @@ toc:
   final: 0
   scientific: Mesoplodon densirostris
 - 10X: 4
-  BN: 0
+  BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: aSalSal1
   classes: Amphibia,Caudata,Salamandridae,amphibians
@@ -1634,7 +1634,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bTaeGut2
   classes: Aves,Passeriformes,Estrildidae,birds
@@ -1646,7 +1646,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: fOsmMor3
   classes: Actinopterygii,Osmeriformes,Osmeridae,Bony fishes
@@ -1658,7 +1658,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: mKogBre1
   classes: Mammalia,Artiodactyla,Physeteridae,mammals
@@ -1670,7 +1670,7 @@ toc:
 - 10X: 0
   BN: 1
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: mRouAeg1
   classes: Mammalia,Chiroptera,Pteropodidae,mammals
@@ -1682,7 +1682,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: bPtePen1
   classes: Aves,Rheiformes,Rheidae,birds
@@ -1694,7 +1694,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bHemCom1
   classes: Aves,Apodiformes,Apodidae,birds
@@ -1706,7 +1706,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bNycGra1
   classes: Aves,Caprimulgiformes,Nyctibiidae,birds
@@ -1716,9 +1716,9 @@ toc:
   final: 0
   scientific: Nyctibius grandis
 - 10X: 4
-  BN: 0
+  BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: rSteOdo1
   classes: Reptilia,Testudines,Kinosternidae,reptiles
@@ -1730,7 +1730,7 @@ toc:
 - 10X: 0
   BN: 0
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bVidCha1
   classes: Aves,Passeriformes,Estrildidae,birds
@@ -1742,7 +1742,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bCicMag1
   classes: Aves,Ciconiiformes,Ciconiidae,birds
@@ -1754,7 +1754,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: fPerMag1
   classes: Actinopterygii,Gobiiformes,Gobiidae,Bony fishes
@@ -1766,7 +1766,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: rVipLat1
   classes: Reptilia,Squamata,Viperidae,reptiles
@@ -1778,7 +1778,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: bAmmMai1
   classes: Aves,Passeriformes,Passerellidae,birds
@@ -1790,7 +1790,7 @@ toc:
 - 10X: 1
   BN: 1
   HiC: 1
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: bPluApr1
   classes: Aves,Charadriiformes,Charadriidae,birds
@@ -1800,9 +1800,9 @@ toc:
   final: 0
   scientific: Pluvialis apricaria
 - 10X: 4
-  BN: 0
+  BN: 2
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: sNarBan1
   classes: Chondrichthyes,Torpediniformes,Narcinidae,cartilaginous fishes
@@ -1814,7 +1814,7 @@ toc:
 - 10X: 4
   BN: 0
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 0
   VGPId: xcOctChie1
   classes: Cephalopoda,Octopoda,Octopodidae,invertebrates
@@ -1826,7 +1826,7 @@ toc:
 - 10X: 1
   BN: 5
   HiC: 5
-  Ill: 4
+  Ilm: 4
   PB: 5
   VGPId: bTaeGut1
   classes: Aves,Passeriformes,Estrildidae,birds
@@ -1838,7 +1838,7 @@ toc:
 - 10X: 1
   BN: 0
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 1
   VGPId: kcPetMari1
   classes: Hyperoartia,Petromyzontiformes,Petromyzontidae,jawless,Agnatha
@@ -1850,7 +1850,7 @@ toc:
 - 10X: 4
   BN: 1
   HiC: 0
-  Ill: 4
+  Ilm: 4
   PB: 2
   VGPId: mPseCra1
   classes: Mammalia,Artiodactyla,Delphinidae,mammals
