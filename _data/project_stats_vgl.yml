@@ -5,7 +5,7 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mEleMax1
-  asm: running
+  asm: '0'
   classes: Mammalia,Proboscidea,Elephantidae,mammals
   common: Asiatic elephant
   scientific: Elephas maximus
@@ -15,7 +15,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mArvNil1
-  asm: running
+  asm: curated
   classes: Mammalia,Rodentia,Muridae,mammals
   common: African grass rat
   scientific: Arvicanthis niloticus
@@ -35,7 +35,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: sAmbRad1
-  asm: running
+  asm: curated
   classes: Chondrichthyes,Rajiformes,Rajidae,cartilaginous fishes
   common: thorny skate
   scientific: Amblyraja radiata
@@ -45,7 +45,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: rDerCor1
-  asm: running
+  asm: curated
   classes: Reptilia,Testudines,Dermochelyidae,reptiles
   common: leatherback sea turtle
   scientific: Dermochelys coriacea
@@ -75,7 +75,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fAnaTes1
-  asm: running
+  asm: curated
   classes: Actinopterygii,Anabantiformes,Anabantidae,Bony fishes
   common: climbing perch
   scientific: Anabas testudineus
@@ -95,7 +95,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: mSciVul1
-  asm: running
+  asm: curated
   classes: Mammalia,Rodentia,Sciuridae,mammals
   common: Eurasian red squirrel
   scientific: Sciurus vulgaris
@@ -125,7 +125,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mPhyDis1
-  asm: running
+  asm: curated
   classes: Mammalia,Chiroptera,Phyllostomidae,mammals
   common: pale spear-nosed bat
   scientific: Phyllostomus discolor
@@ -135,7 +135,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bCarCri1
-  asm: running
+  asm: curated
   classes: Aves,Cariamiformes,Cariamidae,birds
   common: Red-legged seriema
   scientific: Cariama cristata
@@ -145,7 +145,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mLynCan4
-  asm: running
+  asm: curated
   classes: Mammalia,Carnivora,Felidae,mammals
   common: Canada lynx
   scientific: Lynx canadensis
@@ -155,7 +155,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bBucAby1
-  asm: running
+  asm: curated
   classes: Aves,Bucerotiformes,Bucorvidae,birds
   common: Abyssinian ground-hornbill
   scientific: Bucorvus abyssinicus
@@ -175,7 +175,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fDenClu1
-  asm: running
+  asm: curated
   classes: Actinopterygii,Clupeiformes,Denticipitidae,Bony fishes
   common: denticle herring
   scientific: Denticeps clupeoides
@@ -185,7 +185,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: mRhiFer1
-  asm: running
+  asm: curated
   classes: Mammalia,Chiroptera,Rhinolophidae,mammals
   common: greater horseshoe bat
   scientific: Rhinolophus ferrumequinum
@@ -205,7 +205,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fErpCal1
-  asm: running
+  asm: curated
   classes: Actinopterygii,Polypteriformes,Polypteridae,Bony fishes
   common: reedfish
   scientific: Erpetoichthys calabaricus
@@ -215,7 +215,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: mOrnAna1
-  asm: running
+  asm: curated
   classes: Mammalia,Monotremata,Ornithorhynchidae,mammals
   common: platypus
   scientific: Ornithorhynchus anatinus
@@ -225,7 +225,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bGeoTri1
-  asm: running
+  asm: curated
   classes: Aves,Passeriformes,Parulidae,birds
   common: common yellowthroat
   scientific: Geothlypis trichas
@@ -255,7 +255,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fParRan2
-  asm: running
+  asm: curated
   classes: Actinopterygii,Ovalentaria,Ambassidae,Bony fishes
   common: Indian glassy fish
   scientific: Parambassis ranga
@@ -265,7 +265,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: sScyCan1
-  asm: running
+  asm: curated
   classes: Chondrichthyes,Carcharhiniformes,Scyliorhinidae,cartilaginous fishes
   common: smaller spotted catshark
   scientific: Scyliorhinus canicula
@@ -275,7 +275,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fSalTru1
-  asm: running
+  asm: curated
   classes: Actinopterygii,Salmoniformes,Salmonidae,Bony fishes
   common: river trout
   scientific: Salmo trutta
@@ -285,7 +285,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fArcCen1
-  asm: running
+  asm: curated
   classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
   common: flier cichlid
   scientific: Archocentrus centrarchus
@@ -295,7 +295,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fTakRub1
-  asm: running
+  asm: curated
   classes: Actinopterygii,Tetraodontiformes,Tetraodontidae,Bony fishes
   common: torafugu
   scientific: Takifugu rubripes
@@ -315,7 +315,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fMasArm1
-  asm: running
+  asm: curated
   classes: Actinopterygii,Synbranchiformes,Mastacembelidae,Bony fishes
   common: zig-zag eel
   scientific: Mastacembelus armatus
@@ -325,7 +325,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mCalJac1
-  asm: running
+  asm: curated
   classes: Mammalia,Primates,Cebidae,mammals
   common: white-tufted-ear marmoset
   scientific: Callithrix jacchus
@@ -335,7 +335,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fNotCel1
-  asm: running
+  asm: curated
   classes: Actinopterygii,Perciformes,Labridae,Bony fishes
   common: New Zealand spotty
   scientific: Notolabrus celidotus
@@ -345,7 +345,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bTauEry1
-  asm: running
+  asm: curated
   classes: Aves,Musophagiformes,Musophagidae,birds
   common: red-crested turaco
   scientific: Tauraco erythrolophus
@@ -355,7 +355,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mTacAcu1
-  asm: running
+  asm: curated
   classes: Mammalia,Monotremata,Tachyglossidae,mammals
   common: Australian echidna
   scientific: Tachyglossus aculeatus
@@ -365,7 +365,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bChiLan1
-  asm: running
+  asm: curated
   classes: Aves,Passeriformes,Pipridae,birds
   common: lance-tailed manakin
   scientific: Chiroxiphia lanceolata
@@ -375,7 +375,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bPhoRub1
-  asm: running
+  asm: curated
   classes: Aves,Phoenicopteriformes,Phoenicopteridae,birds
   common: American flamingo
   scientific: Phoenicopterus ruber
@@ -385,7 +385,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bAlcTor1
-  asm: running
+  asm: curated
   classes: Aves,Charadriiformes,Alcidae,birds
   common: razorbill
   scientific: Alca torda
@@ -395,7 +395,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mTriVul1
-  asm: running
+  asm: curated
   classes: Mammalia,Diprotodontia,Phalangeridae,mammals
   common: common brushtail
   scientific: Trichosurus vulpecula
@@ -405,7 +405,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bSylAtr1
-  asm: running
+  asm: curated
   classes: Aves,Passeriformes,Sylviidae,birds
   common: blackcap
   scientific: Sylvia atricapilla
@@ -415,7 +415,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fAmpCit1
-  asm: running
+  asm: '0'
   classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
   common: Midas cichlid
   scientific: Amphilophus citrinellus
@@ -425,7 +425,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fHipHip1
-  asm: running
+  asm: curated
   classes: Actinopterygii,Pleuronectiformes,Pleuronectidae,Bony fishes
   common: Atlantic halibut
   scientific: Hippoglossus hippoglossus
@@ -435,7 +435,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: rThaEle1
-  asm: running
+  asm: curated
   classes: Reptilia,Squamata,Colubridae,reptiles
   common: Western terrestrial garter snake
   scientific: Thamnophis elegans
@@ -445,7 +445,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mPhoSin1
-  asm: running
+  asm: curated
   classes: Mammalia,Artiodactyla,Phocoenidae,mammals
   common: vaquita
   scientific: Phocoena sinus
@@ -455,7 +455,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bCygOlo1
-  asm: running
+  asm: curated
   classes: Aves,Anseriformes,Anatidae,birds
   common: mute swan
   scientific: Cygnus olor
@@ -465,7 +465,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mZalCal1
-  asm: running
+  asm: curated
   classes: Mammalia,Carnivora,Otariidae,mammals
   common: California sea lion
   scientific: Zalophus californianus
@@ -475,7 +475,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bAytFul2
-  asm: running
+  asm: curated
   classes: Aves,Anseriformes,Anatidae,birds
   common: tufted duck
   scientific: Aythya fuligula
@@ -485,7 +485,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bMerNub1
-  asm: running
+  asm: curated
   classes: Aves,Coraciiformes,Meropidae,birds
   common: carmine bee-eater
   scientific: Merops nubicus
@@ -495,7 +495,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bPteGut1
-  asm: running
+  asm: curated
   classes: Aves,Pterocliformes,Pteroclidae,birds
   common: yellow-throated sandgrouse
   scientific: Pterocles gutturalis
@@ -505,7 +505,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bSylBor1
-  asm: running
+  asm: curated
   classes: Aves,Passeriformes,Sylviidae,birds
   common: garden warbler
   scientific: Sylvia borin
@@ -525,7 +525,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: sPriPec2
-  asm: running
+  asm: curated
   classes: Chondrichthyes,Rhinopristiformes,Pristidae,cartilaginous fishes
   common: smalltooth sawfish
   scientific: Pristis pectinata
@@ -535,7 +535,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bCatUst1
-  asm: running
+  asm: curated
   classes: Aves,Passeriformes,Turdidae,birds
   common: Swainson's thrush
   scientific: Catharus ustulatus
@@ -545,7 +545,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bSteHir1
-  asm: running
+  asm: curated
   classes: Aves,Charadriiformes,Laridae,birds
   common: Common tern
   scientific: Sterna hirundo
@@ -555,7 +555,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: bHirRus1
-  asm: running
+  asm: curated
   classes: Aves,Passeriformes,Hirundinidae,birds
   common: Barn swallow
   scientific: Hirundo rustica
@@ -565,7 +565,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bCorMon1
-  asm: running
+  asm: curated
   classes: Aves,Passeriformes,Corvidae,birds
   common: New Caledonian crow
   scientific: Corvus moneduloides
@@ -575,7 +575,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bCucCan1
-  asm: running
+  asm: curated
   classes: Aves,Cuculiformes,Cuculidae,birds
   common: common cuckoo
   scientific: Cuculus canorus
@@ -585,7 +585,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: sCarCar2
-  asm: running
+  asm: curated
   classes: Chondrichthyes,Lamniformes,Alopiidae,cartilaginous fishes
   common: great white shark
   scientific: Carcharodon carcharias
@@ -595,7 +595,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mLemCat1
-  asm: running
+  asm: curated
   classes: Mammalia,Lemuriformes,Lemuridae,mammals
   common: Ring-tailed lemur
   scientific: Lemur catta
@@ -615,7 +615,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fCycLum1
-  asm: running
+  asm: curated
   classes: Actinopterygii,Scorpaeniformes,Cyclopteridae,Bony fishes
   common: lumpfish
   scientific: Cyclopterus lumpus
@@ -625,7 +625,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mTurTru1
-  asm: running
+  asm: curated
   classes: Mammalia,Artiodactyla,Delphinidae,mammals
   common: common bottlenose dolphin
   scientific: Tursiops truncatus
@@ -635,7 +635,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mMusErm1
-  asm: running
+  asm: curated
   classes: Mammalia,Carnivora,Mustelidae,mammals
   common: ermine
   scientific: Mustela erminea
@@ -645,7 +645,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mHomSap3
-  asm: running
+  asm: curated
   classes: Mammalia,Primates,Hominidae,mammals
   common: human
   scientific: Homo sapiens
@@ -655,7 +655,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: mBalMus1
-  asm: running
+  asm: curated
   classes: Mammalia,Artiodactyla,Balaenopteridae,mammals
   common: Blue whale
   scientific: Balaenoptera musculus
@@ -665,7 +665,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bBalReg1
-  asm: running
+  asm: curated
   classes: Aves,Gruiformes,Gruidae,birds
   common: grey crowned-crane
   scientific: Balearica regulorum
@@ -685,7 +685,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: bFalRus1
-  asm: running
+  asm: curated
   classes: Aves,Falconiformes,Falconidae,birds
   common: gyrfalcon
   scientific: Falco rusticolus
@@ -695,7 +695,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fSebUmb1
-  asm: running
+  asm: curated
   classes: Actinopterygii,Perciformes,Sebastidae,Bony fishes
   common: honeycomb rockfish
   scientific: Sebastes umbrosus
@@ -705,7 +705,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: sHemOce1
-  asm: running
+  asm: curated
   classes: Chondrichthyes,Orectolobiformes,Hemiscylliidae,cartilaginous fishes
   common: epaulette shark
   scientific: Hemiscyllium ocellatum
@@ -715,7 +715,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bFalNau1
-  asm: running
+  asm: curated
   classes: Aves,Falconiformes,Falconidae,birds
   common: lesser kestrel
   scientific: Falco naumanni
@@ -725,7 +725,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bPogPus1
-  asm: running
+  asm: curated
   classes: Aves,Piciformes,Lybiidae,birds
   common: Red-fronted tinkerbird
   scientific: Pogoniulus pusillus
@@ -755,7 +755,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bTheCae1
-  asm: running
+  asm: curated
   classes: Aves,Pelecaniformes,Threskiornithidae,birds
   common: plumbeous ibis
   scientific: Theristicus caerulescens
@@ -765,7 +765,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bTroSur1
-  asm: running
+  asm: curated
   classes: Aves,Trogoniformes,Trogonidae,birds
   common: Suruca trogon
   scientific: Trogon surrucura
@@ -835,7 +835,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mDicBic1
-  asm: running
+  asm: curated
   classes: Mammalia,Perissodactyla,Rhinocerotidae,mammals
   common: black rhinoceros
   scientific: Diceros bicornis
@@ -855,7 +855,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fAloSap1
-  asm: running
+  asm: curated
   classes: Actinopterygii,Clupeiformes,Clupeidae,Bony fishes
   common: American shad
   scientific: Alosa sapidissima
@@ -865,7 +865,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bPorHoc1
-  asm: running
+  asm: curated
   classes: Aves,Gruiformes,Rallidae,birds
   common: South Island takahe
   scientific: Porphyrio hochstetteri
@@ -915,7 +915,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: mThoBot1
-  asm: running
+  asm: '0'
   classes: Mammalia,Rodentia,Geomyidae,mammals
   common: Botta's pocket gopher
   scientific: Thomomys bottae
@@ -925,7 +925,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: aRanSyl1
-  asm: running
+  asm: '0'
   classes: Amphibia,Anura,Ranidae,amphibians
   common: wood frog
   scientific: Rana sylvatica
@@ -935,7 +935,7 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: aGasCar1
-  asm: running
+  asm: '0'
   classes: Amphibia,Anura,Microhylidae,amphibians
   common: eastern narrow-mouthed toad
   scientific: Gastrophryne carolinensis
@@ -945,7 +945,7 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: fMelPam1
-  asm: running
+  asm: '0'
   classes: Actinopterygii,Perciformes,Zoarcidae,Bony fishes
   common: midwater eelpout
   scientific: Melanostigma pammelas
@@ -955,7 +955,7 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: rEryReg1
-  asm: running
+  asm: '0'
   classes: Reptilia,Squamata,Dipsadidae,reptiles
   common: royal ground snake
   scientific: Erythrolamprus reginae
@@ -985,7 +985,7 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mOchPri1
-  asm: running
+  asm: '0'
   classes: Mammalia,Lagomorpha,Ochotonidae,mammals
   common: American pika
   scientific: Ochotona princeps
@@ -1065,7 +1065,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: sHetFra1
-  asm: running
+  asm: '0'
   classes: Chondrichthyes,Heterodontiformes,Heterodontidae,cartilaginous fishes
   common: horn shark
   scientific: Heterodontus francisci
@@ -1075,7 +1075,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: rMalTer1
-  asm: running
+  asm: '0'
   classes: Reptilia,Testudines,Emydidae,reptiles
   common: diamondback terrapin
   scientific: Malaclemys terrapin
@@ -1105,7 +1105,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: aHylSar1
-  asm: running
+  asm: '0'
   classes: Amphibia,Anura,Hylidae,amphibians
   common: Sardinian tree frog
   scientific: Hyla sarda
@@ -1115,7 +1115,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: aLepFus1
-  asm: running
+  asm: '0'
   classes: Amphibia,Anura,Leptodactylidae,amphibians
   common: rufous frog
   scientific: Leptodactylus fuscus
@@ -1125,7 +1125,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: aAnoBae1
-  asm: running
+  asm: '0'
   classes: Amphibia,Anura,Dendrobatidae,amphibians
   common: rocket frog
   scientific: Anomaloglossus baeobatrachus
@@ -1155,7 +1155,7 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: bMelMel1
-  asm: running
+  asm: '0'
   classes: Aves,Passeriformes,Passerellidae,birds
   common: song sparrow
   scientific: Melospiza melodia
@@ -1185,7 +1185,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: aHypRig1
-  asm: running
+  asm: '0'
   classes: Amphibia,Anura,Hyperoliidae,amphibians
   common: Riggenbach's reed frog
   scientific: Hyperolius riggenbachi
@@ -1205,7 +1205,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: aPseCor1
-  asm: running
+  asm: '0'
   classes: Amphibia,Anura,Myobatrachidae,amphibians
   common: corroboree frog
   scientific: Pseudophryne corroboree
@@ -1215,7 +1215,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bMelUnd1
-  asm: running
+  asm: curated
   classes: Aves,Psittaciformes,Psittaculidae,birds
   common: budgerigar
   scientific: Melopsittacus undulatus
@@ -1225,7 +1225,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: rLacAgi1
-  asm: running
+  asm: curated
   classes: Reptilia,Squamata,Lacertidae,reptiles
   common: sand lizard
   scientific: Lacerta agilis
@@ -1235,7 +1235,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bAcaChl1
-  asm: running
+  asm: curated
   classes: Aves,Passeriformes,Acanthisittidae,birds
   common: rifleman
   scientific: Acanthisitta chloris
@@ -1295,7 +1295,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: fCypLut1
-  asm: running
+  asm: '0'
   classes: Actinopterygii,Cypriniformes,Leuciscidae,Bony fishes
   common: red shiner
   scientific: Cyprinella lutrensis
@@ -1315,7 +1315,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: rGopEvg1
-  asm: running
+  asm: curated
   classes: Reptilia,Testudines,Testudinidae,reptiles
   common: Goodes thornscrub tortoise
   scientific: Gopherus evgoodei
@@ -1335,7 +1335,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fCycLum2
-  asm: running
+  asm: '0'
   classes: Actinopterygii,Scorpaeniformes,Cyclopteridae,Bony fishes
   common: lumpfish
   scientific: Cyclopterus lumpus
@@ -1355,7 +1355,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: aSalSal1
-  asm: running
+  asm: '0'
   classes: Amphibia,Caudata,Salamandridae,amphibians
   common: fire salamander
   scientific: Salamandra salamandra
@@ -1365,7 +1365,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bTaeGut2
-  asm: running
+  asm: curated
   classes: Aves,Passeriformes,Estrildidae,birds
   common: zebra finch
   scientific: Taeniopygia guttata
@@ -1425,7 +1425,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bNycGra1
-  asm: running
+  asm: curated
   classes: Aves,Caprimulgiformes,Nyctibiidae,birds
   common: great potoo
   scientific: Nyctibius grandis
@@ -1435,7 +1435,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: rSteOdo1
-  asm: running
+  asm: '0'
   classes: Reptilia,Testudines,Kinosternidae,reptiles
   common: eastern musk turtle
   scientific: Sternotherus odoratus
@@ -1455,7 +1455,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bCicMag1
-  asm: running
+  asm: curated
   classes: Aves,Ciconiiformes,Ciconiidae,birds
   common: maguari stork
   scientific: Ciconia maguari
@@ -1465,7 +1465,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fPerMag1
-  asm: running
+  asm: curated
   classes: Actinopterygii,Gobiiformes,Gobiidae,Bony fishes
   common: Korean giant-fin mudskipper
   scientific: Periophthalmus magnuspinnatus
@@ -1495,7 +1495,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bPluApr1
-  asm: running
+  asm: curated
   classes: Aves,Charadriiformes,Charadriidae,birds
   common: European golden plover
   scientific: Pluvialis apricaria
@@ -1505,7 +1505,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: sNarBan1
-  asm: running
+  asm: '0'
   classes: Chondrichthyes,Torpediniformes,Narcinidae,cartilaginous fishes
   common: Caribbean electric ray
   scientific: Narcine bancroftii
@@ -1515,7 +1515,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: xcOctChie1
-  asm: running
+  asm: '0'
   classes: Cephalopoda,Octopoda,Octopodidae,invertebrates
   common: lesser Pacific striped octopus
   scientific: Octopus chierchiae
@@ -1525,7 +1525,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: bTaeGut1
-  asm: running
+  asm: curated
   classes: Aves,Passeriformes,Estrildidae,birds
   common: zebra finch
   scientific: Taeniopygia guttata
@@ -1535,7 +1535,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: kcPetMari1
-  asm: running
+  asm: '0'
   classes: Hyperoartia,Petromyzontiformes,Petromyzontidae,jawless,Agnatha
   common: sea lamprey
   scientific: Petromyzon marinus
