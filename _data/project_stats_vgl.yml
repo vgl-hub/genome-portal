@@ -105,7 +105,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bDenVid1
-  asm: running
+  asm: draft
   classes: Aves,Anseriformes,Anatidae,birds
   common: white-faced whistling-duck
   scientific: Dendrocygna viduata
@@ -165,7 +165,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bNomDom1
-  asm: running
+  asm: draft
   classes: Aves,Anseriformes,Anatidae,birds
   common: Masked duck
   scientific: Nomonyx dominicus
@@ -195,7 +195,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bSpaCya1
-  asm: running
+  asm: draft
   classes: Aves,Anseriformes,Anatidae,birds
   common: cinnamon teal
   scientific: Spatula cyanoptera
@@ -235,7 +235,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bBraLeu1
-  asm: running
+  asm: draft
   classes: Aves,Anseriformes,Anatidae,birds
   common: barnacle goose
   scientific: Branta leucopsis
@@ -735,7 +735,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mEreDor1
-  asm: running
+  asm: draft
   classes: Mammalia,Rodentia,Erethizontidae,mammals
   common: North American porcupine
   scientific: Erethizon dorsatum
@@ -745,7 +745,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fTauAds1
-  asm: running
+  asm: draft
   classes: Actinopterygii,Perciformes,Labridae,Bony fishes
   common: cunner
   scientific: Tautogolabrus adspersus
@@ -795,7 +795,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mSunEtr1
-  asm: running
+  asm: draft
   classes: Mammalia,Eulipotyphla,Soricidae,mammals
   common: white-toothed pygmy shrew
   scientific: Suncus etruscus
@@ -875,7 +875,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bCorHaw1
-  asm: running
+  asm: draft
   classes: Aves,Passeriformes,Corvidae,birds
   common: hawaiian crow
   scientific: Corvus hawaiiensis
@@ -965,7 +965,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bHaeMex1
-  asm: running
+  asm: draft
   classes: Aves,Passeriformes,Fringillidae,birds
   common: house finch
   scientific: Haemorhous mexicanus
@@ -1305,7 +1305,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: mRhiSin1
-  asm: running
+  asm: draft
   classes: Mammalia,Chiroptera,Rhinolophidae,mammals
   common: Chinese rufous horseshoe bat
   scientific: Rhinolophus sinicus
@@ -1415,7 +1415,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bHemCom1
-  asm: running
+  asm: draft
   classes: Aves,Apodiformes,Apodidae,birds
   common: whiskered treeswift
   scientific: Hemiprocne comata
@@ -1445,7 +1445,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bVidCha1
-  asm: running
+  asm: draft
   classes: Aves,Passeriformes,Estrildidae,birds
   common: village indigobird
   scientific: Vidua chalybeata
