@@ -55,7 +55,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fHypTra1
-  asm: running
+  asm: '0'
   classes: Actinopterygii,Osmeriformes,Osmeridae,Bony fishes
   common: delta smelt
   scientific: Hypomesus transpacificus
@@ -65,7 +65,7 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: rEmyOrb1
-  asm: running
+  asm: '0'
   classes: Reptilia,Testudines,Emydidae,reptiles
   common: European pond turtle
   scientific: Emys orbicularis
@@ -105,7 +105,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bDenVid1
-  asm: draft
+  asm: running
   classes: Aves,Anseriformes,Anatidae,birds
   common: white-faced whistling-duck
   scientific: Dendrocygna viduata
@@ -115,7 +115,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bAcrTri1
-  asm: running
+  asm: '0'
   classes: Aves,Passeriformes,Sturnidae,birds
   common: common myna
   scientific: Acridotheres tristis
@@ -165,7 +165,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bNomDom1
-  asm: draft
+  asm: running
   classes: Aves,Anseriformes,Anatidae,birds
   common: Masked duck
   scientific: Nomonyx dominicus
@@ -245,7 +245,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: bTurMer1
-  asm: running
+  asm: draft
   classes: Aves,Passeriformes,Turdidae,birds
   common: blackbird
   scientific: Turdus merula
@@ -305,7 +305,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: mChoDid1
-  asm: running
+  asm: '0'
   classes: Mammalia,Folivora,Megalonychidae,mammals
   common: southern two-toed sloth
   scientific: Choloepus didactylus
@@ -415,7 +415,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fAmpCit1
-  asm: '0'
+  asm: draft
   classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
   common: Midas cichlid
   scientific: Amphilophus citrinellus
@@ -515,7 +515,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: fAmpLab1
-  asm: running
+  asm: draft
   classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
   common: red devil
   scientific: Amphilophus labiatus
@@ -605,7 +605,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: rGopFla2
-  asm: running
+  asm: draft
   classes: Reptilia,Testudines,Testudinidae,reptiles
   common: Mexican gopher tortoise
   scientific: Gopherus flavomarginatus
@@ -675,7 +675,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bGalGal1
-  asm: running
+  asm: draft
   classes: Aves,Galliformes,Phasianidae,birds
   common: chicken
   scientific: Gallus gallus
@@ -735,7 +735,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mEreDor1
-  asm: draft
+  asm: curation
   classes: Mammalia,Rodentia,Erethizontidae,mammals
   common: North American porcupine
   scientific: Erethizon dorsatum
@@ -745,7 +745,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fTauAds1
-  asm: draft
+  asm: curation
   classes: Actinopterygii,Perciformes,Labridae,Bony fishes
   common: cunner
   scientific: Tautogolabrus adspersus
@@ -795,7 +795,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: mSunEtr1
-  asm: draft
+  asm: running
   classes: Mammalia,Eulipotyphla,Soricidae,mammals
   common: white-toothed pygmy shrew
   scientific: Suncus etruscus
@@ -845,7 +845,7 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mMacEug1
-  asm: running
+  asm: '0'
   classes: Mammalia,Diprotodontia,Macropodidae,mammals
   common: tammar wallaby
   scientific: Macropus eugenii
@@ -875,7 +875,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bCorHaw1
-  asm: draft
+  asm: curation
   classes: Aves,Passeriformes,Corvidae,birds
   common: hawaiian crow
   scientific: Corvus hawaiiensis
@@ -885,7 +885,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fScoJap1
-  asm: running
+  asm: '0'
   classes: Actinopterygii,Scombriformes,Scombridae,Bony fishes
   common: chub mackerel
   scientific: Scomber japonicus
@@ -895,7 +895,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: mManPen7
-  asm: running
+  asm: '0'
   classes: Mammalia,Pholidota,Manidae,mammals
   common: Chinese pangolin
   scientific: Manis pentadactyla
@@ -905,7 +905,7 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mEscRob1
-  asm: running
+  asm: '0'
   classes: Mammalia,Artiodactyla,Eschrichtiidae,mammals
   common: grey whale
   scientific: Eschrichtius robustus
@@ -965,7 +965,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bHaeMex1
-  asm: draft
+  asm: running
   classes: Aves,Passeriformes,Fringillidae,birds
   common: house finch
   scientific: Haemorhous mexicanus
@@ -975,7 +975,7 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mSorAra1
-  asm: running
+  asm: '0'
   classes: Mammalia,Eulipotyphla,Soricidae,mammals
   common: European shrew
   scientific: Sorex araneus
@@ -995,7 +995,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bGypBar2
-  asm: running
+  asm: '0'
   classes: Aves,Falconiformes,Accipitridae,birds
   common: lammergeier
   scientific: Gypaetus barbatus
@@ -1005,7 +1005,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: fFunDia1
-  asm: running
+  asm: '0'
   classes: Actinopteri,Cyprinodontiformes,Fundulidae,Bony fishes
   common: banded killifish
   scientific: Fundulus diaphanus
@@ -1015,7 +1015,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: mNeoNeb1
-  asm: running
+  asm: '0'
   classes: Mammalia,Carnivora,Felidae,mammals
   common: Clouded leopard
   scientific: Neofelis nebulosa
@@ -1025,7 +1025,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: mDasNov1
-  asm: running
+  asm: '0'
   classes: Mammalia,Cingulata,Dasypodidae,mammals
   common: nine-banded armadillo
   scientific: Dasypus novemcinctus
@@ -1035,7 +1035,7 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: fNeoGra1
-  asm: running
+  asm: '0'
   classes: Actinopterygii,Siluriformes,Ariidae,Bony fishes
   common: lesser salmon catfish
   scientific: Neoarius graeffei
@@ -1045,7 +1045,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: rAllMis1
-  asm: running
+  asm: '0'
   classes: Reptilia,Crocodylia,Alligatoridae,reptiles
   common: American alligator
   scientific: Alligator mississippiensis
@@ -1055,7 +1055,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: rRhiFlo1
-  asm: running
+  asm: '0'
   classes: Reptilia,Squamata,Rhineuridae,reptiles
   common: Florida worm lizard
   scientific: Rhineura floridana
@@ -1085,7 +1085,7 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mEubGla1
-  asm: running
+  asm: '0'
   classes: Mammalia,Artiodactyla,Balaenidae,mammals
   common: North Atlantic right whale
   scientific: Eubalaena glacialis
@@ -1095,7 +1095,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: rEulEur1
-  asm: running
+  asm: '0'
   classes: Reptilia,Squamata,Sphaerodactylidae,reptiles
   common: tarantolino
   scientific: Euleptes europaea
@@ -1135,7 +1135,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: aSpeBom1
-  asm: running
+  asm: '0'
   classes: Amphibia,Anura,Pelobatidae,amphibians
   common: plains spadefoot toad
   scientific: Spea bombifrons
@@ -1145,7 +1145,7 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mNycCou1
-  asm: running
+  asm: '0'
   classes: Mammalia,Primates,Lorisidae,mammals
   common: slow loris
   scientific: Nycticebus coucang
@@ -1165,7 +1165,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: bPasSan1
-  asm: running
+  asm: '0'
   classes: Aves,Passeriformes,Passerellidae,birds
   common: Savannah sparrow
   scientific: Passerculus sandwichensis
@@ -1175,7 +1175,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: bAmmCau1
-  asm: running
+  asm: '0'
   classes: Aves,Passeriformes,Passerellidae,birds
   common: saltmarsh sparrow
   scientific: Ammodramus caudacutus
@@ -1195,7 +1195,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: bAraAra1
-  asm: running
+  asm: '0'
   classes: Aves,Psittaciformes,Psittacidae,birds
   common: blue-and-yellow macaw
   scientific: Ara ararauna
@@ -1245,7 +1245,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: mMonDom1
-  asm: running
+  asm: '0'
   classes: Mammalia,Didelphimorphia,Didelphidae,mammals
   common: gray short-tailed opossum
   scientific: Monodelphis domestica
@@ -1255,7 +1255,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: aDenEbr1
-  asm: running
+  asm: curation
   classes: Amphibia,Anura,Hylidae,amphibians
   common: hourglass treefrog
   scientific: Dendropsophus ebraccatus
@@ -1265,7 +1265,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bGalGal4
-  asm: running
+  asm: curation
   classes: Aves,Galliformes,Phasianidae,birds
   common: chicken
   scientific: Gallus gallus
@@ -1275,7 +1275,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bGalGal5
-  asm: running
+  asm: curation
   classes: Aves,Galliformes,Phasianidae,birds
   common: chicken
   scientific: Gallus gallus
@@ -1285,7 +1285,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: bAmmNel1
-  asm: running
+  asm: '0'
   classes: Aves,Passeriformes,Passerellidae,birds
   common: Nelson's sparrow
   scientific: Ammospiza nelsoni
@@ -1325,7 +1325,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: bPodStr1
-  asm: running
+  asm: '0'
   classes: Aves,Caprimulgiformes,Podargidae,birds
   common: tawny frogmouth
   scientific: Podargus strigoides
@@ -1335,7 +1335,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: fCycLum2
-  asm: '0'
+  asm: running
   classes: Actinopterygii,Scorpaeniformes,Cyclopteridae,Bony fishes
   common: lumpfish
   scientific: Cyclopterus lumpus
@@ -1345,7 +1345,7 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mMesDen1
-  asm: running
+  asm: '0'
   classes: Mammalia,Artiodactyla,Ziphiidae,mammals
   common: Blainville's beaked whale
   scientific: Mesoplodon densirostris
@@ -1365,7 +1365,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bTaeGut2
-  asm: curated
+  asm: running
   classes: Aves,Passeriformes,Estrildidae,birds
   common: zebra finch
   scientific: Taeniopygia guttata
@@ -1375,7 +1375,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: fOsmMor3
-  asm: running
+  asm: '0'
   classes: Actinopterygii,Osmeriformes,Osmeridae,Bony fishes
   common: rainbow smelt
   scientific: Osmerus mordax
@@ -1395,7 +1395,7 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: mRouAeg1
-  asm: running
+  asm: draft
   classes: Mammalia,Chiroptera,Pteropodidae,mammals
   common: Egyptian rousette
   scientific: Rousettus aegyptiacus
@@ -1405,7 +1405,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: bPtePen1
-  asm: running
+  asm: '0'
   classes: Aves,Rheiformes,Rheidae,birds
   common: lesser rhea
   scientific: Rhea pennata
@@ -1415,7 +1415,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bHemCom1
-  asm: draft
+  asm: curation
   classes: Aves,Apodiformes,Apodidae,birds
   common: whiskered treeswift
   scientific: Hemiprocne comata
@@ -1445,7 +1445,7 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bVidCha1
-  asm: draft
+  asm: running
   classes: Aves,Passeriformes,Estrildidae,birds
   common: village indigobird
   scientific: Vidua chalybeata
@@ -1485,7 +1485,7 @@ toc:
   Ilm: 4
   PB: 0
   VGPId: bAmmMai1
-  asm: running
+  asm: '0'
   classes: Aves,Passeriformes,Passerellidae,birds
   common: seaside sparrow
   scientific: Ammodramus maritimus
@@ -1545,7 +1545,7 @@ toc:
   Ilm: 4
   PB: 2
   VGPId: mPseCra1
-  asm: running
+  asm: '0'
   classes: Mammalia,Artiodactyla,Delphinidae,mammals
   common: false killer whale
   scientific: Pseudorca crassidens
