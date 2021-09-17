@@ -69,7 +69,7 @@ toc:
   classes: Reptilia,Testudines,Emydidae,reptiles
   common: European pond turtle
   scientific: Emys orbicularis
-- 10X: 0
+- 10X: 5
   BN: 1
   HiC: 1
   Ilm: 4
@@ -89,7 +89,7 @@ toc:
   classes: Reptilia,Squamata,Lacertidae,reptiles
   common: Aeolian wall lizard
   scientific: Podarcis raffonei
-- 10X: 0
+- 10X: 5
   BN: 1
   HiC: 5
   Ilm: 4
@@ -169,7 +169,7 @@ toc:
   classes: Aves,Anseriformes,Anatidae,birds
   common: Masked duck
   scientific: Nomonyx dominicus
-- 10X: 0
+- 10X: 5
   BN: 1
   HiC: 5
   Ilm: 4
@@ -179,7 +179,7 @@ toc:
   classes: Actinopterygii,Clupeiformes,Denticipitidae,Bony fishes
   common: denticle herring
   scientific: Denticeps clupeoides
-- 10X: 0
+- 10X: 5
   BN: 1
   HiC: 5
   Ilm: 4
@@ -199,7 +199,7 @@ toc:
   classes: Aves,Anseriformes,Anatidae,birds
   common: cinnamon teal
   scientific: Spatula cyanoptera
-- 10X: 0
+- 10X: 5
   BN: 1
   HiC: 5
   Ilm: 4
@@ -249,7 +249,7 @@ toc:
   classes: Aves,Passeriformes,Turdidae,birds
   common: blackbird
   scientific: Turdus merula
-- 10X: 0
+- 10X: 5
   BN: 1
   HiC: 5
   Ilm: 4
@@ -259,7 +259,7 @@ toc:
   classes: Actinopterygii,Ovalentaria,Ambassidae,Bony fishes
   common: Indian glassy fish
   scientific: Parambassis ranga
-- 10X: 0
+- 10X: 5
   BN: 1
   HiC: 5
   Ilm: 4
@@ -269,7 +269,7 @@ toc:
   classes: Chondrichthyes,Carcharhiniformes,Scyliorhinidae,cartilaginous fishes
   common: smaller spotted catshark
   scientific: Scyliorhinus canicula
-- 10X: 0
+- 10X: 5
   BN: 1
   HiC: 5
   Ilm: 4
@@ -279,7 +279,7 @@ toc:
   classes: Actinopterygii,Salmoniformes,Salmonidae,Bony fishes
   common: river trout
   scientific: Salmo trutta
-- 10X: 0
+- 10X: 5
   BN: 1
   HiC: 5
   Ilm: 4
@@ -289,7 +289,7 @@ toc:
   classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
   common: flier cichlid
   scientific: Archocentrus centrarchus
-- 10X: 0
+- 10X: 5
   BN: 1
   HiC: 5
   Ilm: 4
@@ -309,7 +309,7 @@ toc:
   classes: Mammalia,Folivora,Megalonychidae,mammals
   common: southern two-toed sloth
   scientific: Choloepus didactylus
-- 10X: 0
+- 10X: 5
   BN: 1
   HiC: 1
   Ilm: 4
@@ -409,7 +409,7 @@ toc:
   classes: Aves,Passeriformes,Sylviidae,birds
   common: blackcap
   scientific: Sylvia atricapilla
-- 10X: 0
+- 10X: 5
   BN: 1
   HiC: 5
   Ilm: 4
@@ -509,7 +509,7 @@ toc:
   classes: Aves,Passeriformes,Sylviidae,birds
   common: garden warbler
   scientific: Sylvia borin
-- 10X: 0
+- 10X: 5
   BN: 1
   HiC: 5
   Ilm: 4
@@ -649,16 +649,6 @@ toc:
   classes: Mammalia,Primates,Hominidae,mammals
   common: human
   scientific: Homo sapiens
-- 10X: 0
-  BN: 5
-  HiC: 5
-  Ilm: 4
-  PB: 5
-  VGPId: mBalMus1
-  asm: curated
-  classes: Mammalia,Artiodactyla,Balaenopteridae,mammals
-  common: Blue whale
-  scientific: Balaenoptera musculus
 - 10X: 1
   BN: 1
   HiC: 1
@@ -959,7 +949,7 @@ toc:
   classes: Reptilia,Squamata,Dipsadidae,reptiles
   common: royal ground snake
   scientific: Erythrolamprus reginae
-- 10X: 0
+- 10X: 4
   BN: 1
   HiC: 1
   Ilm: 4
@@ -1299,7 +1289,7 @@ toc:
   classes: Actinopterygii,Cypriniformes,Leuciscidae,Bony fishes
   common: red shiner
   scientific: Cyprinella lutrensis
-- 10X: 0
+- 10X: 4
   BN: 1
   HiC: 5
   Ilm: 4
@@ -1389,7 +1379,7 @@ toc:
   classes: Mammalia,Artiodactyla,Physeteridae,mammals
   common: pygmy sperm whale
   scientific: Kogia breviceps
-- 10X: 0
+- 10X: 5
   BN: 1
   HiC: 5
   Ilm: 4
@@ -1439,7 +1429,7 @@ toc:
   classes: Reptilia,Testudines,Kinosternidae,reptiles
   common: eastern musk turtle
   scientific: Sternotherus odoratus
-- 10X: 0
+- 10X: 4
   BN: 0
   HiC: 1
   Ilm: 4
