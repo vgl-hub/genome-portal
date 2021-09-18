@@ -37,7 +37,11 @@
         <tr>
           <td style="display: none">{{ entry.score }}</td/>
           <td style="display: none">{{ entry.classes }}</td/>
-          <td><a href="{{ entry.url }}">{{ entry.VGPId }}</a></td/>
+          {% if {{ entry.url }} != "#" %}
+            <td><a href="{{ entry.url }}">{{ entry.VGPId }}</a></td/>
+          {% else %}
+           <td>{{ entry.VGPId }}</td/>
+           {% endif %}
           <td><i>{{ entry.scientific }}</i></td>
           <td>{{ entry.common }}</td/>
           <td style="text-align: center;"><img src="assets\img\{{ entry.PB }}.png" width="15" height="15"/></td>
