@@ -22,7 +22,7 @@ toc:
   common: African grass rat
   scientific: Arvicanthis niloticus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicanthis_niloticus/mArvNil1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -34,7 +34,7 @@ toc:
   common: Harpy eagle
   scientific: Harpia harpyja
   score: 10
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Harpia_harpyja/bHarHar1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -46,7 +46,7 @@ toc:
   common: thorny skate
   scientific: Amblyraja radiata
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Amblyraja_radiata/sAmbRad1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -58,7 +58,7 @@ toc:
   common: leatherback sea turtle
   scientific: Dermochelys coriacea
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dermochelys_coriacea/rDerCor1/
 - 10X: 4
   BN: 1
   HiC: 2
@@ -70,7 +70,7 @@ toc:
   common: delta smelt
   scientific: Hypomesus transpacificus
   score: 8
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hypomesus_transpacificus/fHypTra1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -82,7 +82,7 @@ toc:
   common: European pond turtle
   scientific: Emys orbicularis
   score: 9
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Emys_orbicularis/rEmyOrb1/
 - 10X: 5
   BN: 1
   HiC: 1
@@ -94,7 +94,7 @@ toc:
   common: climbing perch
   scientific: Anabas testudineus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anabas_testudineus/fAnaTes1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -106,7 +106,7 @@ toc:
   common: Aeolian wall lizard
   scientific: Podarcis raffonei
   score: 10
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Podarcis_raffonei/rPodRaf1/
 - 10X: 5
   BN: 1
   HiC: 5
@@ -118,7 +118,7 @@ toc:
   common: Eurasian red squirrel
   scientific: Sciurus vulgaris
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sciurus_vulgaris/mSciVul1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -130,7 +130,7 @@ toc:
   common: white-faced whistling-duck
   scientific: Dendrocygna viduata
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendrocygna_viduata/bDenVid1/
 - 10X: 4
   BN: 1
   HiC: 2
@@ -142,7 +142,7 @@ toc:
   common: common myna
   scientific: Acridotheres tristis
   score: 8
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acridotheres_tristis/bAcrTri1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -154,7 +154,7 @@ toc:
   common: pale spear-nosed bat
   scientific: Phyllostomus discolor
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phyllostomus_discolor/mPhyDis1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -166,7 +166,7 @@ toc:
   common: Red-legged seriema
   scientific: Cariama cristata
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cariama_cristata/bCarCri1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -178,7 +178,7 @@ toc:
   common: Canada lynx
   scientific: Lynx canadensis
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lynx_canadensis/mLynCan4/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -190,7 +190,7 @@ toc:
   common: Abyssinian ground-hornbill
   scientific: Bucorvus abyssinicus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bucorvus_abyssinicus/bBucAby1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -202,7 +202,7 @@ toc:
   common: Masked duck
   scientific: Nomonyx dominicus
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nomonyx_dominicus/bNomDom1/
 - 10X: 5
   BN: 1
   HiC: 5
@@ -214,7 +214,7 @@ toc:
   common: denticle herring
   scientific: Denticeps clupeoides
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Denticeps_clupeoides/fDenClu1/
 - 10X: 5
   BN: 1
   HiC: 5
@@ -226,7 +226,7 @@ toc:
   common: greater horseshoe bat
   scientific: Rhinolophus ferrumequinum
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_ferrumequinum/mRhiFer1/
 - 10X: 4
   BN: 1
   HiC: 4
@@ -238,7 +238,7 @@ toc:
   common: cinnamon teal
   scientific: Spatula cyanoptera
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spatula_cyanoptera/bSpaCya1/
 - 10X: 5
   BN: 1
   HiC: 5
@@ -250,7 +250,7 @@ toc:
   common: reedfish
   scientific: Erpetoichthys calabaricus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erpetoichthys_calabaricus/fErpCal1/
 - 10X: 1
   BN: 1
   HiC: 5
@@ -262,7 +262,7 @@ toc:
   common: platypus
   scientific: Ornithorhynchus anatinus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ornithorhynchus_anatinus/mOrnAna1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -274,7 +274,7 @@ toc:
   common: common yellowthroat
   scientific: Geothlypis trichas
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Geothlypis_trichas/bGeoTri1/
 - 10X: 4
   BN: 1
   HiC: 4
@@ -286,7 +286,7 @@ toc:
   common: barnacle goose
   scientific: Branta leucopsis
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branta_leucopsis/bBraLeu1/
 - 10X: 4
   BN: 5
   HiC: 4
@@ -298,7 +298,7 @@ toc:
   common: blackbird
   scientific: Turdus merula
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Turdus_merula/bTurMer1/
 - 10X: 5
   BN: 1
   HiC: 5
@@ -310,7 +310,7 @@ toc:
   common: Indian glassy fish
   scientific: Parambassis ranga
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Parambassis_ranga/fParRan2/
 - 10X: 5
   BN: 1
   HiC: 5
@@ -322,7 +322,7 @@ toc:
   common: smaller spotted catshark
   scientific: Scyliorhinus canicula
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scyliorhinus_canicula/sScyCan1/
 - 10X: 5
   BN: 1
   HiC: 5
@@ -334,7 +334,7 @@ toc:
   common: river trout
   scientific: Salmo trutta
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salmo_trutta/fSalTru1/
 - 10X: 5
   BN: 1
   HiC: 5
@@ -346,7 +346,7 @@ toc:
   common: flier cichlid
   scientific: Archocentrus centrarchus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Archocentrus_centrarchus/fArcCen1/
 - 10X: 5
   BN: 1
   HiC: 5
@@ -358,7 +358,7 @@ toc:
   common: torafugu
   scientific: Takifugu rubripes
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Takifugu_rubripes/fTakRub1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -370,7 +370,7 @@ toc:
   common: southern two-toed sloth
   scientific: Choloepus didactylus
   score: 10
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Choloepus_didactylus/mChoDid1/
 - 10X: 5
   BN: 1
   HiC: 1
@@ -382,7 +382,7 @@ toc:
   common: zig-zag eel
   scientific: Mastacembelus armatus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mastacembelus_armatus/fMasArm1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -394,7 +394,7 @@ toc:
   common: white-tufted-ear marmoset
   scientific: Callithrix jacchus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Callithrix_jacchus/mCalJac1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -406,7 +406,7 @@ toc:
   common: New Zealand spotty
   scientific: Notolabrus celidotus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Notolabrus_celidotus/fNotCel1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -418,7 +418,7 @@ toc:
   common: red-crested turaco
   scientific: Tauraco erythrolophus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tauraco_erythrolophus/bTauEry1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -430,7 +430,7 @@ toc:
   common: Australian echidna
   scientific: Tachyglossus aculeatus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tachyglossus_aculeatus/mTacAcu1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -442,7 +442,7 @@ toc:
   common: lance-tailed manakin
   scientific: Chiroxiphia lanceolata
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chiroxiphia_lanceolata/bChiLan1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -454,7 +454,7 @@ toc:
   common: American flamingo
   scientific: Phoenicopterus ruber
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phoenicopterus_ruber/bPhoRub1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -466,7 +466,7 @@ toc:
   common: razorbill
   scientific: Alca torda
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alca_torda/bAlcTor1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -478,7 +478,7 @@ toc:
   common: common brushtail
   scientific: Trichosurus vulpecula
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trichosurus_vulpecula/mTriVul1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -490,7 +490,7 @@ toc:
   common: blackcap
   scientific: Sylvia atricapilla
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_atricapilla/bSylAtr1/
 - 10X: 5
   BN: 1
   HiC: 5
@@ -514,7 +514,7 @@ toc:
   common: Atlantic halibut
   scientific: Hippoglossus hippoglossus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hippoglossus_hippoglossus/fHipHip1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -526,7 +526,7 @@ toc:
   common: Western terrestrial garter snake
   scientific: Thamnophis elegans
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thamnophis_elegans/rThaEle1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -538,7 +538,7 @@ toc:
   common: vaquita
   scientific: Phocoena sinus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phocoena_sinus/mPhoSin1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -550,7 +550,7 @@ toc:
   common: mute swan
   scientific: Cygnus olor
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cygnus_olor/bCygOlo1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -562,7 +562,7 @@ toc:
   common: California sea lion
   scientific: Zalophus californianus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zalophus_californianus/mZalCal1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -574,7 +574,7 @@ toc:
   common: tufted duck
   scientific: Aythya fuligula
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aythya_fuligula/bAytFul2/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -586,7 +586,7 @@ toc:
   common: carmine bee-eater
   scientific: Merops nubicus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Merops_nubicus/bMerNub1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -598,7 +598,7 @@ toc:
   common: yellow-throated sandgrouse
   scientific: Pterocles gutturalis
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pterocles_gutturalis/bPteGut1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -610,7 +610,7 @@ toc:
   common: garden warbler
   scientific: Sylvia borin
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_borin/bSylBor1/
 - 10X: 5
   BN: 1
   HiC: 5
@@ -622,7 +622,7 @@ toc:
   common: red devil
   scientific: Amphilophus labiatus
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Amphilophus_labiatus/fAmpLab1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -634,7 +634,7 @@ toc:
   common: smalltooth sawfish
   scientific: Pristis pectinata
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pristis_pectinata/sPriPec2/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -646,7 +646,7 @@ toc:
   common: Swainson's thrush
   scientific: Catharus ustulatus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Catharus_ustulatus/bCatUst1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -658,7 +658,7 @@ toc:
   common: Common tern
   scientific: Sterna hirundo
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sterna_hirundo/bSteHir1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -670,7 +670,7 @@ toc:
   common: Barn swallow
   scientific: Hirundo rustica
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hirundo_rustica/bHirRus1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -682,7 +682,7 @@ toc:
   common: New Caledonian crow
   scientific: Corvus moneduloides
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Corvus_moneduloides/bCorMon1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -694,7 +694,7 @@ toc:
   common: common cuckoo
   scientific: Cuculus canorus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cuculus_canorus/bCucCan1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -706,7 +706,7 @@ toc:
   common: great white shark
   scientific: Carcharodon carcharias
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Carcharodon_carcharias/sCarCar2/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -718,7 +718,7 @@ toc:
   common: Ring-tailed lemur
   scientific: Lemur catta
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lemur_catta/mLemCat1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -730,7 +730,7 @@ toc:
   common: Mexican gopher tortoise
   scientific: Gopherus flavomarginatus
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_flavomarginatus/rGopFla2/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -742,7 +742,7 @@ toc:
   common: lumpfish
   scientific: Cyclopterus lumpus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclopterus_lumpus/fCycLum1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -754,7 +754,7 @@ toc:
   common: common bottlenose dolphin
   scientific: Tursiops truncatus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tursiops_truncatus/mTurTru1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -766,7 +766,7 @@ toc:
   common: ermine
   scientific: Mustela erminea
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mustela_erminea/mMusErm1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -778,7 +778,7 @@ toc:
   common: human
   scientific: Homo sapiens
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap3/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -790,7 +790,7 @@ toc:
   common: grey crowned-crane
   scientific: Balearica regulorum
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Balearica_regulorum/bBalReg1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -802,7 +802,7 @@ toc:
   common: chicken
   scientific: Gallus gallus
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -814,7 +814,7 @@ toc:
   common: gyrfalcon
   scientific: Falco rusticolus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_rusticolus/bFalRus1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -826,7 +826,7 @@ toc:
   common: honeycomb rockfish
   scientific: Sebastes umbrosus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sebastes_umbrosus/fSebUmb1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -838,7 +838,7 @@ toc:
   common: epaulette shark
   scientific: Hemiscyllium ocellatum
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiscyllium_ocellatum/sHemOce1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -850,7 +850,7 @@ toc:
   common: lesser kestrel
   scientific: Falco naumanni
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_naumanni/bFalNau1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -862,7 +862,7 @@ toc:
   common: Red-fronted tinkerbird
   scientific: Pogoniulus pusillus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pogoniulus_pusillus/bPogPus1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -874,7 +874,7 @@ toc:
   common: North American porcupine
   scientific: Erethizon dorsatum
   score: 9
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erethizon_dorsatum/mEreDor1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -886,7 +886,7 @@ toc:
   common: cunner
   scientific: Tautogolabrus adspersus
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tautogolabrus_adspersus/fTauAds1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -898,7 +898,7 @@ toc:
   common: plumbeous ibis
   scientific: Theristicus caerulescens
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Theristicus_caerulescens/bTheCae1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -910,7 +910,7 @@ toc:
   common: Suruca trogon
   scientific: Trogon surrucura
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trogon_surrucura/bTroSur1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -922,7 +922,7 @@ toc:
   common: Whooping crane
   scientific: Grus americana
   score: 10
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Grus_americana/bGruAme1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -934,7 +934,7 @@ toc:
   common: gold dust stingray
   scientific: Potamotrygon marinae
   score: 8
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Potamotrygon_marinae/sPotMar1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -946,7 +946,7 @@ toc:
   common: white-toothed pygmy shrew
   scientific: Suncus etruscus
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Suncus_etruscus/mSunEtr1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -958,7 +958,7 @@ toc:
   common: peregrine falcon
   scientific: Falco peregrinus
   score: 10
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_peregrinus/bFalPer1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -970,7 +970,7 @@ toc:
   common: Saker falcon
   scientific: Falco cherrug
   score: 10
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_cherrug/bFalChe1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -982,7 +982,7 @@ toc:
   common: lanner falcon
   scientific: Falco biarmicus
   score: 10
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_biarmicus/bFalBia1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -994,7 +994,7 @@ toc:
   common: black rhinoceros
   scientific: Diceros bicornis
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Diceros_bicornis/mDicBic1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1006,7 +1006,7 @@ toc:
   common: tammar wallaby
   scientific: Macropus eugenii
   score: 9
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Macropus_eugenii/mMacEug1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1018,7 +1018,7 @@ toc:
   common: American shad
   scientific: Alosa sapidissima
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alosa_sapidissima/fAloSap1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1030,7 +1030,7 @@ toc:
   common: South Island takahe
   scientific: Porphyrio hochstetteri
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Porphyrio_hochstetteri/bPorHoc1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1042,7 +1042,7 @@ toc:
   common: hawaiian crow
   scientific: Corvus hawaiiensis
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Corvus_hawaiiensis/bCorHaw1/
 - 10X: 4
   BN: 0
   HiC: 1
@@ -1054,7 +1054,7 @@ toc:
   common: chub mackerel
   scientific: Scomber japonicus
   score: 8
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scomber_japonicus/fScoJap1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1066,7 +1066,7 @@ toc:
   common: Chinese pangolin
   scientific: Manis pentadactyla
   score: 6
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Manis_pentadactyla/mManPen7/
 - 10X: 4
   BN: 1
   HiC: 5
@@ -1078,7 +1078,7 @@ toc:
   common: grey whale
   scientific: Eschrichtius robustus
   score: 9
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Eschrichtius_robustus/mEscRob1/
 - 10X: 4
   BN: 3
   HiC: 0
@@ -1150,7 +1150,7 @@ toc:
   common: house finch
   scientific: Haemorhous mexicanus
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Haemorhous_mexicanus/bHaeMex1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1162,7 +1162,7 @@ toc:
   common: European shrew
   scientific: Sorex araneus
   score: 9
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sorex_araneus/mSorAra1/
 - 10X: 4
   BN: 0
   HiC: 0
@@ -1186,7 +1186,7 @@ toc:
   common: lammergeier
   scientific: Gypaetus barbatus
   score: 8
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gypaetus_barbatus/bGypBar2/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1198,7 +1198,7 @@ toc:
   common: banded killifish
   scientific: Fundulus diaphanus
   score: 8
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Fundulus_diaphanus/fFunDia1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1210,7 +1210,7 @@ toc:
   common: Clouded leopard
   scientific: Neofelis nebulosa
   score: 8
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Neofelis_nebulosa/mNeoNeb1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1222,7 +1222,7 @@ toc:
   common: nine-banded armadillo
   scientific: Dasypus novemcinctus
   score: 8
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dasypus_novemcinctus/mDasNov1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1234,7 +1234,7 @@ toc:
   common: lesser salmon catfish
   scientific: Neoarius graeffei
   score: 9
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Neoarius_graeffei/fNeoGra1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1246,7 +1246,7 @@ toc:
   common: American alligator
   scientific: Alligator mississippiensis
   score: 6
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alligator_mississippiensis/rAllMis1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1258,7 +1258,7 @@ toc:
   common: Florida worm lizard
   scientific: Rhineura floridana
   score: 6
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhineura_floridana/rRhiFlo1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1294,7 +1294,7 @@ toc:
   common: North Atlantic right whale
   scientific: Eubalaena glacialis
   score: 9
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Eubalaena_glacialis/mEubGla1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1306,7 +1306,7 @@ toc:
   common: tarantolino
   scientific: Euleptes europaea
   score: 6
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Euleptes_europaea/rEulEur1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1354,7 +1354,7 @@ toc:
   common: plains spadefoot toad
   scientific: Spea bombifrons
   score: 6
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spea_bombifrons/aSpeBom1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1366,7 +1366,7 @@ toc:
   common: slow loris
   scientific: Nycticebus coucang
   score: 6
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nycticebus_coucang/mNycCou1/
 - 10X: 4
   BN: 1
   HiC: 2
@@ -1390,7 +1390,7 @@ toc:
   common: Savannah sparrow
   scientific: Passerculus sandwichensis
   score: 6
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Passerculus_sandwichensis/bPasSan1/
 - 10X: 4
   BN: 1
   HiC: 2
@@ -1402,7 +1402,7 @@ toc:
   common: saltmarsh sparrow
   scientific: Ammodramus caudacutus
   score: 6
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammodramus_caudacutus/bAmmCau1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1426,7 +1426,7 @@ toc:
   common: blue-and-yellow macaw
   scientific: Ara ararauna
   score: 6
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ara_ararauna/bAraAra1/
 - 10X: 4
   BN: 0
   HiC: 0
@@ -1450,7 +1450,7 @@ toc:
   common: budgerigar
   scientific: Melopsittacus undulatus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Melopsittacus_undulatus/bMelUnd1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1462,7 +1462,7 @@ toc:
   common: sand lizard
   scientific: Lacerta agilis
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lacerta_agilis/rLacAgi1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1474,7 +1474,7 @@ toc:
   common: rifleman
   scientific: Acanthisitta chloris
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acanthisitta_chloris/bAcaChl1/
 - 10X: 4
   BN: 1
   HiC: 2
@@ -1486,7 +1486,7 @@ toc:
   common: gray short-tailed opossum
   scientific: Monodelphis domestica
   score: 6
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Monodelphis_domestica/mMonDom1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1498,7 +1498,7 @@ toc:
   common: hourglass treefrog
   scientific: Dendropsophus ebraccatus
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendropsophus_ebraccatus/aDenEbr1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1510,7 +1510,7 @@ toc:
   common: chicken
   scientific: Gallus gallus
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal4/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1522,7 +1522,7 @@ toc:
   common: chicken
   scientific: Gallus gallus
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal5/
 - 10X: 4
   BN: 1
   HiC: 2
@@ -1534,7 +1534,7 @@ toc:
   common: Nelson's sparrow
   scientific: Ammospiza nelsoni
   score: 6
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammospiza_nelsoni/bAmmNel1/
 - 10X: 4
   BN: 0
   HiC: 0
@@ -1558,7 +1558,7 @@ toc:
   common: Chinese rufous horseshoe bat
   scientific: Rhinolophus sinicus
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_sinicus/mRhiSin1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1570,7 +1570,7 @@ toc:
   common: Goodes thornscrub tortoise
   scientific: Gopherus evgoodei
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_evgoodei/rGopEvg1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1582,7 +1582,7 @@ toc:
   common: tawny frogmouth
   scientific: Podargus strigoides
   score: 6
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Podargus_strigoides/bPodStr1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1606,7 +1606,7 @@ toc:
   common: Blainville's beaked whale
   scientific: Mesoplodon densirostris
   score: 9
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mesoplodon_densirostris/mMesDen1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1630,7 +1630,7 @@ toc:
   common: zebra finch
   scientific: Taeniopygia guttata
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1642,7 +1642,7 @@ toc:
   common: rainbow smelt
   scientific: Osmerus mordax
   score: 8
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Osmerus_mordax/fOsmMor3/
 - 10X: 4
   BN: 1
   HiC: 5
@@ -1654,7 +1654,7 @@ toc:
   common: pygmy sperm whale
   scientific: Kogia breviceps
   score: 10
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Kogia_breviceps/mKogBre1/
 - 10X: 5
   BN: 1
   HiC: 5
@@ -1666,7 +1666,7 @@ toc:
   common: Egyptian rousette
   scientific: Rousettus aegyptiacus
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rousettus_aegyptiacus/mRouAeg1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1678,7 +1678,7 @@ toc:
   common: lesser rhea
   scientific: Rhea pennata
   score: 6
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhea_pennata/bPtePen1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1690,7 +1690,7 @@ toc:
   common: whiskered treeswift
   scientific: Hemiprocne comata
   score: 11
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiprocne_comata/bHemCom1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1702,7 +1702,7 @@ toc:
   common: great potoo
   scientific: Nyctibius grandis
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nyctibius_grandis/bNycGra1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1726,7 +1726,7 @@ toc:
   common: village indigobird
   scientific: Vidua chalybeata
   score: 9
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vidua_chalybeata/bVidCha1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1738,7 +1738,7 @@ toc:
   common: maguari stork
   scientific: Ciconia maguari
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ciconia_maguari/bCicMag1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1750,7 +1750,7 @@ toc:
   common: Korean giant-fin mudskipper
   scientific: Periophthalmus magnuspinnatus
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Periophthalmus_magnuspinnatus/fPerMag1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1762,7 +1762,7 @@ toc:
   common: snub-nosed viper
   scientific: Vipera latastei
   score: 10
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vipera_latastei/rVipLat1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1774,7 +1774,7 @@ toc:
   common: seaside sparrow
   scientific: Ammodramus maritimus
   score: 6
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammodramus_maritimus/bAmmMai1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1786,7 +1786,7 @@ toc:
   common: European golden plover
   scientific: Pluvialis apricaria
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pluvialis_apricaria/bPluApr1/
 - 10X: 4
   BN: 2
   HiC: 0
@@ -1822,7 +1822,7 @@ toc:
   common: zebra finch
   scientific: Taeniopygia guttata
   score: 12
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut1/
 - 10X: 1
   BN: 0
   HiC: 0
@@ -1846,4 +1846,4 @@ toc:
   common: false killer whale
   scientific: Pseudorca crassidens
   score: 7
-  url: ''
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pseudorca_crassidens/mPseCra1/
