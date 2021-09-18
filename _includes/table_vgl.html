@@ -37,10 +37,10 @@
         <tr>
           <td style="display: none">{{ entry.score }}</td/>
           <td style="display: none">{{ entry.classes }}</td/>
-          {% if {{ entry.url }} != "#" %}
-            <td><a href="{{ entry.url }}">{{ entry.VGPId }}</a></td/>
+          {% if {{ entry.url }} == "#" %}
+                                      <td>{{ entry.VGPId }}</td/>
           {% else %}
-           <td>{{ entry.VGPId }}</td/>
+            <td><a href="{{ entry.url }}">{{ entry.VGPId }}</a></td/>
            {% endif %}
           <td><i>{{ entry.scientific }}</i></td>
           <td>{{ entry.common }}</td/>
