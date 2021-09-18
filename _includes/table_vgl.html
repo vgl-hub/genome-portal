@@ -36,7 +36,7 @@
         <tr>
           <td style="display: none">{{ entry.score }}</td/>
           <td style="display: none">{{ entry.classes }}</td/>
-          {% if entry.url contain "#" %}
+          {% if entry.url == "#" %}
              <td>{{ entry.VGPId }}</td/>
            {% else %}
             <td><a href="{{ entry.url }}">{{ entry.VGPId }}</a></td/>
