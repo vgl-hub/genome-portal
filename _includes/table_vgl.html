@@ -37,12 +37,8 @@
         <tr>
           <td style="display: none">{{ entry.score }}</td/>
           <td style="display: none">{{ entry.classes }}</td/>
-          {% if {{ entry.url }} == "#" %}
-                                      <td>{{ entry.VGPId }}</td/>
-          {% else %}
-            <td><a href="{{ entry.url }}">{{ entry.VGPId }}</a></td/>
-           {% endif %}
-          <td><i>{{ entry.scientific }}</i></td>
+          <td>{{ entry.VGPId }}</td/>
+           <td><i>{{ entry.scientific }}</i></td>
           <td>{{ entry.common }}</td/>
           <td style="text-align: center;"><img src="assets\img\{{ entry.PB }}.png" width="15" height="15"/></td>
           <td style="text-align: center;"><img src="assets\img\{{ entry.BN }}.png" width="15" height="15"/></td>
