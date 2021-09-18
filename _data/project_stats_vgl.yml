@@ -9,6 +9,7 @@ toc:
   classes: Mammalia,Proboscidea,Elephantidae,mammals
   common: Asiatic elephant
   scientific: Elephas maximus
+  score: 7
 - 10X: 1
   BN: 1
   HiC: 1
@@ -19,6 +20,7 @@ toc:
   classes: Mammalia,Rodentia,Muridae,mammals
   common: African grass rat
   scientific: Arvicanthis niloticus
+  score: 12
 - 10X: 4
   BN: 1
   HiC: 1
@@ -29,6 +31,7 @@ toc:
   classes: Aves,Falconiformes,Accipitridae,birds
   common: Harpy eagle
   scientific: Harpia harpyja
+  score: 10
 - 10X: 1
   BN: 1
   HiC: 1
@@ -39,6 +42,7 @@ toc:
   classes: Chondrichthyes,Rajiformes,Rajidae,cartilaginous fishes
   common: thorny skate
   scientific: Amblyraja radiata
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -49,6 +53,7 @@ toc:
   classes: Reptilia,Testudines,Dermochelyidae,reptiles
   common: leatherback sea turtle
   scientific: Dermochelys coriacea
+  score: 12
 - 10X: 4
   BN: 1
   HiC: 2
@@ -59,6 +64,7 @@ toc:
   classes: Actinopterygii,Osmeriformes,Osmeridae,Bony fishes
   common: delta smelt
   scientific: Hypomesus transpacificus
+  score: 8
 - 10X: 4
   BN: 1
   HiC: 1
@@ -69,6 +75,7 @@ toc:
   classes: Reptilia,Testudines,Emydidae,reptiles
   common: European pond turtle
   scientific: Emys orbicularis
+  score: 9
 - 10X: 5
   BN: 1
   HiC: 1
@@ -79,6 +86,7 @@ toc:
   classes: Actinopterygii,Anabantiformes,Anabantidae,Bony fishes
   common: climbing perch
   scientific: Anabas testudineus
+  score: 12
 - 10X: 4
   BN: 1
   HiC: 1
@@ -89,6 +97,7 @@ toc:
   classes: Reptilia,Squamata,Lacertidae,reptiles
   common: Aeolian wall lizard
   scientific: Podarcis raffonei
+  score: 10
 - 10X: 5
   BN: 1
   HiC: 5
@@ -99,6 +108,7 @@ toc:
   classes: Mammalia,Rodentia,Sciuridae,mammals
   common: Eurasian red squirrel
   scientific: Sciurus vulgaris
+  score: 12
 - 10X: 4
   BN: 1
   HiC: 1
@@ -109,6 +119,7 @@ toc:
   classes: Aves,Anseriformes,Anatidae,birds
   common: white-faced whistling-duck
   scientific: Dendrocygna viduata
+  score: 11
 - 10X: 4
   BN: 1
   HiC: 2
@@ -119,6 +130,7 @@ toc:
   classes: Aves,Passeriformes,Sturnidae,birds
   common: common myna
   scientific: Acridotheres tristis
+  score: 8
 - 10X: 1
   BN: 1
   HiC: 1
@@ -129,6 +141,7 @@ toc:
   classes: Mammalia,Chiroptera,Phyllostomidae,mammals
   common: pale spear-nosed bat
   scientific: Phyllostomus discolor
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -139,6 +152,7 @@ toc:
   classes: Aves,Cariamiformes,Cariamidae,birds
   common: Red-legged seriema
   scientific: Cariama cristata
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -149,6 +163,7 @@ toc:
   classes: Mammalia,Carnivora,Felidae,mammals
   common: Canada lynx
   scientific: Lynx canadensis
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -159,6 +174,7 @@ toc:
   classes: Aves,Bucerotiformes,Bucorvidae,birds
   common: Abyssinian ground-hornbill
   scientific: Bucorvus abyssinicus
+  score: 12
 - 10X: 4
   BN: 1
   HiC: 1
@@ -169,6 +185,7 @@ toc:
   classes: Aves,Anseriformes,Anatidae,birds
   common: Masked duck
   scientific: Nomonyx dominicus
+  score: 11
 - 10X: 5
   BN: 1
   HiC: 5
@@ -179,6 +196,7 @@ toc:
   classes: Actinopterygii,Clupeiformes,Denticipitidae,Bony fishes
   common: denticle herring
   scientific: Denticeps clupeoides
+  score: 12
 - 10X: 5
   BN: 1
   HiC: 5
@@ -189,6 +207,7 @@ toc:
   classes: Mammalia,Chiroptera,Rhinolophidae,mammals
   common: greater horseshoe bat
   scientific: Rhinolophus ferrumequinum
+  score: 12
 - 10X: 4
   BN: 1
   HiC: 4
@@ -199,6 +218,7 @@ toc:
   classes: Aves,Anseriformes,Anatidae,birds
   common: cinnamon teal
   scientific: Spatula cyanoptera
+  score: 11
 - 10X: 5
   BN: 1
   HiC: 5
@@ -209,6 +229,7 @@ toc:
   classes: Actinopterygii,Polypteriformes,Polypteridae,Bony fishes
   common: reedfish
   scientific: Erpetoichthys calabaricus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 5
@@ -219,6 +240,7 @@ toc:
   classes: Mammalia,Monotremata,Ornithorhynchidae,mammals
   common: platypus
   scientific: Ornithorhynchus anatinus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -229,6 +251,7 @@ toc:
   classes: Aves,Passeriformes,Parulidae,birds
   common: common yellowthroat
   scientific: Geothlypis trichas
+  score: 12
 - 10X: 4
   BN: 1
   HiC: 4
@@ -239,6 +262,7 @@ toc:
   classes: Aves,Anseriformes,Anatidae,birds
   common: barnacle goose
   scientific: Branta leucopsis
+  score: 11
 - 10X: 4
   BN: 5
   HiC: 4
@@ -249,6 +273,7 @@ toc:
   classes: Aves,Passeriformes,Turdidae,birds
   common: blackbird
   scientific: Turdus merula
+  score: 11
 - 10X: 5
   BN: 1
   HiC: 5
@@ -259,6 +284,7 @@ toc:
   classes: Actinopterygii,Ovalentaria,Ambassidae,Bony fishes
   common: Indian glassy fish
   scientific: Parambassis ranga
+  score: 12
 - 10X: 5
   BN: 1
   HiC: 5
@@ -269,6 +295,7 @@ toc:
   classes: Chondrichthyes,Carcharhiniformes,Scyliorhinidae,cartilaginous fishes
   common: smaller spotted catshark
   scientific: Scyliorhinus canicula
+  score: 12
 - 10X: 5
   BN: 1
   HiC: 5
@@ -279,6 +306,7 @@ toc:
   classes: Actinopterygii,Salmoniformes,Salmonidae,Bony fishes
   common: river trout
   scientific: Salmo trutta
+  score: 12
 - 10X: 5
   BN: 1
   HiC: 5
@@ -289,6 +317,7 @@ toc:
   classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
   common: flier cichlid
   scientific: Archocentrus centrarchus
+  score: 12
 - 10X: 5
   BN: 1
   HiC: 5
@@ -299,6 +328,7 @@ toc:
   classes: Actinopterygii,Tetraodontiformes,Tetraodontidae,Bony fishes
   common: torafugu
   scientific: Takifugu rubripes
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -309,6 +339,7 @@ toc:
   classes: Mammalia,Folivora,Megalonychidae,mammals
   common: southern two-toed sloth
   scientific: Choloepus didactylus
+  score: 10
 - 10X: 5
   BN: 1
   HiC: 1
@@ -319,6 +350,7 @@ toc:
   classes: Actinopterygii,Synbranchiformes,Mastacembelidae,Bony fishes
   common: zig-zag eel
   scientific: Mastacembelus armatus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -329,6 +361,7 @@ toc:
   classes: Mammalia,Primates,Cebidae,mammals
   common: white-tufted-ear marmoset
   scientific: Callithrix jacchus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -339,6 +372,7 @@ toc:
   classes: Actinopterygii,Perciformes,Labridae,Bony fishes
   common: New Zealand spotty
   scientific: Notolabrus celidotus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -349,6 +383,7 @@ toc:
   classes: Aves,Musophagiformes,Musophagidae,birds
   common: red-crested turaco
   scientific: Tauraco erythrolophus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -359,6 +394,7 @@ toc:
   classes: Mammalia,Monotremata,Tachyglossidae,mammals
   common: Australian echidna
   scientific: Tachyglossus aculeatus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -369,6 +405,7 @@ toc:
   classes: Aves,Passeriformes,Pipridae,birds
   common: lance-tailed manakin
   scientific: Chiroxiphia lanceolata
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -379,6 +416,7 @@ toc:
   classes: Aves,Phoenicopteriformes,Phoenicopteridae,birds
   common: American flamingo
   scientific: Phoenicopterus ruber
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -389,6 +427,7 @@ toc:
   classes: Aves,Charadriiformes,Alcidae,birds
   common: razorbill
   scientific: Alca torda
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -399,6 +438,7 @@ toc:
   classes: Mammalia,Diprotodontia,Phalangeridae,mammals
   common: common brushtail
   scientific: Trichosurus vulpecula
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -409,6 +449,7 @@ toc:
   classes: Aves,Passeriformes,Sylviidae,birds
   common: blackcap
   scientific: Sylvia atricapilla
+  score: 12
 - 10X: 5
   BN: 1
   HiC: 5
@@ -419,6 +460,7 @@ toc:
   classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
   common: Midas cichlid
   scientific: Amphilophus citrinellus
+  score: 11
 - 10X: 1
   BN: 1
   HiC: 1
@@ -429,6 +471,7 @@ toc:
   classes: Actinopterygii,Pleuronectiformes,Pleuronectidae,Bony fishes
   common: Atlantic halibut
   scientific: Hippoglossus hippoglossus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -439,6 +482,7 @@ toc:
   classes: Reptilia,Squamata,Colubridae,reptiles
   common: Western terrestrial garter snake
   scientific: Thamnophis elegans
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -449,6 +493,7 @@ toc:
   classes: Mammalia,Artiodactyla,Phocoenidae,mammals
   common: vaquita
   scientific: Phocoena sinus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -459,6 +504,7 @@ toc:
   classes: Aves,Anseriformes,Anatidae,birds
   common: mute swan
   scientific: Cygnus olor
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -469,6 +515,7 @@ toc:
   classes: Mammalia,Carnivora,Otariidae,mammals
   common: California sea lion
   scientific: Zalophus californianus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -479,6 +526,7 @@ toc:
   classes: Aves,Anseriformes,Anatidae,birds
   common: tufted duck
   scientific: Aythya fuligula
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -489,6 +537,7 @@ toc:
   classes: Aves,Coraciiformes,Meropidae,birds
   common: carmine bee-eater
   scientific: Merops nubicus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -499,6 +548,7 @@ toc:
   classes: Aves,Pterocliformes,Pteroclidae,birds
   common: yellow-throated sandgrouse
   scientific: Pterocles gutturalis
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -509,6 +559,7 @@ toc:
   classes: Aves,Passeriformes,Sylviidae,birds
   common: garden warbler
   scientific: Sylvia borin
+  score: 12
 - 10X: 5
   BN: 1
   HiC: 5
@@ -519,6 +570,7 @@ toc:
   classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
   common: red devil
   scientific: Amphilophus labiatus
+  score: 11
 - 10X: 1
   BN: 1
   HiC: 1
@@ -529,6 +581,7 @@ toc:
   classes: Chondrichthyes,Rhinopristiformes,Pristidae,cartilaginous fishes
   common: smalltooth sawfish
   scientific: Pristis pectinata
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -539,6 +592,7 @@ toc:
   classes: Aves,Passeriformes,Turdidae,birds
   common: Swainson's thrush
   scientific: Catharus ustulatus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -549,6 +603,7 @@ toc:
   classes: Aves,Charadriiformes,Laridae,birds
   common: Common tern
   scientific: Sterna hirundo
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -559,6 +614,7 @@ toc:
   classes: Aves,Passeriformes,Hirundinidae,birds
   common: Barn swallow
   scientific: Hirundo rustica
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -569,6 +625,7 @@ toc:
   classes: Aves,Passeriformes,Corvidae,birds
   common: New Caledonian crow
   scientific: Corvus moneduloides
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -579,6 +636,7 @@ toc:
   classes: Aves,Cuculiformes,Cuculidae,birds
   common: common cuckoo
   scientific: Cuculus canorus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -589,6 +647,7 @@ toc:
   classes: Chondrichthyes,Lamniformes,Alopiidae,cartilaginous fishes
   common: great white shark
   scientific: Carcharodon carcharias
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -599,6 +658,7 @@ toc:
   classes: Mammalia,Lemuriformes,Lemuridae,mammals
   common: Ring-tailed lemur
   scientific: Lemur catta
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -609,6 +669,7 @@ toc:
   classes: Reptilia,Testudines,Testudinidae,reptiles
   common: Mexican gopher tortoise
   scientific: Gopherus flavomarginatus
+  score: 11
 - 10X: 1
   BN: 1
   HiC: 1
@@ -619,6 +680,7 @@ toc:
   classes: Actinopterygii,Scorpaeniformes,Cyclopteridae,Bony fishes
   common: lumpfish
   scientific: Cyclopterus lumpus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -629,6 +691,7 @@ toc:
   classes: Mammalia,Artiodactyla,Delphinidae,mammals
   common: common bottlenose dolphin
   scientific: Tursiops truncatus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -639,6 +702,7 @@ toc:
   classes: Mammalia,Carnivora,Mustelidae,mammals
   common: ermine
   scientific: Mustela erminea
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -649,6 +713,7 @@ toc:
   classes: Mammalia,Primates,Hominidae,mammals
   common: human
   scientific: Homo sapiens
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -659,6 +724,7 @@ toc:
   classes: Aves,Gruiformes,Gruidae,birds
   common: grey crowned-crane
   scientific: Balearica regulorum
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -669,6 +735,7 @@ toc:
   classes: Aves,Galliformes,Phasianidae,birds
   common: chicken
   scientific: Gallus gallus
+  score: 11
 - 10X: 1
   BN: 1
   HiC: 1
@@ -679,6 +746,7 @@ toc:
   classes: Aves,Falconiformes,Falconidae,birds
   common: gyrfalcon
   scientific: Falco rusticolus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -689,6 +757,7 @@ toc:
   classes: Actinopterygii,Perciformes,Sebastidae,Bony fishes
   common: honeycomb rockfish
   scientific: Sebastes umbrosus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -699,6 +768,7 @@ toc:
   classes: Chondrichthyes,Orectolobiformes,Hemiscylliidae,cartilaginous fishes
   common: epaulette shark
   scientific: Hemiscyllium ocellatum
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -709,6 +779,7 @@ toc:
   classes: Aves,Falconiformes,Falconidae,birds
   common: lesser kestrel
   scientific: Falco naumanni
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -719,6 +790,7 @@ toc:
   classes: Aves,Piciformes,Lybiidae,birds
   common: Red-fronted tinkerbird
   scientific: Pogoniulus pusillus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -729,6 +801,7 @@ toc:
   classes: Mammalia,Rodentia,Erethizontidae,mammals
   common: North American porcupine
   scientific: Erethizon dorsatum
+  score: 9
 - 10X: 1
   BN: 1
   HiC: 1
@@ -739,6 +812,7 @@ toc:
   classes: Actinopterygii,Perciformes,Labridae,Bony fishes
   common: cunner
   scientific: Tautogolabrus adspersus
+  score: 11
 - 10X: 1
   BN: 1
   HiC: 1
@@ -749,6 +823,7 @@ toc:
   classes: Aves,Pelecaniformes,Threskiornithidae,birds
   common: plumbeous ibis
   scientific: Theristicus caerulescens
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -759,6 +834,7 @@ toc:
   classes: Aves,Trogoniformes,Trogonidae,birds
   common: Suruca trogon
   scientific: Trogon surrucura
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -769,6 +845,7 @@ toc:
   classes: Aves,Gruiformes,Gruidae,birds
   common: Whooping crane
   scientific: Grus americana
+  score: 10
 - 10X: 4
   BN: 1
   HiC: 1
@@ -779,6 +856,7 @@ toc:
   classes: Chondrichthyes,Myliobatiformes,Potamotrygonidae,cartilaginous fishes
   common: gold dust stingray
   scientific: Potamotrygon marinae
+  score: 8
 - 10X: 1
   BN: 1
   HiC: 1
@@ -789,6 +867,7 @@ toc:
   classes: Mammalia,Eulipotyphla,Soricidae,mammals
   common: white-toothed pygmy shrew
   scientific: Suncus etruscus
+  score: 11
 - 10X: 4
   BN: 1
   HiC: 1
@@ -799,6 +878,7 @@ toc:
   classes: Aves,Falconiformes,Falconidae,birds
   common: peregrine falcon
   scientific: Falco peregrinus
+  score: 10
 - 10X: 4
   BN: 1
   HiC: 1
@@ -809,6 +889,7 @@ toc:
   classes: Aves,Falconiformes,Falconidae,birds
   common: Saker falcon
   scientific: Falco cherrug
+  score: 10
 - 10X: 4
   BN: 1
   HiC: 1
@@ -819,6 +900,7 @@ toc:
   classes: Aves,Falconiformes,Falconidae,birds
   common: lanner falcon
   scientific: Falco biarmicus
+  score: 10
 - 10X: 4
   BN: 1
   HiC: 1
@@ -829,6 +911,7 @@ toc:
   classes: Mammalia,Perissodactyla,Rhinocerotidae,mammals
   common: black rhinoceros
   scientific: Diceros bicornis
+  score: 12
 - 10X: 4
   BN: 1
   HiC: 1
@@ -839,6 +922,7 @@ toc:
   classes: Mammalia,Diprotodontia,Macropodidae,mammals
   common: tammar wallaby
   scientific: Macropus eugenii
+  score: 9
 - 10X: 4
   BN: 1
   HiC: 1
@@ -849,6 +933,7 @@ toc:
   classes: Actinopterygii,Clupeiformes,Clupeidae,Bony fishes
   common: American shad
   scientific: Alosa sapidissima
+  score: 12
 - 10X: 4
   BN: 1
   HiC: 1
@@ -859,6 +944,7 @@ toc:
   classes: Aves,Gruiformes,Rallidae,birds
   common: South Island takahe
   scientific: Porphyrio hochstetteri
+  score: 12
 - 10X: 4
   BN: 1
   HiC: 1
@@ -869,6 +955,7 @@ toc:
   classes: Aves,Passeriformes,Corvidae,birds
   common: hawaiian crow
   scientific: Corvus hawaiiensis
+  score: 11
 - 10X: 4
   BN: 0
   HiC: 1
@@ -879,6 +966,7 @@ toc:
   classes: Actinopterygii,Scombriformes,Scombridae,Bony fishes
   common: chub mackerel
   scientific: Scomber japonicus
+  score: 8
 - 10X: 4
   BN: 1
   HiC: 0
@@ -889,6 +977,7 @@ toc:
   classes: Mammalia,Pholidota,Manidae,mammals
   common: Chinese pangolin
   scientific: Manis pentadactyla
+  score: 6
 - 10X: 4
   BN: 1
   HiC: 5
@@ -899,6 +988,7 @@ toc:
   classes: Mammalia,Artiodactyla,Eschrichtiidae,mammals
   common: grey whale
   scientific: Eschrichtius robustus
+  score: 9
 - 10X: 4
   BN: 3
   HiC: 0
@@ -909,6 +999,7 @@ toc:
   classes: Mammalia,Rodentia,Geomyidae,mammals
   common: Botta's pocket gopher
   scientific: Thomomys bottae
+  score: 4
 - 10X: 4
   BN: 1
   HiC: 2
@@ -919,6 +1010,7 @@ toc:
   classes: Amphibia,Anura,Ranidae,amphibians
   common: wood frog
   scientific: Rana sylvatica
+  score: 6
 - 10X: 4
   BN: 3
   HiC: 0
@@ -929,6 +1021,7 @@ toc:
   classes: Amphibia,Anura,Microhylidae,amphibians
   common: eastern narrow-mouthed toad
   scientific: Gastrophryne carolinensis
+  score: 4
 - 10X: 4
   BN: 3
   HiC: 0
@@ -939,6 +1032,7 @@ toc:
   classes: Actinopterygii,Perciformes,Zoarcidae,Bony fishes
   common: midwater eelpout
   scientific: Melanostigma pammelas
+  score: 5
 - 10X: 4
   BN: 1
   HiC: 2
@@ -949,6 +1043,7 @@ toc:
   classes: Reptilia,Squamata,Dipsadidae,reptiles
   common: royal ground snake
   scientific: Erythrolamprus reginae
+  score: 5
 - 10X: 4
   BN: 1
   HiC: 1
@@ -959,6 +1054,7 @@ toc:
   classes: Aves,Passeriformes,Fringillidae,birds
   common: house finch
   scientific: Haemorhous mexicanus
+  score: 11
 - 10X: 4
   BN: 1
   HiC: 1
@@ -969,6 +1065,7 @@ toc:
   classes: Mammalia,Eulipotyphla,Soricidae,mammals
   common: European shrew
   scientific: Sorex araneus
+  score: 9
 - 10X: 4
   BN: 0
   HiC: 0
@@ -979,6 +1076,7 @@ toc:
   classes: Mammalia,Lagomorpha,Ochotonidae,mammals
   common: American pika
   scientific: Ochotona princeps
+  score: 5
 - 10X: 4
   BN: 1
   HiC: 2
@@ -989,6 +1087,7 @@ toc:
   classes: Aves,Falconiformes,Accipitridae,birds
   common: lammergeier
   scientific: Gypaetus barbatus
+  score: 8
 - 10X: 4
   BN: 1
   HiC: 1
@@ -999,6 +1098,7 @@ toc:
   classes: Actinopteri,Cyprinodontiformes,Fundulidae,Bony fishes
   common: banded killifish
   scientific: Fundulus diaphanus
+  score: 8
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1009,6 +1109,7 @@ toc:
   classes: Mammalia,Carnivora,Felidae,mammals
   common: Clouded leopard
   scientific: Neofelis nebulosa
+  score: 8
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1019,6 +1120,7 @@ toc:
   classes: Mammalia,Cingulata,Dasypodidae,mammals
   common: nine-banded armadillo
   scientific: Dasypus novemcinctus
+  score: 8
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1029,6 +1131,7 @@ toc:
   classes: Actinopterygii,Siluriformes,Ariidae,Bony fishes
   common: lesser salmon catfish
   scientific: Neoarius graeffei
+  score: 9
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1039,6 +1142,7 @@ toc:
   classes: Reptilia,Crocodylia,Alligatoridae,reptiles
   common: American alligator
   scientific: Alligator mississippiensis
+  score: 6
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1049,6 +1153,7 @@ toc:
   classes: Reptilia,Squamata,Rhineuridae,reptiles
   common: Florida worm lizard
   scientific: Rhineura floridana
+  score: 6
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1059,6 +1164,7 @@ toc:
   classes: Chondrichthyes,Heterodontiformes,Heterodontidae,cartilaginous fishes
   common: horn shark
   scientific: Heterodontus francisci
+  score: 4
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1069,6 +1175,7 @@ toc:
   classes: Reptilia,Testudines,Emydidae,reptiles
   common: diamondback terrapin
   scientific: Malaclemys terrapin
+  score: 4
 - 10X: 4
   BN: 1
   HiC: 5
@@ -1079,6 +1186,7 @@ toc:
   classes: Mammalia,Artiodactyla,Balaenidae,mammals
   common: North Atlantic right whale
   scientific: Eubalaena glacialis
+  score: 9
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1089,6 +1197,7 @@ toc:
   classes: Reptilia,Squamata,Sphaerodactylidae,reptiles
   common: tarantolino
   scientific: Euleptes europaea
+  score: 6
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1099,6 +1208,7 @@ toc:
   classes: Amphibia,Anura,Hylidae,amphibians
   common: Sardinian tree frog
   scientific: Hyla sarda
+  score: 4
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1109,6 +1219,7 @@ toc:
   classes: Amphibia,Anura,Leptodactylidae,amphibians
   common: rufous frog
   scientific: Leptodactylus fuscus
+  score: 4
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1119,6 +1230,7 @@ toc:
   classes: Amphibia,Anura,Dendrobatidae,amphibians
   common: rocket frog
   scientific: Anomaloglossus baeobatrachus
+  score: 4
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1129,6 +1241,7 @@ toc:
   classes: Amphibia,Anura,Pelobatidae,amphibians
   common: plains spadefoot toad
   scientific: Spea bombifrons
+  score: 6
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1139,6 +1252,7 @@ toc:
   classes: Mammalia,Primates,Lorisidae,mammals
   common: slow loris
   scientific: Nycticebus coucang
+  score: 6
 - 10X: 4
   BN: 1
   HiC: 2
@@ -1149,6 +1263,7 @@ toc:
   classes: Aves,Passeriformes,Passerellidae,birds
   common: song sparrow
   scientific: Melospiza melodia
+  score: 4
 - 10X: 4
   BN: 1
   HiC: 2
@@ -1159,6 +1274,7 @@ toc:
   classes: Aves,Passeriformes,Passerellidae,birds
   common: Savannah sparrow
   scientific: Passerculus sandwichensis
+  score: 6
 - 10X: 4
   BN: 1
   HiC: 2
@@ -1169,6 +1285,7 @@ toc:
   classes: Aves,Passeriformes,Passerellidae,birds
   common: saltmarsh sparrow
   scientific: Ammodramus caudacutus
+  score: 6
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1179,6 +1296,7 @@ toc:
   classes: Amphibia,Anura,Hyperoliidae,amphibians
   common: Riggenbach's reed frog
   scientific: Hyperolius riggenbachi
+  score: 4
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1189,6 +1307,7 @@ toc:
   classes: Aves,Psittaciformes,Psittacidae,birds
   common: blue-and-yellow macaw
   scientific: Ara ararauna
+  score: 6
 - 10X: 4
   BN: 0
   HiC: 0
@@ -1199,6 +1318,7 @@ toc:
   classes: Amphibia,Anura,Myobatrachidae,amphibians
   common: corroboree frog
   scientific: Pseudophryne corroboree
+  score: 4
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1209,6 +1329,7 @@ toc:
   classes: Aves,Psittaciformes,Psittaculidae,birds
   common: budgerigar
   scientific: Melopsittacus undulatus
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1219,6 +1340,7 @@ toc:
   classes: Reptilia,Squamata,Lacertidae,reptiles
   common: sand lizard
   scientific: Lacerta agilis
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1229,6 +1351,7 @@ toc:
   classes: Aves,Passeriformes,Acanthisittidae,birds
   common: rifleman
   scientific: Acanthisitta chloris
+  score: 12
 - 10X: 4
   BN: 1
   HiC: 2
@@ -1239,6 +1362,7 @@ toc:
   classes: Mammalia,Didelphimorphia,Didelphidae,mammals
   common: gray short-tailed opossum
   scientific: Monodelphis domestica
+  score: 6
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1249,6 +1373,7 @@ toc:
   classes: Amphibia,Anura,Hylidae,amphibians
   common: hourglass treefrog
   scientific: Dendropsophus ebraccatus
+  score: 11
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1259,6 +1384,7 @@ toc:
   classes: Aves,Galliformes,Phasianidae,birds
   common: chicken
   scientific: Gallus gallus
+  score: 11
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1269,6 +1395,7 @@ toc:
   classes: Aves,Galliformes,Phasianidae,birds
   common: chicken
   scientific: Gallus gallus
+  score: 11
 - 10X: 4
   BN: 1
   HiC: 2
@@ -1279,6 +1406,7 @@ toc:
   classes: Aves,Passeriformes,Passerellidae,birds
   common: Nelson's sparrow
   scientific: Ammospiza nelsoni
+  score: 6
 - 10X: 4
   BN: 0
   HiC: 0
@@ -1289,6 +1417,7 @@ toc:
   classes: Actinopterygii,Cypriniformes,Leuciscidae,Bony fishes
   common: red shiner
   scientific: Cyprinella lutrensis
+  score: 4
 - 10X: 4
   BN: 1
   HiC: 5
@@ -1299,6 +1428,7 @@ toc:
   classes: Mammalia,Chiroptera,Rhinolophidae,mammals
   common: Chinese rufous horseshoe bat
   scientific: Rhinolophus sinicus
+  score: 11
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1309,6 +1439,7 @@ toc:
   classes: Reptilia,Testudines,Testudinidae,reptiles
   common: Goodes thornscrub tortoise
   scientific: Gopherus evgoodei
+  score: 12
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1319,6 +1450,7 @@ toc:
   classes: Aves,Caprimulgiformes,Podargidae,birds
   common: tawny frogmouth
   scientific: Podargus strigoides
+  score: 6
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1329,6 +1461,7 @@ toc:
   classes: Actinopterygii,Scorpaeniformes,Cyclopteridae,Bony fishes
   common: lumpfish
   scientific: Cyclopterus lumpus
+  score: 11
 - 10X: 4
   BN: 1
   HiC: 5
@@ -1339,6 +1472,7 @@ toc:
   classes: Mammalia,Artiodactyla,Ziphiidae,mammals
   common: Blainville's beaked whale
   scientific: Mesoplodon densirostris
+  score: 9
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1349,6 +1483,7 @@ toc:
   classes: Amphibia,Caudata,Salamandridae,amphibians
   common: fire salamander
   scientific: Salamandra salamandra
+  score: 4
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1359,6 +1494,7 @@ toc:
   classes: Aves,Passeriformes,Estrildidae,birds
   common: zebra finch
   scientific: Taeniopygia guttata
+  score: 12
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1369,6 +1505,7 @@ toc:
   classes: Actinopterygii,Osmeriformes,Osmeridae,Bony fishes
   common: rainbow smelt
   scientific: Osmerus mordax
+  score: 8
 - 10X: 4
   BN: 1
   HiC: 5
@@ -1379,6 +1516,7 @@ toc:
   classes: Mammalia,Artiodactyla,Physeteridae,mammals
   common: pygmy sperm whale
   scientific: Kogia breviceps
+  score: 10
 - 10X: 5
   BN: 1
   HiC: 5
@@ -1389,6 +1527,7 @@ toc:
   classes: Mammalia,Chiroptera,Pteropodidae,mammals
   common: Egyptian rousette
   scientific: Rousettus aegyptiacus
+  score: 11
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1399,6 +1538,7 @@ toc:
   classes: Aves,Rheiformes,Rheidae,birds
   common: lesser rhea
   scientific: Rhea pennata
+  score: 6
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1409,6 +1549,7 @@ toc:
   classes: Aves,Apodiformes,Apodidae,birds
   common: whiskered treeswift
   scientific: Hemiprocne comata
+  score: 11
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1419,6 +1560,7 @@ toc:
   classes: Aves,Caprimulgiformes,Nyctibiidae,birds
   common: great potoo
   scientific: Nyctibius grandis
+  score: 12
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1429,6 +1571,7 @@ toc:
   classes: Reptilia,Testudines,Kinosternidae,reptiles
   common: eastern musk turtle
   scientific: Sternotherus odoratus
+  score: 4
 - 10X: 4
   BN: 0
   HiC: 1
@@ -1439,6 +1582,7 @@ toc:
   classes: Aves,Passeriformes,Estrildidae,birds
   common: village indigobird
   scientific: Vidua chalybeata
+  score: 9
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1449,6 +1593,7 @@ toc:
   classes: Aves,Ciconiiformes,Ciconiidae,birds
   common: maguari stork
   scientific: Ciconia maguari
+  score: 12
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1459,6 +1604,7 @@ toc:
   classes: Actinopterygii,Gobiiformes,Gobiidae,Bony fishes
   common: Korean giant-fin mudskipper
   scientific: Periophthalmus magnuspinnatus
+  score: 12
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1469,6 +1615,7 @@ toc:
   classes: Reptilia,Squamata,Viperidae,reptiles
   common: snub-nosed viper
   scientific: Vipera latastei
+  score: 10
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1479,6 +1626,7 @@ toc:
   classes: Aves,Passeriformes,Passerellidae,birds
   common: seaside sparrow
   scientific: Ammodramus maritimus
+  score: 6
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1489,6 +1637,7 @@ toc:
   classes: Aves,Charadriiformes,Charadriidae,birds
   common: European golden plover
   scientific: Pluvialis apricaria
+  score: 12
 - 10X: 4
   BN: 2
   HiC: 0
@@ -1499,6 +1648,7 @@ toc:
   classes: Chondrichthyes,Torpediniformes,Narcinidae,cartilaginous fishes
   common: Caribbean electric ray
   scientific: Narcine bancroftii
+  score: 4
 - 10X: 4
   BN: 0
   HiC: 0
@@ -1509,6 +1659,7 @@ toc:
   classes: Cephalopoda,Octopoda,Octopodidae,invertebrates
   common: lesser Pacific striped octopus
   scientific: Octopus chierchiae
+  score: 4
 - 10X: 1
   BN: 5
   HiC: 5
@@ -1519,6 +1670,7 @@ toc:
   classes: Aves,Passeriformes,Estrildidae,birds
   common: zebra finch
   scientific: Taeniopygia guttata
+  score: 12
 - 10X: 1
   BN: 0
   HiC: 0
@@ -1529,6 +1681,7 @@ toc:
   classes: Hyperoartia,Petromyzontiformes,Petromyzontidae,jawless,Agnatha
   common: sea lamprey
   scientific: Petromyzon marinus
+  score: 6
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1539,3 +1692,4 @@ toc:
   classes: Mammalia,Artiodactyla,Delphinidae,mammals
   common: false killer whale
   scientific: Pseudorca crassidens
+  score: 7
