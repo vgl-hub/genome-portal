@@ -1599,13 +1599,13 @@ toc:
   BN: 1
   HiC: 5
   Ilm: 4
-  PB: 2
+  PB: 1
   VGPId: mMesDen1
   asm: '0'
   classes: Mammalia,Artiodactyla,Ziphiidae,mammals
   common: Blainville's beaked whale
   scientific: Mesoplodon densirostris
-  score: 9
+  score: 10
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mesoplodon_densirostris/mMesDen1/
 - 10X: 4
   BN: 1
