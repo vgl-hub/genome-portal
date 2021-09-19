@@ -10,7 +10,7 @@ toc:
   common: Asiatic elephant
   scientific: Elephas maximus
   score: 0.375
-  url: '#'
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Elephas_maximus/mEleMax1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -33,7 +33,7 @@ toc:
   classes: Aves,Falconiformes,Accipitridae,birds
   common: Harpy eagle
   scientific: Harpia harpyja
-  score: 0.75
+  score: 0.875
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Harpia_harpyja/bHarHar1/
 - 10X: 1
   BN: 1
@@ -69,7 +69,7 @@ toc:
   classes: Actinopterygii,Osmeriformes,Osmeridae,Bony fishes
   common: delta smelt
   scientific: Hypomesus transpacificus
-  score: 0.5
+  score: 0.625
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hypomesus_transpacificus/fHypTra1/
 - 10X: 4
   BN: 1
@@ -105,7 +105,7 @@ toc:
   classes: Reptilia,Squamata,Lacertidae,reptiles
   common: Aeolian wall lizard
   scientific: Podarcis raffonei
-  score: 0.75
+  score: 0.875
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Podarcis_raffonei/rPodRaf1/
 - 10X: 5
   BN: 1
@@ -141,7 +141,7 @@ toc:
   classes: Aves,Passeriformes,Sturnidae,birds
   common: common myna
   scientific: Acridotheres tristis
-  score: 0.5
+  score: 0.625
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acridotheres_tristis/bAcrTri1/
 - 10X: 1
   BN: 1
@@ -502,7 +502,7 @@ toc:
   common: Midas cichlid
   scientific: Amphilophus citrinellus
   score: 0.9
-  url: '#'
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Amphilophus_citrinellus/fAmpCit1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -873,7 +873,7 @@ toc:
   classes: Mammalia,Rodentia,Erethizontidae,mammals
   common: North American porcupine
   scientific: Erethizon dorsatum
-  score: 0.7
+  score: 0.9
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erethizon_dorsatum/mEreDor1/
 - 10X: 1
   BN: 1
@@ -921,7 +921,7 @@ toc:
   classes: Aves,Gruiformes,Gruidae,birds
   common: Whooping crane
   scientific: Grus americana
-  score: 0.8
+  score: 0.9
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Grus_americana/bGruAme1/
 - 10X: 4
   BN: 1
@@ -933,7 +933,7 @@ toc:
   classes: Chondrichthyes,Myliobatiformes,Potamotrygonidae,cartilaginous fishes
   common: gold dust stingray
   scientific: Potamotrygon marinae
-  score: 0.5
+  score: 0.875
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Potamotrygon_marinae/sPotMar1/
 - 10X: 1
   BN: 1
@@ -957,7 +957,7 @@ toc:
   classes: Aves,Falconiformes,Falconidae,birds
   common: peregrine falcon
   scientific: Falco peregrinus
-  score: 0.75
+  score: 0.875
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_peregrinus/bFalPer1/
 - 10X: 4
   BN: 1
@@ -969,7 +969,7 @@ toc:
   classes: Aves,Falconiformes,Falconidae,birds
   common: Saker falcon
   scientific: Falco cherrug
-  score: 0.75
+  score: 0.875
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_cherrug/bFalChe1/
 - 10X: 4
   BN: 1
@@ -981,7 +981,7 @@ toc:
   classes: Aves,Falconiformes,Falconidae,birds
   common: lanner falcon
   scientific: Falco biarmicus
-  score: 0.75
+  score: 0.875
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_biarmicus/bFalBia1/
 - 10X: 4
   BN: 1
@@ -1089,8 +1089,8 @@ toc:
   classes: Mammalia,Rodentia,Geomyidae,mammals
   common: Botta's pocket gopher
   scientific: Thomomys bottae
-  score: 0.0
-  url: '#'
+  score: 0.25
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thomomys_bottae/mThoBot1/
 - 10X: 4
   BN: 1
   HiC: 2
@@ -1101,8 +1101,8 @@ toc:
   classes: Amphibia,Anura,Ranidae,amphibians
   common: wood frog
   scientific: Rana sylvatica
-  score: 0.25
-  url: '#'
+  score: 0.625
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rana_sylvatica/aRanSyl1/
 - 10X: 4
   BN: 3
   HiC: 0
@@ -1113,8 +1113,8 @@ toc:
   classes: Amphibia,Anura,Microhylidae,amphibians
   common: eastern narrow-mouthed toad
   scientific: Gastrophryne carolinensis
-  score: 0.0
-  url: '#'
+  score: 0.375
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gastrophryne_carolinensis/aGasCar1/
 - 10X: 4
   BN: 3
   HiC: 0
@@ -1125,8 +1125,8 @@ toc:
   classes: Actinopterygii,Perciformes,Zoarcidae,Bony fishes
   common: midwater eelpout
   scientific: Melanostigma pammelas
-  score: 0.125
-  url: '#'
+  score: 0.375
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Melanostigma_pammelas/fMelPam1/
 - 10X: 4
   BN: 1
   HiC: 2
@@ -1137,8 +1137,8 @@ toc:
   classes: Reptilia,Squamata,Dipsadidae,reptiles
   common: royal ground snake
   scientific: Erythrolamprus reginae
-  score: 0.125
-  url: '#'
+  score: 0.5
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erythrolamprus_reginae/rEryReg1/
 - 10X: 4
   BN: 1
   HiC: 1
@@ -1174,7 +1174,7 @@ toc:
   common: American pika
   scientific: Ochotona princeps
   score: 0.125
-  url: '#'
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ochotona_princeps/mOchPri1/
 - 10X: 4
   BN: 1
   HiC: 2
@@ -1185,7 +1185,7 @@ toc:
   classes: Aves,Falconiformes,Accipitridae,birds
   common: lammergeier
   scientific: Gypaetus barbatus
-  score: 0.5
+  score: 0.625
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gypaetus_barbatus/bGypBar2/
 - 10X: 4
   BN: 1
@@ -1269,8 +1269,8 @@ toc:
   classes: Chondrichthyes,Heterodontiformes,Heterodontidae,cartilaginous fishes
   common: horn shark
   scientific: Heterodontus francisci
-  score: 0.0
-  url: '#'
+  score: 0.25
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Heterodontus_francisci/sHetFra1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1281,8 +1281,8 @@ toc:
   classes: Reptilia,Testudines,Emydidae,reptiles
   common: diamondback terrapin
   scientific: Malaclemys terrapin
-  score: 0.0
-  url: '#'
+  score: 0.25
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Malaclemys_terrapin/rMalTer1/
 - 10X: 4
   BN: 1
   HiC: 5
@@ -1317,8 +1317,8 @@ toc:
   classes: Amphibia,Anura,Hylidae,amphibians
   common: Sardinian tree frog
   scientific: Hyla sarda
-  score: 0.0
-  url: '#'
+  score: 0.25
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hyla_sarda/aHylSar1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1329,8 +1329,8 @@ toc:
   classes: Amphibia,Anura,Leptodactylidae,amphibians
   common: rufous frog
   scientific: Leptodactylus fuscus
-  score: 0.0
-  url: '#'
+  score: 0.25
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Leptodactylus_fuscus/aLepFus1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1341,8 +1341,8 @@ toc:
   classes: Amphibia,Anura,Dendrobatidae,amphibians
   common: rocket frog
   scientific: Anomaloglossus baeobatrachus
-  score: 0.0
-  url: '#'
+  score: 0.25
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anomaloglossus_baeobatrachus/aAnoBae1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1365,7 +1365,7 @@ toc:
   classes: Mammalia,Primates,Lorisidae,mammals
   common: slow loris
   scientific: Nycticebus coucang
-  score: 0.25
+  score: 0.375
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nycticebus_coucang/mNycCou1/
 - 10X: 4
   BN: 1
@@ -1377,8 +1377,8 @@ toc:
   classes: Aves,Passeriformes,Passerellidae,birds
   common: song sparrow
   scientific: Melospiza melodia
-  score: 0.0
-  url: '#'
+  score: 0.5
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Melospiza_melodia/bMelMel1/
 - 10X: 4
   BN: 1
   HiC: 2
@@ -1389,7 +1389,7 @@ toc:
   classes: Aves,Passeriformes,Passerellidae,birds
   common: Savannah sparrow
   scientific: Passerculus sandwichensis
-  score: 0.25
+  score: 0.375
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Passerculus_sandwichensis/bPasSan1/
 - 10X: 4
   BN: 1
@@ -1401,7 +1401,7 @@ toc:
   classes: Aves,Passeriformes,Passerellidae,birds
   common: saltmarsh sparrow
   scientific: Ammodramus caudacutus
-  score: 0.25
+  score: 0.375
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammodramus_caudacutus/bAmmCau1/
 - 10X: 4
   BN: 1
@@ -1413,8 +1413,8 @@ toc:
   classes: Amphibia,Anura,Hyperoliidae,amphibians
   common: Riggenbach's reed frog
   scientific: Hyperolius riggenbachi
-  score: 0.0
-  url: '#'
+  score: 0.25
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hyperolius_riggenbachi/aHypRig1/
 - 10X: 4
   BN: 1
   HiC: 0
@@ -1438,7 +1438,7 @@ toc:
   common: corroboree frog
   scientific: Pseudophryne corroboree
   score: 0.0
-  url: '#'
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pseudophryne_corroboree/aPseCor1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1485,7 +1485,7 @@ toc:
   classes: Mammalia,Didelphimorphia,Didelphidae,mammals
   common: gray short-tailed opossum
   scientific: Monodelphis domestica
-  score: 0.25
+  score: 0.375
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Monodelphis_domestica/mMonDom1/
 - 10X: 1
   BN: 1
@@ -1533,7 +1533,7 @@ toc:
   classes: Aves,Passeriformes,Passerellidae,birds
   common: Nelson's sparrow
   scientific: Ammospiza nelsoni
-  score: 0.25
+  score: 0.375
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ammospiza_nelsoni/bAmmNel1/
 - 10X: 4
   BN: 0
@@ -1546,7 +1546,7 @@ toc:
   common: red shiner
   scientific: Cyprinella lutrensis
   score: 0.0
-  url: '#'
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyprinella_lutrensis/fCypLut1/
 - 10X: 4
   BN: 1
   HiC: 5
@@ -1594,7 +1594,7 @@ toc:
   common: lumpfish
   scientific: Cyclopterus lumpus
   score: 0.875
-  url: '#'
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclopterus_lumpus/fCycLum2/
 - 10X: 4
   BN: 1
   HiC: 5
@@ -1617,8 +1617,8 @@ toc:
   classes: Amphibia,Caudata,Salamandridae,amphibians
   common: fire salamander
   scientific: Salamandra salamandra
-  score: 0.0
-  url: '#'
+  score: 0.25
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salamandra_salamandra/aSalSal1/
 - 10X: 1
   BN: 1
   HiC: 1
@@ -1629,7 +1629,7 @@ toc:
   classes: Aves,Passeriformes,Estrildidae,birds
   common: zebra finch
   scientific: Taeniopygia guttata
-  score: 1.0
+  score: 0.9
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/
 - 10X: 4
   BN: 1
@@ -1653,7 +1653,7 @@ toc:
   classes: Mammalia,Artiodactyla,Physeteridae,mammals
   common: pygmy sperm whale
   scientific: Kogia breviceps
-  score: 0.75
+  score: 0.875
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Kogia_breviceps/mKogBre1/
 - 10X: 5
   BN: 1
@@ -1713,8 +1713,8 @@ toc:
   classes: Reptilia,Testudines,Kinosternidae,reptiles
   common: eastern musk turtle
   scientific: Sternotherus odoratus
-  score: 0.0
-  url: '#'
+  score: 0.25
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sternotherus_odoratus/rSteOdo1/
 - 10X: 4
   BN: 0
   HiC: 1
@@ -1761,7 +1761,7 @@ toc:
   classes: Reptilia,Squamata,Viperidae,reptiles
   common: snub-nosed viper
   scientific: Vipera latastei
-  score: 0.75
+  score: 0.875
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vipera_latastei/rVipLat1/
 - 10X: 4
   BN: 1
@@ -1797,8 +1797,8 @@ toc:
   classes: Chondrichthyes,Torpediniformes,Narcinidae,cartilaginous fishes
   common: Caribbean electric ray
   scientific: Narcine bancroftii
-  score: 0.0
-  url: '#'
+  score: 0.125
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Narcine_bancroftii/sNarBan1/
 - 10X: 4
   BN: 0
   HiC: 0
@@ -1810,7 +1810,7 @@ toc:
   common: lesser Pacific striped octopus
   scientific: Octopus chierchiae
   score: 0.0
-  url: '#'
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Octopus_chierchiae/xcOctChie1/
 - 10X: 1
   BN: 5
   HiC: 5
@@ -1834,7 +1834,7 @@ toc:
   common: sea lamprey
   scientific: Petromyzon marinus
   score: 0.4
-  url: '#'
+  url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Petromyzon_marinus/kcPetMari1/
 - 10X: 4
   BN: 1
   HiC: 0
