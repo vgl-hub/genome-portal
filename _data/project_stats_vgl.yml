@@ -1037,11 +1037,11 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bCorHaw1
-  asm: curation
+  asm: curated
   classes: Aves,Passeriformes,Corvidae,birds
   common: hawaiian crow
   scientific: Corvus hawaiiensis
-  score: 0.9375
+  score: 1.0
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Corvus_hawaiiensis/bCorHaw1/
 - 10X: 4
   BN: 0
@@ -1517,11 +1517,11 @@ toc:
   Ilm: 4
   PB: 1
   VGPId: bGalGal5
-  asm: curation
+  asm: draft
   classes: Aves,Galliformes,Phasianidae,birds
   common: chicken
   scientific: Gallus gallus
-  score: 0.95
+  score: 0.9
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal5/
 - 10X: 4
   BN: 1
@@ -1553,11 +1553,11 @@ toc:
   Ilm: 4
   PB: 5
   VGPId: mRhiSin1
-  asm: draft
+  asm: curated
   classes: Mammalia,Chiroptera,Rhinolophidae,mammals
   common: Chinese rufous horseshoe bat
   scientific: Rhinolophus sinicus
-  score: 0.875
+  score: 1.0
   url: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_sinicus/mRhiSin1/
 - 10X: 1
   BN: 1
