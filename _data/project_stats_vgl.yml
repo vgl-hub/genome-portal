@@ -1,4 +1,4 @@
-info: Sep 22 2021 15:33:46
+info: Sep 22 2021 15:36:11
 toc:
 - VGP phase: phase 1
   VGPId: bAcaChl1
@@ -16,7 +16,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acanthisitta_chloris/bAcaChl1/assembly_curated/
   scientific: Acanthisitta chloris
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -24,7 +25,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fAciRut3
   asm: curated
@@ -41,6 +41,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acipenser_ruthenus/fAciRut3/assembly_curated/
   scientific: Acipenser ruthenus
   score: 1.0
+  source: others
   tags: trio
   techs:
     10X: 1
@@ -49,7 +50,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 2
   VGPId: bAcrTri1
   asm: '0'
@@ -66,7 +66,8 @@ toc:
     asm: '#'
   scientific: Acridotheres tristis
   score: 0.625
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -74,7 +75,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: bAlcTor1
   asm: curated
@@ -91,7 +91,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alca_torda/bAlcTor1/assembly_curated/
   scientific: Alca torda
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -99,7 +100,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: rAllMis1
   asm: '0'
@@ -116,7 +116,8 @@ toc:
     asm: '#'
   scientific: Alligator mississippiensis
   score: 0.25
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -124,7 +125,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: true
 - VGP phase: phase 2
   VGPId: fAloSap1
   asm: curated
@@ -141,7 +141,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alosa_sapidissima/fAloSap1/assembly_curated/
   scientific: Alosa sapidissima
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -149,7 +150,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: sAmbRad1
   asm: curated
@@ -166,7 +166,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Amblyraja_radiata/sAmbRad1/assembly_curated/
   scientific: Amblyraja radiata
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -174,7 +175,6 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: bAmmCau1
   asm: '0'
@@ -191,7 +191,8 @@ toc:
     asm: '#'
   scientific: Ammodramus caudacutus
   score: 0.375
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -199,7 +200,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: true
 - VGP phase: phase 4
   VGPId: bAmmMai1
   asm: '0'
@@ -216,7 +216,8 @@ toc:
     asm: '#'
   scientific: Ammodramus maritimus
   score: 0.25
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -224,7 +225,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: true
 - VGP phase: phase 3
   VGPId: bAmmNel1
   asm: '0'
@@ -241,7 +241,8 @@ toc:
     asm: '#'
   scientific: Ammospiza nelsoni
   score: 0.375
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -249,7 +250,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: true
 - VGP phase: phase 3
   VGPId: fAmpLab1
   asm: '0'
@@ -266,7 +266,8 @@ toc:
     asm: '#'
   scientific: Amphilophus labiatus
   score: 0.8
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 5
     BN: 1
@@ -274,7 +275,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 5
-  vgl: true
 - VGP phase: phase 1
   VGPId: fAnaTes1
   asm: curated
@@ -291,7 +291,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anabas_testudineus/fAnaTes1/assembly_curated/
   scientific: Anabas testudineus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -299,7 +300,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fAnaAna1
   asm: curated
@@ -316,6 +316,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anableps_anableps/fAnaAna1/assembly_curated/
   scientific: Anableps anableps
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -324,7 +325,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: fAngAng1
   asm: curated
@@ -341,6 +341,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anguilla_anguilla/fAngAng1/assembly_curated/
   scientific: Anguilla anguilla
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -349,7 +350,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: fAntMac1
   asm: curated
@@ -366,6 +366,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Antennarius_maculatus/fAntMac1/assembly_curated/
   scientific: Antennarius maculatus
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -374,7 +375,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: fAplTae1
   asm: curated
@@ -391,6 +391,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aplochiton_taeniatus/fAplTae1/assembly_curated/
   scientific: Aplochiton taeniatus
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -399,7 +400,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: bApuApu2
   asm: draft
@@ -416,6 +416,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Apus_apus/bApuApu2/assembly_vgp_standard_1.6/
   scientific: Apus apus
   score: 0.9
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -424,7 +425,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: bAquChr1
   asm: curated
@@ -441,6 +441,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aquila_chrysaetos/bAquChr1/assembly_curated/
   scientific: Aquila chrysaetos
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -449,7 +450,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 3
   VGPId: bAraAra1
   asm: '0'
@@ -466,7 +466,8 @@ toc:
     asm: '#'
   scientific: Ara ararauna
   score: 0.25
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -474,7 +475,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: true
 - VGP phase: phase 1
   VGPId: fArcCen1
   asm: curated
@@ -491,7 +491,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Archocentrus_centrarchus/fArcCen1/assembly_curated/
   scientific: Archocentrus centrarchus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -499,7 +500,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: mArvNil1
   asm: curated
@@ -516,7 +516,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicanthis_niloticus/mArvNil1/assembly_curated/
   scientific: Arvicanthis niloticus
   score: 1.0
-  tags: vgl,trio
+  source: true
+  tags: trio
   techs:
     10X: 1
     BN: 1
@@ -524,7 +525,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: mArvAmp1
   asm: curated
@@ -541,6 +541,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicola_amphibius/mArvAmp1/assembly_curated/
   scientific: Arvicola amphibius
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -549,7 +550,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 3
   VGPId: fAstCal1
   asm: curated
@@ -566,6 +566,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Astatotilapia_calliptera/fAstCal1/assembly_curated/
   scientific: Astatotilapia calliptera
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -574,7 +575,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: eAstRub1
   asm: curated
@@ -591,6 +591,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Asterias_rubens/eAstRub1/assembly_curated/
   scientific: Asterias rubens
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 4
@@ -599,7 +600,6 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: bAytFul2
   asm: curated
@@ -616,7 +616,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aythya_fuligula/bAytFul2/assembly_curated/
   scientific: Aythya fuligula
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -624,7 +625,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: mBalMus1
   asm: curated
@@ -641,6 +641,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Balaenoptera_musculus/mBalMus1/assembly_curated/
   scientific: Balaenoptera musculus
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -649,7 +650,6 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: bBalReg1
   asm: curated
@@ -666,7 +666,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Balearica_regulorum/bBalReg1/assembly_curated/
   scientific: Balearica regulorum
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -674,7 +675,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: fBarBab1
   asm: '0'
@@ -691,6 +691,7 @@ toc:
     asm: '#'
   scientific: Barbus barbus
   score: 0.25
+  source: others
   tags: ''
   techs:
     10X: 4
@@ -699,7 +700,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: aBomBom1
   asm: draft
@@ -716,6 +716,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bombina_bombina/aBomBom1/assembly_vgp_standard_1.6/
   scientific: Bombina bombina
   score: 0.9
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -724,7 +725,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: mBosTau1
   asm: curated
@@ -741,6 +741,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bos_taurus/mBosTau1/assembly_curated/
   scientific: Bos taurus
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -749,7 +750,6 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 3
   VGPId: bBraLeu1
   asm: draft
@@ -766,7 +766,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branta_leucopsis/bBraLeu1/assembly_vgp_standard_1.5/
   scientific: Branta leucopsis
   score: 0.8333333333333334
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -774,7 +775,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: bBucAby1
   asm: curated
@@ -791,7 +791,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bucorvus_abyssinicus/bBucAby1/assembly_curated/
   scientific: Bucorvus abyssinicus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -799,7 +800,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: aBufBuf1
   asm: curated
@@ -816,6 +816,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bufo_bufo/aBufBuf1/assembly_curated/
   scientific: Bufo bufo
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -824,7 +825,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: mCalJac1
   asm: curated
@@ -841,7 +841,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Callithrix_jacchus/mCalJac1/assembly_curated/
   scientific: Callithrix jacchus
   score: 1.0
-  tags: vgl,trio
+  source: true
+  tags: trio
   techs:
     10X: 1
     BN: 1
@@ -849,7 +850,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: bCalAnn1
   asm: curated
@@ -866,6 +866,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Calypte_anna/bCalAnn1/assembly_curated/
   scientific: Calypte anna
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -874,7 +875,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 2
   VGPId: mCanLor1
   asm: curated
@@ -891,6 +891,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus_orion/mCanLor1/assembly_curated/
   scientific: Canis lupus orion
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -899,7 +900,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: bCapEur3
   asm: curated
@@ -916,6 +916,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Caprimulgus_europaeus/bCapEur3/assembly_curated/
   scientific: Caprimulgus europaeus
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -924,7 +925,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: sCarCar2
   asm: curated
@@ -941,7 +941,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Carcharodon_carcharias/sCarCar2/assembly_curated/
   scientific: Carcharodon carcharias
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -949,7 +950,6 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: bCarCri1
   asm: curated
@@ -966,7 +966,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cariama_cristata/bCarCri1/assembly_curated/
   scientific: Cariama cristata
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -974,7 +975,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: bCatUst1
   asm: curated
@@ -991,7 +991,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Catharus_ustulatus/bCatUst1/assembly_curated/
   scientific: Catharus ustulatus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -999,7 +1000,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: mCerEla1
   asm: '0'
@@ -1016,6 +1016,7 @@ toc:
     asm: '#'
   scientific: Cervus elaphus
   score: 0.6
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -1024,7 +1025,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: fChaCha1
   asm: curated
@@ -1041,6 +1041,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chanos_chanos/fChaCha1/assembly_curated/
   scientific: Chanos chanos
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -1049,7 +1050,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: fCheRos1
   asm: curated
@@ -1066,6 +1066,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chelmon_rostratus/fCheRos1/assembly_curated/
   scientific: Chelmon rostratus
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -1074,7 +1075,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: rCheMyd1
   asm: curated
@@ -1091,6 +1091,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chelonia_mydas/rCheMyd1/assembly_curated/
   scientific: Chelonia mydas
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -1099,7 +1100,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 2
   VGPId: qChiOpi1
   asm: '0'
@@ -1116,6 +1116,7 @@ toc:
     asm: '#'
   scientific: Chionoecetes opilio
   score: 0.25
+  source: others
   tags: ''
   techs:
     10X: 4
@@ -1124,7 +1125,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: false
 - VGP phase: phase 1
   VGPId: bChiLan1
   asm: curated
@@ -1141,7 +1141,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chiroxiphia_lanceolata/bChiLan1/assembly_curated/
   scientific: Chiroxiphia lanceolata
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -1149,7 +1150,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: mChoDid1
   asm: '0'
@@ -1166,7 +1166,8 @@ toc:
     asm: '#'
   scientific: Choloepus didactylus
   score: 0.8
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -1174,7 +1175,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: bCicMag1
   asm: curated
@@ -1191,7 +1191,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ciconia_maguari/bCicMag1/assembly_curated/
   scientific: Ciconia maguari
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -1199,7 +1200,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: bCorHaw1
   asm: curated
@@ -1216,7 +1216,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Corvus_hawaiiensis/bCorHaw1/assembly_curated/
   scientific: Corvus hawaiiensis
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -1224,7 +1225,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 4
   VGPId: bCorMon1
   asm: curated
@@ -1241,7 +1241,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Corvus_moneduloides/bCorMon1/assembly_curated/
   scientific: Corvus moneduloides
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -1249,7 +1250,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fCotGob3
   asm: curated
@@ -1266,6 +1266,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cottoperca_gobio/fCotGob3/assembly_curated/
   scientific: Cottoperca gobio
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -1274,7 +1275,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: bCucCan1
   asm: curated
@@ -1291,7 +1291,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cuculus_canorus/bCucCan1/assembly_curated/
   scientific: Cuculus canorus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -1299,7 +1300,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fCycLum1
   asm: curated
@@ -1316,7 +1316,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclopterus_lumpus/fCycLum1/assembly_curated/
   scientific: Cyclopterus lumpus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -1324,7 +1325,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 3
   VGPId: bCygOlo1
   asm: curated
@@ -1341,7 +1341,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cygnus_olor/bCygOlo1/assembly_curated/
   scientific: Cygnus olor
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -1349,7 +1350,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fDreSAT1
   asm: curated
@@ -1366,6 +1366,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDreSAT1/assembly_curated/
   scientific: Danio rerio
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -1374,7 +1375,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: mDasNov1
   asm: '0'
@@ -1391,7 +1391,8 @@ toc:
     asm: '#'
   scientific: Dasypus novemcinctus
   score: 0.5
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -1399,7 +1400,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: true
 - VGP phase: phase 3
   VGPId: bDenVid1
   asm: draft
@@ -1416,7 +1416,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendrocygna_viduata/bDenVid1/assembly_vgp_standard_1.5/
   scientific: Dendrocygna viduata
   score: 0.875
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -1424,7 +1425,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: aDenEbr1
   asm: curation
@@ -1441,7 +1441,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendropsophus_ebraccatus/aDenEbr1/assembly_nhgri_trio_1.6/
   scientific: Dendropsophus ebraccatus
   score: 0.9583333333333334
-  tags: vgl,trio
+  source: true
+  tags: trio
   techs:
     10X: 1
     BN: 1
@@ -1449,7 +1450,6 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fDenClu1
   asm: curated
@@ -1466,7 +1466,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Denticeps_clupeoides/fDenClu1/assembly_curated/
   scientific: Denticeps clupeoides
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -1474,7 +1475,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: rDerCor1
   asm: curated
@@ -1491,7 +1491,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dermochelys_coriacea/rDerCor1/assembly_curated/
   scientific: Dermochelys coriacea
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -1499,7 +1500,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: mDicBic1
   asm: curated
@@ -1516,7 +1516,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Diceros_bicornis/mDicBic1/assembly_curated/
   scientific: Diceros bicornis
   score: 1.0
-  tags: vgl,trio
+  source: true
+  tags: trio
   techs:
     10X: 4
     BN: 1
@@ -1524,7 +1525,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: aDisPic1
   asm: draft
@@ -1541,6 +1541,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Discoglossus_pictus/aDisPic1/assembly_vgp_standard_1.6/
   scientific: Discoglossus pictus
   score: 0.9
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -1549,7 +1550,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: mDroGli1
   asm: curated
@@ -1566,6 +1566,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dromiciops_gliroides/mDroGli1/assembly_curated/
   scientific: Dromiciops gliroides
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -1574,7 +1575,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: bDryPub1
   asm: curated
@@ -1591,6 +1591,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dryobates_pubescens/bDryPub1/assembly_curated/
   scientific: Dryobates pubescens
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -1599,7 +1600,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: fEcheNa1
   asm: curated
@@ -1616,6 +1616,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Echeneis_naucrates/fEcheNa1/assembly_curated/
   scientific: Echeneis naucrates
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -1624,7 +1625,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: fEleEle1
   asm: curated
@@ -1641,6 +1641,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Electrophorus_electricus/fEleEle1/assembly_curated/
   scientific: Electrophorus electricus
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -1649,7 +1650,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 2
   VGPId: rEmyOrb1
   asm: '0'
@@ -1666,7 +1666,8 @@ toc:
     asm: '#'
   scientific: Emys orbicularis
   score: 0.625
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -1674,7 +1675,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-  vgl: true
 - VGP phase: phase 1
   VGPId: mEreDor1
   asm: curation
@@ -1691,7 +1691,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erethizon_dorsatum/mEreDor1/assembly_vgp_standard_1.7/
   scientific: Erethizon dorsatum
   score: 0.9583333333333334
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -1699,7 +1700,6 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 3
   VGPId: bEriRub2
   asm: curated
@@ -1716,6 +1716,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erithacus_rubecula/bEriRub2/assembly_curated/
   scientific: Erithacus rubecula
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -1724,7 +1725,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: fErpCal1
   asm: curated
@@ -1741,7 +1741,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erpetoichthys_calabaricus/fErpCal1/assembly_curated/
   scientific: Erpetoichthys calabaricus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -1749,7 +1750,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: mEscRob1
   asm: '0'
@@ -1766,7 +1766,8 @@ toc:
     asm: '#'
   scientific: Eschrichtius robustus
   score: 0.625
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -1774,7 +1775,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-  vgl: true
 - VGP phase: phase 1
   VGPId: fEsoLuc1
   asm: curated
@@ -1791,6 +1791,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Esox_lucius/fEsoLuc1/assembly_curated/
   scientific: Esox lucius
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -1799,7 +1800,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 2
   VGPId: mEubGla1
   asm: '0'
@@ -1816,7 +1816,8 @@ toc:
     asm: '#'
   scientific: Eubalaena glacialis
   score: 0.625
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -1824,7 +1825,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-  vgl: true
 - VGP phase: phase 1
   VGPId: rEulEur1
   asm: '0'
@@ -1841,7 +1841,8 @@ toc:
     asm: '#'
   scientific: Euleptes europaea
   score: 0.25
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -1849,7 +1850,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: true
 - VGP phase: phase 4
   VGPId: bFalBia1
   asm: running
@@ -1866,7 +1866,8 @@ toc:
     asm: '#'
   scientific: Falco biarmicus
   score: 0.8125
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -1874,7 +1875,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 4
   VGPId: bFalChe1
   asm: running
@@ -1891,7 +1891,8 @@ toc:
     asm: '#'
   scientific: Falco cherrug
   score: 0.8125
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -1899,7 +1900,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: bFalNau1
   asm: curated
@@ -1916,7 +1916,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_naumanni/bFalNau1/assembly_curated/
   scientific: Falco naumanni
   score: 1.0
-  tags: vgl,trio
+  source: true
+  tags: trio
   techs:
     10X: 1
     BN: 1
@@ -1924,7 +1925,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 4
   VGPId: bFalPer1
   asm: running
@@ -1941,7 +1941,8 @@ toc:
     asm: '#'
   scientific: Falco peregrinus
   score: 0.8125
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -1949,7 +1950,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 4
   VGPId: bFalRus1
   asm: curated
@@ -1966,7 +1966,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_rusticolus/bFalRus1/assembly_curated/
   scientific: Falco rusticolus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -1974,7 +1975,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: fFunDia1
   asm: '0'
@@ -1991,7 +1991,8 @@ toc:
     asm: '#'
   scientific: Fundulus diaphanus
   score: 0.5
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -1999,7 +2000,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: true
 - VGP phase: phase 1
   VGPId: fGadMor1
   asm: curated
@@ -2016,6 +2016,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gadus_morhua/fGadMor1/assembly_curated/
   scientific: Gadus morhua
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -2024,7 +2025,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: bGalGal1
   asm: draft
@@ -2041,7 +2041,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal1/assembly_rockefeller_trio_1.6/
   scientific: Gallus gallus
   score: 0.9
-  tags: vgl,trio
+  source: true
+  tags: trio
   techs:
     10X: 1
     BN: 1
@@ -2049,7 +2050,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: bGalGal4
   asm: curation
@@ -2066,7 +2066,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal4/vgp_assembly_2.0/
   scientific: Gallus gallus
   score: 0.95
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -2074,7 +2075,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: bGalGal5
   asm: curated
@@ -2091,7 +2091,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal5/assembly_curated/
   scientific: Gallus gallus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -2099,7 +2100,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: bGeoTri1
   asm: curated
@@ -2116,7 +2116,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Geothlypis_trichas/bGeoTri1/assembly_curated/
   scientific: Geothlypis trichas
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -2124,7 +2125,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: aGeoSer1
   asm: curated
@@ -2141,6 +2141,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Geotrypetes_seraphini/aGeoSer1/assembly_curated/
   scientific: Geotrypetes seraphini
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -2149,7 +2150,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: rGopEvg1
   asm: curated
@@ -2166,7 +2166,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_evgoodei/rGopEvg1/assembly_curated/
   scientific: Gopherus evgoodei
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -2174,7 +2175,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 4
   VGPId: rGopFla2
   asm: curation
@@ -2191,7 +2191,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_flavomarginatus/rGopFla2/assembly_nhgri_trio_1.6/
   scientific: Gopherus flavomarginatus
   score: 0.95
-  tags: vgl,trio
+  source: true
+  tags: trio
   techs:
     10X: 1
     BN: 1
@@ -2199,7 +2200,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fGouWil2
   asm: curated
@@ -2216,6 +2216,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gouania_willdenowi/fGouWil2/assembly_curated/
   scientific: Gouania willdenowi
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -2224,7 +2225,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 3
   VGPId: bGruAme1
   asm: running
@@ -2241,7 +2241,8 @@ toc:
     asm: '#'
   scientific: Grus americana
   score: 0.85
-  tags: vgl,trio
+  source: true
+  tags: trio
   techs:
     10X: 1
     BN: 1
@@ -2249,7 +2250,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 3
   VGPId: bGypBar2
   asm: '0'
@@ -2266,7 +2266,8 @@ toc:
     asm: '#'
   scientific: Gypaetus barbatus
   score: 0.625
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -2274,7 +2275,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: bHaeMex1
   asm: draft
@@ -2291,7 +2291,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/
   scientific: Haemorhous mexicanus
   score: 0.875
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -2299,7 +2300,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 3
   VGPId: bHarHar1
   asm: running
@@ -2316,7 +2316,8 @@ toc:
     asm: '#'
   scientific: Harpia harpyja
   score: 0.8125
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -2324,7 +2325,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: bHemCom1
   asm: curation
@@ -2341,7 +2341,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiprocne_comata/bHemCom1/assembly_vgp_standard_1.7/
   scientific: Hemiprocne comata
   score: 0.95
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -2349,7 +2350,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: sHemOce1
   asm: curated
@@ -2366,7 +2366,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiscyllium_ocellatum/sHemOce1/assembly_curated/
   scientific: Hemiscyllium ocellatum
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -2374,7 +2375,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: mHetBru1
   asm: draft
@@ -2391,6 +2391,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Heterohyrax_brucei/mHetBru1/assembly_vgp_standard_2.1/
   scientific: Heterohyrax brucei
   score: 0.8333333333333334
+  source: others
   tags: ''
   techs:
     10X: 4
@@ -2399,7 +2400,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: fHipHip1
   asm: curated
@@ -2416,7 +2416,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hippoglossus_hippoglossus/fHipHip1/assembly_curated/
   scientific: Hippoglossus hippoglossus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -2424,7 +2425,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: bHirRus1
   asm: curated
@@ -2441,7 +2441,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hirundo_rustica/bHirRus1/assembly_curated/
   scientific: Hirundo rustica
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -2449,7 +2450,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: mHomSap3
   asm: curated
@@ -2466,7 +2466,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap3/assembly_curated/
   scientific: Homo sapiens
   score: 1.0
-  tags: vgl,trio
+  source: true
+  tags: trio
   techs:
     10X: 1
     BN: 1
@@ -2474,7 +2475,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 3
   VGPId: fHypTra1
   asm: '0'
@@ -2491,7 +2491,8 @@ toc:
     asm: '#'
   scientific: Hypomesus transpacificus
   score: 0.625
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -2499,7 +2500,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 5
-  vgl: true
 - VGP phase: phase 1
   VGPId: mJacJac1
   asm: curated
@@ -2516,6 +2516,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Jaculus_jaculus/mJacJac1/assembly_curated/
   scientific: Jaculus jaculus
   score: 1.0
+  source: others
   tags: trio
   techs:
     10X: 1
@@ -2524,7 +2525,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 2
   VGPId: mKogBre1
   asm: running
@@ -2541,7 +2541,8 @@ toc:
     asm: '#'
   scientific: Kogia breviceps
   score: 0.8125
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -2549,7 +2550,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: rLacAgi1
   asm: curated
@@ -2566,7 +2566,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lacerta_agilis/rLacAgi1/assembly_curated/
   scientific: Lacerta agilis
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -2574,7 +2575,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: mLemCat1
   asm: curated
@@ -2591,7 +2591,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lemur_catta/mLemCat1/assembly_curated/
   scientific: Lemur catta
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -2599,7 +2600,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 3
   VGPId: fLipPho2
   asm: '0'
@@ -2616,6 +2616,7 @@ toc:
     asm: '#'
   scientific: Lipophrys pholis
   score: 0.6
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -2624,7 +2625,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: mLutLut1
   asm: curated
@@ -2641,6 +2641,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lutra_lutra/mLutLut1/assembly_curated/
   scientific: Lutra lutra
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -2649,7 +2650,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: mLynCan4
   asm: curated
@@ -2666,7 +2666,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lynx_canadensis/mLynCan4/assembly_curated/
   scientific: Lynx canadensis
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -2674,7 +2675,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: mMacEug1
   asm: '0'
@@ -2691,7 +2691,8 @@ toc:
     asm: '#'
   scientific: Macropus eugenii
   score: 0.625
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -2699,7 +2700,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-  vgl: true
 - VGP phase: phase 1
   VGPId: fMalNig1
   asm: '0'
@@ -2716,6 +2716,7 @@ toc:
     asm: '#'
   scientific: Malacosteus niger
   score: 0.6
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -2724,7 +2725,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: mManPen7
   asm: '0'
@@ -2741,7 +2741,8 @@ toc:
     asm: '#'
   scientific: Manis pentadactyla
   score: 0.25
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -2749,7 +2750,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: true
 - VGP phase: phase 1
   VGPId: fMasArm1
   asm: curated
@@ -2766,7 +2766,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mastacembelus_armatus/fMasArm1/assembly_curated/
   scientific: Mastacembelus armatus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -2774,7 +2775,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fMegCyp1
   asm: curated
@@ -2791,6 +2791,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Megalops_cyprinoides/fMegCyp1/assembly_curated/
   scientific: Megalops cyprinoides
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -2799,7 +2800,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: fMelBoe1
   asm: curated
@@ -2816,6 +2816,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Melanotaenia_boesemani/fMelBoe1/assembly_curated/
   scientific: Melanotaenia boesemani
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -2824,7 +2825,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 3
   VGPId: mMelMel3
   asm: '0'
@@ -2841,6 +2841,7 @@ toc:
     asm: '#'
   scientific: Meles meles
   score: 0.8
+  source: others
   tags: trio
   techs:
     10X: 1
@@ -2849,7 +2850,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 2
   VGPId: bMelUnd1
   asm: curated
@@ -2866,7 +2866,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Melopsittacus_undulatus/bMelUnd1/assembly_curated/
   scientific: Melopsittacus undulatus
   score: 1.0
-  tags: vgl,trio
+  source: true
+  tags: trio
   techs:
     10X: 1
     BN: 1
@@ -2874,7 +2875,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 3
   VGPId: bMelGeo1
   asm: '0'
@@ -2891,6 +2891,7 @@ toc:
     asm: '#'
   scientific: Melospiza georgiana
   score: 0.25
+  source: others
   tags: ''
   techs:
     10X: 4
@@ -2899,7 +2900,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: false
 - VGP phase: phase 1
   VGPId: bMerNub1
   asm: curated
@@ -2916,7 +2916,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Merops_nubicus/bMerNub1/assembly_curated/
   scientific: Merops nubicus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -2924,7 +2925,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: mMesDen1
   asm: '0'
@@ -2941,7 +2941,8 @@ toc:
     asm: '#'
   scientific: Mesoplodon densirostris
   score: 0.75
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -2949,7 +2950,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: aMicUni1
   asm: curated
@@ -2966,6 +2966,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Microcaecilia_unicolor/aMicUni1/assembly_curated/
   scientific: Microcaecilia unicolor
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -2974,7 +2975,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 2
   VGPId: mMolMol1
   asm: draft
@@ -2991,6 +2991,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Molossus_molossus/mMolMol1/assembly_dresden_DAmar1.0/
   scientific: Molossus molossus
   score: 0.9
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -2999,7 +3000,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: mMonDom1
   asm: '0'
@@ -3016,7 +3016,8 @@ toc:
     asm: '#'
   scientific: Monodelphis domestica
   score: 0.375
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -3024,7 +3025,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: true
 - VGP phase: phase 3
   VGPId: mMusErm1
   asm: curated
@@ -3041,7 +3041,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mustela_erminea/mMusErm1/assembly_curated/
   scientific: Mustela erminea
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -3049,7 +3050,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: mMyoMyo1
   asm: draft
@@ -3066,6 +3066,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myotis_myotis/mMyoMyo1/assembly_dresden_DAmar1.0/
   scientific: Myotis myotis
   score: 0.9
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -3074,7 +3075,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: fMyrMur1
   asm: curated
@@ -3091,6 +3091,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myripristis_murdjan/fMyrMur1/assembly_curated/
   scientific: Myripristis murdjan
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -3099,7 +3100,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: fNeoGra1
   asm: '0'
@@ -3116,7 +3116,8 @@ toc:
     asm: '#'
   scientific: Neoarius graeffei
   score: 0.625
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -3124,7 +3125,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-  vgl: true
 - VGP phase: phase 3
   VGPId: mNeoNeb1
   asm: '0'
@@ -3141,7 +3141,8 @@ toc:
     asm: '#'
   scientific: Neofelis nebulosa
   score: 0.5
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -3149,7 +3150,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: true
 - VGP phase: phase 3
   VGPId: bNomDom1
   asm: draft
@@ -3166,7 +3166,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nomonyx_dominicus/bNomDom1/assembly_vgp_standard_1.5/
   scientific: Nomonyx dominicus
   score: 0.875
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -3174,7 +3175,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fNotCel1
   asm: curated
@@ -3191,7 +3191,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Notolabrus_celidotus/fNotCel1/assembly_curated/
   scientific: Notolabrus celidotus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -3199,7 +3200,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: bNycGra1
   asm: curated
@@ -3216,7 +3216,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nyctibius_grandis/bNycGra1/assembly_curated/
   scientific: Nyctibius grandis
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -3224,7 +3225,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: mNycCou1
   asm: '0'
@@ -3241,7 +3241,8 @@ toc:
     asm: '#'
   scientific: Nycticebus coucang
   score: 0.375
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -3249,7 +3250,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-  vgl: true
 - VGP phase: phase 1
   VGPId: mOrnAna1
   asm: curated
@@ -3266,7 +3266,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ornithorhynchus_anatinus/mOrnAna1/assembly_curated/
   scientific: Ornithorhynchus anatinus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -3274,7 +3275,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fOsmMor3
   asm: '0'
@@ -3291,7 +3291,8 @@ toc:
     asm: '#'
   scientific: Osmerus mordax
   score: 0.625
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -3299,7 +3300,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-  vgl: true
 - VGP phase: phase 3
   VGPId: mPanTro1
   asm: draft
@@ -3316,6 +3316,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro1/assembly_vgp_standard_1.6/
   scientific: Pan troglodytes
   score: 0.875
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -3324,7 +3325,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 2
   VGPId: fPanHyp1
   asm: draft
@@ -3341,6 +3341,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pangasianodon_hypophthalmus/fPanHyp1/assembly_vgp_standard_2.1/
   scientific: Pangasianodon hypophthalmus
   score: 0.875
+  source: others
   tags: ''
   techs:
     10X: 4
@@ -3349,7 +3350,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: fParRan2
   asm: curated
@@ -3366,7 +3366,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Parambassis_ranga/fParRan2/assembly_curated/
   scientific: Parambassis ranga
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -3374,7 +3375,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 3
   VGPId: bPasSan1
   asm: '0'
@@ -3391,7 +3391,8 @@ toc:
     asm: '#'
   scientific: Passerculus sandwichensis
   score: 0.375
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -3399,7 +3400,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: true
 - VGP phase: phase 1
   VGPId: bPelCri1
   asm: draft
@@ -3416,6 +3416,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pelecanus_crispus/bPelCri1/assembly_vgp_standard_2.1/
   scientific: Pelecanus crispus
   score: 0.8333333333333334
+  source: others
   tags: ''
   techs:
     10X: 4
@@ -3424,7 +3425,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 2
   VGPId: fPerMag1
   asm: curated
@@ -3441,7 +3441,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Periophthalmus_magnuspinnatus/fPerMag1/assembly_curated/
   scientific: Periophthalmus magnuspinnatus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -3449,7 +3450,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: kPetMar1
   asm: curated
@@ -3466,6 +3466,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Petromyzon_marinus/kPetMar1/assembly_curated/
   scientific: Petromyzon marinus
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -3474,7 +3475,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: mPhoSin1
   asm: curated
@@ -3491,7 +3491,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phocoena_sinus/mPhoSin1/assembly_curated/
   scientific: Phocoena sinus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -3499,7 +3500,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: bPhoRub1
   asm: curated
@@ -3516,7 +3516,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phoenicopterus_ruber/bPhoRub1/assembly_curated/
   scientific: Phoenicopterus ruber
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -3524,7 +3525,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fPhoLeu1
   asm: curated
@@ -3541,6 +3541,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pholidichthys_leucotaenia/fPhoLeu1/assembly_curated/
   scientific: Pholidichthys leucotaenia
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -3549,7 +3550,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 2
   VGPId: fPhoGun1
   asm: '0'
@@ -3566,6 +3566,7 @@ toc:
     asm: '#'
   scientific: Pholis gunnellus
   score: 0.6
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -3574,7 +3575,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: mPhyDis1
   asm: curated
@@ -3591,7 +3591,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phyllostomus_discolor/mPhyDis1/assembly_curated/
   scientific: Phyllostomus discolor
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -3599,7 +3600,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 3
   VGPId: mPipKuh1
   asm: draft
@@ -3616,6 +3616,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_kuhlii/mPipKuh1/assembly_dresden_DAmar1.0/
   scientific: Pipistrellus kuhlii
   score: 0.9
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -3624,7 +3625,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 4
   VGPId: mPipPip1
   asm: curated
@@ -3641,6 +3641,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_pipistrellus/mPipPip1/assembly_curated/
   scientific: Pipistrellus pipistrellus
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -3649,7 +3650,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 2
   VGPId: bPluApr1
   asm: curated
@@ -3666,7 +3666,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pluvialis_apricaria/bPluApr1/assembly_curated/
   scientific: Pluvialis apricaria
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -3674,7 +3675,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 3
   VGPId: rPodRaf1
   asm: running
@@ -3691,7 +3691,8 @@ toc:
     asm: '#'
   scientific: Podarcis raffonei
   score: 0.8125
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -3699,7 +3700,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: bPodStr1
   asm: '0'
@@ -3716,7 +3716,8 @@ toc:
     asm: '#'
   scientific: Podargus strigoides
   score: 0.25
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -3724,7 +3725,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: true
 - VGP phase: phase 2
   VGPId: bPogPus1
   asm: curated
@@ -3741,7 +3741,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pogoniulus_pusillus/bPogPus1/assembly_curated/
   scientific: Pogoniulus pusillus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -3749,7 +3750,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: bPorHoc1
   asm: curated
@@ -3766,7 +3766,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Porphyrio_hochstetteri/bPorHoc1/assembly_curated/
   scientific: Porphyrio hochstetteri
   score: 1.0
-  tags: vgl,trio
+  source: true
+  tags: trio
   techs:
     10X: 4
     BN: 1
@@ -3774,7 +3775,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: sPotMar1
   asm: running
@@ -3791,7 +3791,8 @@ toc:
     asm: '#'
   scientific: Potamotrygon marinae
   score: 0.85
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -3799,7 +3800,6 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: sPriPec2
   asm: curated
@@ -3816,7 +3816,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pristis_pectinata/sPriPec2/assembly_curated/
   scientific: Pristis pectinata
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -3824,7 +3825,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: mPseCra1
   asm: '0'
@@ -3841,7 +3841,8 @@ toc:
     asm: '#'
   scientific: Pseudorca crassidens
   score: 0.375
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -3849,7 +3850,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-  vgl: true
 - VGP phase: phase 1
   VGPId: bPteGut1
   asm: curated
@@ -3866,7 +3866,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pterocles_gutturalis/bPteGut1/assembly_curated/
   scientific: Pterocles gutturalis
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -3874,7 +3875,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fPygNat1
   asm: curated
@@ -3891,6 +3891,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pygocentrus_nattereri/fPygNat1/assembly_curated/
   scientific: Pygocentrus nattereri
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -3899,7 +3900,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: aRanTem1
   asm: curated
@@ -3916,6 +3916,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rana_temporaria/aRanTem1/assembly_curated/
   scientific: Rana temporaria
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -3924,7 +3925,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 3
   VGPId: mRatNor1
   asm: curated
@@ -3941,6 +3941,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rattus_norvegicus/mRatNor1/assembly_curated/
   scientific: Rattus norvegicus
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -3949,7 +3950,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 2
   VGPId: bPtePen1
   asm: '0'
@@ -3966,7 +3966,8 @@ toc:
     asm: '#'
   scientific: Rhea pennata
   score: 0.25
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -3974,7 +3975,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: true
 - VGP phase: phase 1
   VGPId: aRhiBiv1
   asm: curated
@@ -3991,6 +3991,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinatrema_bivittatum/aRhiBiv1/assembly_curated/
   scientific: Rhinatrema bivittatum
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -3999,7 +4000,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: rRhiFlo1
   asm: '0'
@@ -4016,7 +4016,8 @@ toc:
     asm: '#'
   scientific: Rhineura floridana
   score: 0.25
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -4024,7 +4025,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: true
 - VGP phase: phase 1
   VGPId: mRhiFer1
   asm: curated
@@ -4041,7 +4041,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_ferrumequinum/mRhiFer1/assembly_curated/
   scientific: Rhinolophus ferrumequinum
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4049,7 +4050,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 4
   VGPId: mRhiSin1
   asm: curated
@@ -4066,7 +4066,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_sinicus/mRhiSin1/assembly_curated/
   scientific: Rhinolophus sinicus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -4074,7 +4075,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: mRouAeg1
   asm: draft
@@ -4091,7 +4091,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rousettus_aegyptiacus/mRouAeg1/assembly_dresden_DAmar1.0/
   scientific: Rousettus aegyptiacus
   score: 0.9
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4099,7 +4100,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fSalaFa1
   asm: curated
@@ -4116,6 +4116,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salarias_fasciatus/fSalaFa1/assembly_curated/
   scientific: Salarias fasciatus
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -4124,7 +4125,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: fSalTru1
   asm: curated
@@ -4141,7 +4141,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salmo_trutta/fSalTru1/assembly_curated/
   scientific: Salmo trutta
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4149,7 +4150,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fScaArg1
   asm: curated
@@ -4166,6 +4166,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scatophagus_argus/fScaArg1/assembly_curated/
   scientific: Scatophagus argus
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -4174,7 +4175,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 4
   VGPId: mSciCar1
   asm: curated
@@ -4191,6 +4191,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sciurus_carolinensis/mSciCar1/assembly_curated/
   scientific: Sciurus carolinensis
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -4199,7 +4200,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: mSciVul1
   asm: curated
@@ -4216,7 +4216,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sciurus_vulgaris/mSciVul1/assembly_curated/
   scientific: Sciurus vulgaris
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4224,7 +4225,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fSclFor1
   asm: curated
@@ -4241,6 +4241,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scleropages_formosus/fSclFor1/assembly_curated/
   scientific: Scleropages formosus
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -4249,7 +4250,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: fScoJap1
   asm: '0'
@@ -4266,7 +4266,8 @@ toc:
     asm: '#'
   scientific: Scomber japonicus
   score: 0.5
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 0
@@ -4274,7 +4275,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: sScyCan1
   asm: curated
@@ -4291,7 +4291,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scyliorhinus_canicula/sScyCan1/assembly_curated/
   scientific: Scyliorhinus canicula
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4299,7 +4300,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: fSebUmb1
   asm: curated
@@ -4316,7 +4316,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sebastes_umbrosus/fSebUmb1/assembly_curated/
   scientific: Sebastes umbrosus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4324,7 +4325,6 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 3
   VGPId: mSorAra1
   asm: '0'
@@ -4341,7 +4341,8 @@ toc:
     asm: '#'
   scientific: Sorex araneus
   score: 0.625
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -4349,7 +4350,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-  vgl: true
 - VGP phase: phase 1
   VGPId: fSpaAur1
   asm: curated
@@ -4366,6 +4366,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sparus_aurata/fSpaAur1/assembly_curated/
   scientific: Sparus aurata
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -4374,7 +4375,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 3
   VGPId: bSpaCya1
   asm: draft
@@ -4391,7 +4391,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spatula_cyanoptera/bSpaCya1/assembly_vgp_standard_1.5/
   scientific: Spatula cyanoptera
   score: 0.8333333333333334
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -4399,7 +4400,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: aSpeBom1
   asm: '0'
@@ -4416,7 +4416,8 @@ toc:
     asm: '#'
   scientific: Spea bombifrons
   score: 0.25
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -4424,7 +4425,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-  vgl: true
 - VGP phase: phase 1
   VGPId: fSphaOr1
   asm: curated
@@ -4441,6 +4441,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sphaeramia_orbicularis/fSphaOr1/assembly_curated/
   scientific: Sphaeramia orbicularis
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -4449,7 +4450,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: bSteHir1
   asm: curated
@@ -4466,7 +4466,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sterna_hirundo/bSteHir1/assembly_curated/
   scientific: Sterna hirundo
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4474,7 +4475,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: bStrTur1
   asm: curated
@@ -4491,6 +4491,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Streptopelia_turtur/bStrTur1/assembly_curated/
   scientific: Streptopelia turtur
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -4499,7 +4500,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: bStrHab1
   asm: curated
@@ -4516,6 +4516,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Strigops_habroptilus/bStrHab1/assembly_curated/
   scientific: Strigops habroptilus
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -4524,7 +4525,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: mSunEtr1
   asm: curation
@@ -4541,7 +4541,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Suncus_etruscus/mSunEtr1/assembly_vgp_standard_1.7/
   scientific: Suncus etruscus
   score: 0.95
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4549,7 +4550,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: bSylAtr1
   asm: curated
@@ -4566,7 +4566,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_atricapilla/bSylAtr1/assembly_curated/
   scientific: Sylvia atricapilla
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4574,7 +4575,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 4
   VGPId: bSylBor1
   asm: curated
@@ -4591,7 +4591,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_borin/bSylBor1/assembly_curated/
   scientific: Sylvia borin
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4599,7 +4600,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fSynAcu1
   asm: curated
@@ -4616,6 +4616,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Syngnathus_acus/fSynAcu1/assembly_curated/
   scientific: Syngnathus acus
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -4624,7 +4625,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 2
   VGPId: mTacAcu1
   asm: curated
@@ -4641,7 +4641,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tachyglossus_aculeatus/mTacAcu1/assembly_curated/
   scientific: Tachyglossus aculeatus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4649,7 +4650,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: bTaeGut1
   asm: curated
@@ -4666,7 +4666,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut1/assembly_curated/
   scientific: Taeniopygia guttata
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4674,7 +4675,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: bTaeGut2
   asm: curated
@@ -4691,7 +4691,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/assembly_curated/
   scientific: Taeniopygia guttata
   score: 1.0
-  tags: vgl,trio
+  source: true
+  tags: trio
   techs:
     10X: 1
     BN: 1
@@ -4699,7 +4700,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fTakRub1
   asm: curated
@@ -4716,7 +4716,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Takifugu_rubripes/fTakRub1/assembly_curated/
   scientific: Takifugu rubripes
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4724,7 +4725,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: mTamTet1
   asm: draft
@@ -4741,6 +4741,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tamandua_tetradactyla/mTamTet1/assembly_vgp_standard_1.7/
   scientific: Tamandua tetradactyla
   score: 0.9
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -4749,7 +4750,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: bTauEry1
   asm: curated
@@ -4766,7 +4766,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tauraco_erythrolophus/bTauEry1/assembly_curated/
   scientific: Tauraco erythrolophus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4774,7 +4775,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 2
   VGPId: fTauBub2
   asm: '0'
@@ -4791,6 +4791,7 @@ toc:
     asm: '#'
   scientific: Taurulus bubalis
   score: 0.6
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -4799,7 +4800,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 3
   VGPId: fTauAds1
   asm: curation
@@ -4816,7 +4816,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tautogolabrus_adspersus/fTauAds1/assembly_vgp_standard_1.7/
   scientific: Tautogolabrus adspersus
   score: 0.95
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4824,7 +4825,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fThaAma1
   asm: curated
@@ -4841,6 +4841,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thalassophryne_amazonica/fThaAma1/assembly_curated/
   scientific: Thalassophryne amazonica
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -4849,7 +4850,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: rThaEle1
   asm: curated
@@ -4866,7 +4866,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thamnophis_elegans/rThaEle1/assembly_curated/
   scientific: Thamnophis elegans
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4874,7 +4875,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: bTheCae1
   asm: curated
@@ -4891,7 +4891,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Theristicus_caerulescens/bTheCae1/assembly_curated/
   scientific: Theristicus caerulescens
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4899,7 +4900,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 3
   VGPId: fThuMac1
   asm: '0'
@@ -4916,6 +4916,7 @@ toc:
     asm: '#'
   scientific: Thunnus maccoyii
   score: 0.6
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -4924,7 +4925,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: fToxJac2
   asm: curated
@@ -4941,6 +4941,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Toxotes_jaculatrix/fToxJac2/assembly_curated/
   scientific: Toxotes jaculatrix
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 4
@@ -4949,7 +4950,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 2
   VGPId: fTraTra1
   asm: curated
@@ -4966,6 +4966,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trachurus_trachurus/fTraTra1/assembly_curated/
   scientific: Trachurus trachurus
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -4974,7 +4975,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 1
   VGPId: mTriVul1
   asm: curated
@@ -4991,7 +4991,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trichosurus_vulpecula/mTriVul1/assembly_curated/
   scientific: Trichosurus vulpecula
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -4999,7 +5000,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: bTroSur1
   asm: curated
@@ -5016,7 +5016,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trogon_surrucura/bTroSur1/assembly_curated/
   scientific: Trogon surrucura
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -5024,7 +5025,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 3
   VGPId: bTurMer1
   asm: draft
@@ -5041,7 +5041,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Turdus_merula/bTurMer1/assembly_v0/
   scientific: Turdus merula
   score: 0.8333333333333334
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -5049,7 +5050,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 3
   VGPId: mTurTru1
   asm: curated
@@ -5066,7 +5066,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tursiops_truncatus/mTurTru1/assembly_curated/
   scientific: Tursiops truncatus
   score: 1.0
-  tags: vgl,trio
+  source: true
+  tags: trio
   techs:
     10X: 1
     BN: 1
@@ -5074,7 +5075,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 3
   VGPId: bVidCha1
   asm: draft
@@ -5091,7 +5091,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vidua_chalybeata/bVidCha1/assembly_vgp_standard_1.5/
   scientific: Vidua chalybeata
   score: 0.875
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 4
@@ -5099,7 +5100,6 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: rVipLat1
   asm: curation
@@ -5116,7 +5116,8 @@ toc:
     asm: '#'
   scientific: Vipera latastei
   score: 0.9375
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 4
     BN: 1
@@ -5124,7 +5125,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fXenCan1
   asm: curated
@@ -5141,6 +5141,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Xenentodon_cancila/fXenCan1/assembly_curated/
   scientific: Xenentodon cancila
   score: 1.0
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -5149,7 +5150,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
 - VGP phase: phase 2
   VGPId: mZalCal1
   asm: curated
@@ -5166,7 +5166,8 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zalophus_californianus/mZalCal1/assembly_curated/
   scientific: Zalophus californianus
   score: 1.0
-  tags: vgl
+  source: true
+  tags: ''
   techs:
     10X: 1
     BN: 1
@@ -5174,7 +5175,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: true
 - VGP phase: phase 1
   VGPId: fZeuFab1
   asm: '0'
@@ -5191,6 +5191,7 @@ toc:
     asm: '#'
   scientific: Zeus faber
   score: 0.4
+  source: others
   tags: ''
   techs:
     10X: 1
@@ -5199,4 +5200,3 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-  vgl: false
