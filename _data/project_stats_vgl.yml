@@ -1,7 +1,7 @@
-info: Sep 22 2021 15:36:11
+info: Sep 22 2021 15:43:38
 toc:
-- VGP phase: phase 1
-  VGPId: bAcaChl1
+- VGPId: bAcaChl1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: rifleman
@@ -25,8 +25,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fAciRut3
+- VGPId: fAciRut3
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: sterlet
@@ -50,8 +50,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: bAcrTri1
+- VGPId: bAcrTri1
+  VGPphase: phase 2
   asm: '0'
   classes: Aves,birds
   common: common myna
@@ -75,8 +75,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: bAlcTor1
+- VGPId: bAlcTor1
+  VGPphase: phase 2
   asm: curated
   classes: Aves,birds
   common: razorbill
@@ -100,8 +100,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: rAllMis1
+- VGPId: rAllMis1
+  VGPphase: phase 1
   asm: '0'
   classes: Reptilia,reptiles
   common: American alligator
@@ -125,8 +125,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 2
-  VGPId: fAloSap1
+- VGPId: fAloSap1
+  VGPphase: phase 2
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: American shad
@@ -150,8 +150,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: sAmbRad1
+- VGPId: sAmbRad1
+  VGPphase: phase 1
   asm: curated
   classes: Chondrichthyes,cartilaginous fishes
   common: thorny skate
@@ -175,8 +175,8 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: bAmmCau1
+- VGPId: bAmmCau1
+  VGPphase: phase 2
   asm: '0'
   classes: Aves,birds
   common: saltmarsh sparrow
@@ -200,8 +200,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 4
-  VGPId: bAmmMai1
+- VGPId: bAmmMai1
+  VGPphase: phase 4
   asm: '0'
   classes: Aves,birds
   common: seaside sparrow
@@ -225,8 +225,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 3
-  VGPId: bAmmNel1
+- VGPId: bAmmNel1
+  VGPphase: phase 3
   asm: '0'
   classes: Aves,birds
   common: Nelson's sparrow
@@ -250,8 +250,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 3
-  VGPId: fAmpLab1
+- VGPId: fAmpLab1
+  VGPphase: phase 3
   asm: '0'
   classes: Actinopterygii,Bony fishes
   common: red devil
@@ -275,8 +275,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 5
-- VGP phase: phase 1
-  VGPId: fAnaTes1
+- VGPId: fAnaTes1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: climbing perch
@@ -300,8 +300,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fAnaAna1
+- VGPId: fAnaAna1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopteri,Bony fishes
   common: largescale foureyes
@@ -325,8 +325,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fAngAng1
+- VGPId: fAngAng1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopteri,Bony fishes
   common: European eel
@@ -350,8 +350,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fAntMac1
+- VGPId: fAntMac1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: warty frogfish
@@ -375,8 +375,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fAplTae1
+- VGPId: fAplTae1
+  VGPphase: phase 1
   asm: curated
   classes: ''
   common: ''
@@ -400,8 +400,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bApuApu2
+- VGPId: bApuApu2
+  VGPphase: phase 1
   asm: draft
   classes: Aves,birds
   common: common swift
@@ -425,8 +425,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bAquChr1
+- VGPId: bAquChr1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: golden eagle
@@ -450,8 +450,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: bAraAra1
+- VGPId: bAraAra1
+  VGPphase: phase 3
   asm: '0'
   classes: Aves,birds
   common: blue-and-yellow macaw
@@ -475,8 +475,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 1
-  VGPId: fArcCen1
+- VGPId: fArcCen1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: flier cichlid
@@ -500,8 +500,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: mArvNil1
+- VGPId: mArvNil1
+  VGPphase: phase 2
   asm: curated
   classes: Mammalia,mammals
   common: African grass rat
@@ -525,8 +525,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mArvAmp1
+- VGPId: mArvAmp1
+  VGPphase: phase 1
   asm: curated
   classes: Mammalia,mammals
   common: Eurasian water vole
@@ -550,8 +550,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: fAstCal1
+- VGPId: fAstCal1
+  VGPphase: phase 3
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: eastern happy
@@ -575,8 +575,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: eAstRub1
+- VGPId: eAstRub1
+  VGPphase: phase 1
   asm: curated
   classes: Asteroidea,echinoderms
   common: European starfish
@@ -600,8 +600,8 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bAytFul2
+- VGPId: bAytFul2
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: tufted duck
@@ -625,8 +625,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: mBalMus1
+- VGPId: mBalMus1
+  VGPphase: phase 2
   asm: curated
   classes: Mammalia,mammals
   common: Blue whale
@@ -650,8 +650,8 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bBalReg1
+- VGPId: bBalReg1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: grey crowned-crane
@@ -675,8 +675,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: fBarBab1
+- VGPId: fBarBab1
+  VGPphase: phase 2
   asm: '0'
   classes: Actinopterygii,Bony fishes
   common: barbel
@@ -700,8 +700,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: aBomBom1
+- VGPId: aBomBom1
+  VGPphase: phase 1
   asm: draft
   classes: Amphibia,amphibians
   common: fire-bellied toad
@@ -725,8 +725,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mBosTau1
+- VGPId: mBosTau1
+  VGPphase: phase 1
   asm: curated
   classes: Mammalia,mammals
   common: cattle
@@ -750,8 +750,8 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: bBraLeu1
+- VGPId: bBraLeu1
+  VGPphase: phase 3
   asm: draft
   classes: Aves,birds
   common: barnacle goose
@@ -775,8 +775,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bBucAby1
+- VGPId: bBucAby1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: Abyssinian ground-hornbill
@@ -800,8 +800,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: aBufBuf1
+- VGPId: aBufBuf1
+  VGPphase: phase 1
   asm: curated
   classes: Amphibia,amphibians
   common: common toad
@@ -825,8 +825,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mCalJac1
+- VGPId: mCalJac1
+  VGPphase: phase 1
   asm: curated
   classes: Mammalia,mammals
   common: white-tufted-ear marmoset
@@ -850,8 +850,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bCalAnn1
+- VGPId: bCalAnn1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: Anna's hummingbird
@@ -875,8 +875,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: mCanLor1
+- VGPId: mCanLor1
+  VGPphase: phase 2
   asm: curated
   classes: Mammalia,mammals
   common: Greenland wolf
@@ -900,8 +900,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bCapEur3
+- VGPId: bCapEur3
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: Eurasian nightjar
@@ -925,8 +925,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: sCarCar2
+- VGPId: sCarCar2
+  VGPphase: phase 1
   asm: curated
   classes: Chondrichthyes,cartilaginous fishes
   common: great white shark
@@ -950,8 +950,8 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bCarCri1
+- VGPId: bCarCri1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: Red-legged seriema
@@ -975,8 +975,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: bCatUst1
+- VGPId: bCatUst1
+  VGPphase: phase 2
   asm: curated
   classes: Aves,birds
   common: Swainson's thrush
@@ -1000,8 +1000,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: mCerEla1
+- VGPId: mCerEla1
+  VGPphase: phase 2
   asm: '0'
   classes: Mammalia,mammals
   common: red deer
@@ -1025,8 +1025,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fChaCha1
+- VGPId: fChaCha1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: milkfish
@@ -1050,8 +1050,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fCheRos1
+- VGPId: fCheRos1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: copperband butterflyfish
@@ -1075,8 +1075,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: rCheMyd1
+- VGPId: rCheMyd1
+  VGPphase: phase 1
   asm: curated
   classes: Reptilia,reptiles
   common: Green sea turtle
@@ -1100,8 +1100,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: qChiOpi1
+- VGPId: qChiOpi1
+  VGPphase: phase 2
   asm: '0'
   classes: ''
   common: snow crab
@@ -1125,8 +1125,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 1
-  VGPId: bChiLan1
+- VGPId: bChiLan1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: lance-tailed manakin
@@ -1150,8 +1150,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mChoDid1
+- VGPId: mChoDid1
+  VGPphase: phase 1
   asm: '0'
   classes: Mammalia,mammals
   common: southern two-toed sloth
@@ -1175,8 +1175,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bCicMag1
+- VGPId: bCicMag1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: maguari stork
@@ -1200,8 +1200,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: bCorHaw1
+- VGPId: bCorHaw1
+  VGPphase: phase 2
   asm: curated
   classes: Aves,birds
   common: hawaiian crow
@@ -1225,8 +1225,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 4
-  VGPId: bCorMon1
+- VGPId: bCorMon1
+  VGPphase: phase 4
   asm: curated
   classes: Aves,birds
   common: New Caledonian crow
@@ -1250,8 +1250,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fCotGob3
+- VGPId: fCotGob3
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: channel bull blenny
@@ -1275,8 +1275,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bCucCan1
+- VGPId: bCucCan1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: common cuckoo
@@ -1300,8 +1300,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fCycLum1
+- VGPId: fCycLum1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: lumpfish
@@ -1325,8 +1325,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: bCygOlo1
+- VGPId: bCygOlo1
+  VGPphase: phase 3
   asm: curated
   classes: Aves,birds
   common: mute swan
@@ -1350,8 +1350,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fDreSAT1
+- VGPId: fDreSAT1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: zebrafish
@@ -1375,8 +1375,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mDasNov1
+- VGPId: mDasNov1
+  VGPphase: phase 1
   asm: '0'
   classes: Mammalia,mammals
   common: nine-banded armadillo
@@ -1400,8 +1400,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 3
-  VGPId: bDenVid1
+- VGPId: bDenVid1
+  VGPphase: phase 3
   asm: draft
   classes: Aves,birds
   common: white-faced whistling-duck
@@ -1425,8 +1425,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: aDenEbr1
+- VGPId: aDenEbr1
+  VGPphase: phase 1
   asm: curation
   classes: Amphibia,amphibians
   common: hourglass treefrog
@@ -1450,8 +1450,8 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fDenClu1
+- VGPId: fDenClu1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: denticle herring
@@ -1475,8 +1475,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: rDerCor1
+- VGPId: rDerCor1
+  VGPphase: phase 1
   asm: curated
   classes: Reptilia,reptiles
   common: leatherback sea turtle
@@ -1500,8 +1500,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mDicBic1
+- VGPId: mDicBic1
+  VGPphase: phase 1
   asm: curated
   classes: Mammalia,mammals
   common: black rhinoceros
@@ -1525,8 +1525,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: aDisPic1
+- VGPId: aDisPic1
+  VGPphase: phase 1
   asm: draft
   classes: Amphibia,amphibians
   common: painted frog
@@ -1550,8 +1550,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mDroGli1
+- VGPId: mDroGli1
+  VGPphase: phase 1
   asm: curated
   classes: Mammalia,mammals
   common: monito del monte
@@ -1575,8 +1575,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bDryPub1
+- VGPId: bDryPub1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: Downy woodpecker
@@ -1600,8 +1600,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fEcheNa1
+- VGPId: fEcheNa1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: live sharksucker
@@ -1625,8 +1625,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fEleEle1
+- VGPId: fEleEle1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: electric eel
@@ -1650,8 +1650,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: rEmyOrb1
+- VGPId: rEmyOrb1
+  VGPphase: phase 2
   asm: '0'
   classes: Reptilia,reptiles
   common: European pond turtle
@@ -1675,8 +1675,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-- VGP phase: phase 1
-  VGPId: mEreDor1
+- VGPId: mEreDor1
+  VGPphase: phase 1
   asm: curation
   classes: Mammalia,mammals
   common: North American porcupine
@@ -1700,8 +1700,8 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: bEriRub2
+- VGPId: bEriRub2
+  VGPphase: phase 3
   asm: curated
   classes: Aves,birds
   common: European robin
@@ -1725,8 +1725,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fErpCal1
+- VGPId: fErpCal1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: reedfish
@@ -1750,8 +1750,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: mEscRob1
+- VGPId: mEscRob1
+  VGPphase: phase 2
   asm: '0'
   classes: Mammalia,mammals
   common: grey whale
@@ -1775,8 +1775,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-- VGP phase: phase 1
-  VGPId: fEsoLuc1
+- VGPId: fEsoLuc1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: northern pike
@@ -1800,8 +1800,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: mEubGla1
+- VGPId: mEubGla1
+  VGPphase: phase 2
   asm: '0'
   classes: Mammalia,mammals
   common: North Atlantic right whale
@@ -1825,8 +1825,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-- VGP phase: phase 1
-  VGPId: rEulEur1
+- VGPId: rEulEur1
+  VGPphase: phase 1
   asm: '0'
   classes: Reptilia,reptiles
   common: tarantolino
@@ -1850,8 +1850,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 4
-  VGPId: bFalBia1
+- VGPId: bFalBia1
+  VGPphase: phase 4
   asm: running
   classes: Aves,birds
   common: lanner falcon
@@ -1875,8 +1875,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 4
-  VGPId: bFalChe1
+- VGPId: bFalChe1
+  VGPphase: phase 4
   asm: running
   classes: Aves,birds
   common: Saker falcon
@@ -1900,8 +1900,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bFalNau1
+- VGPId: bFalNau1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: lesser kestrel
@@ -1925,8 +1925,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 4
-  VGPId: bFalPer1
+- VGPId: bFalPer1
+  VGPphase: phase 4
   asm: running
   classes: Aves,birds
   common: peregrine falcon
@@ -1950,8 +1950,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 4
-  VGPId: bFalRus1
+- VGPId: bFalRus1
+  VGPphase: phase 4
   asm: curated
   classes: Aves,birds
   common: gyrfalcon
@@ -1975,8 +1975,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: fFunDia1
+- VGPId: fFunDia1
+  VGPphase: phase 2
   asm: '0'
   classes: Actinopteri,Bony fishes
   common: banded killifish
@@ -2000,8 +2000,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 1
-  VGPId: fGadMor1
+- VGPId: fGadMor1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: Atlantic cod
@@ -2025,8 +2025,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bGalGal1
+- VGPId: bGalGal1
+  VGPphase: phase 1
   asm: draft
   classes: Aves,birds
   common: chicken
@@ -2050,8 +2050,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bGalGal4
+- VGPId: bGalGal4
+  VGPphase: phase 1
   asm: curation
   classes: Aves,birds
   common: chicken
@@ -2075,8 +2075,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bGalGal5
+- VGPId: bGalGal5
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: chicken
@@ -2100,8 +2100,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: bGeoTri1
+- VGPId: bGeoTri1
+  VGPphase: phase 2
   asm: curated
   classes: Aves,birds
   common: common yellowthroat
@@ -2125,8 +2125,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: aGeoSer1
+- VGPId: aGeoSer1
+  VGPphase: phase 1
   asm: curated
   classes: Amphibia,amphibians
   common: Gabon caecilian
@@ -2150,8 +2150,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: rGopEvg1
+- VGPId: rGopEvg1
+  VGPphase: phase 1
   asm: curated
   classes: Reptilia,reptiles
   common: Goodes thornscrub tortoise
@@ -2175,8 +2175,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 4
-  VGPId: rGopFla2
+- VGPId: rGopFla2
+  VGPphase: phase 4
   asm: curation
   classes: Reptilia,reptiles
   common: Mexican gopher tortoise
@@ -2200,8 +2200,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fGouWil2
+- VGPId: fGouWil2
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: blunt-snouted clingfish
@@ -2225,8 +2225,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: bGruAme1
+- VGPId: bGruAme1
+  VGPphase: phase 3
   asm: running
   classes: Aves,birds
   common: Whooping crane
@@ -2250,8 +2250,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: bGypBar2
+- VGPId: bGypBar2
+  VGPphase: phase 3
   asm: '0'
   classes: Aves,birds
   common: lammergeier
@@ -2275,8 +2275,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: bHaeMex1
+- VGPId: bHaeMex1
+  VGPphase: phase 2
   asm: draft
   classes: Aves,birds
   common: house finch
@@ -2300,8 +2300,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: bHarHar1
+- VGPId: bHarHar1
+  VGPphase: phase 3
   asm: running
   classes: Aves,birds
   common: Harpy eagle
@@ -2325,8 +2325,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bHemCom1
+- VGPId: bHemCom1
+  VGPphase: phase 1
   asm: curation
   classes: Aves,birds
   common: whiskered treeswift
@@ -2350,8 +2350,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: sHemOce1
+- VGPId: sHemOce1
+  VGPphase: phase 1
   asm: curated
   classes: Chondrichthyes,cartilaginous fishes
   common: epaulette shark
@@ -2375,8 +2375,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: mHetBru1
+- VGPId: mHetBru1
+  VGPphase: phase 2
   asm: draft
   classes: Mammalia,mammals
   common: yellow-spotted hyrax
@@ -2400,8 +2400,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fHipHip1
+- VGPId: fHipHip1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: Atlantic halibut
@@ -2425,8 +2425,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: bHirRus1
+- VGPId: bHirRus1
+  VGPphase: phase 2
   asm: curated
   classes: Aves,birds
   common: Barn swallow
@@ -2450,8 +2450,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mHomSap3
+- VGPId: mHomSap3
+  VGPphase: phase 1
   asm: curated
   classes: Mammalia,mammals
   common: human
@@ -2475,8 +2475,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: fHypTra1
+- VGPId: fHypTra1
+  VGPphase: phase 3
   asm: '0'
   classes: Actinopterygii,Bony fishes
   common: delta smelt
@@ -2500,8 +2500,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 5
-- VGP phase: phase 1
-  VGPId: mJacJac1
+- VGPId: mJacJac1
+  VGPphase: phase 1
   asm: curated
   classes: Mammalia,mammals
   common: lesser Egyptian jerboa
@@ -2525,8 +2525,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: mKogBre1
+- VGPId: mKogBre1
+  VGPphase: phase 2
   asm: running
   classes: Mammalia,mammals
   common: pygmy sperm whale
@@ -2550,8 +2550,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: rLacAgi1
+- VGPId: rLacAgi1
+  VGPphase: phase 1
   asm: curated
   classes: Reptilia,reptiles
   common: sand lizard
@@ -2575,8 +2575,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mLemCat1
+- VGPId: mLemCat1
+  VGPphase: phase 1
   asm: curated
   classes: Mammalia,mammals
   common: Ring-tailed lemur
@@ -2600,8 +2600,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: fLipPho2
+- VGPId: fLipPho2
+  VGPphase: phase 3
   asm: '0'
   classes: Actinopterygii,Bony fishes
   common: shanny
@@ -2625,8 +2625,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mLutLut1
+- VGPId: mLutLut1
+  VGPphase: phase 1
   asm: curated
   classes: Mammalia,mammals
   common: Eurasian river otter
@@ -2650,8 +2650,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mLynCan4
+- VGPId: mLynCan4
+  VGPphase: phase 1
   asm: curated
   classes: Mammalia,mammals
   common: Canada lynx
@@ -2675,8 +2675,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mMacEug1
+- VGPId: mMacEug1
+  VGPphase: phase 1
   asm: '0'
   classes: Mammalia,mammals
   common: tammar wallaby
@@ -2700,8 +2700,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-- VGP phase: phase 1
-  VGPId: fMalNig1
+- VGPId: fMalNig1
+  VGPphase: phase 1
   asm: '0'
   classes: Actinopterygii,Bony fishes
   common: stoplight loosejaw
@@ -2725,8 +2725,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mManPen7
+- VGPId: mManPen7
+  VGPphase: phase 1
   asm: '0'
   classes: Mammalia,mammals
   common: Chinese pangolin
@@ -2750,8 +2750,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 1
-  VGPId: fMasArm1
+- VGPId: fMasArm1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: zig-zag eel
@@ -2775,8 +2775,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fMegCyp1
+- VGPId: fMegCyp1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: Indo-Pacific tarpon
@@ -2800,8 +2800,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fMelBoe1
+- VGPId: fMelBoe1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: Boeseman's rainbowfish
@@ -2825,8 +2825,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: mMelMel3
+- VGPId: mMelMel3
+  VGPphase: phase 3
   asm: '0'
   classes: Mammalia,mammals
   common: Eurasian badger
@@ -2850,8 +2850,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: bMelUnd1
+- VGPId: bMelUnd1
+  VGPphase: phase 2
   asm: curated
   classes: Aves,birds
   common: budgerigar
@@ -2875,8 +2875,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: bMelGeo1
+- VGPId: bMelGeo1
+  VGPphase: phase 3
   asm: '0'
   classes: Aves,birds
   common: song sparrow
@@ -2900,8 +2900,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 1
-  VGPId: bMerNub1
+- VGPId: bMerNub1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: carmine bee-eater
@@ -2925,8 +2925,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: mMesDen1
+- VGPId: mMesDen1
+  VGPphase: phase 2
   asm: '0'
   classes: Mammalia,mammals
   common: Blainville's beaked whale
@@ -2950,8 +2950,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: aMicUni1
+- VGPId: aMicUni1
+  VGPphase: phase 1
   asm: curated
   classes: Amphibia,amphibians
   common: tiny Cayenne caecilian
@@ -2975,8 +2975,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: mMolMol1
+- VGPId: mMolMol1
+  VGPphase: phase 2
   asm: draft
   classes: Mammalia,mammals
   common: Pallas's mastiff bat
@@ -3000,8 +3000,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mMonDom1
+- VGPId: mMonDom1
+  VGPphase: phase 1
   asm: '0'
   classes: Mammalia,mammals
   common: gray short-tailed opossum
@@ -3025,8 +3025,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 3
-  VGPId: mMusErm1
+- VGPId: mMusErm1
+  VGPphase: phase 3
   asm: curated
   classes: Mammalia,mammals
   common: ermine
@@ -3050,8 +3050,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: mMyoMyo1
+- VGPId: mMyoMyo1
+  VGPphase: phase 2
   asm: draft
   classes: Mammalia,mammals
   common: ''
@@ -3075,8 +3075,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fMyrMur1
+- VGPId: fMyrMur1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: pinecone soldierfish
@@ -3100,8 +3100,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fNeoGra1
+- VGPId: fNeoGra1
+  VGPphase: phase 1
   asm: '0'
   classes: Actinopterygii,Bony fishes
   common: lesser salmon catfish
@@ -3125,8 +3125,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-- VGP phase: phase 3
-  VGPId: mNeoNeb1
+- VGPId: mNeoNeb1
+  VGPphase: phase 3
   asm: '0'
   classes: Mammalia,mammals
   common: Clouded leopard
@@ -3150,8 +3150,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 3
-  VGPId: bNomDom1
+- VGPId: bNomDom1
+  VGPphase: phase 3
   asm: draft
   classes: Aves,birds
   common: Masked duck
@@ -3175,8 +3175,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fNotCel1
+- VGPId: fNotCel1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: New Zealand spotty
@@ -3200,8 +3200,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bNycGra1
+- VGPId: bNycGra1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: great potoo
@@ -3225,8 +3225,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mNycCou1
+- VGPId: mNycCou1
+  VGPphase: phase 1
   asm: '0'
   classes: Mammalia,mammals
   common: slow loris
@@ -3250,8 +3250,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-- VGP phase: phase 1
-  VGPId: mOrnAna1
+- VGPId: mOrnAna1
+  VGPphase: phase 1
   asm: curated
   classes: Mammalia,mammals
   common: platypus
@@ -3275,8 +3275,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fOsmMor3
+- VGPId: fOsmMor3
+  VGPphase: phase 1
   asm: '0'
   classes: Actinopterygii,Bony fishes
   common: rainbow smelt
@@ -3300,8 +3300,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-- VGP phase: phase 3
-  VGPId: mPanTro1
+- VGPId: mPanTro1
+  VGPphase: phase 3
   asm: draft
   classes: Mammalia,mammals
   common: chimpanzee
@@ -3325,8 +3325,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: fPanHyp1
+- VGPId: fPanHyp1
+  VGPphase: phase 2
   asm: draft
   classes: Actinopterygii,Bony fishes
   common: striped catfish
@@ -3350,8 +3350,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fParRan2
+- VGPId: fParRan2
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: Indian glassy fish
@@ -3375,8 +3375,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: bPasSan1
+- VGPId: bPasSan1
+  VGPphase: phase 3
   asm: '0'
   classes: Aves,birds
   common: Savannah sparrow
@@ -3400,8 +3400,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 1
-  VGPId: bPelCri1
+- VGPId: bPelCri1
+  VGPphase: phase 1
   asm: draft
   classes: Aves,birds
   common: Dalmatian pelican
@@ -3425,8 +3425,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: fPerMag1
+- VGPId: fPerMag1
+  VGPphase: phase 2
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: Korean giant-fin mudskipper
@@ -3450,8 +3450,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: kPetMar1
+- VGPId: kPetMar1
+  VGPphase: phase 1
   asm: curated
   classes: Hyperoartia,jawless,Agnatha
   common: sea lamprey
@@ -3475,8 +3475,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mPhoSin1
+- VGPId: mPhoSin1
+  VGPphase: phase 1
   asm: curated
   classes: Mammalia,mammals
   common: vaquita
@@ -3500,8 +3500,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bPhoRub1
+- VGPId: bPhoRub1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: American flamingo
@@ -3525,8 +3525,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fPhoLeu1
+- VGPId: fPhoLeu1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: convict blenny
@@ -3550,8 +3550,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: fPhoGun1
+- VGPId: fPhoGun1
+  VGPphase: phase 2
   asm: '0'
   classes: Actinopterygii,Bony fishes
   common: rock gunnel
@@ -3575,8 +3575,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mPhyDis1
+- VGPId: mPhyDis1
+  VGPphase: phase 1
   asm: curated
   classes: Mammalia,mammals
   common: pale spear-nosed bat
@@ -3600,8 +3600,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: mPipKuh1
+- VGPId: mPipKuh1
+  VGPphase: phase 3
   asm: draft
   classes: Mammalia,mammals
   common: Kuhl's pipistrelle
@@ -3625,8 +3625,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 4
-  VGPId: mPipPip1
+- VGPId: mPipPip1
+  VGPphase: phase 4
   asm: curated
   classes: Mammalia,mammals
   common: common pipistrelle
@@ -3650,8 +3650,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: bPluApr1
+- VGPId: bPluApr1
+  VGPphase: phase 2
   asm: curated
   classes: Aves,birds
   common: European golden plover
@@ -3675,8 +3675,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: rPodRaf1
+- VGPId: rPodRaf1
+  VGPphase: phase 3
   asm: running
   classes: Reptilia,reptiles
   common: Aeolian wall lizard
@@ -3700,8 +3700,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bPodStr1
+- VGPId: bPodStr1
+  VGPphase: phase 1
   asm: '0'
   classes: Aves,birds
   common: tawny frogmouth
@@ -3725,8 +3725,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 2
-  VGPId: bPogPus1
+- VGPId: bPogPus1
+  VGPphase: phase 2
   asm: curated
   classes: Aves,birds
   common: Red-fronted tinkerbird
@@ -3750,8 +3750,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: bPorHoc1
+- VGPId: bPorHoc1
+  VGPphase: phase 2
   asm: curated
   classes: Aves,birds
   common: South Island takahe
@@ -3775,8 +3775,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: sPotMar1
+- VGPId: sPotMar1
+  VGPphase: phase 1
   asm: running
   classes: Chondrichthyes,cartilaginous fishes
   common: gold dust stingray
@@ -3800,8 +3800,8 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: sPriPec2
+- VGPId: sPriPec2
+  VGPphase: phase 1
   asm: curated
   classes: Chondrichthyes,cartilaginous fishes
   common: smalltooth sawfish
@@ -3825,8 +3825,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: mPseCra1
+- VGPId: mPseCra1
+  VGPphase: phase 2
   asm: '0'
   classes: Mammalia,mammals
   common: false killer whale
@@ -3850,8 +3850,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-- VGP phase: phase 1
-  VGPId: bPteGut1
+- VGPId: bPteGut1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: yellow-throated sandgrouse
@@ -3875,8 +3875,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fPygNat1
+- VGPId: fPygNat1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: red-bellied piranha
@@ -3900,8 +3900,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: aRanTem1
+- VGPId: aRanTem1
+  VGPphase: phase 1
   asm: curated
   classes: Amphibia,amphibians
   common: common frog
@@ -3925,8 +3925,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: mRatNor1
+- VGPId: mRatNor1
+  VGPphase: phase 3
   asm: curated
   classes: Mammalia,mammals
   common: Norway rat
@@ -3950,8 +3950,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: bPtePen1
+- VGPId: bPtePen1
+  VGPphase: phase 2
   asm: '0'
   classes: Aves,birds
   common: lesser rhea
@@ -3975,8 +3975,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 1
-  VGPId: aRhiBiv1
+- VGPId: aRhiBiv1
+  VGPphase: phase 1
   asm: curated
   classes: Amphibia,amphibians
   common: two-lined caecilian
@@ -4000,8 +4000,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: rRhiFlo1
+- VGPId: rRhiFlo1
+  VGPphase: phase 1
   asm: '0'
   classes: Reptilia,reptiles
   common: Florida worm lizard
@@ -4025,8 +4025,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 1
-  VGPId: mRhiFer1
+- VGPId: mRhiFer1
+  VGPphase: phase 1
   asm: curated
   classes: Mammalia,mammals
   common: greater horseshoe bat
@@ -4050,8 +4050,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 4
-  VGPId: mRhiSin1
+- VGPId: mRhiSin1
+  VGPphase: phase 4
   asm: curated
   classes: Mammalia,mammals
   common: Chinese rufous horseshoe bat
@@ -4075,8 +4075,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: mRouAeg1
+- VGPId: mRouAeg1
+  VGPphase: phase 2
   asm: draft
   classes: Mammalia,mammals
   common: Egyptian rousette
@@ -4100,8 +4100,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fSalaFa1
+- VGPId: fSalaFa1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: jewelled blenny
@@ -4125,8 +4125,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fSalTru1
+- VGPId: fSalTru1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: river trout
@@ -4150,8 +4150,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fScaArg1
+- VGPId: fScaArg1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: spotted scat
@@ -4175,8 +4175,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 4
-  VGPId: mSciCar1
+- VGPId: mSciCar1
+  VGPphase: phase 4
   asm: curated
   classes: Mammalia,mammals
   common: gray squirrel
@@ -4200,8 +4200,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mSciVul1
+- VGPId: mSciVul1
+  VGPphase: phase 1
   asm: curated
   classes: Mammalia,mammals
   common: Eurasian red squirrel
@@ -4225,8 +4225,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fSclFor1
+- VGPId: fSclFor1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: Asian bonytongue
@@ -4250,8 +4250,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fScoJap1
+- VGPId: fScoJap1
+  VGPphase: phase 1
   asm: '0'
   classes: Actinopterygii,Bony fishes
   common: chub mackerel
@@ -4275,8 +4275,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: sScyCan1
+- VGPId: sScyCan1
+  VGPphase: phase 1
   asm: curated
   classes: Chondrichthyes,cartilaginous fishes
   common: smaller spotted catshark
@@ -4300,8 +4300,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: fSebUmb1
+- VGPId: fSebUmb1
+  VGPphase: phase 2
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: honeycomb rockfish
@@ -4325,8 +4325,8 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: mSorAra1
+- VGPId: mSorAra1
+  VGPphase: phase 3
   asm: '0'
   classes: Mammalia,mammals
   common: European shrew
@@ -4350,8 +4350,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 2
-- VGP phase: phase 1
-  VGPId: fSpaAur1
+- VGPId: fSpaAur1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: gilthead seabream
@@ -4375,8 +4375,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: bSpaCya1
+- VGPId: bSpaCya1
+  VGPphase: phase 3
   asm: draft
   classes: Aves,birds
   common: cinnamon teal
@@ -4400,8 +4400,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: aSpeBom1
+- VGPId: aSpeBom1
+  VGPphase: phase 1
   asm: '0'
   classes: Amphibia,amphibians
   common: plains spadefoot toad
@@ -4425,8 +4425,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGP phase: phase 1
-  VGPId: fSphaOr1
+- VGPId: fSphaOr1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: orbiculate cardinalfish
@@ -4450,8 +4450,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bSteHir1
+- VGPId: bSteHir1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: Common tern
@@ -4475,8 +4475,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bStrTur1
+- VGPId: bStrTur1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: European turtle dove
@@ -4500,8 +4500,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bStrHab1
+- VGPId: bStrHab1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: Kakapo
@@ -4525,8 +4525,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mSunEtr1
+- VGPId: mSunEtr1
+  VGPphase: phase 1
   asm: curation
   classes: Mammalia,mammals
   common: white-toothed pygmy shrew
@@ -4550,8 +4550,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: bSylAtr1
+- VGPId: bSylAtr1
+  VGPphase: phase 2
   asm: curated
   classes: Aves,birds
   common: blackcap
@@ -4575,8 +4575,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 4
-  VGPId: bSylBor1
+- VGPId: bSylBor1
+  VGPphase: phase 4
   asm: curated
   classes: Aves,birds
   common: garden warbler
@@ -4600,8 +4600,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fSynAcu1
+- VGPId: fSynAcu1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: greater pipefish
@@ -4625,8 +4625,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: mTacAcu1
+- VGPId: mTacAcu1
+  VGPphase: phase 2
   asm: curated
   classes: Mammalia,mammals
   common: Australian echidna
@@ -4650,8 +4650,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bTaeGut1
+- VGPId: bTaeGut1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: zebra finch
@@ -4675,8 +4675,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bTaeGut2
+- VGPId: bTaeGut2
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: zebra finch
@@ -4700,8 +4700,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fTakRub1
+- VGPId: fTakRub1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: torafugu
@@ -4725,8 +4725,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mTamTet1
+- VGPId: mTamTet1
+  VGPphase: phase 1
   asm: draft
   classes: Mammalia,mammals
   common: southern tamandua
@@ -4750,8 +4750,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bTauEry1
+- VGPId: bTauEry1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: red-crested turaco
@@ -4775,8 +4775,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: fTauBub2
+- VGPId: fTauBub2
+  VGPphase: phase 2
   asm: '0'
   classes: Actinopterygii,Bony fishes
   common: longspined bullhead
@@ -4800,8 +4800,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: fTauAds1
+- VGPId: fTauAds1
+  VGPphase: phase 3
   asm: curation
   classes: Actinopterygii,Bony fishes
   common: cunner
@@ -4825,8 +4825,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fThaAma1
+- VGPId: fThaAma1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: prehistoric monster fish
@@ -4850,8 +4850,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: rThaEle1
+- VGPId: rThaEle1
+  VGPphase: phase 1
   asm: curated
   classes: Reptilia,reptiles
   common: Western terrestrial garter snake
@@ -4875,8 +4875,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bTheCae1
+- VGPId: bTheCae1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: plumbeous ibis
@@ -4900,8 +4900,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: fThuMac1
+- VGPId: fThuMac1
+  VGPphase: phase 3
   asm: '0'
   classes: Actinopterygii,Bony fishes
   common: southern bluefin tuna
@@ -4925,8 +4925,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fToxJac2
+- VGPId: fToxJac2
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: banded archerfish
@@ -4950,8 +4950,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: fTraTra1
+- VGPId: fTraTra1
+  VGPphase: phase 2
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: Atlantic horse mackerel
@@ -4975,8 +4975,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: mTriVul1
+- VGPId: mTriVul1
+  VGPphase: phase 1
   asm: curated
   classes: Mammalia,mammals
   common: common brushtail
@@ -5000,8 +5000,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: bTroSur1
+- VGPId: bTroSur1
+  VGPphase: phase 1
   asm: curated
   classes: Aves,birds
   common: Suruca trogon
@@ -5025,8 +5025,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: bTurMer1
+- VGPId: bTurMer1
+  VGPphase: phase 3
   asm: draft
   classes: Aves,birds
   common: blackbird
@@ -5050,8 +5050,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: mTurTru1
+- VGPId: mTurTru1
+  VGPphase: phase 3
   asm: curated
   classes: Mammalia,mammals
   common: common bottlenose dolphin
@@ -5075,8 +5075,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 3
-  VGPId: bVidCha1
+- VGPId: bVidCha1
+  VGPphase: phase 3
   asm: draft
   classes: Aves,birds
   common: village indigobird
@@ -5100,8 +5100,8 @@ toc:
     Ilm: 1
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: rVipLat1
+- VGPId: rVipLat1
+  VGPphase: phase 1
   asm: curation
   classes: Reptilia,reptiles
   common: snub-nosed viper
@@ -5125,8 +5125,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fXenCan1
+- VGPId: fXenCan1
+  VGPphase: phase 1
   asm: curated
   classes: Actinopterygii,Bony fishes
   common: freshwater garfish
@@ -5150,8 +5150,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 2
-  VGPId: mZalCal1
+- VGPId: mZalCal1
+  VGPphase: phase 2
   asm: curated
   classes: Mammalia,mammals
   common: California sea lion
@@ -5175,8 +5175,8 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGP phase: phase 1
-  VGPId: fZeuFab1
+- VGPId: fZeuFab1
+  VGPphase: phase 1
   asm: '0'
   classes: Actinopterygii,Bony fishes
   common: John dory
