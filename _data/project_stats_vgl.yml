@@ -1,4 +1,4 @@
-info: Sep 22 2021 12:33:09
+info: Sep 22 2021 12:35:39
 toc:
 - VGPId: bAcaChl1
   asm: curated
@@ -49,7 +49,7 @@ toc:
     PB: 1
   vgl: false
 - VGPId: bAcrTri1
-  asm: ''
+  asm: '0'
   classes: Aves,birds
   common: common myna
   families: Sturnidae
@@ -97,7 +97,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: rAllMis1
-  asm: ''
+  asm: '0'
   classes: Reptilia,reptiles
   common: American alligator
   families: Alligatoridae
@@ -169,7 +169,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: bAmmCau1
-  asm: ''
+  asm: '0'
   classes: Aves,birds
   common: saltmarsh sparrow
   families: Passerellidae
@@ -193,7 +193,7 @@ toc:
     PB: 0
   vgl: true
 - VGPId: bAmmMai1
-  asm: ''
+  asm: '0'
   classes: Aves,birds
   common: seaside sparrow
   families: Passerellidae
@@ -217,7 +217,7 @@ toc:
     PB: 0
   vgl: true
 - VGPId: bAmmNel1
-  asm: ''
+  asm: '0'
   classes: Aves,birds
   common: Nelson's sparrow
   families: Passerellidae
@@ -241,7 +241,7 @@ toc:
     PB: 0
   vgl: true
 - VGPId: fAmpLab1
-  asm: ''
+  asm: '0'
   classes: Actinopterygii,Bony fishes
   common: red devil
   families: Cichlidae
@@ -433,7 +433,7 @@ toc:
     PB: 1
   vgl: false
 - VGPId: bAraAra1
-  asm: ''
+  asm: '0'
   classes: Aves,birds
   common: blue-and-yellow macaw
   families: Psittacidae
@@ -1129,7 +1129,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: mChoDid1
-  asm: ''
+  asm: '0'
   classes: Mammalia,mammals
   common: southern two-toed sloth
   families: Megalonychidae
@@ -1345,7 +1345,7 @@ toc:
     PB: 1
   vgl: false
 - VGPId: mDasNov1
-  asm: ''
+  asm: '0'
   classes: Mammalia,mammals
   common: nine-banded armadillo
   families: Dasypodidae
@@ -1609,7 +1609,7 @@ toc:
     PB: 1
   vgl: false
 - VGPId: rEmyOrb1
-  asm: ''
+  asm: '0'
   classes: Reptilia,reptiles
   common: European pond turtle
   families: Emydidae
@@ -1705,7 +1705,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: mEscRob1
-  asm: ''
+  asm: '0'
   classes: Mammalia,mammals
   common: grey whale
   families: Eschrichtiidae
@@ -1753,7 +1753,7 @@ toc:
     PB: 1
   vgl: false
 - VGPId: mEubGla1
-  asm: ''
+  asm: '0'
   classes: Mammalia,mammals
   common: North Atlantic right whale
   families: Balaenidae
@@ -1777,7 +1777,7 @@ toc:
     PB: 2
   vgl: true
 - VGPId: rEulEur1
-  asm: ''
+  asm: '0'
   classes: Reptilia,reptiles
   common: tarantolino
   families: Sphaerodactylidae
@@ -1921,7 +1921,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: fFunDia1
-  asm: ''
+  asm: '0'
   classes: Actinopteri,Bony fishes
   common: banded killifish
   families: Fundulidae
@@ -2185,7 +2185,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: bGypBar2
-  asm: ''
+  asm: '0'
   classes: Aves,birds
   common: lammergeier
   families: Accipitridae
@@ -2401,7 +2401,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: fHypTra1
-  asm: ''
+  asm: '0'
   classes: Actinopterygii,Bony fishes
   common: delta smelt
   families: Osmeridae
@@ -2593,7 +2593,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: mMacEug1
-  asm: ''
+  asm: '0'
   classes: Mammalia,mammals
   common: tammar wallaby
   families: Macropodidae
@@ -2641,7 +2641,7 @@ toc:
     PB: 1
   vgl: false
 - VGPId: mManPen7
-  asm: ''
+  asm: '0'
   classes: Mammalia,mammals
   common: Chinese pangolin
   families: Manidae
@@ -2833,7 +2833,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: mMesDen1
-  asm: ''
+  asm: '0'
   classes: Mammalia,mammals
   common: Blainville's beaked whale
   families: Ziphiidae
@@ -2905,7 +2905,7 @@ toc:
     PB: 1
   vgl: false
 - VGPId: mMonDom1
-  asm: ''
+  asm: '0'
   classes: Mammalia,mammals
   common: gray short-tailed opossum
   families: Didelphidae
@@ -3001,7 +3001,7 @@ toc:
     PB: 1
   vgl: false
 - VGPId: fNeoGra1
-  asm: ''
+  asm: '0'
   classes: Actinopterygii,Bony fishes
   common: lesser salmon catfish
   families: Ariidae
@@ -3025,7 +3025,7 @@ toc:
     PB: 2
   vgl: true
 - VGPId: mNeoNeb1
-  asm: ''
+  asm: '0'
   classes: Mammalia,mammals
   common: Clouded leopard
   families: Felidae
@@ -3121,7 +3121,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: mNycCou1
-  asm: ''
+  asm: '0'
   classes: Mammalia,mammals
   common: slow loris
   families: Lorisidae
@@ -3169,7 +3169,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: fOsmMor3
-  asm: ''
+  asm: '0'
   classes: Actinopterygii,Bony fishes
   common: rainbow smelt
   families: Osmeridae
@@ -3265,7 +3265,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: bPasSan1
-  asm: ''
+  asm: '0'
   classes: Aves,birds
   common: Savannah sparrow
   families: Passerellidae
@@ -3577,7 +3577,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: bPodStr1
-  asm: ''
+  asm: '0'
   classes: Aves,birds
   common: tawny frogmouth
   families: Podargidae
@@ -3697,7 +3697,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: mPseCra1
-  asm: ''
+  asm: '0'
   classes: Mammalia,mammals
   common: false killer whale
   families: Delphinidae
@@ -3817,7 +3817,7 @@ toc:
     PB: 1
   vgl: false
 - VGPId: bPtePen1
-  asm: ''
+  asm: '0'
   classes: Aves,birds
   common: lesser rhea
   families: Rheidae
@@ -3865,7 +3865,7 @@ toc:
     PB: 1
   vgl: false
 - VGPId: rRhiFlo1
-  asm: ''
+  asm: '0'
   classes: Reptilia,reptiles
   common: Florida worm lizard
   families: Rhineuridae
@@ -4105,7 +4105,7 @@ toc:
     PB: 1
   vgl: false
 - VGPId: fScoJap1
-  asm: ''
+  asm: '0'
   classes: Actinopterygii,Bony fishes
   common: chub mackerel
   families: Scombridae
@@ -4177,7 +4177,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: mSorAra1
-  asm: ''
+  asm: '0'
   classes: Mammalia,mammals
   common: European shrew
   families: Soricidae
@@ -4249,7 +4249,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: aSpeBom1
-  asm: ''
+  asm: '0'
   classes: Amphibia,amphibians
   common: plains spadefoot toad
   families: Pelobatidae
