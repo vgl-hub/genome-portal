@@ -1,4 +1,4 @@
-info: Sep 22 2021 15:46:35
+info: Sep 22 2021 15:53:42
 toc:
 - VGPId: bAcaChl1
   VGPphase: phase1
@@ -14,9 +14,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acanthisitta_chloris/bAcaChl1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acanthisitta_chloris/bAcaChl1/assembly_curated/
+  orders: Passeriformes
   scientific: Acanthisitta chloris
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -39,6 +40,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acipenser_ruthenus/fAciRut3/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acipenser_ruthenus/fAciRut3/assembly_curated/
+  orders: Acipenseriformes
   scientific: Acipenser ruthenus
   score: 1.0
   source: others
@@ -64,9 +66,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acridotheres_tristis/bAcrTri1/genomic_data/pacbio/
     asm: '#'
+  orders: Passeriformes
   scientific: Acridotheres tristis
   score: 0.625
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -89,9 +92,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alca_torda/bAlcTor1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alca_torda/bAlcTor1/assembly_curated/
+  orders: Charadriiformes
   scientific: Alca torda
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -114,9 +118,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Crocodylia
   scientific: Alligator mississippiensis
   score: 0.25
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -139,9 +144,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alosa_sapidissima/fAloSap1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Alosa_sapidissima/fAloSap1/assembly_curated/
+  orders: Clupeiformes
   scientific: Alosa sapidissima
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -164,9 +170,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Amblyraja_radiata/sAmbRad1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Amblyraja_radiata/sAmbRad1/assembly_curated/
+  orders: Rajiformes
   scientific: Amblyraja radiata
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -189,9 +196,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Passeriformes
   scientific: Ammodramus caudacutus
   score: 0.375
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -214,9 +222,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Passeriformes
   scientific: Ammodramus maritimus
   score: 0.25
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -239,9 +248,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Passeriformes
   scientific: Ammospiza nelsoni
   score: 0.375
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -264,9 +274,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Cichliformes
   scientific: Amphilophus labiatus
   score: 0.8
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 5
@@ -289,9 +300,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anabas_testudineus/fAnaTes1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anabas_testudineus/fAnaTes1/assembly_curated/
+  orders: Anabantiformes
   scientific: Anabas testudineus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -314,6 +326,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anableps_anableps/fAnaAna1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anableps_anableps/fAnaAna1/assembly_curated/
+  orders: Cyprinodontiformes
   scientific: Anableps anableps
   score: 1.0
   source: others
@@ -339,6 +352,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anguilla_anguilla/fAngAng1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Anguilla_anguilla/fAngAng1/assembly_curated/
+  orders: Anguilliformes
   scientific: Anguilla anguilla
   score: 1.0
   source: others
@@ -364,6 +378,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Antennarius_maculatus/fAntMac1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Antennarius_maculatus/fAntMac1/assembly_curated/
+  orders: Lophiiformes
   scientific: Antennarius maculatus
   score: 1.0
   source: others
@@ -389,6 +404,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aplochiton_taeniatus/fAplTae1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aplochiton_taeniatus/fAplTae1/assembly_curated/
+  orders: ''
   scientific: Aplochiton taeniatus
   score: 1.0
   source: others
@@ -414,6 +430,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Apus_apus/bApuApu2/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Apus_apus/bApuApu2/assembly_vgp_standard_1.6/
+  orders: Apodiformes
   scientific: Apus apus
   score: 0.9
   source: others
@@ -439,6 +456,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aquila_chrysaetos/bAquChr1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aquila_chrysaetos/bAquChr1/assembly_curated/
+  orders: Falconiformes
   scientific: Aquila chrysaetos
   score: 1.0
   source: others
@@ -464,9 +482,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Psittaciformes
   scientific: Ara ararauna
   score: 0.25
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -489,9 +508,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Archocentrus_centrarchus/fArcCen1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Archocentrus_centrarchus/fArcCen1/assembly_curated/
+  orders: Cichliformes
   scientific: Archocentrus centrarchus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -514,9 +534,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicanthis_niloticus/mArvNil1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicanthis_niloticus/mArvNil1/assembly_curated/
+  orders: Rodentia
   scientific: Arvicanthis niloticus
   score: 1.0
-  source: true
+  source: vgl
   tags: trio
   techs:
     10X: 1
@@ -539,6 +560,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicola_amphibius/mArvAmp1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Arvicola_amphibius/mArvAmp1/assembly_curated/
+  orders: Rodentia
   scientific: Arvicola amphibius
   score: 1.0
   source: others
@@ -564,6 +586,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Astatotilapia_calliptera/fAstCal1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Astatotilapia_calliptera/fAstCal1/assembly_curated/
+  orders: Cichliformes
   scientific: Astatotilapia calliptera
   score: 1.0
   source: others
@@ -589,6 +612,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Asterias_rubens/eAstRub1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Asterias_rubens/eAstRub1/assembly_curated/
+  orders: Forcipulatida
   scientific: Asterias rubens
   score: 1.0
   source: others
@@ -614,9 +638,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aythya_fuligula/bAytFul2/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Aythya_fuligula/bAytFul2/assembly_curated/
+  orders: Anseriformes
   scientific: Aythya fuligula
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -639,6 +664,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Balaenoptera_musculus/mBalMus1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Balaenoptera_musculus/mBalMus1/assembly_curated/
+  orders: Artiodactyla
   scientific: Balaenoptera musculus
   score: 1.0
   source: others
@@ -664,9 +690,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Balearica_regulorum/bBalReg1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Balearica_regulorum/bBalReg1/assembly_curated/
+  orders: Gruiformes
   scientific: Balearica regulorum
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -689,6 +716,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Barbus_barbus/fBarBab1/genomic_data/pacbio/
     asm: '#'
+  orders: Cypriniformes
   scientific: Barbus barbus
   score: 0.25
   source: others
@@ -714,6 +742,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bombina_bombina/aBomBom1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bombina_bombina/aBomBom1/assembly_vgp_standard_1.6/
+  orders: Anura
   scientific: Bombina bombina
   score: 0.9
   source: others
@@ -739,6 +768,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bos_taurus/mBosTau1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bos_taurus/mBosTau1/assembly_curated/
+  orders: Artiodactyla
   scientific: Bos taurus
   score: 1.0
   source: others
@@ -764,9 +794,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branta_leucopsis/bBraLeu1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Branta_leucopsis/bBraLeu1/assembly_vgp_standard_1.5/
+  orders: Anseriformes
   scientific: Branta leucopsis
   score: 0.8333333333333334
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -789,9 +820,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bucorvus_abyssinicus/bBucAby1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bucorvus_abyssinicus/bBucAby1/assembly_curated/
+  orders: Bucerotiformes
   scientific: Bucorvus abyssinicus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -814,6 +846,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bufo_bufo/aBufBuf1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Bufo_bufo/aBufBuf1/assembly_curated/
+  orders: Anura
   scientific: Bufo bufo
   score: 1.0
   source: others
@@ -839,9 +872,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Callithrix_jacchus/mCalJac1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Callithrix_jacchus/mCalJac1/assembly_curated/
+  orders: Primates
   scientific: Callithrix jacchus
   score: 1.0
-  source: true
+  source: vgl
   tags: trio
   techs:
     10X: 1
@@ -864,6 +898,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Calypte_anna/bCalAnn1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Calypte_anna/bCalAnn1/assembly_curated/
+  orders: Apodiformes
   scientific: Calypte anna
   score: 1.0
   source: others
@@ -889,6 +924,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus_orion/mCanLor1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus_orion/mCanLor1/assembly_curated/
+  orders: Carnivora
   scientific: Canis lupus orion
   score: 1.0
   source: others
@@ -914,6 +950,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Caprimulgus_europaeus/bCapEur3/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Caprimulgus_europaeus/bCapEur3/assembly_curated/
+  orders: Caprimulgiformes
   scientific: Caprimulgus europaeus
   score: 1.0
   source: others
@@ -939,9 +976,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Carcharodon_carcharias/sCarCar2/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Carcharodon_carcharias/sCarCar2/assembly_curated/
+  orders: Lamniformes
   scientific: Carcharodon carcharias
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -964,9 +1002,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cariama_cristata/bCarCri1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cariama_cristata/bCarCri1/assembly_curated/
+  orders: Cariamiformes
   scientific: Cariama cristata
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -989,9 +1028,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Catharus_ustulatus/bCatUst1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Catharus_ustulatus/bCatUst1/assembly_curated/
+  orders: Passeriformes
   scientific: Catharus ustulatus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -1014,6 +1054,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cervus_elaphus/mCerEla1/genomic_data/pacbio/
     asm: '#'
+  orders: Artiodactyla
   scientific: Cervus elaphus
   score: 0.6
   source: others
@@ -1039,6 +1080,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chanos_chanos/fChaCha1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chanos_chanos/fChaCha1/assembly_curated/
+  orders: Gonorynchiformes
   scientific: Chanos chanos
   score: 1.0
   source: others
@@ -1064,6 +1106,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chelmon_rostratus/fCheRos1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chelmon_rostratus/fCheRos1/assembly_curated/
+  orders: Chaetodontiformes
   scientific: Chelmon rostratus
   score: 1.0
   source: others
@@ -1089,6 +1132,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chelonia_mydas/rCheMyd1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chelonia_mydas/rCheMyd1/assembly_curated/
+  orders: Testudines
   scientific: Chelonia mydas
   score: 1.0
   source: others
@@ -1114,6 +1158,7 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Decapoda
   scientific: Chionoecetes opilio
   score: 0.25
   source: others
@@ -1139,9 +1184,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chiroxiphia_lanceolata/bChiLan1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Chiroxiphia_lanceolata/bChiLan1/assembly_curated/
+  orders: Passeriformes
   scientific: Chiroxiphia lanceolata
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -1164,9 +1210,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Choloepus_didactylus/mChoDid1/genomic_data/pacbio/
     asm: '#'
+  orders: Folivora
   scientific: Choloepus didactylus
   score: 0.8
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -1189,9 +1236,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ciconia_maguari/bCicMag1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ciconia_maguari/bCicMag1/assembly_curated/
+  orders: Ciconiiformes
   scientific: Ciconia maguari
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -1214,9 +1262,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Corvus_hawaiiensis/bCorHaw1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Corvus_hawaiiensis/bCorHaw1/assembly_curated/
+  orders: Passeriformes
   scientific: Corvus hawaiiensis
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -1239,9 +1288,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Corvus_moneduloides/bCorMon1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Corvus_moneduloides/bCorMon1/assembly_curated/
+  orders: Passeriformes
   scientific: Corvus moneduloides
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -1264,6 +1314,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cottoperca_gobio/fCotGob3/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cottoperca_gobio/fCotGob3/assembly_curated/
+  orders: Perciformes
   scientific: Cottoperca gobio
   score: 1.0
   source: others
@@ -1289,9 +1340,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cuculus_canorus/bCucCan1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cuculus_canorus/bCucCan1/assembly_curated/
+  orders: Cuculiformes
   scientific: Cuculus canorus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -1314,9 +1366,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclopterus_lumpus/fCycLum1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cyclopterus_lumpus/fCycLum1/assembly_curated/
+  orders: Scorpaeniformes
   scientific: Cyclopterus lumpus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -1339,9 +1392,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cygnus_olor/bCygOlo1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Cygnus_olor/bCygOlo1/assembly_curated/
+  orders: Anseriformes
   scientific: Cygnus olor
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -1364,6 +1418,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDreSAT1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDreSAT1/assembly_curated/
+  orders: Cypriniformes
   scientific: Danio rerio
   score: 1.0
   source: others
@@ -1389,9 +1444,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Cingulata
   scientific: Dasypus novemcinctus
   score: 0.5
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -1414,9 +1470,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendrocygna_viduata/bDenVid1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendrocygna_viduata/bDenVid1/assembly_vgp_standard_1.5/
+  orders: Anseriformes
   scientific: Dendrocygna viduata
   score: 0.875
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -1439,9 +1496,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendropsophus_ebraccatus/aDenEbr1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendropsophus_ebraccatus/aDenEbr1/assembly_nhgri_trio_1.6/
+  orders: Anura
   scientific: Dendropsophus ebraccatus
   score: 0.9583333333333334
-  source: true
+  source: vgl
   tags: trio
   techs:
     10X: 1
@@ -1464,9 +1522,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Denticeps_clupeoides/fDenClu1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Denticeps_clupeoides/fDenClu1/assembly_curated/
+  orders: Clupeiformes
   scientific: Denticeps clupeoides
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -1489,9 +1548,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dermochelys_coriacea/rDerCor1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dermochelys_coriacea/rDerCor1/assembly_curated/
+  orders: Testudines
   scientific: Dermochelys coriacea
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -1514,9 +1574,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Diceros_bicornis/mDicBic1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Diceros_bicornis/mDicBic1/assembly_curated/
+  orders: Perissodactyla
   scientific: Diceros bicornis
   score: 1.0
-  source: true
+  source: vgl
   tags: trio
   techs:
     10X: 4
@@ -1539,6 +1600,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Discoglossus_pictus/aDisPic1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Discoglossus_pictus/aDisPic1/assembly_vgp_standard_1.6/
+  orders: Anura
   scientific: Discoglossus pictus
   score: 0.9
   source: others
@@ -1564,6 +1626,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dromiciops_gliroides/mDroGli1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dromiciops_gliroides/mDroGli1/assembly_curated/
+  orders: Microbiotheria
   scientific: Dromiciops gliroides
   score: 1.0
   source: others
@@ -1589,6 +1652,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dryobates_pubescens/bDryPub1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dryobates_pubescens/bDryPub1/assembly_curated/
+  orders: Piciformes
   scientific: Dryobates pubescens
   score: 1.0
   source: others
@@ -1614,6 +1678,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Echeneis_naucrates/fEcheNa1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Echeneis_naucrates/fEcheNa1/assembly_curated/
+  orders: Carangiformes
   scientific: Echeneis naucrates
   score: 1.0
   source: others
@@ -1639,6 +1704,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Electrophorus_electricus/fEleEle1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Electrophorus_electricus/fEleEle1/assembly_curated/
+  orders: Gymnotiformes
   scientific: Electrophorus electricus
   score: 1.0
   source: others
@@ -1664,9 +1730,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Testudines
   scientific: Emys orbicularis
   score: 0.625
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -1689,9 +1756,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erethizon_dorsatum/mEreDor1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erethizon_dorsatum/mEreDor1/assembly_vgp_standard_1.7/
+  orders: Rodentia
   scientific: Erethizon dorsatum
   score: 0.9583333333333334
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -1714,6 +1782,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erithacus_rubecula/bEriRub2/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erithacus_rubecula/bEriRub2/assembly_curated/
+  orders: Passeriformes
   scientific: Erithacus rubecula
   score: 1.0
   source: others
@@ -1739,9 +1808,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erpetoichthys_calabaricus/fErpCal1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erpetoichthys_calabaricus/fErpCal1/assembly_curated/
+  orders: Polypteriformes
   scientific: Erpetoichthys calabaricus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -1764,9 +1834,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Artiodactyla
   scientific: Eschrichtius robustus
   score: 0.625
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -1789,6 +1860,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Esox_lucius/fEsoLuc1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Esox_lucius/fEsoLuc1/assembly_curated/
+  orders: Esociformes
   scientific: Esox lucius
   score: 1.0
   source: others
@@ -1814,9 +1886,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Artiodactyla
   scientific: Eubalaena glacialis
   score: 0.625
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -1839,9 +1912,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Squamata
   scientific: Euleptes europaea
   score: 0.25
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -1864,9 +1938,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_biarmicus/bFalBia1/genomic_data/pacbio/
     asm: '#'
+  orders: Falconiformes
   scientific: Falco biarmicus
   score: 0.8125
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -1889,9 +1964,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_cherrug/bFalChe1/genomic_data/pacbio/
     asm: '#'
+  orders: Falconiformes
   scientific: Falco cherrug
   score: 0.8125
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -1914,9 +1990,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_naumanni/bFalNau1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_naumanni/bFalNau1/assembly_curated/
+  orders: Falconiformes
   scientific: Falco naumanni
   score: 1.0
-  source: true
+  source: vgl
   tags: trio
   techs:
     10X: 1
@@ -1939,9 +2016,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_peregrinus/bFalPer1/genomic_data/pacbio/
     asm: '#'
+  orders: Falconiformes
   scientific: Falco peregrinus
   score: 0.8125
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -1964,9 +2042,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_rusticolus/bFalRus1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_rusticolus/bFalRus1/assembly_curated/
+  orders: Falconiformes
   scientific: Falco rusticolus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -1989,9 +2068,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Cyprinodontiformes
   scientific: Fundulus diaphanus
   score: 0.5
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -2014,6 +2094,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gadus_morhua/fGadMor1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gadus_morhua/fGadMor1/assembly_curated/
+  orders: Gadiformes
   scientific: Gadus morhua
   score: 1.0
   source: others
@@ -2039,9 +2120,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal1/assembly_rockefeller_trio_1.6/
+  orders: Galliformes
   scientific: Gallus gallus
   score: 0.9
-  source: true
+  source: vgl
   tags: trio
   techs:
     10X: 1
@@ -2064,9 +2146,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal4/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal4/vgp_assembly_2.0/
+  orders: Galliformes
   scientific: Gallus gallus
   score: 0.95
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -2089,9 +2172,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal5/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal5/assembly_curated/
+  orders: Galliformes
   scientific: Gallus gallus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -2114,9 +2198,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Geothlypis_trichas/bGeoTri1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Geothlypis_trichas/bGeoTri1/assembly_curated/
+  orders: Passeriformes
   scientific: Geothlypis trichas
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -2139,6 +2224,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Geotrypetes_seraphini/aGeoSer1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Geotrypetes_seraphini/aGeoSer1/assembly_curated/
+  orders: Gymnophiona
   scientific: Geotrypetes seraphini
   score: 1.0
   source: others
@@ -2164,9 +2250,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_evgoodei/rGopEvg1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_evgoodei/rGopEvg1/assembly_curated/
+  orders: Testudines
   scientific: Gopherus evgoodei
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -2189,9 +2276,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_flavomarginatus/rGopFla2/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_flavomarginatus/rGopFla2/assembly_nhgri_trio_1.6/
+  orders: Testudines
   scientific: Gopherus flavomarginatus
   score: 0.95
-  source: true
+  source: vgl
   tags: trio
   techs:
     10X: 1
@@ -2214,6 +2302,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gouania_willdenowi/fGouWil2/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gouania_willdenowi/fGouWil2/assembly_curated/
+  orders: Blenniiformes
   scientific: Gouania willdenowi
   score: 1.0
   source: others
@@ -2239,9 +2328,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Grus_americana/bGruAme1/genomic_data/pacbio/
     asm: '#'
+  orders: Gruiformes
   scientific: Grus americana
   score: 0.85
-  source: true
+  source: vgl
   tags: trio
   techs:
     10X: 1
@@ -2264,9 +2354,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gypaetus_barbatus/bGypBar2/genomic_data/pacbio/
     asm: '#'
+  orders: Falconiformes
   scientific: Gypaetus barbatus
   score: 0.625
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -2289,9 +2380,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Haemorhous_mexicanus/bHaeMex1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Haemorhous_mexicanus/bHaeMex1/assembly_vgp_standard_2.0/
+  orders: Passeriformes
   scientific: Haemorhous mexicanus
   score: 0.875
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -2314,9 +2406,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Harpia_harpyja/bHarHar1/genomic_data/pacbio/
     asm: '#'
+  orders: Falconiformes
   scientific: Harpia harpyja
   score: 0.8125
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -2339,9 +2432,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiprocne_comata/bHemCom1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiprocne_comata/bHemCom1/assembly_vgp_standard_1.7/
+  orders: Apodiformes
   scientific: Hemiprocne comata
   score: 0.95
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -2364,9 +2458,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiscyllium_ocellatum/sHemOce1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiscyllium_ocellatum/sHemOce1/assembly_curated/
+  orders: Orectolobiformes
   scientific: Hemiscyllium ocellatum
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -2389,6 +2484,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Heterohyrax_brucei/mHetBru1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Heterohyrax_brucei/mHetBru1/assembly_vgp_standard_2.1/
+  orders: Hyracoidea
   scientific: Heterohyrax brucei
   score: 0.8333333333333334
   source: others
@@ -2414,9 +2510,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hippoglossus_hippoglossus/fHipHip1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hippoglossus_hippoglossus/fHipHip1/assembly_curated/
+  orders: Pleuronectiformes
   scientific: Hippoglossus hippoglossus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -2439,9 +2536,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hirundo_rustica/bHirRus1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hirundo_rustica/bHirRus1/assembly_curated/
+  orders: Passeriformes
   scientific: Hirundo rustica
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -2464,9 +2562,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap3/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Homo_sapiens/mHomSap3/assembly_curated/
+  orders: Primates
   scientific: Homo sapiens
   score: 1.0
-  source: true
+  source: vgl
   tags: trio
   techs:
     10X: 1
@@ -2489,9 +2588,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Osmeriformes
   scientific: Hypomesus transpacificus
   score: 0.625
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -2514,6 +2614,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Jaculus_jaculus/mJacJac1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Jaculus_jaculus/mJacJac1/assembly_curated/
+  orders: Rodentia
   scientific: Jaculus jaculus
   score: 1.0
   source: others
@@ -2539,9 +2640,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Kogia_breviceps/mKogBre1/genomic_data/pacbio/
     asm: '#'
+  orders: Artiodactyla
   scientific: Kogia breviceps
   score: 0.8125
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -2564,9 +2666,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lacerta_agilis/rLacAgi1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lacerta_agilis/rLacAgi1/assembly_curated/
+  orders: Squamata
   scientific: Lacerta agilis
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -2589,9 +2692,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lemur_catta/mLemCat1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lemur_catta/mLemCat1/assembly_curated/
+  orders: Lemuriformes
   scientific: Lemur catta
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -2614,6 +2718,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lipophrys_pholis/fLipPho2/genomic_data/pacbio/
     asm: '#'
+  orders: Blenniiformes
   scientific: Lipophrys pholis
   score: 0.6
   source: others
@@ -2639,6 +2744,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lutra_lutra/mLutLut1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lutra_lutra/mLutLut1/assembly_curated/
+  orders: Carnivora
   scientific: Lutra lutra
   score: 1.0
   source: others
@@ -2664,9 +2770,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lynx_canadensis/mLynCan4/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lynx_canadensis/mLynCan4/assembly_curated/
+  orders: Carnivora
   scientific: Lynx canadensis
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -2689,9 +2796,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Diprotodontia
   scientific: Macropus eugenii
   score: 0.625
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -2714,6 +2822,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Malacosteus_niger/fMalNig1/genomic_data/pacbio/
     asm: '#'
+  orders: Stomiiformes
   scientific: Malacosteus niger
   score: 0.6
   source: others
@@ -2739,9 +2848,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Pholidota
   scientific: Manis pentadactyla
   score: 0.25
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -2764,9 +2874,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mastacembelus_armatus/fMasArm1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mastacembelus_armatus/fMasArm1/assembly_curated/
+  orders: Synbranchiformes
   scientific: Mastacembelus armatus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -2789,6 +2900,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Megalops_cyprinoides/fMegCyp1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Megalops_cyprinoides/fMegCyp1/assembly_curated/
+  orders: Elopiformes
   scientific: Megalops cyprinoides
   score: 1.0
   source: others
@@ -2814,6 +2926,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Melanotaenia_boesemani/fMelBoe1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Melanotaenia_boesemani/fMelBoe1/assembly_curated/
+  orders: Atheriniformes
   scientific: Melanotaenia boesemani
   score: 1.0
   source: others
@@ -2839,6 +2952,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Meles_meles/mMelMel3/genomic_data/pacbio/
     asm: '#'
+  orders: Carnivora
   scientific: Meles meles
   score: 0.8
   source: others
@@ -2864,9 +2978,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Melopsittacus_undulatus/bMelUnd1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Melopsittacus_undulatus/bMelUnd1/assembly_curated/
+  orders: Psittaciformes
   scientific: Melopsittacus undulatus
   score: 1.0
-  source: true
+  source: vgl
   tags: trio
   techs:
     10X: 1
@@ -2889,6 +3004,7 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Passeriformes
   scientific: Melospiza georgiana
   score: 0.25
   source: others
@@ -2914,9 +3030,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Merops_nubicus/bMerNub1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Merops_nubicus/bMerNub1/assembly_curated/
+  orders: Coraciiformes
   scientific: Merops nubicus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -2939,9 +3056,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Artiodactyla
   scientific: Mesoplodon densirostris
   score: 0.75
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -2964,6 +3082,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Microcaecilia_unicolor/aMicUni1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Microcaecilia_unicolor/aMicUni1/assembly_curated/
+  orders: Gymnophiona
   scientific: Microcaecilia unicolor
   score: 1.0
   source: others
@@ -2989,6 +3108,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Molossus_molossus/mMolMol1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Molossus_molossus/mMolMol1/assembly_dresden_DAmar1.0/
+  orders: Chiroptera
   scientific: Molossus molossus
   score: 0.9
   source: others
@@ -3014,9 +3134,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Didelphimorphia
   scientific: Monodelphis domestica
   score: 0.375
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -3039,9 +3160,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mustela_erminea/mMusErm1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Mustela_erminea/mMusErm1/assembly_curated/
+  orders: Carnivora
   scientific: Mustela erminea
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -3064,6 +3186,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myotis_myotis/mMyoMyo1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myotis_myotis/mMyoMyo1/assembly_dresden_DAmar1.0/
+  orders: Chiroptera
   scientific: Myotis myotis
   score: 0.9
   source: others
@@ -3089,6 +3212,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myripristis_murdjan/fMyrMur1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Myripristis_murdjan/fMyrMur1/assembly_curated/
+  orders: Holocentriformes
   scientific: Myripristis murdjan
   score: 1.0
   source: others
@@ -3114,9 +3238,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Siluriformes
   scientific: Neoarius graeffei
   score: 0.625
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -3139,9 +3264,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Carnivora
   scientific: Neofelis nebulosa
   score: 0.5
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -3164,9 +3290,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nomonyx_dominicus/bNomDom1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nomonyx_dominicus/bNomDom1/assembly_vgp_standard_1.5/
+  orders: Anseriformes
   scientific: Nomonyx dominicus
   score: 0.875
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -3189,9 +3316,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Notolabrus_celidotus/fNotCel1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Notolabrus_celidotus/fNotCel1/assembly_curated/
+  orders: Perciformes
   scientific: Notolabrus celidotus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -3214,9 +3342,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nyctibius_grandis/bNycGra1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Nyctibius_grandis/bNycGra1/assembly_curated/
+  orders: Caprimulgiformes
   scientific: Nyctibius grandis
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -3239,9 +3368,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Primates
   scientific: Nycticebus coucang
   score: 0.375
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -3264,9 +3394,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ornithorhynchus_anatinus/mOrnAna1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Ornithorhynchus_anatinus/mOrnAna1/assembly_curated/
+  orders: Monotremata
   scientific: Ornithorhynchus anatinus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -3289,9 +3420,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Osmeriformes
   scientific: Osmerus mordax
   score: 0.625
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -3314,6 +3446,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro1/assembly_vgp_standard_1.6/
+  orders: Primates
   scientific: Pan troglodytes
   score: 0.875
   source: others
@@ -3339,6 +3472,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pangasianodon_hypophthalmus/fPanHyp1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pangasianodon_hypophthalmus/fPanHyp1/assembly_vgp_standard_2.1/
+  orders: Siluriformes
   scientific: Pangasianodon hypophthalmus
   score: 0.875
   source: others
@@ -3364,9 +3498,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Parambassis_ranga/fParRan2/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Parambassis_ranga/fParRan2/assembly_curated/
+  orders: Ovalentaria
   scientific: Parambassis ranga
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -3389,9 +3524,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Passeriformes
   scientific: Passerculus sandwichensis
   score: 0.375
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -3414,6 +3550,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pelecanus_crispus/bPelCri1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pelecanus_crispus/bPelCri1/assembly_vgp_standard_2.1/
+  orders: Pelecaniformes
   scientific: Pelecanus crispus
   score: 0.8333333333333334
   source: others
@@ -3439,9 +3576,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Periophthalmus_magnuspinnatus/fPerMag1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Periophthalmus_magnuspinnatus/fPerMag1/assembly_curated/
+  orders: Gobiiformes
   scientific: Periophthalmus magnuspinnatus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -3464,6 +3602,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Petromyzon_marinus/kPetMar1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Petromyzon_marinus/kPetMar1/assembly_curated/
+  orders: Petromyzontiformes
   scientific: Petromyzon marinus
   score: 1.0
   source: others
@@ -3489,9 +3628,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phocoena_sinus/mPhoSin1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phocoena_sinus/mPhoSin1/assembly_curated/
+  orders: Artiodactyla
   scientific: Phocoena sinus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -3514,9 +3654,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phoenicopterus_ruber/bPhoRub1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phoenicopterus_ruber/bPhoRub1/assembly_curated/
+  orders: Phoenicopteriformes
   scientific: Phoenicopterus ruber
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -3539,6 +3680,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pholidichthys_leucotaenia/fPhoLeu1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pholidichthys_leucotaenia/fPhoLeu1/assembly_curated/
+  orders: Cichliformes
   scientific: Pholidichthys leucotaenia
   score: 1.0
   source: others
@@ -3564,6 +3706,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pholis_gunnellus/fPhoGun1/genomic_data/pacbio/
     asm: '#'
+  orders: Perciformes
   scientific: Pholis gunnellus
   score: 0.6
   source: others
@@ -3589,9 +3732,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phyllostomus_discolor/mPhyDis1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Phyllostomus_discolor/mPhyDis1/assembly_curated/
+  orders: Chiroptera
   scientific: Phyllostomus discolor
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -3614,6 +3758,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_kuhlii/mPipKuh1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_kuhlii/mPipKuh1/assembly_dresden_DAmar1.0/
+  orders: Chiroptera
   scientific: Pipistrellus kuhlii
   score: 0.9
   source: others
@@ -3639,6 +3784,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_pipistrellus/mPipPip1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_pipistrellus/mPipPip1/assembly_curated/
+  orders: Chiroptera
   scientific: Pipistrellus pipistrellus
   score: 1.0
   source: others
@@ -3664,9 +3810,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pluvialis_apricaria/bPluApr1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pluvialis_apricaria/bPluApr1/assembly_curated/
+  orders: Charadriiformes
   scientific: Pluvialis apricaria
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -3689,9 +3836,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Podarcis_raffonei/rPodRaf1/genomic_data/pacbio/
     asm: '#'
+  orders: Squamata
   scientific: Podarcis raffonei
   score: 0.8125
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -3714,9 +3862,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Caprimulgiformes
   scientific: Podargus strigoides
   score: 0.25
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -3739,9 +3888,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pogoniulus_pusillus/bPogPus1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pogoniulus_pusillus/bPogPus1/assembly_curated/
+  orders: Piciformes
   scientific: Pogoniulus pusillus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -3764,9 +3914,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Porphyrio_hochstetteri/bPorHoc1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Porphyrio_hochstetteri/bPorHoc1/assembly_curated/
+  orders: Gruiformes
   scientific: Porphyrio hochstetteri
   score: 1.0
-  source: true
+  source: vgl
   tags: trio
   techs:
     10X: 4
@@ -3789,9 +3940,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Potamotrygon_marinae/sPotMar1/genomic_data/pacbio/
     asm: '#'
+  orders: Myliobatiformes
   scientific: Potamotrygon marinae
   score: 0.85
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -3814,9 +3966,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pristis_pectinata/sPriPec2/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pristis_pectinata/sPriPec2/assembly_curated/
+  orders: Rhinopristiformes
   scientific: Pristis pectinata
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -3839,9 +3992,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Artiodactyla
   scientific: Pseudorca crassidens
   score: 0.375
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -3864,9 +4018,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pterocles_gutturalis/bPteGut1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pterocles_gutturalis/bPteGut1/assembly_curated/
+  orders: Pterocliformes
   scientific: Pterocles gutturalis
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -3889,6 +4044,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pygocentrus_nattereri/fPygNat1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pygocentrus_nattereri/fPygNat1/assembly_curated/
+  orders: Characiformes
   scientific: Pygocentrus nattereri
   score: 1.0
   source: others
@@ -3914,6 +4070,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rana_temporaria/aRanTem1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rana_temporaria/aRanTem1/assembly_curated/
+  orders: Anura
   scientific: Rana temporaria
   score: 1.0
   source: others
@@ -3939,6 +4096,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rattus_norvegicus/mRatNor1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rattus_norvegicus/mRatNor1/assembly_curated/
+  orders: Rodentia
   scientific: Rattus norvegicus
   score: 1.0
   source: others
@@ -3964,9 +4122,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Rheiformes
   scientific: Rhea pennata
   score: 0.25
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -3989,6 +4148,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinatrema_bivittatum/aRhiBiv1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinatrema_bivittatum/aRhiBiv1/assembly_curated/
+  orders: Apoda
   scientific: Rhinatrema bivittatum
   score: 1.0
   source: others
@@ -4014,9 +4174,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Squamata
   scientific: Rhineura floridana
   score: 0.25
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -4039,9 +4200,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_ferrumequinum/mRhiFer1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_ferrumequinum/mRhiFer1/assembly_curated/
+  orders: Chiroptera
   scientific: Rhinolophus ferrumequinum
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4064,9 +4226,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_sinicus/mRhiSin1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rhinolophus_sinicus/mRhiSin1/assembly_curated/
+  orders: Chiroptera
   scientific: Rhinolophus sinicus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -4089,9 +4252,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rousettus_aegyptiacus/mRouAeg1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Rousettus_aegyptiacus/mRouAeg1/assembly_dresden_DAmar1.0/
+  orders: Chiroptera
   scientific: Rousettus aegyptiacus
   score: 0.9
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4114,6 +4278,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salarias_fasciatus/fSalaFa1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salarias_fasciatus/fSalaFa1/assembly_curated/
+  orders: Blenniiformes
   scientific: Salarias fasciatus
   score: 1.0
   source: others
@@ -4139,9 +4304,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salmo_trutta/fSalTru1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Salmo_trutta/fSalTru1/assembly_curated/
+  orders: Salmoniformes
   scientific: Salmo trutta
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4164,6 +4330,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scatophagus_argus/fScaArg1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scatophagus_argus/fScaArg1/assembly_curated/
+  orders: ''
   scientific: Scatophagus argus
   score: 1.0
   source: others
@@ -4189,6 +4356,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sciurus_carolinensis/mSciCar1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sciurus_carolinensis/mSciCar1/assembly_curated/
+  orders: Rodentia
   scientific: Sciurus carolinensis
   score: 1.0
   source: others
@@ -4214,9 +4382,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sciurus_vulgaris/mSciVul1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sciurus_vulgaris/mSciVul1/assembly_curated/
+  orders: Rodentia
   scientific: Sciurus vulgaris
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4239,6 +4408,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scleropages_formosus/fSclFor1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scleropages_formosus/fSclFor1/assembly_curated/
+  orders: Osteoglossiformes
   scientific: Scleropages formosus
   score: 1.0
   source: others
@@ -4264,9 +4434,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scomber_japonicus/fScoJap1/genomic_data/pacbio/
     asm: '#'
+  orders: Scombriformes
   scientific: Scomber japonicus
   score: 0.5
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -4289,9 +4460,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scyliorhinus_canicula/sScyCan1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Scyliorhinus_canicula/sScyCan1/assembly_curated/
+  orders: Carcharhiniformes
   scientific: Scyliorhinus canicula
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4314,9 +4486,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sebastes_umbrosus/fSebUmb1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sebastes_umbrosus/fSebUmb1/assembly_curated/
+  orders: Perciformes
   scientific: Sebastes umbrosus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4339,9 +4512,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Eulipotyphla
   scientific: Sorex araneus
   score: 0.625
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -4364,6 +4538,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sparus_aurata/fSpaAur1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sparus_aurata/fSpaAur1/assembly_curated/
+  orders: Spariformes
   scientific: Sparus aurata
   score: 1.0
   source: others
@@ -4389,9 +4564,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spatula_cyanoptera/bSpaCya1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Spatula_cyanoptera/bSpaCya1/assembly_vgp_standard_1.5/
+  orders: Anseriformes
   scientific: Spatula cyanoptera
   score: 0.8333333333333334
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -4414,9 +4590,10 @@ toc:
     ONT: '#'
     PB: '#'
     asm: '#'
+  orders: Anura
   scientific: Spea bombifrons
   score: 0.25
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -4439,6 +4616,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sphaeramia_orbicularis/fSphaOr1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sphaeramia_orbicularis/fSphaOr1/assembly_curated/
+  orders: Kurtiformes
   scientific: Sphaeramia orbicularis
   score: 1.0
   source: others
@@ -4464,9 +4642,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sterna_hirundo/bSteHir1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sterna_hirundo/bSteHir1/assembly_curated/
+  orders: Charadriiformes
   scientific: Sterna hirundo
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4489,6 +4668,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Streptopelia_turtur/bStrTur1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Streptopelia_turtur/bStrTur1/assembly_curated/
+  orders: Columbiformes
   scientific: Streptopelia turtur
   score: 1.0
   source: others
@@ -4514,6 +4694,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Strigops_habroptilus/bStrHab1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Strigops_habroptilus/bStrHab1/assembly_curated/
+  orders: Psittaciformes
   scientific: Strigops habroptilus
   score: 1.0
   source: others
@@ -4539,9 +4720,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Suncus_etruscus/mSunEtr1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Suncus_etruscus/mSunEtr1/assembly_vgp_standard_1.7/
+  orders: Eulipotyphla
   scientific: Suncus etruscus
   score: 0.95
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4564,9 +4746,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_atricapilla/bSylAtr1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_atricapilla/bSylAtr1/assembly_curated/
+  orders: Passeriformes
   scientific: Sylvia atricapilla
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4589,9 +4772,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_borin/bSylBor1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sylvia_borin/bSylBor1/assembly_curated/
+  orders: Passeriformes
   scientific: Sylvia borin
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4614,6 +4798,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Syngnathus_acus/fSynAcu1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Syngnathus_acus/fSynAcu1/assembly_curated/
+  orders: Syngnathiformes
   scientific: Syngnathus acus
   score: 1.0
   source: others
@@ -4639,9 +4824,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tachyglossus_aculeatus/mTacAcu1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tachyglossus_aculeatus/mTacAcu1/assembly_curated/
+  orders: Monotremata
   scientific: Tachyglossus aculeatus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4664,9 +4850,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut1/assembly_curated/
+  orders: Passeriformes
   scientific: Taeniopygia guttata
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4689,9 +4876,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/genomic_data/hifi/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taeniopygia_guttata/bTaeGut2/assembly_curated/
+  orders: Passeriformes
   scientific: Taeniopygia guttata
   score: 1.0
-  source: true
+  source: vgl
   tags: trio
   techs:
     10X: 1
@@ -4714,9 +4902,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Takifugu_rubripes/fTakRub1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Takifugu_rubripes/fTakRub1/assembly_curated/
+  orders: Tetraodontiformes
   scientific: Takifugu rubripes
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4739,6 +4928,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tamandua_tetradactyla/mTamTet1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tamandua_tetradactyla/mTamTet1/assembly_vgp_standard_1.7/
+  orders: Pilosa
   scientific: Tamandua tetradactyla
   score: 0.9
   source: others
@@ -4764,9 +4954,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tauraco_erythrolophus/bTauEry1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tauraco_erythrolophus/bTauEry1/assembly_curated/
+  orders: Musophagiformes
   scientific: Tauraco erythrolophus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4789,6 +4980,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Taurulus_bubalis/fTauBub2/genomic_data/pacbio/
     asm: '#'
+  orders: Perciformes
   scientific: Taurulus bubalis
   score: 0.6
   source: others
@@ -4814,9 +5006,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tautogolabrus_adspersus/fTauAds1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tautogolabrus_adspersus/fTauAds1/assembly_vgp_standard_1.7/
+  orders: Perciformes
   scientific: Tautogolabrus adspersus
   score: 0.95
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4839,6 +5032,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thalassophryne_amazonica/fThaAma1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thalassophryne_amazonica/fThaAma1/assembly_curated/
+  orders: Batrachoidiformes
   scientific: Thalassophryne amazonica
   score: 1.0
   source: others
@@ -4864,9 +5058,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thamnophis_elegans/rThaEle1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thamnophis_elegans/rThaEle1/assembly_curated/
+  orders: Squamata
   scientific: Thamnophis elegans
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4889,9 +5084,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Theristicus_caerulescens/bTheCae1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Theristicus_caerulescens/bTheCae1/assembly_curated/
+  orders: Pelecaniformes
   scientific: Theristicus caerulescens
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -4914,6 +5110,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Thunnus_maccoyii/fThuMac1/genomic_data/pacbio/
     asm: '#'
+  orders: Scombriformes
   scientific: Thunnus maccoyii
   score: 0.6
   source: others
@@ -4939,6 +5136,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Toxotes_jaculatrix/fToxJac2/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Toxotes_jaculatrix/fToxJac2/assembly_curated/
+  orders: ''
   scientific: Toxotes jaculatrix
   score: 1.0
   source: others
@@ -4964,6 +5162,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trachurus_trachurus/fTraTra1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trachurus_trachurus/fTraTra1/assembly_curated/
+  orders: Carangiformes
   scientific: Trachurus trachurus
   score: 1.0
   source: others
@@ -4989,9 +5188,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trichosurus_vulpecula/mTriVul1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trichosurus_vulpecula/mTriVul1/assembly_curated/
+  orders: Diprotodontia
   scientific: Trichosurus vulpecula
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -5014,9 +5214,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trogon_surrucura/bTroSur1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trogon_surrucura/bTroSur1/assembly_curated/
+  orders: Trogoniformes
   scientific: Trogon surrucura
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -5039,9 +5240,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Turdus_merula/bTurMer1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Turdus_merula/bTurMer1/assembly_v0/
+  orders: Passeriformes
   scientific: Turdus merula
   score: 0.8333333333333334
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -5064,9 +5266,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tursiops_truncatus/mTurTru1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tursiops_truncatus/mTurTru1/assembly_curated/
+  orders: Artiodactyla
   scientific: Tursiops truncatus
   score: 1.0
-  source: true
+  source: vgl
   tags: trio
   techs:
     10X: 1
@@ -5089,9 +5292,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vidua_chalybeata/bVidCha1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vidua_chalybeata/bVidCha1/assembly_vgp_standard_1.5/
+  orders: Passeriformes
   scientific: Vidua chalybeata
   score: 0.875
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -5114,9 +5318,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vipera_latastei/rVipLat1/genomic_data/pacbio/
     asm: '#'
+  orders: Squamata
   scientific: Vipera latastei
   score: 0.9375
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 4
@@ -5139,6 +5344,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Xenentodon_cancila/fXenCan1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Xenentodon_cancila/fXenCan1/assembly_curated/
+  orders: Beloniformes
   scientific: Xenentodon cancila
   score: 1.0
   source: others
@@ -5164,9 +5370,10 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zalophus_californianus/mZalCal1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zalophus_californianus/mZalCal1/assembly_curated/
+  orders: Carnivora
   scientific: Zalophus californianus
   score: 1.0
-  source: true
+  source: vgl
   tags: ''
   techs:
     10X: 1
@@ -5189,6 +5396,7 @@ toc:
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Zeus_faber/fZeuFab1/genomic_data/pacbio/
     asm: '#'
+  orders: Zeiformes
   scientific: Zeus faber
   score: 0.4
   source: others
