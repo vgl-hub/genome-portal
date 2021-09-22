@@ -43,11 +43,11 @@
            {% endif %}
            <td><i>{{ entry.scientific }}</i></td>
           <td>{{ entry.common }}</td/>
-          <td style="text-align: center;"><img src="assets\img\{{ entry.PB }}.png" width="15" height="15"/></td>
-          <td style="text-align: center;"><img src="assets\img\{{ entry.BN }}.png" width="15" height="15"/></td>
-          <td style="text-align: center;"><img src="assets\img\{{ entry.HiC }}.png" width="15" height="15"/></td>
-          <td style="text-align: center;"><img src="assets\img\{{ entry.10X }}.png" width="15" height="15"/></td>
-          <td style="text-align: center;"><img src="assets\img\{{ entry.Ilm }}.png" width="15" height="15"/></td>
+          <td style="text-align: center;"><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/></td>
+          <td style="text-align: center;"><img src="assets\img\{{ entry.techs.BN }}.png" width="15" height="15"/></td>
+          <td style="text-align: center;"><img src="assets\img\{{ entry.techs.HiC }}.png" width="15" height="15"/></td>
+          <td style="text-align: center;"><img src="assets\img\{{ entry.techs.10X }}.png" width="15" height="15"/></td>
+          <td style="text-align: center;"><img src="assets\img\{{ entry.techs.Ilm }}.png" width="15" height="15"/></td>
           <td style="text-align: center;"><img src="assets\img\{{ entry.asm }}.png" height="15"/></td>
            <td style="display: none">{{ entry.asm }}</td>
         </tr>
@@ -55,7 +55,7 @@
     </tbody>
   <tfoot>
     <tr>
-            <th style="display: none">Score</th>
+            td><i>{{ entry.scientific }}</i></td>
             <th style="display: none">Class</th>                                                                        
             <th>Id</th>
             <th>Scientific Name</th>
@@ -70,6 +70,7 @@
     </tr>
   </tfoot>
 </table>
+ <small><i>Last updated: {{ site.data.project_stats_vgl.info }}</i></small>
 </font>
 </div>
 
