@@ -16,6 +16,7 @@
 <table id="example" class="table table-striped table-sm table-responsive" style="width:100%" data-sort-name="Score" data-sort-order="desc">
   <thead>
            <tr>
+            <th class="th-sm" style="display: none" style="width: 5%">Source</th>
             <th class="th-sm" style="display: none" style="width: 5%">Score</th>
             <th class="th-sm" style="display: none" style="width: 5%">Taxonomy</th>
             <th class="th-sm" style="width: 5%;white-space: nowrap; text-overflow: ellipsis;overflow: hidden;">Id</th>
@@ -28,12 +29,14 @@
             <th style="text-align: center;width: 5%">Ilm</th>
             <th style="text-align: center;width: 5%">asm</th>
             <th class="th-sm" style="display: none" style="width: 5%">asm</th>
+            <th style="text-align: center;">VGP phase</th>
         </tr>
   </thead>
                                                 
      <tbody>
     {% for entry in site.data.project_stats_vgl.toc %}
         <tr>
+          <td style="display: none">{{ entry.source }}</td/>                                          
           <td style="display: none">{{ entry.score }}</td/>
           <td style="display: none">{{ entry.classes }},{{ family }},{{ order }}</td/>
           {% if entry.url == "#" %}
@@ -79,11 +82,13 @@
                     <td style="text-align: center;"><a href="{{ entry.links.asm }}" target="_blank"><img src="assets\img\{{ entry.asm }}.png" height="15"/></a></td>
            {% endif %}
           <td style="display: none">{{ entry.asm }}</td>
+          <td style="text-align: center;">{{ entry.VGPphase }}</td/>  
         </tr>
     {% endfor %}
     </tbody>
   <tfoot>
     <tr>
+             <th style="display: none">Source</th>
             <th style="display: none">Score</th>
             <th style="display: none">Taxonomy</th>
              <th>Id</th>
@@ -96,6 +101,7 @@
             <th style="text-align: center;width: 5%">Ilm</th>
             <th style="text-align: center;width: 5%">asm</th>
             <th style="display: none">asm</th> 
+            <th style="text-align: center;">VGP phase</th>
     </tr>
   </tfoot>
 </table>
