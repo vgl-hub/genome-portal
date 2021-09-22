@@ -1,4 +1,4 @@
-info: Sep 22 2021 16:55:53
+info: Sep 22 2021 17:06:45
 toc:
 - VGPId: bAcaChl1
   VGPphase: phase1
@@ -3837,7 +3837,7 @@ toc:
     PB: 1
 - VGPId: rPodRaf1
   VGPphase: phase3
-  asm: '0'
+  asm: ready
   classes: Reptilia,reptiles
   common: Aeolian wall lizard
   families: Lacertidae
