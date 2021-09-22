@@ -1,4 +1,4 @@
-info: Sep 22 2021 12:35:39
+info: Sep 22 2021 12:46:33
 toc:
 - VGPId: bAcaChl1
   asm: curated
@@ -1393,7 +1393,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: aDenEbr1
-  asm: draft
+  asm: curation
   classes: Amphibia,amphibians
   common: hourglass treefrog
   families: Hylidae
@@ -1404,9 +1404,9 @@ toc:
     Ilm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendropsophus_ebraccatus/aDenEbr1/genomic_data/illumina/
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendropsophus_ebraccatus/aDenEbr1/genomic_data/pacbio/
-    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendropsophus_ebraccatus/aDenEbr1/assembly_nhgri_trio_1.6/
+    asm: '#'
   scientific: Dendropsophus ebraccatus
-  score: 0.9166666666666666
+  score: 0.9583333333333334
   tags: vgl,trio
   techs:
     10X: 1
@@ -1633,7 +1633,7 @@ toc:
     PB: 2
   vgl: true
 - VGPId: mEreDor1
-  asm: draft
+  asm: curation
   classes: Mammalia,mammals
   common: North American porcupine
   families: Erethizontidae
@@ -1644,9 +1644,9 @@ toc:
     Ilm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erethizon_dorsatum/mEreDor1/genomic_data/illumina/
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erethizon_dorsatum/mEreDor1/genomic_data/pacbio/
-    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erethizon_dorsatum/mEreDor1/assembly_vgp_standard_1.7/
+    asm: '#'
   scientific: Erethizon dorsatum
-  score: 0.9166666666666666
+  score: 0.9583333333333334
   tags: vgl
   techs:
     10X: 1
@@ -1801,7 +1801,7 @@ toc:
     PB: 0
   vgl: true
 - VGPId: bFalBia1
-  asm: curation
+  asm: running
   classes: Aves,birds
   common: lanner falcon
   families: Falconidae
@@ -1814,7 +1814,7 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_biarmicus/bFalBia1/genomic_data/pacbio/
     asm: '#'
   scientific: Falco biarmicus
-  score: 0.9375
+  score: 0.8125
   tags: vgl
   techs:
     10X: 4
@@ -1825,7 +1825,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: bFalChe1
-  asm: curation
+  asm: running
   classes: Aves,birds
   common: Saker falcon
   families: Falconidae
@@ -1838,7 +1838,7 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_cherrug/bFalChe1/genomic_data/pacbio/
     asm: '#'
   scientific: Falco cherrug
-  score: 0.9375
+  score: 0.8125
   tags: vgl
   techs:
     10X: 4
@@ -1873,7 +1873,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: bFalPer1
-  asm: curation
+  asm: running
   classes: Aves,birds
   common: peregrine falcon
   families: Falconidae
@@ -1886,7 +1886,7 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_peregrinus/bFalPer1/genomic_data/pacbio/
     asm: '#'
   scientific: Falco peregrinus
-  score: 0.9375
+  score: 0.8125
   tags: vgl
   techs:
     10X: 4
@@ -1993,7 +1993,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: bGalGal4
-  asm: draft
+  asm: curation
   classes: Aves,birds
   common: chicken
   families: Phasianidae
@@ -2004,9 +2004,9 @@ toc:
     Ilm: '#'
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal4/genomic_data/pacbio/
-    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal4/vgp_assembly_2.0/
+    asm: '#'
   scientific: Gallus gallus
-  score: 0.9
+  score: 0.95
   tags: vgl
   techs:
     10X: 1
@@ -2113,7 +2113,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: rGopFla2
-  asm: draft
+  asm: curation
   classes: Reptilia,reptiles
   common: Mexican gopher tortoise
   families: Testudinidae
@@ -2124,9 +2124,9 @@ toc:
     Ilm: '#'
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_flavomarginatus/rGopFla2/genomic_data/pacbio/
-    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_flavomarginatus/rGopFla2/assembly_nhgri_trio_1.6/
+    asm: '#'
   scientific: Gopherus flavomarginatus
-  score: 0.9
+  score: 0.95
   tags: vgl,trio
   techs:
     10X: 1
@@ -2233,7 +2233,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: bHarHar1
-  asm: curation
+  asm: running
   classes: Aves,birds
   common: Harpy eagle
   families: Accipitridae
@@ -2246,7 +2246,7 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Harpia_harpyja/bHarHar1/genomic_data/pacbio/
     asm: '#'
   scientific: Harpia harpyja
-  score: 0.9375
+  score: 0.8125
   tags: vgl
   techs:
     10X: 4
@@ -2257,7 +2257,7 @@ toc:
     PB: 1
   vgl: true
 - VGPId: bHemCom1
-  asm: draft
+  asm: curation
   classes: Aves,birds
   common: whiskered treeswift
   families: Apodidae
@@ -2268,9 +2268,9 @@ toc:
     Ilm: '#'
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiprocne_comata/bHemCom1/genomic_data/pacbio/
-    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiprocne_comata/bHemCom1/assembly_vgp_standard_1.7/
+    asm: '#'
   scientific: Hemiprocne comata
-  score: 0.9
+  score: 0.95
   tags: vgl
   techs:
     10X: 1
@@ -4369,7 +4369,7 @@ toc:
     PB: 1
   vgl: false
 - VGPId: mSunEtr1
-  asm: draft
+  asm: curation
   classes: Mammalia,mammals
   common: white-toothed pygmy shrew
   families: Soricidae
@@ -4380,9 +4380,9 @@ toc:
     Ilm: '#'
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Suncus_etruscus/mSunEtr1/genomic_data/pacbio/
-    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Suncus_etruscus/mSunEtr1/assembly_vgp_standard_1.7/
+    asm: '#'
   scientific: Suncus etruscus
-  score: 0.9
+  score: 0.95
   tags: vgl
   techs:
     10X: 1
@@ -4633,7 +4633,7 @@ toc:
     PB: 1
   vgl: false
 - VGPId: fTauAds1
-  asm: draft
+  asm: curation
   classes: Actinopterygii,Bony fishes
   common: cunner
   families: Labridae
@@ -4644,9 +4644,9 @@ toc:
     Ilm: '#'
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tautogolabrus_adspersus/fTauAds1/genomic_data/pacbio/
-    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tautogolabrus_adspersus/fTauAds1/assembly_vgp_standard_1.7/
+    asm: '#'
   scientific: Tautogolabrus adspersus
-  score: 0.9
+  score: 0.95
   tags: vgl
   techs:
     10X: 1
