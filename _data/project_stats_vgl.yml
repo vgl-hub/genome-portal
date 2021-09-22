@@ -1,4 +1,4 @@
-info: Sep 22 2021 12:55:03
+info: Sep 22 2021 14:11:15
 toc:
 - VGPId: bAcaChl1
   asm: curated
@@ -542,12 +542,12 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Astatotilapia_calliptera/fAstCal1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Astatotilapia_calliptera/fAstCal1/assembly_curated/
   scientific: Astatotilapia calliptera
-  score: 0.8
+  score: 1.0
   tags: ''
   techs:
     10X: 1
     BN: 1
-    HiC: 0
+    HiC: 4
     Ilm: 4
     ONT: 4
     PB: 1
@@ -566,11 +566,11 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Asterias_rubens/eAstRub1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Asterias_rubens/eAstRub1/assembly_curated/
   scientific: Asterias rubens
-  score: 0.8
+  score: 1.0
   tags: ''
   techs:
     10X: 4
-    BN: 0
+    BN: 4
     HiC: 1
     Ilm: 1
     ONT: 4
@@ -854,11 +854,11 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus_orion/mCanLor1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Canis_lupus_orion/mCanLor1/assembly_curated/
   scientific: Canis lupus orion
-  score: 0.8
+  score: 1.0
   tags: ''
   techs:
     10X: 1
-    BN: 0
+    BN: 4
     HiC: 1
     Ilm: 4
     ONT: 4
@@ -912,30 +912,6 @@ toc:
     ONT: 4
     PB: 1
   vgl: true
-- VGPId: qCarRot1
-  asm: '0'
-  classes: ''
-  common: Southeast Asian horseshoe crab
-  families: Limulidae
-  links:
-    10X: '#'
-    BN: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Carcinoscorpius_rotundicauda/qCarRot1/genomic_data/bionano/
-    HiC: '#'
-    Ilm: '#'
-    ONT: '#'
-    PB: '#'
-    asm: '#'
-  scientific: Carcinoscorpius rotundicauda
-  score: 0.25
-  tags: ''
-  techs:
-    10X: 4
-    BN: 1
-    HiC: 0
-    Ilm: 4
-    ONT: 4
-    PB: 0
-  vgl: false
 - VGPId: bCarCri1
   asm: curated
   classes: Aves,birds
@@ -1334,12 +1310,12 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDreSAT1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Danio_rerio/fDreSAT1/assembly_curated/
   scientific: Danio rerio
-  score: 0.8
+  score: 1.0
   tags: ''
   techs:
     10X: 1
     BN: 1
-    HiC: 0
+    HiC: 4
     Ilm: 4
     ONT: 4
     PB: 1
@@ -1670,11 +1646,11 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erithacus_rubecula/bEriRub2/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erithacus_rubecula/bEriRub2/assembly_curated/
   scientific: Erithacus rubecula
-  score: 0.8
+  score: 1.0
   tags: ''
   techs:
     10X: 1
-    BN: 0
+    BN: 4
     HiC: 1
     Ilm: 4
     ONT: 4
@@ -2318,12 +2294,12 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Heterohyrax_brucei/mHetBru1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Heterohyrax_brucei/mHetBru1/assembly_vgp_standard_2.1/
   scientific: Heterohyrax brucei
-  score: 0.625
+  score: 0.8333333333333334
   tags: ''
   techs:
     10X: 4
     BN: 1
-    HiC: 0
+    HiC: 4
     Ilm: 4
     ONT: 4
     PB: 1
@@ -2558,12 +2534,12 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lutra_lutra/mLutLut1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lutra_lutra/mLutLut1/assembly_curated/
   scientific: Lutra lutra
-  score: 0.6
+  score: 1.0
   tags: ''
   techs:
     10X: 1
-    BN: 0
-    HiC: 0
+    BN: 4
+    HiC: 4
     Ilm: 4
     ONT: 4
     PB: 1
@@ -3206,12 +3182,12 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pan_troglodytes/mPanTro1/assembly_vgp_standard_1.6/
   scientific: Pan troglodytes
-  score: 0.7
+  score: 0.875
   tags: ''
   techs:
     10X: 1
     BN: 1
-    HiC: 0
+    HiC: 4
     Ilm: 4
     ONT: 4
     PB: 1
@@ -3302,12 +3278,12 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pelecanus_crispus/bPelCri1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pelecanus_crispus/bPelCri1/assembly_vgp_standard_2.1/
   scientific: Pelecanus crispus
-  score: 0.625
+  score: 0.8333333333333334
   tags: ''
   techs:
     10X: 4
     BN: 1
-    HiC: 0
+    HiC: 4
     Ilm: 4
     ONT: 4
     PB: 1
@@ -3518,11 +3494,11 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_pipistrellus/mPipPip1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Pipistrellus_pipistrellus/mPipPip1/assembly_curated/
   scientific: Pipistrellus pipistrellus
-  score: 0.8
+  score: 1.0
   tags: ''
   techs:
     10X: 1
-    BN: 0
+    BN: 4
     HiC: 1
     Ilm: 4
     ONT: 4
@@ -4046,11 +4022,11 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sciurus_carolinensis/mSciCar1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sciurus_carolinensis/mSciCar1/assembly_curated/
   scientific: Sciurus carolinensis
-  score: 0.8
+  score: 1.0
   tags: ''
   techs:
     10X: 1
-    BN: 0
+    BN: 4
     HiC: 1
     Ilm: 4
     ONT: 4
@@ -4214,11 +4190,11 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sparus_aurata/fSpaAur1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Sparus_aurata/fSpaAur1/assembly_curated/
   scientific: Sparus aurata
-  score: 0.8
+  score: 1.0
   tags: ''
   techs:
     10X: 1
-    BN: 0
+    BN: 4
     HiC: 1
     Ilm: 4
     ONT: 4
@@ -4454,11 +4430,11 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Syngnathus_acus/fSynAcu1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Syngnathus_acus/fSynAcu1/assembly_curated/
   scientific: Syngnathus acus
-  score: 0.8
+  score: 1.0
   tags: ''
   techs:
     10X: 1
-    BN: 0
+    BN: 4
     HiC: 1
     Ilm: 4
     ONT: 4
@@ -4790,11 +4766,11 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trachurus_trachurus/fTraTra1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Trachurus_trachurus/fTraTra1/assembly_curated/
   scientific: Trachurus trachurus
-  score: 0.8
+  score: 1.0
   tags: ''
   techs:
     10X: 1
-    BN: 0
+    BN: 4
     HiC: 1
     Ilm: 4
     ONT: 4
@@ -4910,11 +4886,11 @@ toc:
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vidua_chalybeata/bVidCha1/genomic_data/pacbio/
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Vidua_chalybeata/bVidCha1/assembly_vgp_standard_1.5/
   scientific: Vidua chalybeata
-  score: 0.7
+  score: 0.875
   tags: vgl
   techs:
     10X: 4
-    BN: 0
+    BN: 4
     HiC: 1
     Ilm: 1
     ONT: 4
