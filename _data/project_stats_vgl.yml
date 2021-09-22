@@ -1,4 +1,4 @@
-info: Sep 22 2021 15:55:37
+info: Sep 22 2021 16:53:31
 toc:
 - VGPId: bAcaChl1
   VGPphase: phase1
@@ -18,7 +18,7 @@ toc:
   scientific: Acanthisitta chloris
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -44,7 +44,8 @@ toc:
   scientific: Acipenser ruthenus
   score: 1.0
   source: others
-  tags: trio
+  tags:
+  - trio
   techs:
     10X: 1
     BN: 1
@@ -70,7 +71,7 @@ toc:
   scientific: Acridotheres tristis
   score: 0.625
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -96,7 +97,7 @@ toc:
   scientific: Alca torda
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -122,7 +123,7 @@ toc:
   scientific: Alligator mississippiensis
   score: 0.25
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -148,7 +149,7 @@ toc:
   scientific: Alosa sapidissima
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -174,7 +175,7 @@ toc:
   scientific: Amblyraja radiata
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -200,7 +201,7 @@ toc:
   scientific: Ammodramus caudacutus
   score: 0.375
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -226,7 +227,7 @@ toc:
   scientific: Ammodramus maritimus
   score: 0.25
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -252,7 +253,7 @@ toc:
   scientific: Ammospiza nelsoni
   score: 0.375
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -278,7 +279,7 @@ toc:
   scientific: Amphilophus labiatus
   score: 0.8
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 5
     BN: 1
@@ -304,7 +305,7 @@ toc:
   scientific: Anabas testudineus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -330,7 +331,7 @@ toc:
   scientific: Anableps anableps
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -356,7 +357,7 @@ toc:
   scientific: Anguilla anguilla
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -382,7 +383,7 @@ toc:
   scientific: Antennarius maculatus
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -408,7 +409,7 @@ toc:
   scientific: Aplochiton taeniatus
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -434,7 +435,7 @@ toc:
   scientific: Apus apus
   score: 0.9
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -460,7 +461,7 @@ toc:
   scientific: Aquila chrysaetos
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -486,7 +487,7 @@ toc:
   scientific: Ara ararauna
   score: 0.25
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -512,7 +513,7 @@ toc:
   scientific: Archocentrus centrarchus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -538,7 +539,8 @@ toc:
   scientific: Arvicanthis niloticus
   score: 1.0
   source: vgl
-  tags: trio
+  tags:
+  - trio
   techs:
     10X: 1
     BN: 1
@@ -564,7 +566,7 @@ toc:
   scientific: Arvicola amphibius
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -590,7 +592,7 @@ toc:
   scientific: Astatotilapia calliptera
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -616,7 +618,7 @@ toc:
   scientific: Asterias rubens
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 4
@@ -642,7 +644,7 @@ toc:
   scientific: Aythya fuligula
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -668,7 +670,7 @@ toc:
   scientific: Balaenoptera musculus
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -694,7 +696,7 @@ toc:
   scientific: Balearica regulorum
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -720,7 +722,7 @@ toc:
   scientific: Barbus barbus
   score: 0.25
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 0
@@ -746,7 +748,7 @@ toc:
   scientific: Bombina bombina
   score: 0.9
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -772,7 +774,7 @@ toc:
   scientific: Bos taurus
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -798,7 +800,7 @@ toc:
   scientific: Branta leucopsis
   score: 0.8333333333333334
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -824,7 +826,7 @@ toc:
   scientific: Bucorvus abyssinicus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -850,7 +852,7 @@ toc:
   scientific: Bufo bufo
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -876,7 +878,8 @@ toc:
   scientific: Callithrix jacchus
   score: 1.0
   source: vgl
-  tags: trio
+  tags:
+  - trio
   techs:
     10X: 1
     BN: 1
@@ -902,7 +905,7 @@ toc:
   scientific: Calypte anna
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -928,7 +931,7 @@ toc:
   scientific: Canis lupus orion
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 4
@@ -954,7 +957,7 @@ toc:
   scientific: Caprimulgus europaeus
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -980,7 +983,7 @@ toc:
   scientific: Carcharodon carcharias
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1006,7 +1009,7 @@ toc:
   scientific: Cariama cristata
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1032,7 +1035,7 @@ toc:
   scientific: Catharus ustulatus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1058,7 +1061,7 @@ toc:
   scientific: Cervus elaphus
   score: 0.6
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 0
@@ -1084,7 +1087,7 @@ toc:
   scientific: Chanos chanos
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1110,7 +1113,7 @@ toc:
   scientific: Chelmon rostratus
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1136,7 +1139,7 @@ toc:
   scientific: Chelonia mydas
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1162,7 +1165,7 @@ toc:
   scientific: Chionoecetes opilio
   score: 0.25
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 0
@@ -1188,7 +1191,7 @@ toc:
   scientific: Chiroxiphia lanceolata
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1214,7 +1217,7 @@ toc:
   scientific: Choloepus didactylus
   score: 0.8
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1240,7 +1243,7 @@ toc:
   scientific: Ciconia maguari
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1266,7 +1269,7 @@ toc:
   scientific: Corvus hawaiiensis
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -1292,7 +1295,7 @@ toc:
   scientific: Corvus moneduloides
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1318,7 +1321,7 @@ toc:
   scientific: Cottoperca gobio
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1344,7 +1347,7 @@ toc:
   scientific: Cuculus canorus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1370,7 +1373,7 @@ toc:
   scientific: Cyclopterus lumpus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1396,7 +1399,7 @@ toc:
   scientific: Cygnus olor
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1422,7 +1425,7 @@ toc:
   scientific: Danio rerio
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1448,7 +1451,7 @@ toc:
   scientific: Dasypus novemcinctus
   score: 0.5
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -1474,7 +1477,7 @@ toc:
   scientific: Dendrocygna viduata
   score: 0.875
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -1500,7 +1503,8 @@ toc:
   scientific: Dendropsophus ebraccatus
   score: 0.9583333333333334
   source: vgl
-  tags: trio
+  tags:
+  - trio
   techs:
     10X: 1
     BN: 1
@@ -1526,7 +1530,7 @@ toc:
   scientific: Denticeps clupeoides
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1552,7 +1556,7 @@ toc:
   scientific: Dermochelys coriacea
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1578,7 +1582,8 @@ toc:
   scientific: Diceros bicornis
   score: 1.0
   source: vgl
-  tags: trio
+  tags:
+  - trio
   techs:
     10X: 4
     BN: 1
@@ -1604,7 +1609,7 @@ toc:
   scientific: Discoglossus pictus
   score: 0.9
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1630,7 +1635,7 @@ toc:
   scientific: Dromiciops gliroides
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1656,7 +1661,7 @@ toc:
   scientific: Dryobates pubescens
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1682,7 +1687,7 @@ toc:
   scientific: Echeneis naucrates
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1708,7 +1713,7 @@ toc:
   scientific: Electrophorus electricus
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1734,7 +1739,7 @@ toc:
   scientific: Emys orbicularis
   score: 0.625
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -1760,7 +1765,7 @@ toc:
   scientific: Erethizon dorsatum
   score: 0.9583333333333334
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1786,7 +1791,7 @@ toc:
   scientific: Erithacus rubecula
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 4
@@ -1812,7 +1817,7 @@ toc:
   scientific: Erpetoichthys calabaricus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1838,7 +1843,7 @@ toc:
   scientific: Eschrichtius robustus
   score: 0.625
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -1864,7 +1869,7 @@ toc:
   scientific: Esox lucius
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -1890,7 +1895,7 @@ toc:
   scientific: Eubalaena glacialis
   score: 0.625
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -1916,7 +1921,7 @@ toc:
   scientific: Euleptes europaea
   score: 0.25
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -1942,7 +1947,7 @@ toc:
   scientific: Falco biarmicus
   score: 0.8125
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -1968,7 +1973,7 @@ toc:
   scientific: Falco cherrug
   score: 0.8125
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -1994,7 +1999,8 @@ toc:
   scientific: Falco naumanni
   score: 1.0
   source: vgl
-  tags: trio
+  tags:
+  - trio
   techs:
     10X: 1
     BN: 1
@@ -2020,7 +2026,7 @@ toc:
   scientific: Falco peregrinus
   score: 0.8125
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -2046,7 +2052,7 @@ toc:
   scientific: Falco rusticolus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2072,7 +2078,7 @@ toc:
   scientific: Fundulus diaphanus
   score: 0.5
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -2098,7 +2104,7 @@ toc:
   scientific: Gadus morhua
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2124,7 +2130,8 @@ toc:
   scientific: Gallus gallus
   score: 0.9
   source: vgl
-  tags: trio
+  tags:
+  - trio
   techs:
     10X: 1
     BN: 1
@@ -2150,7 +2157,7 @@ toc:
   scientific: Gallus gallus
   score: 0.95
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2176,7 +2183,7 @@ toc:
   scientific: Gallus gallus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2202,7 +2209,7 @@ toc:
   scientific: Geothlypis trichas
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2228,7 +2235,7 @@ toc:
   scientific: Geotrypetes seraphini
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2254,7 +2261,7 @@ toc:
   scientific: Gopherus evgoodei
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2280,7 +2287,8 @@ toc:
   scientific: Gopherus flavomarginatus
   score: 0.95
   source: vgl
-  tags: trio
+  tags:
+  - trio
   techs:
     10X: 1
     BN: 1
@@ -2306,7 +2314,7 @@ toc:
   scientific: Gouania willdenowi
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2332,7 +2340,8 @@ toc:
   scientific: Grus americana
   score: 0.85
   source: vgl
-  tags: trio
+  tags:
+  - trio
   techs:
     10X: 1
     BN: 1
@@ -2358,7 +2367,7 @@ toc:
   scientific: Gypaetus barbatus
   score: 0.625
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -2384,7 +2393,7 @@ toc:
   scientific: Haemorhous mexicanus
   score: 0.875
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -2410,7 +2419,7 @@ toc:
   scientific: Harpia harpyja
   score: 0.8125
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -2436,7 +2445,7 @@ toc:
   scientific: Hemiprocne comata
   score: 0.95
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2462,7 +2471,7 @@ toc:
   scientific: Hemiscyllium ocellatum
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2488,7 +2497,7 @@ toc:
   scientific: Heterohyrax brucei
   score: 0.8333333333333334
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -2514,7 +2523,7 @@ toc:
   scientific: Hippoglossus hippoglossus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2540,7 +2549,7 @@ toc:
   scientific: Hirundo rustica
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2566,7 +2575,8 @@ toc:
   scientific: Homo sapiens
   score: 1.0
   source: vgl
-  tags: trio
+  tags:
+  - trio
   techs:
     10X: 1
     BN: 1
@@ -2592,7 +2602,7 @@ toc:
   scientific: Hypomesus transpacificus
   score: 0.625
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -2618,7 +2628,8 @@ toc:
   scientific: Jaculus jaculus
   score: 1.0
   source: others
-  tags: trio
+  tags:
+  - trio
   techs:
     10X: 1
     BN: 1
@@ -2644,7 +2655,7 @@ toc:
   scientific: Kogia breviceps
   score: 0.8125
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -2670,7 +2681,7 @@ toc:
   scientific: Lacerta agilis
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2696,7 +2707,7 @@ toc:
   scientific: Lemur catta
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2722,7 +2733,7 @@ toc:
   scientific: Lipophrys pholis
   score: 0.6
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 0
@@ -2748,7 +2759,7 @@ toc:
   scientific: Lutra lutra
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 4
@@ -2774,7 +2785,7 @@ toc:
   scientific: Lynx canadensis
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2800,7 +2811,7 @@ toc:
   scientific: Macropus eugenii
   score: 0.625
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -2826,7 +2837,7 @@ toc:
   scientific: Malacosteus niger
   score: 0.6
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 0
@@ -2852,7 +2863,7 @@ toc:
   scientific: Manis pentadactyla
   score: 0.25
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -2878,7 +2889,7 @@ toc:
   scientific: Mastacembelus armatus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2904,7 +2915,7 @@ toc:
   scientific: Megalops cyprinoides
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2930,7 +2941,7 @@ toc:
   scientific: Melanotaenia boesemani
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -2956,7 +2967,8 @@ toc:
   scientific: Meles meles
   score: 0.8
   source: others
-  tags: trio
+  tags:
+  - trio
   techs:
     10X: 1
     BN: 1
@@ -2982,7 +2994,8 @@ toc:
   scientific: Melopsittacus undulatus
   score: 1.0
   source: vgl
-  tags: trio
+  tags:
+  - trio
   techs:
     10X: 1
     BN: 1
@@ -3008,7 +3021,7 @@ toc:
   scientific: Melospiza georgiana
   score: 0.25
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -3034,7 +3047,7 @@ toc:
   scientific: Merops nubicus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3060,7 +3073,7 @@ toc:
   scientific: Mesoplodon densirostris
   score: 0.75
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -3086,7 +3099,7 @@ toc:
   scientific: Microcaecilia unicolor
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3112,7 +3125,7 @@ toc:
   scientific: Molossus molossus
   score: 0.9
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3138,7 +3151,7 @@ toc:
   scientific: Monodelphis domestica
   score: 0.375
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -3164,7 +3177,7 @@ toc:
   scientific: Mustela erminea
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3190,7 +3203,7 @@ toc:
   scientific: Myotis myotis
   score: 0.9
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3216,7 +3229,7 @@ toc:
   scientific: Myripristis murdjan
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3242,7 +3255,7 @@ toc:
   scientific: Neoarius graeffei
   score: 0.625
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -3268,7 +3281,7 @@ toc:
   scientific: Neofelis nebulosa
   score: 0.5
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -3294,7 +3307,7 @@ toc:
   scientific: Nomonyx dominicus
   score: 0.875
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -3320,7 +3333,7 @@ toc:
   scientific: Notolabrus celidotus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3346,7 +3359,7 @@ toc:
   scientific: Nyctibius grandis
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3372,7 +3385,7 @@ toc:
   scientific: Nycticebus coucang
   score: 0.375
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -3398,7 +3411,7 @@ toc:
   scientific: Ornithorhynchus anatinus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3424,7 +3437,7 @@ toc:
   scientific: Osmerus mordax
   score: 0.625
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -3450,7 +3463,7 @@ toc:
   scientific: Pan troglodytes
   score: 0.875
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3476,7 +3489,7 @@ toc:
   scientific: Pangasianodon hypophthalmus
   score: 0.875
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -3502,7 +3515,7 @@ toc:
   scientific: Parambassis ranga
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3528,7 +3541,7 @@ toc:
   scientific: Passerculus sandwichensis
   score: 0.375
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -3554,7 +3567,7 @@ toc:
   scientific: Pelecanus crispus
   score: 0.8333333333333334
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -3580,7 +3593,7 @@ toc:
   scientific: Periophthalmus magnuspinnatus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3606,7 +3619,7 @@ toc:
   scientific: Petromyzon marinus
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3632,7 +3645,7 @@ toc:
   scientific: Phocoena sinus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3658,7 +3671,7 @@ toc:
   scientific: Phoenicopterus ruber
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3684,7 +3697,7 @@ toc:
   scientific: Pholidichthys leucotaenia
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3710,7 +3723,7 @@ toc:
   scientific: Pholis gunnellus
   score: 0.6
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 0
@@ -3736,7 +3749,7 @@ toc:
   scientific: Phyllostomus discolor
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3762,7 +3775,7 @@ toc:
   scientific: Pipistrellus kuhlii
   score: 0.9
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3788,7 +3801,7 @@ toc:
   scientific: Pipistrellus pipistrellus
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 4
@@ -3814,7 +3827,7 @@ toc:
   scientific: Pluvialis apricaria
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3840,7 +3853,7 @@ toc:
   scientific: Podarcis raffonei
   score: 0.8125
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -3866,7 +3879,7 @@ toc:
   scientific: Podargus strigoides
   score: 0.25
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -3892,7 +3905,7 @@ toc:
   scientific: Pogoniulus pusillus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3918,7 +3931,8 @@ toc:
   scientific: Porphyrio hochstetteri
   score: 1.0
   source: vgl
-  tags: trio
+  tags:
+  - trio
   techs:
     10X: 4
     BN: 1
@@ -3944,7 +3958,7 @@ toc:
   scientific: Potamotrygon marinae
   score: 0.85
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -3970,7 +3984,7 @@ toc:
   scientific: Pristis pectinata
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -3996,7 +4010,7 @@ toc:
   scientific: Pseudorca crassidens
   score: 0.375
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -4022,7 +4036,7 @@ toc:
   scientific: Pterocles gutturalis
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4048,7 +4062,7 @@ toc:
   scientific: Pygocentrus nattereri
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4074,7 +4088,7 @@ toc:
   scientific: Rana temporaria
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4100,7 +4114,7 @@ toc:
   scientific: Rattus norvegicus
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4126,7 +4140,7 @@ toc:
   scientific: Rhea pennata
   score: 0.25
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -4152,7 +4166,7 @@ toc:
   scientific: Rhinatrema bivittatum
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4178,7 +4192,7 @@ toc:
   scientific: Rhineura floridana
   score: 0.25
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -4204,7 +4218,7 @@ toc:
   scientific: Rhinolophus ferrumequinum
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4230,7 +4244,7 @@ toc:
   scientific: Rhinolophus sinicus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -4256,7 +4270,7 @@ toc:
   scientific: Rousettus aegyptiacus
   score: 0.9
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4282,7 +4296,7 @@ toc:
   scientific: Salarias fasciatus
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4308,7 +4322,7 @@ toc:
   scientific: Salmo trutta
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4334,7 +4348,7 @@ toc:
   scientific: Scatophagus argus
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4360,7 +4374,7 @@ toc:
   scientific: Sciurus carolinensis
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 4
@@ -4386,7 +4400,7 @@ toc:
   scientific: Sciurus vulgaris
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4412,7 +4426,7 @@ toc:
   scientific: Scleropages formosus
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4438,7 +4452,7 @@ toc:
   scientific: Scomber japonicus
   score: 0.5
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 0
@@ -4464,7 +4478,7 @@ toc:
   scientific: Scyliorhinus canicula
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4490,7 +4504,7 @@ toc:
   scientific: Sebastes umbrosus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4516,7 +4530,7 @@ toc:
   scientific: Sorex araneus
   score: 0.625
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -4542,7 +4556,7 @@ toc:
   scientific: Sparus aurata
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 4
@@ -4568,7 +4582,7 @@ toc:
   scientific: Spatula cyanoptera
   score: 0.8333333333333334
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -4594,7 +4608,7 @@ toc:
   scientific: Spea bombifrons
   score: 0.25
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -4620,7 +4634,7 @@ toc:
   scientific: Sphaeramia orbicularis
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4646,7 +4660,7 @@ toc:
   scientific: Sterna hirundo
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4672,7 +4686,7 @@ toc:
   scientific: Streptopelia turtur
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4698,7 +4712,7 @@ toc:
   scientific: Strigops habroptilus
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4724,7 +4738,7 @@ toc:
   scientific: Suncus etruscus
   score: 0.95
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4750,7 +4764,7 @@ toc:
   scientific: Sylvia atricapilla
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4776,7 +4790,7 @@ toc:
   scientific: Sylvia borin
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4802,7 +4816,7 @@ toc:
   scientific: Syngnathus acus
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 4
@@ -4828,7 +4842,7 @@ toc:
   scientific: Tachyglossus aculeatus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4854,7 +4868,7 @@ toc:
   scientific: Taeniopygia guttata
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4880,7 +4894,8 @@ toc:
   scientific: Taeniopygia guttata
   score: 1.0
   source: vgl
-  tags: trio
+  tags:
+  - trio
   techs:
     10X: 1
     BN: 1
@@ -4906,7 +4921,7 @@ toc:
   scientific: Takifugu rubripes
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4932,7 +4947,7 @@ toc:
   scientific: Tamandua tetradactyla
   score: 0.9
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4958,7 +4973,7 @@ toc:
   scientific: Tauraco erythrolophus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -4984,7 +4999,7 @@ toc:
   scientific: Taurulus bubalis
   score: 0.6
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 0
@@ -5010,7 +5025,7 @@ toc:
   scientific: Tautogolabrus adspersus
   score: 0.95
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -5036,7 +5051,7 @@ toc:
   scientific: Thalassophryne amazonica
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -5062,7 +5077,7 @@ toc:
   scientific: Thamnophis elegans
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -5088,7 +5103,7 @@ toc:
   scientific: Theristicus caerulescens
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -5114,7 +5129,7 @@ toc:
   scientific: Thunnus maccoyii
   score: 0.6
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 0
@@ -5140,7 +5155,7 @@ toc:
   scientific: Toxotes jaculatrix
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -5166,7 +5181,7 @@ toc:
   scientific: Trachurus trachurus
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 4
@@ -5192,7 +5207,7 @@ toc:
   scientific: Trichosurus vulpecula
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -5218,7 +5233,7 @@ toc:
   scientific: Trogon surrucura
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -5244,7 +5259,7 @@ toc:
   scientific: Turdus merula
   score: 0.8333333333333334
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -5270,7 +5285,8 @@ toc:
   scientific: Tursiops truncatus
   score: 1.0
   source: vgl
-  tags: trio
+  tags:
+  - trio
   techs:
     10X: 1
     BN: 1
@@ -5296,7 +5312,7 @@ toc:
   scientific: Vidua chalybeata
   score: 0.875
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 4
@@ -5322,7 +5338,7 @@ toc:
   scientific: Vipera latastei
   score: 0.9375
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 4
     BN: 1
@@ -5348,7 +5364,7 @@ toc:
   scientific: Xenentodon cancila
   score: 1.0
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -5374,7 +5390,7 @@ toc:
   scientific: Zalophus californianus
   score: 1.0
   source: vgl
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 1
@@ -5400,7 +5416,7 @@ toc:
   scientific: Zeus faber
   score: 0.4
   source: others
-  tags: ''
+  tags: []
   techs:
     10X: 1
     BN: 0
