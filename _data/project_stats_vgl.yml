@@ -1,4 +1,4 @@
-info: Sep 22 2021 12:46:33
+info: Sep 22 2021 12:55:03
 toc:
 - VGPId: bAcaChl1
   asm: curated
@@ -1404,7 +1404,7 @@ toc:
     Ilm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendropsophus_ebraccatus/aDenEbr1/genomic_data/illumina/
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendropsophus_ebraccatus/aDenEbr1/genomic_data/pacbio/
-    asm: '#'
+    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Dendropsophus_ebraccatus/aDenEbr1/assembly_nhgri_trio_1.6/
   scientific: Dendropsophus ebraccatus
   score: 0.9583333333333334
   tags: vgl,trio
@@ -1644,7 +1644,7 @@ toc:
     Ilm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erethizon_dorsatum/mEreDor1/genomic_data/illumina/
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erethizon_dorsatum/mEreDor1/genomic_data/pacbio/
-    asm: '#'
+    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Erethizon_dorsatum/mEreDor1/assembly_vgp_standard_1.7/
   scientific: Erethizon dorsatum
   score: 0.9583333333333334
   tags: vgl
@@ -2004,7 +2004,7 @@ toc:
     Ilm: '#'
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal4/genomic_data/pacbio/
-    asm: '#'
+    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gallus_gallus/bGalGal4/vgp_assembly_2.0/
   scientific: Gallus gallus
   score: 0.95
   tags: vgl
@@ -2124,7 +2124,7 @@ toc:
     Ilm: '#'
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_flavomarginatus/rGopFla2/genomic_data/pacbio/
-    asm: '#'
+    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gopherus_flavomarginatus/rGopFla2/assembly_nhgri_trio_1.6/
   scientific: Gopherus flavomarginatus
   score: 0.95
   tags: vgl,trio
@@ -2268,7 +2268,7 @@ toc:
     Ilm: '#'
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiprocne_comata/bHemCom1/genomic_data/pacbio/
-    asm: '#'
+    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiprocne_comata/bHemCom1/assembly_vgp_standard_1.7/
   scientific: Hemiprocne comata
   score: 0.95
   tags: vgl
@@ -4380,7 +4380,7 @@ toc:
     Ilm: '#'
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Suncus_etruscus/mSunEtr1/genomic_data/pacbio/
-    asm: '#'
+    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Suncus_etruscus/mSunEtr1/assembly_vgp_standard_1.7/
   scientific: Suncus etruscus
   score: 0.95
   tags: vgl
@@ -4644,7 +4644,7 @@ toc:
     Ilm: '#'
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tautogolabrus_adspersus/fTauAds1/genomic_data/pacbio/
-    asm: '#'
+    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Tautogolabrus_adspersus/fTauAds1/assembly_vgp_standard_1.7/
   scientific: Tautogolabrus adspersus
   score: 0.95
   tags: vgl
