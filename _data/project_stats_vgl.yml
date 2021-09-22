@@ -1,4 +1,4 @@
-info: Sep 22 2021 16:53:31
+info: Sep 22 2021 16:55:53
 toc:
 - VGPId: bAcaChl1
   VGPphase: phase1
@@ -3837,7 +3837,7 @@ toc:
     PB: 1
 - VGPId: rPodRaf1
   VGPphase: phase3
-  asm: running
+  asm: '0'
   classes: Reptilia,reptiles
   common: Aeolian wall lizard
   families: Lacertidae
@@ -3851,7 +3851,7 @@ toc:
     asm: '#'
   orders: Squamata
   scientific: Podarcis raffonei
-  score: 0.8125
+  score: 0.75
   source: vgl
   tags: []
   techs:
