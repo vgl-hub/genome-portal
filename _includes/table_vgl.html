@@ -1,4 +1,4 @@
-1q q{% assign tableItems = include.items | split: ", " %}
+{% assign tableItems = include.items | split: ", " %}
 {% assign tableFileParam = {{include.file}} %}
 {% assign tableFile = site.data[tableFileParam] %}
 
