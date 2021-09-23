@@ -6,7 +6,8 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
     <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.18.3/dist/bootstrap-table.min.css">
                                  
- <div class="container">                                                                
+ <div class="container">         
+    <label>NEW</label>
 <div id="toolbar">
     <div class="form-check form-check-inline">
   <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio0" value="filter0" checked>
@@ -121,6 +122,8 @@
    var $inlineRadio4 = $('#inlineRadio34')
  
   $(function() {
+     
+     $table.bootstrapTable('refreshOptions', {})
     
      $inlineRadio1.click(function () {
       $table.bootstrapTable('filterBy', {
