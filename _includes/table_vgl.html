@@ -12,9 +12,10 @@
 <label>New phase2_score</label>
    
 <table class="table-sm" data-toggle="table" data-height="460" data-pagination="true" data-show-columns="true" data-show-columns-search="true">
-  <thead>
+  <thead class="thead-dark">
            <tr>
               <th data-visible="false">Score</th>
+              <th data-visible="false">Source</th>
              <th>Id</th>
             <th>Scientific Name</th>
             <th>Common Name</th>
@@ -32,11 +33,8 @@
     {% for entry in site.data.project_stats_vgl.toc %}
         <tr>             
            <td>{{ entry.score }}</td/>
-            {% if entry.url == "#" %}
-             <td>{{ entry.VGPId }}</td/>
-           {% else %}
-            <td>{{ entry.VGPId }}</td/>
-           {% endif %}
+           <td>{{ entry.source }}</td/>
+           <td>{{ entry.VGPId }}</td/>
            <td><i>{{ entry.scientific }}</i></td>
           <td>{{ entry.common }}</td/>
           {% if entry.links.PB == "#" %}
