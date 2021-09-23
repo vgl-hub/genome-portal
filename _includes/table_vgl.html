@@ -115,24 +115,6 @@
 <script>
 $(document).ready(function() {
    $('#table').bootstrapTable()
-    $('#table').DataTable({
-                             "lengthMenu": [[15, 25, 50, -1], [15, 25, 50, "All"]],
-                             "pageLength": 15,
-                             "columnDefs": [{orderable: false, targets: 1},{orderable: false, targets: 2},{orderable: false, targets: 3},{orderable: false, targets: 4},{orderable: false, targets: 5},{orderable: false, targets: 6},{orderable: false, targets: 7},{orderable: false, targets: 8},{orderable: false, targets: 9},{orderable: false, targets: 10},{orderable: false, targets: 11},{orderable: false, targets: 12}]
-                             });
-  $('#filter2').on('change', function(){
-            
-            if(this.checked){
-                $('.searchable tr').hide();
-                $('.searchable tr').filter(function() {
-                    return $(this).find('td').eq(12).text() !== "phase1"
-                }).show();
-            }else{
-                $('.searchable tr').show();
-            }
-            
-            
-        });
 });
 
      
