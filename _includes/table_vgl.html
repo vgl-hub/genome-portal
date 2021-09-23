@@ -14,11 +14,14 @@
 <table class="table-sm" data-toggle="table" data-height="600" data-pagination="true" data-show-columns="true" data-search="true">
   <thead class="thead-dark">
            <tr>
-              <th data-visible="false">Score</th>
-              <th data-visible="false">Source</th>
+              <th data-visible="false" data-switchable="false">Score</th>
+              <th data-visible="false" data-switchable="false">Source</th>
              <th>Id</th>
             <th>Scientific Name</th>
             <th>Common Name</th>
+              <th data-visible="false">Class</th>
+              <th data-visible="false">Order</th>
+             <th data-visible="false">Family</th>
             <th>PB</th>
             <th>BN</th>
             <th>HiC</th>
@@ -37,6 +40,9 @@
            <td>{{ entry.VGPId }}</td/>
            <td><i>{{ entry.scientific }}</i></td>
           <td>{{ entry.common }}</td/>
+             <td>{{ entry.classes }}</td/>
+    <td>{{ entry.orders }}</td/>
+<td>{{ entry.families }}</td/>
           {% if entry.links.PB == "#" %}
                    <td><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/></td>
           {% else %}
