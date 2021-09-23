@@ -7,8 +7,13 @@
     <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.18.3/dist/bootstrap-table.min.css">
                                  
  <div class="container">                                                                
-    <label>TEST</label>
+    <label>TEST_new</label>
 <div id="toolbar">
+    <div class="form-check form-check-inline">
+  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio0" value="filter0" checked>
+  <label class="form-check-label" for="inlineRadio1">All</label>
+</div>
+   
  <div class="form-check form-check-inline">
   <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="filter1">
   <label class="form-check-label" for="inlineRadio1">Phase 1</label>
@@ -105,24 +110,32 @@
     <script src="https://unpkg.com/bootstrap-table@1.18.3/dist/bootstrap-table.min.js"></script>
 <script>
    var $table = $('#table')
+   var $inlineRadio1 = $('#inlineRadio0')
    var $inlineRadio1 = $('#inlineRadio1')
    var $inlineRadio2 = $('#inlineRadio2')
    var $inlineRadio3 = $('#inlineRadio3')
+ 
+  $(function() {
+    $inlineRadio1.click(function () {
+      $table.bootstrapTable('filterBy', {
+        phase: ["phase0"]
+      })
+ })
 $(function() {
     $inlineRadio1.click(function () {
       $table.bootstrapTable('filterBy', {
-        Phase: ["phase1"]
+        phase: ["phase1"]
       })
  })
 $inlineRadio2.click(function () {
       $table.bootstrapTable('filterBy', {
-        Phase: ["phase1","phase2"]
+        phase: ["phase1","phase2"]
       })
     })
 
 $inlineRadio3.click(function () {
       $table.bootstrapTable('filterBy', {
-        Phase: ["phase1","phase2","phase3"]
+        phase: ["phase1","phase2","phase3"]
       })
     })
   })
