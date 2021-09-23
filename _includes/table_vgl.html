@@ -8,14 +8,12 @@
                                  
  <div class="container">                                                                
 
-<label>New phase2c</label>
+<label>New phase2d</label>
    
 <table data-toggle="table">
   <thead>
            <tr>
-            <th style="display: none">Score</th>
-            <th style="display: none">Taxonomy</th>
-            <th>Id</th>
+             <th>Id</th>
             <th>Scientific Name</th>
             <th>Common Name</th>
             <th>PB</th>
@@ -24,18 +22,14 @@
             <th>10X</th>
             <th>Ilm</th>
             <th>asm</th>
-            <th style="display: none">asm</th>
-            <th>Phase</th>
-            <th style="display: none">Source</th>
-        </tr>
+             <th>Phase</th>
+         </tr>
   </thead>
                                                 
      <tbody>
     {% for entry in site.data.project_stats_vgl.toc %}
         <tr>                                         
-          <td style="display: none">{{ entry.score }}</td/>
-          <td style="display: none">{{ entry.classes }},{{ entry.orders }},{{ entry.families }}</td/>
-          {% if entry.url == "#" %}
+            {% if entry.url == "#" %}
              <td>{{ entry.VGPId }}</td/>
            {% else %}
             <td>{{ entry.VGPId }}</td/>
@@ -77,10 +71,8 @@
           {% else %}
                     <td><a href="{{ entry.links.asm }}" target="_blank"><img src="assets\img\{{ entry.asm }}.png" height="15"/></a></td>
            {% endif %}
-          <td style="display: none">{{ entry.asm }}</td>
           <td>{{ entry.VGPphase }}</td/> 
-           <td style="display: none">{{ entry.source }}</td/> 
-        </tr>
+         </tr>
     {% endfor %}
     </tbody>
 
