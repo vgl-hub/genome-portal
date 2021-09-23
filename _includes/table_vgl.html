@@ -32,7 +32,7 @@
 </div>
     </div>
     
-<table id="table" class="table-sm" data-toggle="table" data-height="460" data-show-columns="true" data-search="true" data-pagination="true">
+<table id="table" class="table-sm" data-toggle="table" data-height="460" data-show-columns="true" data-search="true" data-pagination="true" data-page-size="40">
   <thead class="thead-light">
            <tr>
               <th data-visible="false" data-switchable="false">Score</th>
@@ -115,17 +115,15 @@
 
 <script>
    var $table = $('#table')
-   var $inlineRadio1 = $('#inlineRadio0')
+   var $inlineRadio0 = $('#inlineRadio0')
    var $inlineRadio1 = $('#inlineRadio1')
    var $inlineRadio2 = $('#inlineRadio2')
    var $inlineRadio3 = $('#inlineRadio3')
-   var $inlineRadio4 = $('#inlineRadio34')
+   var $inlineRadio4 = $('#inlineRadio4')
  
   $(function() {
-     
-     $table.bootstrapTable('refreshOptions', {})
-    
-     $inlineRadio1.click(function () {
+         
+     $inlineRadio0.click(function () {
       $table.bootstrapTable('filterBy', {
         phase: ["phase1","phase2","phase3","phase4","0"]
       }) })
