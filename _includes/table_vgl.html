@@ -8,19 +8,20 @@
                                  
  <div class="container">                                                                
 
-<label>New phase2_loop</label>
+<div id="toolbar">
  <div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="filterByPhase1">
   <label class="form-check-label" for="inlineRadio1">Phase 1</label>
 </div>
 <div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="filterByPhase2">
   <label class="form-check-label" for="inlineRadio2">Phase 2</label>
 </div>
 <div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3">
+  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="filterByPhase3">
   <label class="form-check-label" for="inlineRadio3">Phase 3</label>
 </div>
+    </div>
     
 <table class="table-sm" data-toggle="table" data-height="460" data-show-columns="true" data-search="true" data-pagination="true">
   <thead class="thead-light">
@@ -103,23 +104,24 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/bootstrap-table@1.18.3/dist/bootstrap-table.min.js"></script>
 <script>
+   var $table = $('#table')
    var $inlineRadio1 = $('#inlineRadio1')
    var $inlineRadio2 = $('#inlineRadio2')
    var $inlineRadio3 = $('#inlineRadio3')
 $(function() {
     $inlineRadio1.click(function () {
-      $table.bootstrapTable('filterBy', {
+      $table.bootstrapTable('filterByPhase1', {
         Phase: [phase1]
       })
  })
 $inlineRadio2.click(function () {
-      $table.bootstrapTable('filterBy', {
+      $table.bootstrapTable('filterByPhase2', {
         Phase: [phase1,phase2]
       })
     })
 
 $inlineRadio3.click(function () {
-      $table.bootstrapTable('filterBy', {
+      $table.bootstrapTable('filterByPhase3', {
         Phase: [phase1,phase2,phase3]
       })
     })
