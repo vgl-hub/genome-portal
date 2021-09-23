@@ -8,11 +8,12 @@
                                  
  <div class="container">                                                                
 
-<label>New phase2d</label>
+<label>New phase2_score</label>
    
 <table class="table-sm" data-toggle="table" data-height="460" data-pagination="true" data-show-columns="true" data-show-columns-search="true">
   <thead>
            <tr>
+              <th data-visible="false">Score</th>
              <th>Id</th>
             <th>Scientific Name</th>
             <th>Common Name</th>
@@ -28,7 +29,8 @@
                                                 
      <tbody>
     {% for entry in site.data.project_stats_vgl.toc %}
-        <tr>                                         
+        <tr>             
+           <td>{{ entry.score }}</td/>
             {% if entry.url == "#" %}
              <td>{{ entry.VGPId }}</td/>
            {% else %}
