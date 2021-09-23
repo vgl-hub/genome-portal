@@ -30,7 +30,7 @@
         </tr>
   </thead>
                                                 
-     <tbody  class="searchable">
+     <tbody>
     {% for entry in site.data.project_stats_vgl.toc %}
         <tr>                                         
           <td style="display: none">{{ entry.score }}</td/>
@@ -43,39 +43,39 @@
            <td><i>{{ entry.scientific }}</i></td>
           <td>{{ entry.common }}</td/>
           {% if entry.links.PB == "#" %}
-                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/></td>
+                   <td><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/></td>
           {% else %}
-                    <td style="text-align: center;"><a href="{{ entry.links.PB }}" target="_blank"><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/></a></td>
+                    <td><a href="{{ entry.links.PB }}" target="_blank"><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/></a></td>
            {% endif %}   
            
            {% if entry.links.BN == "#" %}
-                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.BN }}.png" width="15" height="15"/></td>
+                   <td ><img src="assets\img\{{ entry.techs.BN }}.png" width="15" height="15"/></td>
           {% else %}
-                    <td style="text-align: center;"><a href="{{ entry.links.BN }}" target="_blank"><img src="assets\img\{{ entry.techs.BN }}.png" width="15" height="15"/></a></td>
+                    <td><a href="{{ entry.links.BN }}" target="_blank"><img src="assets\img\{{ entry.techs.BN }}.png" width="15" height="15"/></a></td>
            {% endif %} 
            
            {% if entry.links.HiC == "#" %}
-                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.HiC }}.png" width="15" height="15"/></td>
+                   <td><img src="assets\img\{{ entry.techs.HiC }}.png" width="15" height="15"/></td>
           {% else %}
-                    <td style="text-align: center;"><a href="{{ entry.links.HiC }}" target="_blank"><img src="assets\img\{{ entry.techs.HiC }}.png" width="15" height="15"/></a></td>
+                    <td><a href="{{ entry.links.HiC }}" target="_blank"><img src="assets\img\{{ entry.techs.HiC }}.png" width="15" height="15"/></a></td>
            {% endif %} 
            
              {% if entry.links.10X == "#" %}
                    <td style="text-align: center;"><img src="assets\img\{{ entry.techs.10X }}.png" width="15" height="15"/></td>
           {% else %}
-                    <td style="text-align: center;"><a href="{{ entry.links.10X }}" target="_blank"><img src="assets\img\{{ entry.techs.10X }}.png" width="15" height="15"/></a></td>
+                    <td><a href="{{ entry.links.10X }}" target="_blank"><img src="assets\img\{{ entry.techs.10X }}.png" width="15" height="15"/></a></td>
            {% endif %} 
            
             {% if entry.links.Ilm == "#" %}
-                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.Ilm }}.png" width="15" height="15"/></td>
+                   <td><img src="assets\img\{{ entry.techs.Ilm }}.png" width="15" height="15"/></td>
           {% else %}
-                    <td style="text-align: center;"><a href="{{ entry.links.Ilm }}" target="_blank"><img src="assets\img\{{ entry.techs.Ilm }}.png" width="15" height="15"/></a></td>
+                    <td><a href="{{ entry.links.Ilm }}" target="_blank"><img src="assets\img\{{ entry.techs.Ilm }}.png" width="15" height="15"/></a></td>
            {% endif %}
            
            {% if entry.links.asm == "#" %}
-                  <td style="text-align: center;"><img src="assets\img\{{ entry.asm }}.png" height="15"/></td>
+                  <td><img src="assets\img\{{ entry.asm }}.png" height="15"/></td>
           {% else %}
-                    <td style="text-align: center;"><a href="{{ entry.links.asm }}" target="_blank"><img src="assets\img\{{ entry.asm }}.png" height="15"/></a></td>
+                    <td><a href="{{ entry.links.asm }}" target="_blank"><img src="assets\img\{{ entry.asm }}.png" height="15"/></a></td>
            {% endif %}
           <td style="display: none">{{ entry.asm }}</td>
           <td>{{ entry.VGPphase }}</td/> 
@@ -83,24 +83,7 @@
         </tr>
     {% endfor %}
     </tbody>
-  <tfoot>
-    <tr>
-            <th style="display: none">Score</th>
-            <th style="display: none">Taxonomy</th>
-             <th>Id</th>
-            <th>Scientific Name</th>
-            <th>Common Name</th>
-            <th style="text-align: center;width: 5%">PB</th>
-            <th style="text-align: center;width: 5%">BN</th>
-            <th style="text-align: center;width: 5%">HiC</th>
-            <th style="text-align: center;width: 5%">10X</th>
-            <th style="text-align: center;width: 5%">Ilm</th>
-            <th style="text-align: center;width: 5%">asm</th>
-            <th style="display: none">asm</th> 
-            <th style="width: 5%">VGP phase</th>
-      <th style="display: none">Source</th>
-    </tr>
-  </tfoot>
+
 </table>
  <small><i>Last updated: {{ site.data.project_stats_vgl.info }}</i></small>
 </font>
