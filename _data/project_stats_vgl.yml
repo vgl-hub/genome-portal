@@ -1,4 +1,4 @@
-info: Sep 22 2021 17:06:45
+info: Sep 24 2021 15:11:19
 toc:
 - VGPId: bAcaChl1
   VGPphase: phase1
@@ -55,7 +55,7 @@ toc:
     PB: 1
 - VGPId: bAcrTri1
   VGPphase: phase2
-  asm: '0'
+  asm: ready
   classes: Aves,birds
   common: common myna
   families: Sturnidae
@@ -69,13 +69,13 @@ toc:
     asm: '#'
   orders: Passeriformes
   scientific: Acridotheres tristis
-  score: 0.625
+  score: 0.75
   source: vgl
   tags: []
   techs:
     10X: 4
     BN: 1
-    HiC: 2
+    HiC: 1
     Ilm: 4
     ONT: 4
     PB: 1
@@ -199,13 +199,13 @@ toc:
     asm: '#'
   orders: Passeriformes
   scientific: Ammodramus caudacutus
-  score: 0.375
+  score: 0.5
   source: vgl
   tags: []
   techs:
     10X: 4
     BN: 1
-    HiC: 2
+    HiC: 1
     Ilm: 4
     ONT: 4
     PB: 0
@@ -251,13 +251,13 @@ toc:
     asm: '#'
   orders: Passeriformes
   scientific: Ammospiza nelsoni
-  score: 0.375
+  score: 0.5
   source: vgl
   tags: []
   techs:
     10X: 4
     BN: 1
-    HiC: 2
+    HiC: 1
     Ilm: 4
     ONT: 4
     PB: 0
@@ -2351,7 +2351,7 @@ toc:
     PB: 1
 - VGPId: bGypBar2
   VGPphase: phase3
-  asm: '0'
+  asm: ready
   classes: Aves,birds
   common: lammergeier
   families: Accipitridae
@@ -2365,13 +2365,13 @@ toc:
     asm: '#'
   orders: Falconiformes
   scientific: Gypaetus barbatus
-  score: 0.625
+  score: 0.75
   source: vgl
   tags: []
   techs:
     10X: 4
     BN: 1
-    HiC: 2
+    HiC: 1
     Ilm: 4
     ONT: 4
     PB: 1
@@ -2429,7 +2429,7 @@ toc:
     PB: 1
 - VGPId: bHemCom1
   VGPphase: phase1
-  asm: curation
+  asm: curated
   classes: Aves,birds
   common: whiskered treeswift
   families: Apodidae
@@ -2440,10 +2440,10 @@ toc:
     Ilm: '#'
     ONT: '#'
     PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiprocne_comata/bHemCom1/genomic_data/pacbio/
-    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiprocne_comata/bHemCom1/assembly_vgp_standard_1.7/
+    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Hemiprocne_comata/bHemCom1/assembly_curated/
   orders: Apodiformes
   scientific: Hemiprocne comata
-  score: 0.95
+  score: 1.0
   source: vgl
   tags: []
   techs:
@@ -2586,7 +2586,7 @@ toc:
     PB: 1
 - VGPId: fHypTra1
   VGPphase: phase3
-  asm: '0'
+  asm: ready
   classes: Actinopterygii,Bony fishes
   common: delta smelt
   families: Osmeridae
@@ -2600,13 +2600,13 @@ toc:
     asm: '#'
   orders: Osmeriformes
   scientific: Hypomesus transpacificus
-  score: 0.625
+  score: 0.75
   source: vgl
   tags: []
   techs:
     10X: 4
     BN: 1
-    HiC: 2
+    HiC: 1
     Ilm: 4
     ONT: 4
     PB: 5
@@ -2685,6 +2685,32 @@ toc:
   techs:
     10X: 1
     BN: 1
+    HiC: 1
+    Ilm: 4
+    ONT: 4
+    PB: 1
+- VGPId: LagMut1
+  VGPphase: phase3
+  asm: draft
+  classes: Aves
+  common: rock ptarmigan
+  families: Phasianidae
+  links:
+    10X: '#'
+    BN: '#'
+    HiC: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lagopus_muta/LagMut1/genomic_data/dovetail/
+    Ilm: '#'
+    ONT: '#'
+    PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lagopus_muta/LagMut1/genomic_data/pacbio/
+    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lagopus_muta/LagMut1/assembly_vgp_standard_2.0/
+  orders: Galliformes
+  scientific: Lagopus muta
+  score: 0.8333333333333334
+  source: others
+  tags: []
+  techs:
+    10X: 4
+    BN: 4
     HiC: 1
     Ilm: 4
     ONT: 4
@@ -3057,7 +3083,7 @@ toc:
     PB: 1
 - VGPId: mMesDen1
   VGPphase: phase2
-  asm: '0'
+  asm: ready
   classes: Mammalia,mammals
   common: Blainville's beaked whale
   families: Ziphiidae
@@ -3149,13 +3175,13 @@ toc:
     asm: '#'
   orders: Didelphimorphia
   scientific: Monodelphis domestica
-  score: 0.375
+  score: 0.5
   source: vgl
   tags: []
   techs:
     10X: 4
     BN: 1
-    HiC: 2
+    HiC: 1
     Ilm: 4
     ONT: 4
     PB: 0
@@ -3539,13 +3565,13 @@ toc:
     asm: '#'
   orders: Passeriformes
   scientific: Passerculus sandwichensis
-  score: 0.375
+  score: 0.5
   source: vgl
   tags: []
   techs:
     10X: 4
     BN: 1
-    HiC: 2
+    HiC: 1
     Ilm: 4
     ONT: 4
     PB: 0
@@ -3837,7 +3863,7 @@ toc:
     PB: 1
 - VGPId: rPodRaf1
   VGPphase: phase3
-  asm: ready
+  asm: running
   classes: Reptilia,reptiles
   common: Aeolian wall lizard
   families: Lacertidae
@@ -3851,7 +3877,7 @@ toc:
     asm: '#'
   orders: Squamata
   scientific: Podarcis raffonei
-  score: 0.75
+  score: 0.8125
   source: vgl
   tags: []
   techs:
