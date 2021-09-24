@@ -1,12 +1,10 @@
 {% assign tableItems = include.items | split: ", " %}
 {% assign tableFileParam = {{include.file}} %}
 {% assign tableFile = site.data[tableFileParam] %}
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
     <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.18.3/dist/bootstrap-table.min.css">
-      <script src="https://unpkg.com/bootstrap-table@1.18.3/dist/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
 
-                 
  <div class="container">         
 <small>
 <div id="toolbar">
@@ -32,23 +30,23 @@
 </div>
     </div>
        </small>
-<table id="table" class="table-sm" data-filter-control="true" data-toggle="table" data-show-columns="true" data-search="true" data-pagination="true" data-page-size="20" data-search-align="left">
+<table id="table" class="table table-sm" data-pagination="true" data-page-size="20" data-search="true" data-search-align="left" data-show-columns="true">
   <thead class="thead-light">
            <tr>
               <th data-visible="false" data-switchable="false">Score</th>
               <th data-visible="false" data-switchable="false">Source</th>
-             <th data-sortable="true">Id</th>
-            <th data-sortable="true">Scientific Name</th>
-            <th data-sortable="true">Common Name</th>
-              <th data-visible="false" data-sortable="true" data-filter-control="input">Class</th>
-              <th data-visible="false" data-sortable="true" data-filter-control="input">Order</th>
-             <th data-visible="false" data-sortable="true" data-filter-control="input">Family</th>
-            <th data-sortable="true">PB</th>
-            <th data-sortable="true">BN</th>
-            <th data-sortable="true">HiC</th>
-            <th data-sortable="true">10X</th>
-            <th data-sortable="true">Ilm</th>
-            <th data-sortable="true" data-filter-control="select">asm</th>
+             <th data-sortable="true" data-width="80">Id</th>
+            <th data-sortable="true" data-width="150">Scientific Name</th>
+            <th data-sortable="true" data-width="150">Common Name</th>
+              <th data-visible="false" data-sortable="true">Class</th>
+              <th data-visible="false" data-sortable="true">Order</th>
+             <th data-visible="false" data-sortable="true">Family</th>
+            <th data-width="20" data-halign="center" data-sortable="true">PB</th>
+            <th data-width="20" data-halign="center" data-sortable="true">BN</th>
+            <th data-width="20" data-halign="center" data-sortable="true">HiC</th>
+            <th data-width="20" data-halign="center" data-sortable="true">10X</th>
+            <th data-width="20" data-halign="center" data-sortable="true">Ilm</th>
+            <th data-width="20" data-halign="center" data-sortable="true">asm</th>
              <th data-visible="false" data-field="phase" data-sortable="true">Phase</th>
          </tr>
   </thead>
@@ -65,39 +63,39 @@
     <td>{{ entry.orders }}</td/>
 <td>{{ entry.families }}</td/>
           {% if entry.links.PB == "#" %}
-                   <td><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/><p hidden>{{ entry.techs.PB }}</p></td>
+                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/><span style="display:none">{{ entry.techs.PB }}</span></td>
           {% else %}
-                    <td><a href="{{ entry.links.PB }}" target="_blank"><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/></a><p hidden>{{ entry.techs.PB }}</p></td>
+                    <td style="text-align: center;"><a href="{{ entry.links.PB }}" target="_blank"><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/></a><span style="display:none">{{ entry.techs.PB }}</span></td>
            {% endif %}   
            
            {% if entry.links.BN == "#" %}
-                   <td ><img src="assets\img\{{ entry.techs.BN }}.png" width="15" height="15"/><p hidden>{{ entry.techs.BN }}/p></td>
+                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.BN }}.png" width="15" height="15"/><span style="display:none">{{ entry.techs.BN }}/p></td>
           {% else %}
-                    <td><a href="{{ entry.links.BN }}" target="_blank"><img src="assets\img\{{ entry.techs.BN }}.png" width="15" height="15"/></a><p hidden>{{ entry.techs.BN }}/p></td>
+                    <td style="text-align: center;"><a href="{{ entry.links.BN }}" target="_blank"><img src="assets\img\{{ entry.techs.BN }}.png" width="15" height="15"/></a><span style="display:none">{{ entry.techs.BN }}</span></td>
            {% endif %} 
            
            {% if entry.links.HiC == "#" %}
-                   <td><img src="assets\img\{{ entry.techs.HiC }}.png" width="15" height="15"/><p hidden>{{ entry.techs.HiC }}</p></td>
+                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.HiC }}.png" width="15" height="15"/><span style="display:none">{{ entry.techs.HiC }}</span></td>
           {% else %}
-                    <td><a href="{{ entry.links.HiC }}" target="_blank"><img src="assets\img\{{ entry.techs.HiC }}.png" width="15" height="15"/></a><p hidden>{{ entry.techs.HiC }}</p></td>
+                    <td style="text-align: center;"><a href="{{ entry.links.HiC }}" target="_blank"><img src="assets\img\{{ entry.techs.HiC }}.png" width="15" height="15"/></a><span style="display:none">{{ entry.techs.HiC }}</span></td>
            {% endif %} 
            
              {% if entry.links.10X == "#" %}
-                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.10X }}.png" width="15" height="15"/><p hidden>{{ entry.techs.10X }}</p></td>
+                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.10X }}.png" width="15" height="15"/><span style="display:none">{{ entry.techs.10X }}</span></td>
           {% else %}
-                    <td><a href="{{ entry.links.10X }}" target="_blank"><img src="assets\img\{{ entry.techs.10X }}.png" width="15" height="15"/></a><p hidden>{{ entry.techs.10X }}</p></td>
+                    <td style="text-align: center;"><a href="{{ entry.links.10X }}" target="_blank"><img src="assets\img\{{ entry.techs.10X }}.png" width="15" height="15"/></a><p hidden>{{ entry.techs.10X }}</span></td>
            {% endif %} 
            
             {% if entry.links.Ilm == "#" %}
-                   <td><img src="assets\img\{{ entry.techs.Ilm }}.png" width="15" height="15"/><p hidden>{{ entry.techs.Ilm }}</p></td>
+                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.Ilm }}.png" width="15" height="15"/><p hidden>{{ entry.techs.Ilm }}</p></td>
           {% else %}
-                    <td><a href="{{ entry.links.Ilm }}" target="_blank"><img src="assets\img\{{ entry.techs.Ilm }}.png" width="15" height="15"/></a><p hidden>{{ entry.techs.Ilm }}</p></td>
+                    <td style="text-align: center;"><a href="{{ entry.links.Ilm }}" target="_blank"><img src="assets\img\{{ entry.techs.Ilm }}.png" width="15" height="15"/></a><span style="display:none">{{ entry.techs.Ilm }}</span></td>
            {% endif %}
            
            {% if entry.links.asm == "#" %}
-                  <td><img src="assets\img\{{ entry.asm }}.png" height="15"/><p hidden>{{ entry.techs.asm }}</p></td>
+                  <td style="text-align: center;"><img src="assets\img\{{ entry.asm }}.png" height="15"/><span style="display:none">{{ entry.techs.asm }}</span></td>
           {% else %}
-                    <td><a href="{{ entry.links.asm }}" target="_blank"><img src="assets\img\{{ entry.asm }}.png" height="15"/></a><p hidden>{{ entry.asm }}</p></td>
+                   <td style="text-align: center;"><a href="{{ entry.links.asm }}" target="_blank"><img src="assets\img\{{ entry.asm }}.png" height="15"/></a><span style="display:none">{{ entry.asm }}</span></td>
            {% endif %}
           <td>{{ entry.VGPphase }}</td/> 
          </tr>
@@ -109,7 +107,8 @@
 </div>
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
-<script src="https://unpkg.com/bootstrap-table@1.18.3/dist/bootstrap-table.min.js"></script>
+   <script src="https://unpkg.com/bootstrap-table@1.18.3/dist/bootstrap-table.min.js"></script>
+     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <script>
    var $table = $('#table')
    var $inlineRadio0 = $('#inlineRadio0')
