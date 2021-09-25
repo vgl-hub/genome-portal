@@ -7,46 +7,40 @@
 
  <div class="container">         
 <small>
-<div id="toolbar">
-    <div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio0" value="filter0" checked>
-  <label class="form-check-label" for="inlineRadio1">All</label>
+    <style>
+#select {
+  width: 110px;
+  display: inline-block;
+  font-size: 12px;
+}
+</style>
+<div class="toolbar">
+  <select id="select" class="form-control" name="filterAlgorithm">
+    <option value="vgl" selected>VGL</option>
+    <option value="phase1">VGP Phase 1</option>
+    <option value="phase2">VGP Phase 2</option>
+    <option value="phase3">VGP Phase 3</option>
+    <option value="phase4">VGP Phase 4</option>
+  </select>
 </div>
- <div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="filter1">
-  <label class="form-check-label" for="inlineRadio1">Phase 1</label>
-</div>
-<div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="filter2">
-  <label class="form-check-label" for="inlineRadio2">Phase 2</label>
-</div>
-<div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="filter3">
-  <label class="form-check-label" for="inlineRadio3">Phase 3</label>
-</div>
-   <div class="form-check form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio4" value="filter4">
-  <label class="form-check-label" for="inlineRadio4">Phase 4</label>
-</div>
-    </div>
-<table id="table" class="table table-sm" data-pagination="true" data-page-size="20" data-search="true" data-search-align="left" data-show-columns="true">
+<table id="table" class="table table-sm" data-toolbar=".toolbar" data-pagination="true" data-page-size="20" data-search="true" data-search-align="right" data-show-columns="true">
   <thead class="thead-light">
            <tr>
               <th data-visible="false" data-switchable="false">Score</th>
-              <th data-visible="false" data-switchable="false">Source</th>
-             <th data-sortable="true" data-width="80">Id</th>
-            <th data-sortable="true" data-width="150">Scientific Name</th>
-            <th data-sortable="true" data-width="150">Common Name</th>
+              <th data-visible="false" data-switchable="false" data-field="source">Source</th>
+             <th data-width="80">Id</th>
+            <th data-width="150">Scientific Name</th>
+            <th data-width="150">Common Name</th>
               <th data-visible="false" data-sortable="true">Class</th>
-              <th data-visible="false" data-sortable="true">Order</th>
+              <th data-visible="false"data-sortable="true">Order</th>
              <th data-visible="false" data-sortable="true">Family</th>
-            <th data-width="20" data-halign="center" data-sortable="true">PB</th>
-            <th data-width="20" data-halign="center" data-sortable="true">BN</th>
-            <th data-width="20" data-halign="center" data-sortable="true">HiC</th>
-            <th data-width="20" data-halign="center" data-sortable="true">10X</th>
-            <th data-width="20" data-halign="center" data-sortable="true">Ilm</th>
-            <th data-width="20" data-halign="center" data-sortable="true">asm</th>
-             <th data-visible="false" data-field="phase" data-sortable="true">Phase</th>
+            <th data-width="20" data-halign="center">PB</th>
+            <th data-width="20" data-halign="center">BN</th>
+            <th data-width="20" data-halign="center">HiC</th>
+            <th data-width="20" data-halign="center">10X</th>
+            <th data-width="20" data-halign="center">Ilm</th>
+            <th data-width="20" data-halign="center">asm</th>
+             <th data-visible="false" data-field="phase">Phase</th>
          </tr>
   </thead>
                                                 
@@ -62,39 +56,39 @@
     <td>{{ entry.orders }}</td/>
 <td>{{ entry.families }}</td/>
           {% if entry.links.PB == "#" %}
-                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/><span style="display:none">{{ entry.techs.PB }}</span></td>
+                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/></td>
           {% else %}
-                    <td style="text-align: center;"><a href="{{ entry.links.PB }}" target="_blank"><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/></a><span style="display:none">{{ entry.techs.PB }}</span></td>
+                    <td style="text-align: center;"><a href="{{ entry.links.PB }}" target="_blank"><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/></a></td>
            {% endif %}   
            
            {% if entry.links.BN == "#" %}
-                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.BN }}.png" width="15" height="15"/><span style="display:none">{{ entry.techs.BN }}/p></td>
+                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.BN }}.png" width="15" height="15"/></td>
           {% else %}
-                    <td style="text-align: center;"><a href="{{ entry.links.BN }}" target="_blank"><img src="assets\img\{{ entry.techs.BN }}.png" width="15" height="15"/></a><span style="display:none">{{ entry.techs.BN }}</span></td>
+                    <td style="text-align: center;"><a href="{{ entry.links.BN }}" target="_blank"><img src="assets\img\{{ entry.techs.BN }}.png" width="15" height="15"/></a></td>
            {% endif %} 
            
            {% if entry.links.HiC == "#" %}
-                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.HiC }}.png" width="15" height="15"/><span style="display:none">{{ entry.techs.HiC }}</span></td>
+                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.HiC }}.png" width="15" height="15"/></td>
           {% else %}
-                    <td style="text-align: center;"><a href="{{ entry.links.HiC }}" target="_blank"><img src="assets\img\{{ entry.techs.HiC }}.png" width="15" height="15"/></a><span style="display:none">{{ entry.techs.HiC }}</span></td>
+                    <td style="text-align: center;"><a href="{{ entry.links.HiC }}" target="_blank"><img src="assets\img\{{ entry.techs.HiC }}.png" width="15" height="15"/></a></td>
            {% endif %} 
            
              {% if entry.links.10X == "#" %}
-                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.10X }}.png" width="15" height="15"/><span style="display:none">{{ entry.techs.10X }}</span></td>
+                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.10X }}.png" width="15" height="15"/></td>
           {% else %}
-                    <td style="text-align: center;"><a href="{{ entry.links.10X }}" target="_blank"><img src="assets\img\{{ entry.techs.10X }}.png" width="15" height="15"/></a><p hidden>{{ entry.techs.10X }}</span></td>
+                    <td style="text-align: center;"><a href="{{ entry.links.10X }}" target="_blank"><img src="assets\img\{{ entry.techs.10X }}.png" width="15" height="15"/></a></td>
            {% endif %} 
            
             {% if entry.links.Ilm == "#" %}
-                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.Ilm }}.png" width="15" height="15"/><p hidden>{{ entry.techs.Ilm }}</p></td>
+                   <td style="text-align: center;"><img src="assets\img\{{ entry.techs.Ilm }}.png" width="15" height="15"/></td>
           {% else %}
-                    <td style="text-align: center;"><a href="{{ entry.links.Ilm }}" target="_blank"><img src="assets\img\{{ entry.techs.Ilm }}.png" width="15" height="15"/></a><span style="display:none">{{ entry.techs.Ilm }}</span></td>
+                    <td style="text-align: center;"><a href="{{ entry.links.Ilm }}" target="_blank"><img src="assets\img\{{ entry.techs.Ilm }}.png" width="15" height="15"/></a></td>
            {% endif %}
            
            {% if entry.links.asm == "#" %}
-                  <td style="text-align: center;"><img src="assets\img\{{ entry.asm }}.png" height="15"/><span style="display:none">{{ entry.techs.asm }}</span></td>
+                  <td style="text-align: center;"><img src="assets\img\{{ entry.asm }}.png" height="15"/></td>
           {% else %}
-                   <td style="text-align: center;"><a href="{{ entry.links.asm }}" target="_blank"><img src="assets\img\{{ entry.asm }}.png" height="15"/></a><span style="display:none">{{ entry.asm }}</span></td>
+                   <td style="text-align: center;"><a href="{{ entry.links.asm }}" target="_blank"><img src="assets\img\{{ entry.asm }}.png" height="15"/></a></td>
            {% endif %}
           <td>{{ entry.VGPphase }}</td/> 
          </tr>
@@ -109,42 +103,46 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
    <script src="https://unpkg.com/bootstrap-table@1.18.3/dist/bootstrap-table.min.js"></script>
      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-<script>
+<script src="https://unpkg.com/bootstrap-table@1.18.3/dist/extensions/toolbar/bootstrap-table-toolbar.min.js"></script>
+
+ <script>
    var $table = $('#table')
-   var $inlineRadio0 = $('#inlineRadio0')
-   var $inlineRadio1 = $('#inlineRadio1')
-   var $inlineRadio2 = $('#inlineRadio2')
-   var $inlineRadio3 = $('#inlineRadio3')
-   var $inlineRadio4 = $('#inlineRadio4')
- 
-  $(function() {
+
+	
+ $(function() {
     $('#table').bootstrapTable()
-     
-     $inlineRadio0.click(function () {
-      $table.bootstrapTable('filterBy', {
-        phase: ["phase1","phase2","phase3","phase4","0"]
-      }) })
+    });
+   
+   $(document).ready(function(){
+   $table.bootstrapTable('filterBy', {source: ["vgl"]})
+   });
+   
+    $("#select").on("change",function(){
+        //Getting Value
+        var selValue = $("#select").val();
+        //Setting Value
+        if(selValue=="vgl"){
+        $table.bootstrapTable('filterBy', {source: ["vgl"]})
+        }
+    else
+        {
+            if(selValue=="phase1"){
+                $table.bootstrapTable('filterBy', {phase: ["phase1"]})
+                }
+            if(selValue=="phase2"){
+                $table.bootstrapTable('filterBy', {phase: ["phase1","phase2"]})
+            }
+            if(selValue=="phase3"){
+                $table.bootstrapTable('filterBy', {phase: ["phase1","phase2","phase3"]})
+            }
+            if(selValue=="phase4"){
+                $table.bootstrapTable('filterBy', {phase: ["phase1","phase2","phase3","phase4"]})
+            }
+        }
+    });   
+    
 
-     $inlineRadio1.click(function () {
-      $table.bootstrapTable('filterBy', {
-        phase: ["phase1"]
-      }) })
 
-$inlineRadio2.click(function () {
-      $table.bootstrapTable('filterBy', {
-        phase: ["phase1","phase2"]
-      }) })
-
-
-$inlineRadio3.click(function () {
-      $table.bootstrapTable('filterBy', {
-        phase: ["phase1","phase2","phase3"]
-      }) })
-
-     $inlineRadio4.click(function () {
-      $table.bootstrapTable('filterBy', {
-        phase: ["phase1","phase2","phase3","phase4"]
-      }) })
-    })
 </script>
+
                         
