@@ -1,4 +1,4 @@
-info: Sep 26 2021 12:31:07
+info: Sep 27 2021 15:08:56
 toc:
 - VGPId: bAcaChl1
   VGPphase: phase1
@@ -1644,7 +1644,7 @@ toc:
     ONT: 4
     PB: 1
 - VGPId: bDryPub1
-  VGPphase: phase1
+  VGPphase: phase2
   asm: curated
   classes: Aves,birds
   common: Downy woodpecker
@@ -1982,7 +1982,7 @@ toc:
     ONT: 4
     PB: 1
 - VGPId: bFalNau1
-  VGPphase: phase1
+  VGPphase: phase4
   asm: curated
   classes: Aves,birds
   common: lesser kestrel
@@ -2035,7 +2035,7 @@ toc:
     ONT: 4
     PB: 1
 - VGPId: bFalRus1
-  VGPphase: phase4
+  VGPphase: phase1
   asm: curated
   classes: Aves,birds
   common: gyrfalcon
@@ -2480,7 +2480,7 @@ toc:
     ONT: 4
     PB: 1
 - VGPId: mHetBru1
-  VGPphase: phase2
+  VGPphase: phase1
   asm: draft
   classes: Mammalia,mammals
   common: yellow-spotted hyrax
@@ -2689,20 +2689,20 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
-- VGPId: LagMut1
+- VGPId: bLagMut1
   VGPphase: phase3
   asm: draft
-  classes: ''
+  classes: Aves,birds
   common: rock ptarmigan
   families: Phasianidae
   links:
     10X: '#'
     BN: '#'
-    HiC: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lagopus_muta/LagMut1/genomic_data/dovetail/
+    HiC: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lagopus_muta/bLagMut1/genomic_data/dovetail/
     Ilm: '#'
     ONT: '#'
-    PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lagopus_muta/LagMut1/genomic_data/pacbio/
-    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lagopus_muta/LagMut1/assembly_vgp_standard_2.0/
+    PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lagopus_muta/bLagMut1/genomic_data/pacbio/
+    asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Lagopus_muta/bLagMut1/assembly_vgp_standard_2.0/
   orders: Galliformes
   scientific: Lagopus muta
   score: 0.8333333333333334
@@ -2846,7 +2846,7 @@ toc:
     ONT: 4
     PB: 2
 - VGPId: fMalNig1
-  VGPphase: phase1
+  VGPphase: phase2
   asm: '0'
   classes: Actinopterygii,Bony fishes
   common: stoplight loosejaw
@@ -3644,7 +3644,7 @@ toc:
   orders: Petromyzontiformes
   scientific: Petromyzon marinus
   score: 1.0
-  source: others
+  source: vgl
   tags: []
   techs:
     10X: 1
@@ -3836,7 +3836,7 @@ toc:
     ONT: 4
     PB: 1
 - VGPId: bPluApr1
-  VGPphase: phase2
+  VGPphase: phase1
   asm: curated
   classes: Aves,birds
   common: European golden plover
@@ -4669,7 +4669,7 @@ toc:
     ONT: 4
     PB: 1
 - VGPId: bSteHir1
-  VGPphase: phase1
+  VGPphase: phase2
   asm: curated
   classes: Aves,birds
   common: Common tern
@@ -6022,32 +6022,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGPId: kcPetMari1
-  VGPphase: phase4
-  asm: '0'
-  classes: Hyperoartia,jawless,Agnatha
-  common: sea lamprey
-  families: Petromyzontidae
-  links:
-    10X: '#'
-    BN: '#'
-    HiC: '#'
-    Ilm: '#'
-    ONT: '#'
-    PB: '#'
-    asm: '#'
-  orders: Petromyzontiformes
-  scientific: Petromyzon marinus
-  score: 0.4
-  source: vgl
-  tags: []
-  techs:
-    10X: 1
-    BN: 0
-    HiC: 0
-    Ilm: 4
-    ONT: 4
-    PB: 1
 - VGPId: fSpiTha1
   VGPphase: phase3
   asm: '0'
