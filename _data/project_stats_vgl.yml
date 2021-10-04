@@ -1,4 +1,4 @@
-info: Sep 30 2021 16:56:58
+info: Oct 04 2021 10:27:15
 toc:
 - VGPId: bAcaChl1
   VGPphase: phase1
@@ -26,6 +26,32 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 1
+- VGPId: fAciNac1
+  VGPphase: phase4
+  asm: '0'
+  classes: Actinopterygii,Bony fishes
+  common: Adriatic sturgeon
+  families: Acipenseridae
+  links:
+    10X: '#'
+    BN: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Acipenser_naccarii/fAciNac1/genomic_data/bionano/
+    HiC: '#'
+    Ilm: '#'
+    ONT: '#'
+    PB: '#'
+    asm: '#'
+  orders: Acipenseriformes
+  scientific: Acipenser naccarii
+  score: 0.25
+  source: vgl
+  tags: []
+  techs:
+    10X: 4
+    BN: 1
+    HiC: 0
+    Ilm: 4
+    ONT: 4
+    PB: 0
 - VGPId: fAciRut3
   VGPphase: phase1
   asm: curated
@@ -1931,7 +1957,7 @@ toc:
     PB: 1
 - VGPId: mEubGla1
   VGPphase: phase2
-  asm: '0'
+  asm: ready
   classes: Mammalia,mammals
   common: North Atlantic right whale
   families: Balaenidae
@@ -1941,11 +1967,11 @@ toc:
     HiC: '#'
     Ilm: '#'
     ONT: '#'
-    PB: '#'
+    PB: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Eubalaena_glacialis/mEubGla1/genomic_data/pacbio/
     asm: '#'
   orders: Artiodactyla
   scientific: Eubalaena glacialis
-  score: 0.625
+  score: 0.75
   source: vgl
   tags: []
   techs:
@@ -1954,7 +1980,7 @@ toc:
     HiC: 5
     Ilm: 4
     ONT: 4
-    PB: 2
+    PB: 1
 - VGPId: rEulEur1
   VGPphase: phase1
   asm: '0'
@@ -2062,7 +2088,7 @@ toc:
     PB: 1
 - VGPId: bFalPer1
   VGPphase: phase4
-  asm: draft
+  asm: curation
   classes: Aves,birds
   common: peregrine falcon
   families: Falconidae
@@ -2076,7 +2102,7 @@ toc:
     asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Falco_peregrinus/bFalPer1/assembly_vgp_standard_2.0/
   orders: Falconiformes
   scientific: Falco peregrinus
-  score: 0.875
+  score: 0.9375
   source: vgl
   tags: []
   techs:
@@ -2691,7 +2717,7 @@ toc:
     PB: 1
 - VGPId: mKogBre1
   VGPphase: phase2
-  asm: running
+  asm: ready
   classes: Mammalia,mammals
   common: pygmy sperm whale
   families: Physeteridae
@@ -2705,7 +2731,7 @@ toc:
     asm: '#'
   orders: Artiodactyla
   scientific: Kogia breviceps
-  score: 0.8125
+  score: 0.75
   source: vgl
   tags: []
   techs:
@@ -7036,32 +7062,6 @@ toc:
     Ilm: 4
     ONT: 4
     PB: 0
-- VGPId: fAciNac1
-  VGPphase: phase4
-  asm: '0'
-  classes: Actinopterygii,Bony fishes
-  common: Adriatic sturgeon
-  families: Acipenseridae
-  links:
-    10X: '#'
-    BN: '#'
-    HiC: '#'
-    Ilm: '#'
-    ONT: '#'
-    PB: '#'
-    asm: '#'
-  orders: Acipenseriformes
-  scientific: Acipenser naccarii
-  score: 0.125
-  source: vgl
-  tags: []
-  techs:
-    10X: 4
-    BN: 2
-    HiC: 0
-    Ilm: 4
-    ONT: 4
-    PB: 0
 - VGPId: mPanTro2
   VGPphase: phase4
   asm: '0'
@@ -7182,12 +7182,12 @@ toc:
     asm: '#'
   orders: Enteropneusta
   scientific: Saccoglossus kowalevskii
-  score: 0.125
+  score: 0.0
   source: vgl
   tags: []
   techs:
     10X: 4
-    BN: 2
+    BN: 0
     HiC: 0
     Ilm: 4
     ONT: 4
