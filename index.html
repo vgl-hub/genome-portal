@@ -3,20 +3,19 @@ layout: default
 title: Home
 ---
 
-<ul class="nav nav-tabs" id="myTab" role="tablist">
+<nav class="nav nav-tabs" id="myTab">
   <li class="nav-item" role="presentation">
     <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Project status</button>
   </li>
    <li class="nav-item" role="presentation">
    <button class="nav-link" id="NCBI-assemblies" data-bs-toggle="tab" data-bs-target="#ncbi" type="button" role="tab" aria-controls="ncbi" aria-selected="false">NCBI assemblies</button>
   </li>
-</ul>
-<br>
+</nav>
 <div class="tab-content" id="myTabContent">
     <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-        <div><br>{% include table_vgl.html file="project_stats_vgl.yml" caption="Project tracking" %}</div>
+        <div><br><br>{% include table_vgl.html file="project_stats_vgl.yml" caption="Project tracking" %}</div>
     </div>
     <div class="tab-pane fade" id="ncbi" role="tabpanel" aria-labelledby="NCBI-assemblies">
-          <div><br>{% include asm.html caption="NCBI assemblies" %}</div>
+         <div><br><br>{% include asm.html caption="NCBI assemblies" %}</div>
     </div>
 </div>
