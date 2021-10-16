@@ -6,10 +6,16 @@ title: Home
   <li class="nav-item" role="presentation">
     <a class="nav-link active" id="home-tab" data-bs-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Project status</a>
   </li>
+   <li class="nav-item" role="presentation">
+    <a class="nav-link active" id="NCBI-assemblies" data-bs-toggle="tab" href="#ncbi" role="tab" aria-controls="ncbi" aria-selected="false">NCBI assemblies</a>
+  </li>
 </ul>
 <br>
 <div class="tab-content" id="myTabContent">
   <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
   <div><br>{% include table_vgl.html file="project_stats_vgl.yml" caption="Project tracking" %}</div>
   </div>
+  <div class="tab-pane fade show active" id="ncbi" role="tabpanel" aria-labelledby="NCBI-assemblies">
+  <div><br>{% include asm.html caption="NCBI assemblies" %}</div>
+    </div>
 </div>
