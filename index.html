@@ -8,14 +8,14 @@ title: Home
     <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Project status</button>
   </li>
    <li class="nav-item" role="presentation">
-   <button class="nav-link" id="NCBI-assemblies" data-bs-toggle="tab" data-bs-target="#ncbi" type="button" role="tab" aria-controls="ncbi" aria-selected="false">NCBI assemblies</button>
+   <button class="nav-link" id="acbi-tab" data-bs-toggle="tab" data-bs-target="#ncbi" type="button" role="tab" aria-controls="ncbi" aria-selected="false">NCBI assemblies</button>
   </li>
 </ul>
 <div class="tab-content" id="myTabContent">
     <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
         <div><br><br>{% include table_vgl.html file="project_stats_vgl.yml" caption="Project tracking" %}</div>
     </div>
-    <div class="tab-pane fade" id="ncbi" role="tabpanel" aria-labelledby="NCBI-assemblies">
+    <div class="tab-pane fade" id="ncbi" role="tabpanel" aria-labelledby="ncbi-tab">
          <div><br><br>{% include asm.html caption="NCBI assemblies" %}</div>
     </div>
 </div>
