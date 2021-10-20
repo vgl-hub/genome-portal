@@ -85,11 +85,15 @@
                     <td style="text-align: center;" data-order="{{ entry.techs.Ilm.status }}"><a href="{{ entry.techs.Ilm.url }}" target="_blank"><img src="assets\img\{{ entry.techs.Ilm.status }}.png" width="15" height="15"/></a></td>
            {% endif %}
            
+	{% if entry.status != "0-data_queued" %}
            {% if entry.asm == "#" %}
                    <td style="text-align: center;" data-order="{{ entry.status }}"><span style="opacity:0;">{{ entry.status | slice: 0, 1 }}</span><img src="assets\img\{{ entry.status }}.png" width="90"/></td>
           {% else %}
                     <td style="text-align: center;" data-order="{{ entry.status }}"><span style="opacity:0;">{{ entry.status | slice: 0, 1 }}</span><a href="{{ entry.asm }}" target="_blank"><img src="assets\img\{{ entry.status }}.png" width="90"/></a></td>
            {% endif %}
+       {% else %}
+             <td style="text-align: center;" data-order="{{ entry.status }}"><span style="opacity:0;">9</span><img src="assets\img\{{ entry.status }}.png" width="90"/></td>
+	{% endif %}
           <td>{{ entry.vgp_phase }}</td/> 
          </tr>
     {% endfor %}
