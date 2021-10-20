@@ -22,6 +22,7 @@
     <option value="phase2">VGP Phase 2</option>
     <option value="phase3">VGP Phase 3</option>
     <option value="phase4">VGP Phase 4</option>
+    <option value="all">All</option>
   </select>
 </div>
 <table id="table" class="table table-sm" data-toolbar=".toolbar" data-pagination="true" data-page-size="20" data-search="true" data-search-align="right" data-show-columns="true" data-sort-name="status" data-sort-order="asc">
@@ -136,6 +137,9 @@
             }
             if(selValue=="phase4"){
                 $table.bootstrapTable('filterBy', {phase: ["phase1","phase2","phase3","phase4"]})
+            }
+	    if(selValue=="all"){
+                $table.bootstrapTable('filterBy', {phase: ["phase1","phase2","phase3","phase4","other"]})
             }
         }
     });   
