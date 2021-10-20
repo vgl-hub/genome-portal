@@ -38,7 +38,7 @@
             <th data-width="20" data-halign="center" data-sortable="true">HiC</th>
             <th data-width="20" data-halign="center" data-sortable="true">10X</th>
             <th data-width="20" data-halign="center" data-sortable="true">Ilm</th>
-            <th data-width="20" data-halign="center" data-sortable="true">asm</th>
+            <th data-width="150" data-halign="center" data-sortable="true">Status</th>
              <th data-visible="false" data-switchable="false" data-field="phase">Phase</th>
          </tr>
   </thead>
@@ -46,7 +46,7 @@
      <tbody>
     {% for entry in site.data.project_stats_vgl.toc %}
         <tr>             
-           <td>{{ entry.hub }}</td>/
+           <td>{{ entry.hub }}</td/>
            <td>{{ entry.vglId }}</td/>
            <td><i>{{ entry.scientific_name }}</i></td>
           <td>{{ entry.common_name }}</td/>
