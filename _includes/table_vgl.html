@@ -39,7 +39,7 @@
             <th data-width="20" data-halign="center" data-sortable="true">HiC</th>
             <th data-width="20" data-halign="center" data-sortable="true">10X</th>
             <th data-width="20" data-halign="center" data-sortable="true">Ilm</th>
-            <th data-width="150" data-halign="center" data-sortable="true">Status</th>
+            <th data-width="100" data-halign="center" data-sortable="true" data-field="status">Status</th>
              <th data-visible="false" data-switchable="false" data-field="phase">Phase</th>
          </tr>
   </thead>
@@ -85,9 +85,9 @@
            {% endif %}
            
            {% if entry.asm == "#" %}
-                   <td style="text-align: center;" data-order="{{ entry.status }}"><img src="assets\img\{{ entry.status }}.png" width="100"/></td>
+                   <td style="text-align: center;" data-order="{{ entry.status }}"><img src="assets\img\{{ entry.status }}.png" width="80"/></td>
           {% else %}
-                    <td style="text-align: center;" data-order="{{ entry.status }}"><a href="{{ entry.asm }}" target="_blank"><img src="assets\img\{{ entry.status }}.png" width="100"/></a></td>
+                    <td style="text-align: center;" data-order="{{ entry.status }}"><a href="{{ entry.asm }}" target="_blank"><img src="assets\img\{{ entry.status }}.png" width="80"/></a></td>
            {% endif %}
           <td>{{ entry.vgp_phase }}</td/> 
          </tr>
