@@ -86,9 +86,9 @@
            {% endif %}
            
            {% if entry.asm == "#" %}
-                   <td style="text-align: center;" data-order="{{ entry.status }}">{{ entry.status | truncate: 1 }}<img src="assets\img\{{ entry.status }}.png" width="90"/></td>
+                   <td style="text-align: center;" data-order="{{ entry.status }}">{{ entry.status | slice: 0, 1 }}<img src="assets\img\{{ entry.status }}.png" width="90"/></td>
           {% else %}
-                    <td style="text-align: center;" data-order="{{ entry.status }}">{{ entry.status | truncate: 1 }}<a href="{{ entry.asm }}" target="_blank"><img src="assets\img\{{ entry.status }}.png" width="90"/></a></td>
+                    <td style="text-align: center;" data-order="{{ entry.status }}">{{ entry.status | slice: 0, 1 }}<a href="{{ entry.asm }}" target="_blank"><img src="assets\img\{{ entry.status }}.png" width="90"/></a></td>
            {% endif %}
           <td>{{ entry.vgp_phase }}</td/> 
          </tr>
