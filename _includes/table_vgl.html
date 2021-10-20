@@ -23,10 +23,9 @@
     <option value="phase4">VGP Phase 4</option>
   </select>
 </div>
-<table id="table" data-sort-name="score" data-sort-order="desc" class="table table-sm" data-toolbar=".toolbar" data-pagination="true" data-page-size="20" data-search="true" data-search-align="right" data-show-columns="true" data-sort-name="score" data-sort-order="desc">
+<table id="table" data-sort-name="status" data-sort-order="desc" class="table table-sm" data-toolbar=".toolbar" data-pagination="true" data-page-size="20" data-search="true" data-search-align="right" data-show-columns="true" data-sort-name="status" data-sort-order="asc">
   <thead class="thead-light">
            <tr>
- <th data-visible="false" data-switchable="false">Score</th>
               <th data-visible="false" data-switchable="false" data-sortable="true" data-field="source">Source</th>
              <th data-width="80">Id</th>
             <th data-width="150">Scientific Name</th>
@@ -47,50 +46,49 @@
      <tbody>
     {% for entry in site.data.project_stats_vgl.toc %}
         <tr>             
-           <td>{{ entry.score }}</td/>
-           <td>{{ entry.source }}</td/>
-           <td>{{ entry.VGPId }}</td/>
-           <td><i>{{ entry.scientific }}</i></td>
-          <td>{{ entry.common }}</td/>
-             <td>{{ entry.classes }}</td/>
-    <td>{{ entry.orders }}</td/>
-<td>{{ entry.families }}</td/>
-          {% if entry.links.PB == "#" %}
-                   <td style="text-align: center;"  data-order="{{ entry.techs.PB }}"><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/></td>
+           <td>{{ entry.hub }}</td/>
+           <td>{{ entry.vglId }}</td/>
+           <td><i>{{ entry.scientific_name }}</i></td>
+          <td>{{ entry.common_name }}</td/>
+             <td>{{ entry.class }}</td/>
+    <td>{{ entry.order }}</td/>
+<td>{{ entry.family }}</td/>
+   {% if entry.techs.PB.url == "#" %}
+                   <td style="text-align: center;"  data-order="{{ entry.techs.PB.status }}"><img src="assets\img\{{ entry.techs.PB.status }}.png" width="15" height="15"/></td>
           {% else %}
-                    <td style="text-align: center;" data-order="{{ entry.techs.PB }}"><a href="{{ entry.links.PB }}" target="_blank"><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/></a></td>
+                    <td style="text-align: center;" data-order="{{ entry.techs.PB.status }}"><a href="{{ entry.techs.PB.url }}" target="_blank"><img src="assets\img\{{ entry.techs.PB.status }}.png" width="15" height="15"/></a></td>
            {% endif %}   
            
-           {% if entry.links.BN == "#" %}
-                   <td style="text-align: center;" data-order="{{ entry.techs.BN }}"><img src="assets\img\{{ entry.techs.BN }}.png" width="15" height="15"/></td>
+           {% if entry.techs.BN.url == "#" %}
+                   <td style="text-align: center;" data-order="{{ entry.techs.BN.status }}"><img src="assets\img\{{ entry.techs.BN.status }}.png" width="15" height="15"/></td>
           {% else %}
-                    <td style="text-align: center;" data-order="{{ entry.techs.BN }}"><a href="{{ entry.links.BN }}" target="_blank"><img src="assets\img\{{ entry.techs.BN }}.png" width="15" height="15"/></a></td>
+                   <td style="text-align: center;" data-order="{{ entry.techs.BN.status }}"><a href="{{ entry.techs.BN.url }}" target="_blank"><img src="assets\img\{{ entry.techs.BN.status }}.png" width="15" height="15"/></a></td>
            {% endif %} 
            
-           {% if entry.links.HiC == "#" %}
-                   <td style="text-align: center;" data-order="{{ entry.techs.HiC }}"><img src="assets\img\{{ entry.techs.HiC }}.png" width="15" height="15"/></td>
+           {% if entry.techs.HiC.url == "#" %}
+                   <td style="text-align: center;" data-order="{{ entry.techs.HiC.status }}"><img src="assets\img\{{ entry.techs.HiC.status }}.png" width="15" height="15"/></td>
           {% else %}
-                    <td style="text-align: center;" data-order="{{ entry.techs.HiC }}"><a href="{{ entry.links.HiC }}" target="_blank"><img src="assets\img\{{ entry.techs.HiC }}.png" width="15" height="15"/></a></td>
+                    <td style="text-align: center;" data-order="{{ entry.techs.HiC.status }}"><a href="{{ entry.techs.HiC.url }}" target="_blank"><img src="assets\img\{{ entry.techs.HiC.status }}.png" width="15" height="15"/></a></td>
            {% endif %} 
            
-             {% if entry.links.10X == "#" %}
-                   <td style="text-align: center;" data-order="{{ entry.techs.10X }}"><img src="assets\img\{{ entry.techs.10X }}.png" width="15" height="15"/></td>
+             {% if entry.techs.10X.url == "#" %}
+                   <td style="text-align: center;" data-order="{{ entry.techs.10X.status }}"><img src="assets\img\{{ entry.techs.10X.status }}.png" width="15" height="15"/></td>
           {% else %}
-                    <td style="text-align: center;" data-order="{{ entry.techs.10X }}"><a href="{{ entry.links.10X }}" target="_blank"><img src="assets\img\{{ entry.techs.10X }}.png" width="15" height="15"/></a></td>
+                    <td style="text-align: center;" data-order="{{ entry.techs.10X.status }}"><a href="{{ entry.techs.10X.url }}" target="_blank"><img src="assets\img\{{ entry.techs.10X.status }}.png" width="15" height="15"/></a></td>
            {% endif %} 
            
-            {% if entry.links.Ilm == "#" %}
-                   <td style="text-align: center;" data-order="{{ entry.techs.Ilm }}"><img src="assets\img\{{ entry.techs.Ilm }}.png" width="15" height="15"/></td>
+            {% if entry.techs.Ilm.url == "#" %}
+                   <td style="text-align: center;" data-order="{{ entry.techs.Ilm.status }}"><img src="assets\img\{{ entry.techs.Ilm.status }}.png" width="15" height="15"/></td>
           {% else %}
-                    <td style="text-align: center;" data-order="{{ entry.techs.Ilm }}"><a href="{{ entry.links.Ilm }}" target="_blank"><img src="assets\img\{{ entry.techs.Ilm }}.png" width="15" height="15"/></a></td>
+                    <td style="text-align: center;" data-order="{{ entry.techs.Ilm.status }}"><a href="{{ entry.techs.Ilm.url }}" target="_blank"><img src="assets\img\{{ entry.techs.Ilm.status }}.png" width="15" height="15"/></a></td>
            {% endif %}
            
-           {% if entry.links.asm == "#" %}
-                  <td style="text-align: center;" data-order="{{ entry.techs.asm }}"><img src="assets\img\{{ entry.asm }}.png" height="15"/></td>
+           {% if entry.asm == "#" %}
+                   <td style="text-align: center;" data-order="{{ entry.status }}"><img src="assets\img\{{ entry.status }}.png" width="15" height="15"/></td>
           {% else %}
-                   <td style="text-align: center;" data-order="{{ entry.techs.asm }}" ><a href="{{ entry.links.asm }}" target="_blank"><img src="assets\img\{{ entry.asm }}.png" height="15"/></a></td>
+                    <td style="text-align: center;" data-order="{{ entry.status }}"><a href="{{ entry.asm }}" target="_blank"><img src="assets\img\{{ entry.status }}.png" width="15" height="15"/></a></td>
            {% endif %}
-          <td>{{ entry.VGPphase }}</td/> 
+          <td>{{ entry.vgp_phase }}</td/> 
          </tr>
     {% endfor %}
     </tbody>
