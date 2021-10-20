@@ -34,11 +34,11 @@
               <th data-visible="false" data-switchable="false">Class</th>
               <th data-visible="false"data-sortable="true">Order</th>
              <th data-visible="false" data-sortable="true">Family</th>
-            <th data-width="20" data-halign="center" data-sortable="true">PB</th>
-            <th data-width="20" data-halign="center" data-sortable="true">BN</th>
-            <th data-width="20" data-halign="center" data-sortable="true">HiC</th>
-            <th data-width="20" data-halign="center" data-sortable="true">10X</th>
-            <th data-width="20" data-halign="center" data-sortable="true">Ilm</th>
+            <th data-width="15" data-halign="center" data-sortable="false">PB</th>
+            <th data-width="15" data-halign="center" data-sortable="false">BN</th>
+            <th data-width="15" data-halign="center" data-sortable="false">HiC</th>
+            <th data-width="15" data-halign="center" data-sortable="false">10X</th>
+            <th data-width="15" data-halign="center" data-sortable="false">Ilm</th>
             <th data-width="90" data-halign="left" data-sortable="true" data-field="status">Status</th>
              <th data-visible="false" data-switchable="false" data-field="phase">Phase</th>
          </tr>
@@ -85,9 +85,9 @@
            {% endif %}
            
            {% if entry.asm == "#" %}
-                   <td style="text-align: center;" data-order="{{ entry.status }}"><img src="assets\img\{{ entry.status }}.png" width="80"/></td>
+                   <td style="text-align: center;" data-order="{{ entry.status }}"><img src="assets\img\{{ entry.status }}.png" width="90"/></td>
           {% else %}
-                    <td style="text-align: center;" data-order="{{ entry.status }}"><a href="{{ entry.asm }}" target="_blank"><img src="assets\img\{{ entry.status }}.png" width="80"/></a></td>
+                    <td style="text-align: center;" data-order="{{ entry.status }}"><a href="{{ entry.asm }}" target="_blank"><img src="assets\img\{{ entry.status }}.png" width="90"/></a></td>
            {% endif %}
           <td>{{ entry.vgp_phase }}</td/> 
          </tr>
