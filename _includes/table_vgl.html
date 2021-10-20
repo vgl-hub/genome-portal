@@ -24,7 +24,7 @@
     <option value="phase4">VGP Phase 4</option>
   </select>
 </div>
-<table id="table" data-sort-name="status" data-sort-order="desc" class="table table-sm" data-toolbar=".toolbar" data-pagination="true" data-page-size="20" data-search="true" data-search-align="right" data-show-columns="true" data-sort-name="status" data-sort-order="asc">
+<table id="table" class="table table-sm" data-toolbar=".toolbar" data-pagination="true" data-page-size="20" data-search="true" data-search-align="right" data-show-columns="true" data-sort-name="status" data-sort-order="asc">
   <thead class="thead-light">
            <tr>
               <th data-visible="false" data-switchable="false" data-sortable="true" data-field="source">Source</th>
@@ -39,7 +39,7 @@
             <th data-width="20" data-halign="center" data-sortable="true">HiC</th>
             <th data-width="20" data-halign="center" data-sortable="true">10X</th>
             <th data-width="20" data-halign="center" data-sortable="true">Ilm</th>
-            <th data-width="100" data-halign="center" data-sortable="true" data-field="status">Status</th>
+            <th data-width="80" data-halign="left" data-sortable="true" data-field="status">Status</th>
              <th data-visible="false" data-switchable="false" data-field="phase">Phase</th>
          </tr>
   </thead>
@@ -85,9 +85,9 @@
            {% endif %}
            
            {% if entry.asm == "#" %}
-                   <td style="text-align: center;" data-order="{{ entry.status }}"><img src="assets\img\{{ entry.status }}.png" width="80"/></td>
+                   <td style="text-align: center;" data-order="{{ entry.status }}"><img src="assets\img\{{ entry.status }}.png" width="60"/></td>
           {% else %}
-                    <td style="text-align: center;" data-order="{{ entry.status }}"><a href="{{ entry.asm }}" target="_blank"><img src="assets\img\{{ entry.status }}.png" width="80"/></a></td>
+                    <td style="text-align: center;" data-order="{{ entry.status }}"><a href="{{ entry.asm }}" target="_blank"><img src="assets\img\{{ entry.status }}.png" width="60"/></a></td>
            {% endif %}
           <td>{{ entry.vgp_phase }}</td/> 
          </tr>
@@ -96,7 +96,7 @@
 
 </table>
 
-<i>Last updated: {{ site.data.project_stats_vgl.info }}</i></small>
+<i>Last updated: {{ site.data.table_tracker.info }}</i></small>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
