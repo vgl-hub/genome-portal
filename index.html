@@ -2,14 +2,6 @@
 layout: default
 title: Home
 ---
-<ul class="nav nav-tabs" id="myTab" role="tablist">
-  <li class="nav-item" role="presentation">
-    <a class="nav-link active" id="home-tab" data-bs-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Project status</a>
-  </li>
-</ul>
-<br>
-<div class="tab-content" id="myTabContent">
-  <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-  <div><br>{% include table_vgl.html file="project_stats_vgl.yml" caption="Project tracking" %}</div>
-  </div>
-</div>
+
+
+<div><br><br>{% include table_vgl.html file="table_tracker.yml" caption="Project tracking" %}</div>
