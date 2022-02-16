@@ -1,4 +1,4 @@
-info: Dec 17 2021 13:08:28
+info: Feb 16 2022 15:47:28
 toc:
 - asm: '#'
   class: Aves,birds
@@ -7979,6 +7979,36 @@ toc:
   vglId: fSalaFa1
   vgp_phase: phase1
 - asm: '#'
+  class: Aves,birds
+  common_name: white-breasted nuthatches
+  family: Sittidae
+  hub: vgl
+  order: Passeriformes
+  scientific_name: Sitta carolinensis
+  status: 2-data_progress
+  taxon_id: '50250'
+  techs:
+    10X:
+      status: 4
+      url: '#'
+    BN:
+      status: 0
+      url: '#'
+    HiC:
+      status: 2
+      url: '#'
+    Ilm:
+      status: 4
+      url: '#'
+    ONT:
+      status: 4
+      url: '#'
+    PB:
+      status: 0
+      url: '#'
+  vglId: bSitCar2
+  vgp_phase: phase2
+- asm: '#'
   class: Actinopterygii,Bony fishes
   common_name: rainbow smelt
   family: Osmeridae
@@ -8103,7 +8133,7 @@ toc:
   vgp_phase: phase4
 - asm: '#'
   class: Aves,birds
-  common_name: white-breasted nuthatch
+  common_name: white-breasted nuthatches
   family: Sittidae
   hub: vgl
   order: Passeriformes
@@ -8130,7 +8160,7 @@ toc:
       status: 0
       url: '#'
   vglId: bSitCar1
-  vgp_phase: phase2
+  vgp_phase: phase4
 - asm: https://genomeark.s3.amazonaws.com/index.html?prefix=species/Gypaetus_barbatus/bGypBar2/assembly_vgp_standard_2.0/
   class: Aves,birds
   common_name: lammergeier
